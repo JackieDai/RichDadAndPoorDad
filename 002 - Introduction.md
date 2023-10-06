@@ -17,6 +17,9 @@
 > v.对比，对照；显出明显的差异，形成对比
 >
 > 词根词缀： **contra- 反对,相反** + -**st-站立** → **对立**
+>
+> contrasting points of view
+> 截然不同的观点
 
 Having two dads offered me the choice of **contrasting** points of view: one of a rich man and one of a poor man.
 
@@ -123,6 +126,20 @@ The love of money is the root of all **evil**.
 > n.密谋策划，阴谋；秘密的恋情，秘密关系；神秘力量，神秘气氛
 >
 > 词根词缀： in-入,向内 + trig(trick)诡计,诀窍 + ue --> 引申词义激发，激起好奇心，同时，也用于指阴谋，密谋等。
+>
+> "Intrigue" 是一个动词，名词和形容词，其用法可以根据上下文而有所不同。以下是其主要用法：
+>
+> 1. **作为动词**：
+>    - **动作引起兴趣**：例如，"The mysterious letter intrigued me"（神秘的信件引起了我的兴趣）表示某事引发了你的好奇心或兴趣。
+>    - **密谋或策划**：例如，"They intrigued against the government"（他们密谋反对政府）表示某人或某些人在秘密策划或密谋某事。
+>
+> 2. **作为名词**：
+>    - **引发兴趣的事物**：例如，"The movie was full of intrigue"（这部电影充满了情节）表示某事物充满了引人入胜的情节或悬念。
+>
+> 3. **作为形容词**：
+>    - **描述引发兴趣或神秘的**：例如，"She had an intriguing smile"（她的微笑很吸引人）表示某事物有引人入胜或神秘的特点。
+>
+> 总之，"intrigue" 这个词通常用于描述引起好奇心、兴趣或神秘感的情境，可以用作动词、名词或形容词，具体用法取决于句子的上下文。
 
 The contrast in their points of view, particularly about money, was so extreme that I grew curious and **intrigued**.
 
