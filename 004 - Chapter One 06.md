@@ -127,3 +127,11 @@
 > vt.装填过度；给（软椅、沙发等）加厚软垫
 
 “I felt **claustrophobic** as I entered the narrow living room that was filled with old **musty** **overstuffed** furniture that today would be collectors’ items. ”
+
+---
+
+## run
+
+> 文章里  表示"经营"或"管理"
+
+The older man **runs** his warehouses
