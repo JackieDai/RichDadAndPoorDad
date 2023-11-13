@@ -11,6 +11,23 @@
 > ![](https://ydlunacommon-cdn.nosdn.127.net/fb28f95b77fe247f6866f1d5a7d79952.jpg?)
 >
 > 'Presidential bid' 总统竞选
+>
+> ---
+>
+> "Bid" 是一个多义词，具有不同的用法。以下是 "bid" 的几种常见用法：
+>
+> 1. **作为动词：**
+>    - **出价、喊价：** "He decided to bid $100 for the antique vase at the auction."（他决定在拍卖会上为这个古董花瓶出价100美元。）
+>    - **请求、命令：** "The general bid his troops to advance."（将军命令他的部队前进。）
+>
+> 2. **作为名词：**
+>    - **出价、投标：** "The highest bid for the painting was $10,000."（这幅画的最高出价是1万美元。）
+>    - **努力、企图：** "She made a bid for the lead role in the play."（她争取了话剧中的主演角色。）
+>
+> 3. **其他用法：**
+>    - **道别、告别：** "It was time to bid farewell to our friends as we moved to a new city."（随着我们搬到新城市，是时候告别我们的朋友了。）
+>
+> 总体而言，"bid" 的具体含义取决于上下文。作为动词，它可以表示出价、喊价，也可以表示请求或命令。作为名词，它通常表示出价、投标，也可以表示努力或企图。
 
 ## inequality
 
@@ -42,12 +59,28 @@
 > 用于处理危机的
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/d1851115e3ddaa8136bfbcb3b56c4e12.jpg?)
+>
+> ---
+>
+> "Crisis" 和 "emergency" 都是表示紧急、紧迫情况的词汇，但它们在使用时有一些细微的区别。
+>
+> 1. **Crisis（危机）:**
+>    - **定义：** 指一种严重且可能难以解决的危险或关键时刻。
+>    - **用法：** "The economic crisis led to widespread unemployment."（经济危机导致了普遍失业。）
+>
+> 2. **Emergency（紧急情况）:**
+>    - **定义：** 指突发事件或紧急情况，需要立即采取行动以应对。
+>    - **用法：** "Call 911 in case of a medical emergency."（在医疗紧急情况下拨打911。）
+>
+> 虽然这两个词通常可以互换使用，但它们在一些语境中可能表达的语义略有不同。"Crisis" 更侧重于描述一个困难、关键的时刻，强调问题的严重性和可能的深远影响。"Emergency" 更强调需要立即行动来处理的情况，强调紧急性和迅速采取措施的必要性。
+>
+> 总的来说，你可以根据具体的语境选择使用 "crisis" 或 "emergency"，它们都是描述紧急情况的常见词汇。
 
 “Wealth and income **inequality** is the biggest **moral** **crisis** facing Americans today.”
 
 ---
 
-## attorney
+## **attorney**
 
 > **/əˈtɜːrni/**
 >
@@ -122,6 +155,8 @@
 
 “Soon there will be such a **horrifying** gap between the rich and the poor that **chaos** will **break out** and another great **civilization** will **collapse**.”
 
+（不久之后，富与贫之间将会出现如此惊人的差距，以至于混乱将爆发，又一次伟大的文明将会崩溃。）
+
 ---
 
 ## harness
@@ -135,6 +170,24 @@
 > （马的）挽具，马具；系带，吊带；日常工作
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/e57ff0136193fc8ca03d2ba1db443451.jpg?)
+>
+> ---
+>
+> **"Harness," "control," 和 "manage"** 是三个表示掌握、控制或管理的动词，它们有一些共同点，但也存在一些细微的区别。
+>
+> 1. **Harness（利用、掌握）:**
+>    - **定义：** 意味着有效地利用或掌握资源、能源等，以达到某种目的。
+>    - **用法：** "We need to **harness** renewable energy sources to reduce our dependence on fossil fuels."（我们需要利用可再生能源来减少对化石燃料的依赖。）
+>
+> 2. **Control（控制）:**
+>    - **定义：** 意味着操纵、管理或限制某物或某情况，以达到特定的目标。
+>    - **用法：** "The pilot had to control the aircraft in strong winds."（飞行员必须在强风中控制飞机。）
+>
+> 3. **Manage（管理、处理）:**
+>    - **定义：** 意味着有效地处理或组织资源、事务等，以实现特定的目标。
+>    - **用法：** "She can manage a team of diverse individuals successfully."（她能成功地管理一个多元化的团队。）
+>
+> 在一些情况下，这些词可能有交叠的用法。例如，**一个经理可能会 harness（利用）团队成员的技能、control（控制）项目的进展，并且 manage（管理）整个项目**。然而，它们的侧重点可能不同，"harness" 更强调资源的有效利用，"control" 更强调操纵和限制，而 "manage" 更强调有效地处理和组织。
 
 “But schools focus only on teaching people to work for money, not how to **harness** money’s power.”
 

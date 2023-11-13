@@ -29,6 +29,8 @@
 >
 > n.
 > 可触知的东西
+>
+> 词根词缀： -tang-接触 + -ible形容词词尾,被动意义
 
 “What concerned him was the **rumor** that we would someday go off the gold standard and our dollars would no longer be backed by something **tangible**.”
 
@@ -125,6 +127,22 @@
 > （使）复原，（使）复苏；重新唤起，重新记起；重新使用，使复兴；重新上演
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/3e1be31e40a21a0b17056037e346c210.jpg?)
+>
+> ---
+>
+> "Renew" 和 "revive" 都是表示恢复或重新开始的动词，但它们在使用上有一些细微的区别。
+>
+> 1. **Renew（更新、续约）:**
+>    - **定义：** 表示重新开始或继续，通常涉及到给予新的生命、能量、期限等。
+>    - **用法：** "They decided to renew their commitment to the project."（他们决定继续致力于这个项目。）
+>    - **用于续约、更新合同、许可证等：** "I need to renew my passport before the trip."（在旅行前，我需要更新我的护照。）
+>
+> 2. **Revive（复兴、复苏）:**
+>    - **定义：** 表示使某事物恢复活力、生气，或使某事物再次活跃起来。
+>    - **用法：** "The rain revived the withered plants in the garden."（雨水使花园里枯萎的植物复苏了。）
+>    - **用于描述重振、使某物重新受欢迎：** "The new policies helped revive the company's fortunes."（新政策帮助重振了公司的财富。）
+>
+> 在总体上，"renew" 更强调给予新的生命、期限、活力，通常涉及到续约或更新。而 "revive" 更侧重于使某事物重新焕发活力、恢复生气，可能包括复苏、振兴等含义。
 
 “Remember our old business partnership? Well,Mike and I **revived** it”.
 
@@ -155,7 +173,22 @@
 
 > **/ˈpaɪlɪŋ/**
 >
-> n.地桩；打桩；桩材；打桩工程
+> "Piling" 是一个名词，指的是堆放或堆积的物品，通常是指垂直驱入地下以支撑建筑物或其他结构的桩。
+>
+> 以下是 "piling" 的一些常见用法：
+>
+> 1. **桩、支撑物：**
+>    - "The foundation of the bridge was supported by strong pilings."（桥的基础由坚固的桩支撑。）
+>
+> 2. **积累、堆放：**
+>    - "There was a piling of books in the corner of the room."（房间的角落堆放着一堆书。）
+>
+> 3. **动词 "pile" 的名词形式：**
+>    - "He saw a piling of leaves near the entrance."（他看到入口附近有一堆叶子。）
+>
+> 总体而言，"piling" 主要用于描述堆放或支撑结构的桩。这个词通常在建筑、工程、或堆积物品的语境中使用。
+>
+> 文中  是 指 **pile 的ing 形式**
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/29b89815faf2874cd1022533f85cd251.jpg?)
 
@@ -176,6 +209,20 @@
 > 讨价还价，谈判
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/6a97c845623cd41fc281d6d6cc9846dd.jpg?)
+>
+> ---
+>
+> "**Bargain**" 这个词可以用作名词和动词，具体的用法如下：
+>
+> 1. **作为名词：**
+>    - **交易、便宜货：** "I got a great bargain on this jacket during the sale."（在促销期间，我买到了这件夹克的便宜货。）
+>    - **协议、交易条件：** "The two parties reached a bargain after negotiations."（两方在谈判后达成了一项协议。）
+>
+> 2. **作为动词：**
+>    - **讨价还价、达成协议：** "They bargained with the vendor to get a lower price."（他们与卖方讨价还价，争取得到更低的价格。）
+>    - **讨价还价地得到、争取：** "She bargained for a better deal on the car."（她争取到了汽车的更好交易条件。）
+>
+> 总体来说，"bargain" 作为名词时通常指交易、协议或便宜货，作为动词时指讨价还价或谈判以达成协议。在购物或商业谈判的语境中经常会用到这个词。
 
 “It was a **bargain** for them since a comic cost 10 cents each,”
 
@@ -226,8 +273,23 @@
 >
 > v.
 > 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼
+>
+> 词根词缀： de-加强意义 + -dic-说,讲 + -ate动词词尾
 
-“We tried opening a branch office, but we could never quite find someone as trustworthy and **dedicated** as Mike’s sister.”
+“We tried opening a branch office, but we could never **quite** find someone as trustworthy and **dedicated** as Mike’s sister.”
+
+> "Quite" 和 "very" 都是用于强调程度的副词，但它们在用法上有一些区别。
+>
+> 1. **Quite:**
+>    - **修饰形容词或副词，表示相当、颇为：** "The movie was quite interesting."（这部电影相当有趣。）
+>    - **修饰动词，表示相当、非常：** "I quite enjoy hiking."（我相当喜欢徒步旅行。）
+>    - **在英国英语中，有时用于表示完全、完整：** "Are you quite finished with your work?"（你的工作完全完成了吗？）
+>
+> 2. **Very:**
+>    - **修饰形容词或副词，表示非常、极其：** "She is very talented."（她非常有才华。）
+>    - **修饰动词，表示非常：** "I very much appreciate your help."（我非常感激你的帮助。）
+>
+> 总体而言，"quite" 强调的程度通常比 "very" 低一些，而 "very" 则表示更高的程度。然而，具体的感觉和程度可能因上下文而异。在一些情况下，"quite" 和 "very" 可以互换使用，但在一些情境中，它们的语气和强调程度可能会有所不同。
 
 ---
 

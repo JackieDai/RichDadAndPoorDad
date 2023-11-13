@@ -2,7 +2,7 @@
 
 ## But all too often
 
-> "But all too often" 是一个短语，通常用来引出一个问题、情况或现象，表明某事经常发生，而且通常不是好事。这个短语的意思是 "但往往"、"但经常" 或 "但常常"。它通常用于强调某种负面情况的频繁发生或常见性。这个短语常出现在句子的开头，以引入后面的讨论或分析。
+> "But all too often" 是一个短语，通常用来引出一个问题、情况或现象，表明某事经常发生，而且通常不是好事。这个短语的意思是 **"但往往"、"但经常" 或 "但常常"**。它通常用于强调某种负面情况的频繁发生或常见性。这个短语常出现在句子的开头，以引入后面的讨论或分析。
 >
 > 例如：
 >
@@ -25,6 +25,19 @@
 > 使老于世故；使（设备、技术等）更复杂先进；<古>（老练地）讲话（或推理）（sophisticate 的过去式和过去分词形式）
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/061d15328d18d4d67a74dd018bb1fb4d.jpg?)
+>
+> "Sophisticate" 是一个**动词**，通常**表示使某人或某物变得更加复杂、精密或世故**。此外，"sophisticate" 有时也可以用作**名词**，**指的是一个有世故经验或世故风度的人**。
+>
+> 以下是 "sophisticate" 的一些用法：
+>
+> 1. **作为动词：**
+>    - **使变得复杂或精密：** "The chef knows how to sophisticate simple dishes with gourmet ingredients."（这位厨师知道如何用美食原料使简单的菜肴变得复杂。）
+>    - **使变得世故或老练：** "Living in the city will sophisticate her understanding of cultural diversity."（生活在城市中将使她对文化多样性有更为老练的理解。）
+>
+> 2. **作为名词：**
+>    - **世故、老练的人：** "She's a sophisticate who has traveled extensively and speaks multiple languages."（她是一个经过广泛旅行、会说多种语言的老练之人。）
+>
+> 总体而言，"sophisticate" 用于形容使某人或某物变得更为复杂、精密，或者指称一个经验丰富、老练的个体。这个词语常常带有一种正面的意味，表示对知识、技能或经验的提升。
 
 ## bean-counters
 
@@ -38,7 +51,7 @@
 >
 > 下个月新任CEO将接管公司。
 
-“But all too often business schools train employees to become **sophisticated** bean-counters. Heaven forbid a bean-counter **takes over** a business. ”
+“But all too often business schools train employees to become **sophisticated** bean-counters. Heaven forbid a **bean-counter** **takes over** a business. ”
 
 ---
 
@@ -76,7 +89,7 @@
 >
 > v.充电；使……承担责任；控告，指控（charge 的和过去式和过去分词形式）
 
-“When you again **resisted** your emotions when I tempted you with more money, you were again learning to think in **spite** of being emotionally charged.”
+“When you again **resisted** your emotions when I tempted you with more money, you were again learning to think in **spite** of being emotionally **charged**.”
 
 ---
 
@@ -100,6 +113,26 @@
 >修补，缝补；使出现斑块；临时连接，临时接入（通信系统）；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成
 >
 >![](https://ydlunacommon-cdn.nosdn.127.net/1e08e784faefa5b9250a00271cf4c747.jpg?)
+>
+>---
+>
+>"Patch" 是一个多义词，具有不同的用法。以下是一些常见的用法：
+>
+>1. **作为名词：**
+>   - **补丁、修补片：** "I sewed a patch onto my jeans to cover the hole."（我在牛仔裤上缝了一个补丁来遮掩裂缝。）
+>   - **地区、区域：** "There is a patch of forest behind the house."（房子后面有一片森林。）
+>
+>2. **作为动词：**
+>   - **修补、补丁：** "He patched the hole in the roof."（他修补了屋顶上的洞。）
+>   - **连接、拼凑：** "They managed to patch together a makeshift solution."（他们设法拼凑出了一个临时解决方案。）
+>
+>3. **计算机领域中的用法：**
+>   - **软件修补程序：** "Make sure to install the latest security patches on your computer."（确保在计算机上安装最新的安全补丁。）
+>
+>4. **颜色或斑块：**
+>   - **颜色斑块：** "The cat had a patch of white fur on its chest."（猫的胸前有一块白色的毛发。）
+>
+>总体而言，"patch" 的具体含义取决于上下文。它可以表示修补、连接、软件修复，也可以指代区域、颜色斑块等。在理解这个词语时，需要考虑具体的语境。
 
 “ I’ll take you boys into <u> the briar patch(荆棘之地)</u>, a place almost everyone else avoids.”
 
@@ -110,8 +143,18 @@
 > **/ˈræʃnəli/**
 >
 > adv.理性地；讲道理地
+>
+> 词根词缀： -rat-计算,思考 + -ion + -al
 
-“ Most people are too afraid to **rationally** think things through and instead run out the door to a job they hate. ”
+## think things through
+
+> **仔细考虑**：认真思考某件事情的各个方面，以便做出明智的决定。
+>
+> · Before making a decision, it's important to take the time to think things through.
+>
+> 在做出决定之前，认真思考各个方面是很重要的
+
+“ Most people are too afraid to **rationally** **think things through**(仔细考虑) and instead run out the door to a job they hate. ”
 
 ---
 

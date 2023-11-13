@@ -44,11 +44,29 @@
 >n.
 >**光亮，照明**；启迪，阐明；<英>彩灯，灯饰；（旧时书上通常用手工绘制的）彩饰，彩图
 >
+>词根词缀： il-向内 + -lumin-光,照 + -ation名词词尾
+>
 >意指启迪、明智、领悟，代表知识、洞察或真相的获得。在这句话中，它代表人们在生活中可能经历的理解、洞悉和智慧的状态。
 >
 >![](https://ydlunacommon-cdn.nosdn.127.net/cc7e7602a2d89991cd88a0d0f9cd3d95.jpg?)
 
 “a human’s life is a <u>struggle(此处指斗争的意思)</u> between ignorance and **illumination**.”
+
+> "Struggle" 是一个动词，也可以用作名词，常用来描述在面对困难、挑战或抵抗时所进行的努力、奋斗或斗争。
+>
+> 作为动词，"struggle" 意味着努力、挣扎、奋斗，通常是为了克服难题、困境或对抗某种不利情况。例如：
+>
+> - *The hiker struggled to climb the steep mountain.*（徒步者艰难地攀登陡峭的山。）
+>
+> - *She struggled with her illness but never gave up.*（她在疾病面前奋力抗争，但从未放弃。）
+>
+> 作为名词，"struggle" 指的是一场斗争、奋斗，常常涉及到对抗、克服或战胜某种难题。例如：
+>
+> - *Life is a constant struggle.*（生活是一个不断奋斗的过程。）
+>
+> - *The workers engaged in a struggle for better working conditions.*（工人们参与了争取更好工作条件的斗争。）
+>
+> 在你提到的句子中，“a human’s life is a struggle between ignorance and illumination”，可以理解为人类的生活是在无知和启迪之间的不断奋斗、挣扎，试图摆脱无知，追求启蒙和智慧。这种挣扎可能涉及到对知识、理解和认知的不断追求与努力。
 
 ---
 
@@ -119,6 +137,31 @@
 > 命令，规定
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/01e391eb70c57ab807075d71f4fcdff1.jpg?)
+>
+> ---
+>
+> dictate , order, command, 这三个词的用法和区别如下：
+>
+> 1. **Dictate（口述、命令）:**
+>    - **定义：** 以权威的方式口述或命令。
+>    - **例句：** "The boss dictated the terms of the contract to the secretary."
+>    - **翻译：** "老板口述合同条款给秘书。"
+>
+> 2. **Order（命令）:**
+>    - **定义：** 以权威的方式命令或下令。
+>    - **例句：** "The sergeant ordered the soldiers to stand at attention."
+>    - **翻译：** "中士命令士兵们立正。"
+>
+> 3. **Command（命令）:**
+>    - **定义：** 以权威的方式下达命令或指挥；对某事物行使控制或权威。
+>    - **例句：** "The general commanded his troops to attack at dawn."
+>    - **翻译：** "将军命令他的部队在黎明时攻击。"
+>
+> 总体而言，这些词汇都涉及指导或下令的概念，但它们在形式、正式程度和语境上存在差异。在这些例句中，你可以看到：
+>
+> - "Dictate" 强调口述或命令的形式和权威性。
+> - "Order" 可以用于一般情境中的命令，更为灵活。
+> - "Command" 常用于军事或领导层面，强调权威和控制。
 
 “Never forget that fear and desire can lead you into life’s biggest trap if you’re not aware of them controlling your thinking. 
 
@@ -134,3 +177,25 @@ Thinking that a job makes you secure is lying(撒谎) to yourself.
 
 That’s cruel, and that’s the trap I want you to avoid. I’ve seen how money runs people’s lives. Don’t let that happen to you. Please don’t let money run your life.”
 
+---
+
+**EXTENSIION**
+
+> **term** 的用法
+>
+> "Term" 是一个多义词，其用法取决于上下文。以下是 "term" 的几种常见用法：
+>
+> 1. **作为名词：**
+>    - **学期、术语：** "I have two exams at the end of this term."（我在本学期末有两门考试。）
+>    - **条件、条款：** "They agreed to the terms of the contract."（他们同意了合同的条件。）
+>
+> 2. **作为动词：**
+>    - **把...称为、把...命名为：** "We term this phenomenon 'global warming.'"（我们把这个现象称为 '全球变暖'。）
+>
+> 3. **短语用法：**
+>    - **in terms of（从...角度来看、根据...来说）：** "Let's discuss this problem in terms of its impact on the budget."（让我们从其对预算的影响角度来讨论这个问题。）
+>
+> 4. **数学和逻辑中的用法：**
+>    - **术语：** "In mathematical terms, the equation is quite simple."（从数学的角度来看，这个方程非常简单。）
+>
+> 总的来说，"term" 可以用作名词表示时间段、术语、条件等，也可以用作动词表示命名或称呼。根据具体上下文，它可能有不同的含义。

@@ -81,7 +81,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/02414100e2ac4a7efa64d152a6339d13.jpg?)
 
-“ He was fed up and emotional by the time he got to complain to Mike’s dad, accusing him of being greedy(贪婪的) and not showing him respect.”
+“ He was <u>fed up(不爽)</u> and emotional by the time he got to complain to Mike’s dad, accusing him of being greedy(贪婪的) and not showing him respect.”
 
 ---
 
@@ -127,6 +127,14 @@
 >
 > v.
 > （使）凝固，变硬；（使）变可靠，（使）变稳固
+>
+> ---
+>
+> time-solidfied
+>
+> 短语 "time-solidified" 可以理解为时间凝固、时间固定或时间凝聚。这是一个创造性的表达方式，可能用来描述某个概念、时刻或阶段因为某种原因而变得稳定、坚固、或持久。 "Solidified" 表示变得坚实或稳定，而 "time" 则指时间。
+>
+> 具体含义可能取决于上下文，例如在艺术、文学或哲学的语境中，这样的表达可能用于形容某个瞬间或时期的持久性或深远影响。
 
 “A final offer of $5 an hour—a princely sum at that time—solidified for Robert that he wouldn’t be bought.”
 
