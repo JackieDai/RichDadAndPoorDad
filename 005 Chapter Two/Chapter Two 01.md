@@ -68,7 +68,7 @@ Why Teach Financial **Literacy**?
 >
 > adj.灾难性的；极不成功的；大变动的
 
-“barring unforeseen cataclysmic changes”
+“**barring** **unforeseen** **cataclysmic** changes”
 
 ---
 
@@ -111,3 +111,4 @@ Why Teach Financial **Literacy**?
 
 > 使想起；提醒
 
+“Whenever I hear one of these questions, I’m **reminded of** the following story”

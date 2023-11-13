@@ -32,7 +32,7 @@
 >
 > adj.非现存的，失灵的，不再使用的；死的
 
-“The problem was that Mike’s dad worked long hours and often did not come home until late. ”
+“With new **vigor**, we began cleaning up the mess caused by our **now-defunct** first business.”
 
 ---
 

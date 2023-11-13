@@ -151,6 +151,20 @@ The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴
 >
 > "In his haste to catch the flight, he forgot his passport at home." （他匆忙之中，忘了把护照留在家里，以赶飞机。）
 
+**Haste 和 Hurry 的联系和区别?**
+
+> "Haste" 和 "hurry" 都涉及到快速行动，但它们之间有一些联系和区别。
+>
+> **联系**：
+> - "Haste" 和 "hurry" 都表示快速、迅速的行动，通常是由于时间的紧迫或急迫性而引起的。
+> - 它们都可以用来描述人们匆忙、急忙地做事情，通常伴随着紧迫感或迅速的行动。
+>
+> **区别**：
+> - "Haste" 更强调的是匆忙和急迫，但不一定涉及到实际的快速行动。它可以指的是决策、计划、安排等的匆忙，而不仅仅是实际的行动。例如，"I made a decision in haste"（我匆匆忙忙地做出了一个决定）。
+> - "Hurry" 则更侧重于实际的快速行动，通常涉及在有限的时间内迅速完成任务或移动。例如，"I need to hurry to catch my flight"（我需要匆匆忙忙以赶上我的航班）。
+>
+> 总之，"haste" 和 "hurry" 都涉及到快速行动，但 "haste" 可以包括决策、计划等的匆忙，而 "hurry" 更侧重于实际的行动。根据上下文，你可以选择使用其中一个词以更准确地描述情况。
+
 ---
 
 ## molten

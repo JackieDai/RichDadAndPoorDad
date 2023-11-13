@@ -17,6 +17,41 @@
 >n.天赋，爱好；信仰；翦股颖；草茎，草梗；<英>莎草；<英，古>石南丛生的荒野，荒草牧场
 >
 >v.弯腰；使弯曲；屈从（bend 的过去式和过去分词形式）
+>
+>---
+>
+>"Bend" 是一个英语动词，有多种用法，以下是一些常见的用法：
+>
+>1. **弯曲**： "Bend" 可以表示弯曲或弯折，通常指物体从直线或原始形状弯曲成弯曲或曲线形状。
+>   - He tried to "bend" the metal rod into a horseshoe shape.
+>     （他试图将金属棒弯成马蹄铁形状。）
+>   
+>2. **弯腰**： "Bend" 也可以表示身体或身体的一部分向前弯曲，通常指弯腰。
+>
+>   - She had to "bend" down to pick up the fallen book.
+>     （她不得不弯下腰捡起掉落的书。）
+>
+>3. **转向**： "Bend" 可以用于描述行进中的车辆、道路或河流的弯曲或弯曲部分。
+>
+>   - The road "bends" to the left just ahead.
+>     （前面的道路向左弯曲。）
+>
+>4. **改变方向**： "Bend" 也可以表示改变方向或目标。
+>
+>   - We need to "bend" our efforts toward achieving our sales targets.
+>     （我们需要把努力方向转向实现销售目标。）
+>
+>5. **屈服**： "Bend" 还可以用作一个不正式的表达，表示屈服或让步。
+>
+>   - He refused to "bend" to the pressure and stuck to his principles.
+>     （他拒绝屈从于压力，坚守自己的原则。）
+>
+>6. **使弯曲**： "Bend" 也可以用作及物动词，表示使某物弯曲。
+>
+>   - She "bent" the wire into a circle.
+>     （她将铁丝弯成一个圆圈。）
+>
+>"Bend" 是一个多义词，其确切含义取决于上下文。它经常用于日常生活和描述物体的形状、运动以及一系列与方向和弯曲相关的动作。
 
 ---
 
@@ -51,6 +86,53 @@
 > **/ˈtrɑːdn/**
 >
 > v.踩，踏；行走；沿着……走；用脚踩碎（**tread** 的过去分词）
+>
+> ---
+>
+> "Tread" 是一个英语动词，名词和名词短语，具有多种用法，以下是一些常见的用法：
+>
+> **作为动词**：
+>
+> 1. **踩**： "Tread" 最常见的用法是指脚或鞋底接触地面的动作。
+>
+>    - Be careful not to "tread" on the flowers in the garden.
+>      （小心别踩在花园里的花朵上。）
+>
+> 2. **走**： "Tread" 还可以表示行走，通常指小心翼翼地走，以避免制造噪音或引起注意。
+>
+>    - She "treaded" softly down the creaky stairs so as not to wake anyone.
+>      （她小心翼翼地下了发出吱吱声的楼梯，以免吵醒任何人。）
+>
+> 3. **步行**： "Tread" 也可以表示步行或行走的方式或步伐。
+>
+>    - His "tread" was slow and deliberate as he walked to the front of the room.
+>      （当他走到房间前面时，他的步伐缓慢而有目的。）
+>
+> **作为名词**：
+>
+> 1. **踩的痕迹**： "Tread" 作为名词指的是脚或轮胎等接触地面留下的痕迹。
+>
+>    - The "tread" on the tires of the car was almost worn out.
+>      （汽车轮胎上的胎纹几乎磨损殆尽。）
+>
+> 2. **鞋底**： "Tread" 也可以指鞋底的图案或纹理，用来提供牢固的地面附着力。
+>
+>    - The hiking boots have a rugged "tread" for better grip on rocky terrain.
+>      （徒步靴子上的粗糙鞋底图案可在崎岖地形上提供更好的附着力。）
+>
+> **短语和表达**：
+>
+> 1. **tread on someone's toes**：意为冒犯或触怒某人，通常是因为不尊重其权威或感情。
+>
+>    - You should be careful not to "tread on his toes" by questioning his decisions in front of the team.
+>      （在团队面前质疑他的决定可能会让他感到冒犯。）
+>
+> 2. **tread water**：意为在水中维持浮力，也可引申为维持现状或不断努力以不落后。
+>
+>    - She had to "tread water" for hours while waiting for rescue.
+>      （她在等待救援时不得不保持浮在水中几个小时。）
+>
+> "Tread" 是一个通用的词汇，用于描述脚步、行走、鞋底、痕迹等与步行和接触地面相关的动作和事物。其确切含义取决于上下文。
 
 ---
 
