@@ -26,7 +26,7 @@
 >
 > "**Cringe**" 是一个动词，用来描述因为尴尬、不舒服、恶心或不悦而产生的身体或情感上的不自在感。以下是一些常见的用法：
 >
-> 1. *She cringed at the thought of having to speak in public.*（她一想到要在公开场合讲话就感到很尴尬。）
+> 1. *She cringed at the thought of(一想到；提及到；在……的想象中) having to speak in public.*（她一想到要在公开场合讲话就感到很尴尬。）
 > 2. *His embarrassing comment made everyone cringe.*（他令人尴尬的评论让大家感到不适。）
 > 3. *I cringed when I saw the awkward dance moves.*（看到那尴尬的舞步，我感到很不自在。）
 >
@@ -82,7 +82,7 @@
 >
 > ---
 >
-> "**Tragic**" 是一个形容词，用来描述与悲剧、悲伤、不幸或灾难有关的事物。以下是一些常见的用法：
+> "**Tragic**" 是一个形容词，用来**描述与悲剧、悲伤、不幸或灾难有关的事物**。以下是一些常见的用法：
 >
 > 1. *The sudden death of the young athlete was a tragic event.*（年轻运动员的突然死亡是一个悲剧性事件。）
 > 2. *The novel tells the tragic story of star-crossed lovers.*（这部小说讲述了两位命运不幸的恋人的悲剧故事。）
@@ -147,7 +147,7 @@
 >
 > ---
 >
-> "**Accentuate**" 和 "**highlight**" 都是表示强调或突出的动词，但它们在用法上略有不同。
+> "**accentuate**" 和 "**highlight**" 都是表示强调或突出的动词，但它们在用法上略有不同。
 >
 > - **Accentuate:**
 >   - "Accentuate" 意味着通过增强或强调某事物来使其更为显著或突出。
