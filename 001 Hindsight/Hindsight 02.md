@@ -118,5 +118,3 @@ For many people, calling savers “losers” is like taking god’s name in **va
 The chart shows there are have been three massive **stock market crashes** in the first 10 years of this new century.
 
 ---
-
-## 

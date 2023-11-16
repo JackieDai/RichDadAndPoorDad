@@ -64,7 +64,7 @@
 >
 > ---
 >
-> **Misguided** 是一个形容词，用来描述某人的信仰、观念、行为或决策等是错误或不明智的。这个词通常带有负面的意义，暗示了对某事物的误导或误解。以下是一些例句，展示了 "misguided" 这个词的用法：
+> **Misguided** 是一个形容词，用来描述某人的信仰、观念、行为或决策等是**错误或不明智的**。这个词通常带有负面的意义，暗示了对某事物的误导或误解。以下是一些例句，展示了 "misguided" 这个词的用法：
 >
 > 1. *The company's misguided policies led to a decline(下降) in customer satisfaction.*（公司错误的政策导致客户满意度下降。）
 >
@@ -214,7 +214,7 @@
 >
 > ### 作为俚语：
 >
-> 1. **糟糕、不顺利：**
+> 1. **糟糕、不顺利、搞砸了：**
 >    - *My day has been totally screwed up.*
 >      （我的一天完全糟糕了。）
 >
@@ -224,7 +224,7 @@
 >
 > 请注意，“screw” 这个词有时可能在一些上下文中具有不雅或粗俗的含义，因此在正式场合或文学作品中，可能需要谨慎使用。
 
-“ How could something so simple be so **screwed up**”
+“ How could something so simple be so **screwed up**”[这么简单的事情怎么就搞砸了]
 
 ---
 

@@ -46,7 +46,7 @@
 >
 > n.混合物，化合物；复合词；大院，有围墙的场地
 >
-> adj.复合的，混合的；以复利计算的
+> adj.复合的，混合的；以复利计算的，复杂性质的
 >
 > v.使加重，使恶化；合成，混合；以复利计算支付；和解，私了
 >
@@ -55,8 +55,8 @@
 > "**Compound**" 是一个多义词，可以用作名词、形容词或动词，具体的用法取决于上下文。以下是一些常见的用法：
 >
 > 1. **名词用法：**
->    - *They live in a compound surrounded by a high wall.*（他们住在一个被高墙围绕的合院里。）
->    - *A compound is a substance formed by the chemical combination of two or more elements.*（化合物是由两种或两种以上元素的化学结合形成的物质。）
+>    - *They live in a compound(合院) surrounded by a high wall.*（他们住在一个被高墙围绕的合院里。）
+>    - *A compound(化合物) is a substance formed by the chemical combination of two or more elements.*（化合物是由两种或两种以上元素的化学结合形成的物质。）
 >
 > 2. **形容词用法：**
 >    - *She suffered a compound fracture in her leg.*（她的腿骨复杂性骨折。）
@@ -69,6 +69,8 @@
 > 在不同的上下文中，"compound" 可以**表示复合物、化合物，也可以表示合院、复合的**，或者**作为动词表示使变得更加复杂或恶化。**
 
 “But more money will often not solve the problem. In fact, it may **compound** the problem.”
+
+> 这里compound 作为动词使用，表示更加复杂，加重，恶化的意思
 
 ---
 
@@ -115,7 +117,7 @@
 > 3. **动词用法：**
 >    - *The documentary spotlighted the environmental challenges facing the region.*（这部纪录片突出显示了该地区面临的环境挑战。）
 >
-> 在这些用法中，"spotlight" 可以表示实体的聚光灯，也可以用来比喻引起关注、突出显示或强调的状态。
+> 在这些用法中**，"spotlight" 可以表示实体的聚光灯，也可以用来比喻引起关注、突出显示或强调的状态**。
 
 “Money often makes obvious our **tragic** human flaws, putting a **spotlight** on what we don’t know.”
 

@@ -8,7 +8,7 @@
 >
 > 词根词缀： -apt-适合,适应 + -i- + -tude名词词尾,性质/状态
 >
-> "Aptitude" 常用于描述与个体天生的、天赋的、或适应某种活动的能力，通常指向某种积极的、有益的潜在素质。
+> "Aptitude" 常用于描述与个体天生的、天赋的、或适应某种活动的能力，通常**指向某种积极的、有益的潜在素质**。
 >
 > ---
 >
@@ -19,7 +19,7 @@
 >      （她有迅速学习语言的天赋。）
 >
 > 2. **潜在的能力：**
->    - *The training program is designed to assess the aptitudes of candidates for specific roles.*
+>    - *The training program is designed to assess(评估) the aptitudes of candidates for specific roles.*
 >      （培训计划旨在评估候选人在特定职位上的潜在能力。）
 >
 > 3. **适应某种活动或工作的能力：**
@@ -213,7 +213,7 @@ finanical aptitude  [财务能力]
 >
 > 政府需要调整税收档位以防止税负膨胀。
 >
-> "Bracket creep" 是一个经济和财政方面的术语，指的是个人因为通货膨胀或薪资水平上涨而逐渐进入更高的税收档次，导致纳税额增加的现象。
+> **"Bracket creep" 是一个经济和财政方面的术语，**指的是个人因为通货膨胀或薪资水平上涨而逐渐进入更高的税收档次，导致纳税额增加的现象。
 >
 > ---
 >

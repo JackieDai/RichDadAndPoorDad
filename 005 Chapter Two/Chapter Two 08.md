@@ -43,9 +43,9 @@
 > **/plɑːt/**
 >
 > n.阴谋，密谋；情节；（专用的）小块地；（表现两个变量关系的）图表；<美>图表，地图；<美>底层平面图
-> 
->v.密谋，暗中策划；（在地图上）画出，标出；构思（情节）；绘制（曲线）；绘制（图表）；在图表上标记，布置；用图表说明；计划，制订
-> 
+>
+> v.密谋，暗中策划；（在地图上）画出，标出；构思（情节）；绘制（曲线）；绘制（图表）；在图表上标记，布置；用图表说明；计划，制订
+>
 > ![](https://ydlunacommon-cdn.nosdn.127.net/9b1da4ef91508726166417e222023473.jpg?)
 >
 > ---
@@ -55,17 +55,21 @@
 > 1. **故事情节：**
 >   - *The novel has a complex plot with many twists and turns.*（这部小说情节复杂，扭扭曲曲。）
 >    - *I couldn't predict the plot of the movie; it had a surprising ending.*（我无法预测电影的情节，它有一个令人惊讶的结局。）
-> 
+>
 > 2. **计划或阴谋：**
 >   - *The villain hatched a plot to take over the city.*（反派策划了一场夺取城市的阴谋。）
 >    - *They are plotting a surprise party for her birthday.*（他们正在策划一个给她过生日的惊喜派对。）
-> 
+>
 > 3. **图表或图示：**
 >   - *The scientist created a plot to show the relationship between variables.*（科学家制作了一个图表，展示变量之间的关系。）
-> 
+>
 > 4. **小块土地：**
 >   - *They bought a plot of land to build their dream house.*（他们买了一块土地，打算在上面建造他们的梦想之家。）
-> 
+>
+>   - > 一般来说，在描述小块土地或地块时，"plot" 更常见，而 "patch" 通常用于描述一小片区域或区域中的一块小区域。
+>     >
+>     > 但是，请注意，"plot" 和 "patch" 在其他领域有着不同的含义。例如，在计算机编程中，"plot" 可能与绘图有关，而 "patch" 可能用于描述代码中的一小段修补或修改。
+>
 > 这些是 "plot" 的一些常见用法。具体使用哪种意义取决于上下文。
 
 “In financial reporting, reading numbers is looking for the **plot**, the story of where the cash is flowing.” 在财务报告中，阅读数字就是寻找情节(细节的意思)，找出现金流向的故事。
