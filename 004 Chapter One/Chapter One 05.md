@@ -1,6 +1,6 @@
 [TOC]
 
-## seal
+## seal🚩
 
 > **/siːl/**
 >
@@ -86,7 +86,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 
 ---
 
-## spent
+## spent🚩
 
 > **/spent/**
 >
@@ -96,7 +96,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 >
 > 文中是 spent 是 形容词，表示 **用完的，用废的**
 
-## dust
+## dust🚩
 
 > **/dʌst/**
 >
@@ -114,7 +114,7 @@ Along with a fire and a box of **spent** toothpaste tubes, in front of him were 
 
 ## put down
 
-> 1、放下：把手中的东西放在地面或其他表面上。
+> **1、放下：把手中的东西放在地面或其他表面上。**
 >
 > 2、镇压：用武力或权威制止抗议、暴动等。
 >
@@ -124,7 +124,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 
 ---
 
-## counterfeiting
+## counterfeiting🚩
 
 > **/ˈkaʊntərfɪtɪŋ/**
 >
@@ -146,7 +146,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 
 ---
 
-## dash
+## dash🚩
 
 > **/dæʃ/**
 >
@@ -158,7 +158,7 @@ Our dreams were **dashed**.
 
 ---
 
-## quivering
+## quivering🚩
 
 > **/ˈkwɪvərɪŋ/**
 >

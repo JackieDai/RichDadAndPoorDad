@@ -10,9 +10,9 @@ My dad **put down** the evening paper.
 
 ---
 
-## incredulously
+## incredulously 🚩
 
-> **/ɪnˈkredʒələsli/**
+> **/ɪnˈkredʒələsli/**  
 >
 > adv.不相信地，怀疑地
 >
@@ -146,7 +146,7 @@ We were primarily sugar-plantation town in Hawali.
 >
 > 这个词通常用来形容财富、资源或者流动性的丰富程度。例如，当我们说一个地区是 "affluent" 时，意味着那个地区的居民通常拥有高收入和较高的生活水平。这个词在英语中通常用来描述富裕、富有的状态或个体。
 
-## elementary
+## elementary 🚩
 
 > **/ˌelɪˈmentri/**
 >
@@ -154,11 +154,21 @@ We were primarily sugar-plantation town in Hawali.
 >
 > ---
 >
+> **elementary school**
+>
+> 小学：通常包括幼儿园到小学四年级或八年级的学校。
+>
+> · My son just started attending elementary school this year.
+>
+> 我儿子今年刚开始上小学。
+>
+> ---
+>
 > element **/ˈelɪmənt/**
 >
 > n.基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒
 
-The managers of the plantation and the other affluent people, such as doctors, business owners, and bankers, sent their children to this public elementary school.
+The managers of the **plantation** and the other **affluent** people, such as doctors, business owners, and bankers, sent their children to this public **elementary** school.
 
 ---
 
@@ -198,8 +208,10 @@ intermediate school 初中：通常指7年级到9年级的学校。
 
 ---
 
-## tell
+## tell 🚩
 
+> 文中是指看出，察觉到  的意思
+>
 > v.
 > 告诉，告知；说，讲述；吐露，显示；**看出**，**确切地判断**；辨别，区别；命令，吩咐；告诉自己，暗自叮嘱；表明，说明；（不快的或令人疲倦的经历）产生效果，产生影响；泄密；数，计算；（通常指小孩）告状；警告，告诫；（某种因素）影响，起作用
 >

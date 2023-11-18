@@ -96,7 +96,7 @@ A few rejection **slips** offered comments like "You do not know what you are ta
 >
 > prophetic预言的==>来自prophet,预言家。
 
-## Prediction
+## prediction
 
 > **/prɪˈdɪkʃn/**
 >

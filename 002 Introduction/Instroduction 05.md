@@ -117,4 +117,3 @@ He was emphatic about being financially competent.
 
 ---
 
-## 

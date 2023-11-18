@@ -257,6 +257,26 @@
 
 ---
 
+## trustworthy
+
+> **/ˈtrʌstwɜːrði/**
+>
+> adj.值得信赖的，可信的
+>
+> ---
+>
+> 这个单词由两部分组成`trust` and `worthy`
+>
+> ---
+>
+> **worthy   /ˈwɜːrði/**
+>
+> adj.值得尊敬的，值得注意的，值得敬仰的；值得的，应得的，相配的；好（但乏味）的；有（某人或事物）的典型特征
+>
+> n.知名人士，要人（常为玩笑或贬义）
+>
+> "worthy" 常用于描述某人、某物或某行为在某种方面具有价值、优越性或值得肯定
+
 ## dedicated
 
 > **/ˈdedɪkeɪtɪd/**
@@ -276,7 +296,7 @@
 >
 > 词根词缀： de-加强意义 + -dic-说,讲 + -ate动词词尾
 
-“We tried opening a branch office, but we could never **quite** find someone as trustworthy and **dedicated** as Mike’s sister.”
+“We tried opening a branch office, but we could never **quite** find someone as **trustworthy** and **dedicated** as Mike’s sister.”
 
 > "Quite" 和 "very" 都是用于强调程度的副词，但它们在用法上有一些区别。
 >

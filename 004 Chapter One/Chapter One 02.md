@@ -83,7 +83,7 @@ with **puzzled** looks '带着困惑的表情'
 
 ---
 
-## consent
+## consent 🚩
 
 > **/kənˈsent/**
 >
@@ -95,7 +95,7 @@ most adults **consented** with a smile.
 
 ---
 
-## distressed
+## distressed 🚩
 
 > **/dɪˈstrest/**
 >
@@ -125,7 +125,7 @@ My mom grew **distressed** **as the weeks wore on.**
 
 ---
 
-## site
+## site 🚩
 
 > **/saɪt/**
 >
@@ -133,7 +133,7 @@ My mom grew **distressed** **as the weeks wore on.**
 >
 > v.使坐落在，为......选址
 
-## stockpile
+## stockpile 🚩
 
 > **/ˈstɑːkpaɪl/**
 >
@@ -142,6 +142,8 @@ My mom grew **distressed** **as the weeks wore on.**
 > vt.**贮存**；储蓄
 >
 > vi.积累；储备物资
+>
+> stock,储存，库存，pile,堆积，堆放。
 
 We had selected a site next to her washing machine as the place we would stockpile our raw materials.
 
@@ -159,7 +161,7 @@ We had selected a site next to her washing machine as the place we would stockpi
 
 > **/ˈkætsəp/** n. 番茄酱（等于 catchup）
 
-## pile
+## pile 🚩
 
 > **/paɪl/**
 >

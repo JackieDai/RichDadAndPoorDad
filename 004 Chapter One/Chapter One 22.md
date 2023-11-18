@@ -26,6 +26,19 @@
 > n.混乱，骚动
 >
 > v.扰乱，使不安
+>
+> ---
+>
+> "Turmoil" 通常用于形容一种动荡不安、混乱的状态，可以涉及各个方面，包括政治、社会、经济或个人生活。
+>
+> 1. **政治或社会动荡：**
+>    - *例：The country is in a state of turmoil after the recent elections.*（在最近的选举之后，这个国家陷入了动荡状态。）
+> 2. **情感或内心的混乱：**
+>    - *例：Her mind was in turmoil as she tried to make a difficult decision.*（她在试图做出一个困难的决定时，内心十分纷乱。）
+> 3. **经济混乱：**
+>    - *例：The financial market is in turmoil due to the sudden economic downturn.*（由于经济的突然下滑，金融市场陷入混乱。）
+> 4. **个人生活的混乱或困扰：**
+>    - *例：His personal life was in turmoil after the loss of his job.*（失业后，他的个人生活陷入了混乱。）
 
 ## gnawing
 

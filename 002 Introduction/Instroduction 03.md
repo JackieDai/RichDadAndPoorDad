@@ -26,7 +26,7 @@
 >
 > 截稿时，会议的结果仍然不确定。
 
-Fast forward 20 years… and the U.S. national debt is beyond staggering. At press time, it’s nearing $20 trillion. That’s trillion… with a T.
+Fast forward 20 years… and the U.S. national debt is beyond **staggering**. **At press time**, it’s nearing $20 trillion. That’s trillion… with a T.
 
 ---
 

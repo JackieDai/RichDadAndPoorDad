@@ -48,6 +48,16 @@ He **insisted** I ask, “How can I afford it?
 >
 > n.fanatic狂热入迷者；盲信者；盲信
 > fanaticism狂热，著迷；盲信
+>
+> ---
+>
+> **fanatical about + n/v-ing** 
+>
+> **对……狂热**：形容对某事物非常热爱或着迷，甚至有些过度。
+>
+> · He is fanatical about football and never misses a match.
+>
+> 他对足球非常狂热，从不错过任何一场比赛。
 
 ## exercising
 
@@ -146,4 +156,3 @@ The 2008 housing market crash was a clear message that your personal **residence
 
 ---
 
-## 

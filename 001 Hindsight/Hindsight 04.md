@@ -46,6 +46,13 @@ In 2007 there were an **estimated** $700 trillion in financial derivatives.
 
 ---
 
+## criticize
+
+> **/ˈkrɪtɪsaɪz/**
+>
+> v.
+> 批评，指责；评论
+
 ## disclose
 
 > **/dɪsˈkloʊz/**
@@ -55,7 +62,7 @@ In 2007 there were an **estimated** $700 trillion in financial derivatives.
 > 词根词源：
 > dis-, 不，非，使相反。close, 关闭。即打开，揭露。
 
-a few publishers criticized Rich Dad Poor Dad for disclosing how and why the rich pay less in taxes.
+a few publishers **criticized** Rich Dad Poor Dad for **disclosing** how and why the rich pay less in taxes.
 
 ---
 
@@ -92,4 +99,3 @@ One **stated** that that lesson was illegal
 
 ---
 
-## 

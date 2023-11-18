@@ -77,7 +77,7 @@ On a long table were small milk **cartons** from school, and our family’s **hi
 
 ---
 
-## at the base of
+## at the base of🚩
 
 > 在……的底部：指某物或某人所在的位置在另一物或人的底部或基础处。
 >
@@ -125,7 +125,7 @@ so once the paint was burned off, the tubes were dropped in the small steel pot
 
 ---
 
-## plaster
+## plaster🚩
 
 > **/ˈplæstər/**
 >
@@ -137,7 +137,7 @@ The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴
 
 ---
 
-## haste
+## haste🚩
 
 > **/heɪst/**
 >
@@ -198,7 +198,7 @@ My dad and his friend watched as we carefully poured the **molten** lead through
 
 ---
 
-## batch
+## batch🚩
 
 > **/bætʃ/**
 >

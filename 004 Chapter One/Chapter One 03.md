@@ -22,8 +22,20 @@
 > **/ˈmesi/**
 >
 > adj.脏的，凌乱的；使脏乱的，使不整洁的；棘手的，令人厌烦的；马虎的，不精确的
+>
+> ---
+>
+> mess **/mes/**
+>
+> n.
+> 肮脏，杂乱；不整洁或邋遢的人（或物）；掉落的东西，溅出的东西；（动物的）粪便；困境，混乱局面；处于困境的人；（军队的）食堂，交谊厅；<美，非正式> 大量；（尤指引不起食欲的）半干半稀的一份食物
+>
+> v.
+> 弄脏，弄乱；玩弄；随地便溺；在军人食堂就餐
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/a3102911005627fb62dd6c1646558929.jpg?)
 
-## crumpled
+## crumpled🚩
 
 > **/ˈkrʌmpld/**
 >
@@ -59,7 +71,7 @@ I'm going to throw it out,
 
 ---
 
-## pleaded
+## pleaded🚩
 
 > **/ˈpliːdɪd/**
 >
@@ -75,7 +87,7 @@ Mike and I **pleaded** and begged, explaining that we would soon have enough and
 
 ---
 
-## granted
+## granted🚩
 
 > /ˈɡræntɪd/
 >
@@ -129,7 +141,7 @@ The date to begin production was moved up
 >
 > v.威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险
 
-## eviction
+## eviction🚩
 
 > **/ɪˈvɪkʃn/**
 >
