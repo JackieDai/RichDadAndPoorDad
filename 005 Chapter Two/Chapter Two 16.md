@@ -32,7 +32,7 @@
 
 ## in lieu of
 
-> 代替，取代
+> 代替，取代,  而不是...
 >
 > · He offered to work on Saturday in lieu of taking a day off during the week.
 >
@@ -53,8 +53,12 @@
 > n.公文包，画夹；（成册展示的）作品集，照片集；**（个人或机构的）投资组合**；（部长或大臣的）职责，职务；（公司或机构提供的）系列产品，成套物品
 >
 > adj.（职业类型）短期合同制的，兼职的
+>
+> ---
+>
+> 词根词缀： -port-运输,携带 + folio树叶,纸张
 
-“Making a decision to own a house that is too expensive **in lieu of** starting an investment **portfolio** ”
+“Making a decision to own a house that is too expensive **in lieu of**(而不是) starting an investment **portfolio** ”
 
 ---
 
@@ -84,7 +88,7 @@
 
 ## cost
 
-> 这里文中是指 **损失**的意思
+> 这里文中是指 **损失 ** 的意思
 
 “This **costs** them investment experience.”
 
@@ -94,12 +98,10 @@
 
 > **/ˈdedɪkeɪtɪd/**
 >
-> adj.
-> 专心致志的，献身的；专用的，专门用途的
->
-> vt.
-> 致力于，献身于；（在书、音乐或作品的前部）题献词；为（大楼，纪念碑）揭幕（dedicate 的过去式和过去分词）
->
+> adj.	专心致志的，献身的；专用的，专门用途的
+> 
+>vt.	  致力于，献身于；（在书、音乐或作品的前部）题献词；为（大楼，纪念碑）揭幕（dedicate 的过去式和过去分词）
+> 
 > ---
 >
 > **dedicate to doing**
@@ -118,6 +120,20 @@
 
 ---
 
+## tend
+
+> **/tend/**
+>
+> v.倾向于，往往会；照顾，护理；走向，趋向；<美>招待，照料（商店、酒吧等的顾客）
+>
+> ---
+>
+> tend to do sth: 倾向于做某事：表示某人或某事有做某事的倾向或习惯。
+>
+> ---
+>
+> `**trend**   趋势`
+
 ## in proportion to 
 
 > 与……成比例，与……相称
@@ -129,8 +145,10 @@
 > n.部分，份额；比例；正确的比例，均衡；大小，程度（proportions）；（事情的）重要性，严重性；等比关系
 >
 > v.<正式> 使（某物）成比例，使相称；分摊
+>
+>  词根词缀： pro-前 + -port-部,比率 + -ion名词词尾
 
-“Their expenses tend to increase **in proportion to** their salary increase”
+“Their expenses **tend to** increase **in proportion to** their salary increase”
 
 ---
 

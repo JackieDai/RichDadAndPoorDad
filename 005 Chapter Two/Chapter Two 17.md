@@ -18,7 +18,7 @@
 
 > 在某个领域或方面取得进步或提升
 
-“ they may be **advance in** their jobs and receiving pay raises. ”
+They may be **advance in** their jobs and receiving pay raises.
 
 ---
 

@@ -56,11 +56,17 @@
 >
 > v.遵守，符合；顺从，随潮流；一致，相吻合
 >
+> con + form
+>
+> con-, 强调。-form, 形状。即形成同一形状的，相一致的。
+>
 > ---
 >
 > confirm **/kənˈfɜːrm/**
 >
 > v.确定，确认；证实，证明；批准，认可；使坚定，加强；给（某人）施坚信礼
+>
+> 词根词缀： con-加强意义 + -firm-巩固,确定
 
 “They **conform**, rather than question.”
 
@@ -71,6 +77,8 @@
 > **/daɪˈvɜːrsɪfaɪ/**
 >
 > v.（使）多样化，（使）不同；扩大经营范围，增加……的品种；（投资）多元化；null
+>
+> 词根词缀： di-分开 + -vers-转 + -ify动词词尾
 >
 > ---
 >
@@ -133,6 +141,30 @@
 > adj.被遗弃的；无家可归的；被逐出的
 >
 > out-,向外，cast,投掷，扔。引申词义被抛弃的人。
+>
+> ---
+>
+> "Ostracism" 和 "outcast" 都涉及到排斥和孤立的概念，但它们有一些微妙的区别。
+>
+> 1. **Ostracism (排挤，孤立)：**
+>    - *Example:* After the disagreement with his colleagues, he felt the cold winds of ostracism in the workplace.
+>    - *Translation:* 在与同事发生争执后，他感受到了职场上的排挤和孤立。
+>
+>    - *Example:* Ostracism can have a detrimental impact on an individual's mental health.
+>    - *Translation:* 排挤对个体的心理健康可能产生有害影响。
+>
+> "Ostracism" 强调一种社会性的排斥，通常是因为某种原因，群体或社会将个体隔离或排除在外。
+>
+> 2. **Outcast (被排斥的人，被遗弃的人)：**
+>    - *Example:* She felt like an outcast after moving to a new city where she didn't know anyone.
+>    - *Translation:* 在搬到一个她不认识任何人的新城市后，她感到自己像是个被排斥的人。
+>
+>    - *Example:* The homeless man was treated as an outcast by society.
+>    - *Translation:* 这个无家可归的人在社会中被当作一个被排斥的人对待。
+>
+> "Outcast" 指的是被排斥、被遗弃或被社会边缘化的个体。这种状态可能是由于各种原因，如社会地位、经济状况或其他特定情况。
+>
+> 总体而言，"ostracism" 更强调一种行为，即将某人排斥或孤立，而 "outcast" 更强调个体的状态，即被社会排斥或遗弃。
 
 “According to **psychiatrists**, the fear of public speaking is caused by the fear of **ostracism**, the fear of **standing out**, the fear of criticism, the fear of **ridicule**, and the fear of being an **outcast**.”
 

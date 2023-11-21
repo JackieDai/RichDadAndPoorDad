@@ -10,9 +10,19 @@
 
 ---
 
-## excell
+## excel
 
+> **/ɪkˈsel/**
+>
 > v.精通，擅长；超过，胜过
+>
+> ---
+>
+> excellent  **/ˈeksələnt/**
+>
+> adj.极好的，卓越的
+>
+> int.太好了
 
 “To the latter question, we often got the answer that money was not important, that if we **excelled** in our education, the money would follow. ”
 
@@ -32,15 +42,15 @@
 
 > **/ˈkɔːrpərət/**
 >
-> adj.公司的；法人的；共同的，全体的
+> adj.	公司的；法人的；共同的，全体的
 >
-> n.公司，集团
+> n.		公司，集团
 
 ## broker
 
 > **/ˈbroʊkər/**
 >
-> n.经纪人，中间人
+> n.经纪人，中间人, 中介
 >
 > v.协调，安排
 
@@ -52,7 +62,7 @@
 >
 > 我需要买一些杂货，比如面包、牛奶、鸡蛋等等。
 
-“I could **keep books,** I listened to tax accountants, **corporate** attorneys, bankers, real estate **brokers**, investors, **and so forth**.”
+“I could **keep books,** I listened to <u>tax accountants(税务会计师)</u>, <u>**corporate** attorneys(公司律师)</u>, bankers, real estate **brokers**, investors, **and so forth**.”
 
 ---
 
@@ -65,6 +75,11 @@
 > 词根词缀： per-贯穿,通过 + -cept-拿 + -ion名词词尾
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/8c0db95be303b3f8f95d1790cbdb2f2b.jpg?)
+>
+> ---
+>
+> - **"perception"** 强调个体对外部世界的感知和认知
+> - **"perspective"** 更强调对事物的看法或观点
 
 “The diagram above illustrates the difference in **perception** between my rich dad and my poor dad when it came to their homes. ”
 
@@ -79,6 +94,11 @@
 > n.助手；附件
 
 “I remember when I drew the following diagram for my dad, showing him the direction of cash flow. I also showed him the **ancillary** expenses that went along with owning the home.”
+
+"我记得当我给我爸爸画下面的图表时，向他展示了现金流的方向。我还向他展示了拥有房屋所带来的附加费用。"
+
+> -  **ancillary** expenses  **附属的花费，附加费用**
+> - go along with: 此处是指  **跟随，伴随**的意思
 
 ---
 
@@ -101,6 +121,15 @@
 > **/ɪnˈkɜːrɪŋ/**
 >
 > n.招致（遭受）
+>
+> ---
+>
+> incur **/ɪnˈkɜːr/**
+>
+> v.带来（成本、花费等）；招致，遭受
+>
+> - incur losses  蒙受损失
+> - Incur Debt 借债招致负债
 
 “ In other words, most people buy a new house every few years, each time **incurring** a new 30-year loan to pay off the previous one.”
 
@@ -112,7 +141,7 @@
 >
 > 惊呆了，震惊
 
-“My wife’s parents were **shocked** when the property taxes on their home increased to $1,000 a month. ”
+“My wife’s parents were **shocked** when <u>the property taxes(房产税)</u> on their home increased to $1,000 a month. ”
 
 ---
 

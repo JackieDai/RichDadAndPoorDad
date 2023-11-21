@@ -40,3 +40,83 @@
 “In 1974, Ray Kroc, the **founder** of McDonald’s, was asked to speak to the MBA class at the University of Texas at Austin.”
 
 ---
+
+## adjourn
+
+> **/əˈdʒɜːrn/**
+>
+> vi.	休会；延期；换地方
+>
+> vt.	推迟；使……中止；使……延期
+
+## hangout
+
+> **/ˈhæŋaʊt/**
+>
+> n.（非正式）常去的地方（社交或娱乐场所）
+
+## graciously
+
+> **/ˈɡreɪʃəsli/**
+>
+> adv. 和蔼地；仁慈地；雅致地； 落落大方
+
+“After a powerful and inspiring talk, <u>the class **adjourned**(下课了)</u>and the students asked Ray if he would join them at their favorite **hangout** to have a few beers. Ray **graciously** accepted.”
+
+在一场充满力量和启发的演讲之后，班级散会了，学生们询问 Ray 是否愿意和他们一起去他们最喜欢的聚会场所喝几杯啤酒。Ray 非常慷慨地答应了。
+
+---
+
+## chuckle
+
+> **/ˈtʃʌk(ə)l/**
+>
+> v.轻声笑，暗自笑
+>
+> n.轻笑，暗笑
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/c2a992a1ea8609bcee7e16156ce6e0b8.jpg?)
+
+“Ray **chuckled**. “That’s what I thought you would say.” He paused and then quickly added, “Ladies and gentlemen, I’m not in the hamburger business. My business is real estate.”
+
+---
+
+## franchise
+
+> **/ˈfræntʃaɪz/**
+>
+> n.特许经营权；获特许经营权的企业（商店）；公民权，选举权；<美，非正式>职业运动队；<美>（由运动联合会授予的）会员运动队拥有权；特许经营品牌（或创意）
+>
+> v.给予特许经销权；给予……公民权（或选举权）
+
+“ the primary business focus was to sell hamburger **franchises**”  “主要的业务重点是销售汉堡包连锁店。”
+
+---
+
+## spot
+
+>**/spɑːt/**
+>
+>1. **地点或位置：**
+>   - *What's your favorite vacation spot?*（你最喜欢的度假地点是哪里？）
+>   - *I found a nice picnic spot in the park.*（我在公园找到了一个不错的野餐地点。）
+>
+>2. **斑点或污点：**
+>   - *There's a spot on your shirt; you might want to wash it.*（你衬衫上有一个污点，你可能要洗一下。）
+>   - *The dog has a white spot on its tail.*（狗尾巴上有一个白斑。）
+>
+>3. **机会或时机：**
+>   - *This is the perfect spot to ask for a raise.*（这是请求加薪的绝佳时机。）
+>   - *I saw a spot for a part-time job at the community center.*（我在社区中心看到了一个兼职工作的机会。）
+>
+>4. **注意到或发现：**
+>   - *Did you spot the mistake in the document?*（你发现文件中的错误了吗？）
+>   - *I spotted her in the crowd.*（我在人群中发现了她。）
+>
+>5. **电视广告：**
+>   - *They aired a new spot for their upcoming product.*（他们播放了一则关于即将推出的产品的新电视广告。）
+>
+>6. **光斑或光点：**
+>   - *The sun created spots of light on the water.*（太阳在水面上形成了光斑。）
+>
+>这些只是 "spot" 的一些用法，具体用法会根据语境而有所变化。

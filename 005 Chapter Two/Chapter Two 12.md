@@ -16,7 +16,26 @@
 
 > **/kənˌsɑːləˈdeɪʃ(ə)n/**
 >
-> n.巩固；合并
+> n.巩固；合并； 整合
+>
+> "Consolidation" 是一个多义词，具体用法取决于上下文。以下是一些可能的用法和相应的例句：
+>
+> 1. **财务方面的整合：**
+>    - *Example:* The company announced the consolidation of its financial statements.
+>    - *Translation:* 公司宣布对其财务报表进行整合。
+>   
+> 2. **企业合并：**
+>    - *Example:* The consolidation of two major corporations led to the formation of a powerful industry player.
+>    - *Translation:* 两家大公司的合并导致了一个强大的行业参与者的形成。
+>   
+> 3. **政治整合：**
+>    - *Example:* The government aimed for the consolidation of power in order to implement its policy agenda effectively.
+>    - *Translation:* 政府旨在巩固权力，以便有效实施其政策议程。
+>   
+> 4. **信息整合：**
+>    - *Example:* The new software facilitates the consolidation of data from various sources into a centralized database.
+>    - *Translation:* 新软件有助于将来自不同来源的数据整合到一个集中的数据库中。
+>
 
 ## consumer debt
 
