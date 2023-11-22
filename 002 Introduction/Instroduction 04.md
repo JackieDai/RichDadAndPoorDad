@@ -38,7 +38,7 @@ He **insisted** I ask, “How can I afford it?
 
 ---
 
-## fanatical
+## fanatical🚩
 
 > **/fəˈnætɪkl/**
 >
@@ -53,6 +53,7 @@ He **insisted** I ask, “How can I afford it?
 > adj.fanatic狂热的；盲信的
 >
 > n.fanatic狂热入迷者；盲信者；盲信
+>
 > fanaticism狂热，著迷；盲信
 >
 > ---
@@ -64,6 +65,10 @@ He **insisted** I ask, “How can I afford it?
 > · He is fanatical about football and never misses a match.
 >
 > 他对足球非常狂热，从不错过任何一场比赛。
+>
+> ---
+>
+> "vehement"强调强烈的情感、表达或行为，而"fanatical"强调对某种信仰或目标的过度狂热，可能伴随着不理性或极端的行为。
 
 ## exercising
 
@@ -79,19 +84,17 @@ He **insisted** I ask, “How can I afford it?
 >
 > v.运动，锻炼；运用，行使；使担忧，使烦恼；驯，遛
 
-He was **fanatical** about **exercising** your mind, the most powerful computer in the world.
+He was **fanatical** **about** **exercising** your mind, the most powerful computer in the world.
 
 ---
 
 ## sign
 
-> ---
->
 > sign 标记，符号，招牌；征兆，迹象
 >-sign-标记 → sign
 > 
-> ---
->
+>---
+> 
 > sign手势，标记，符号，印章，图章，签字，签署
 
 ## mental

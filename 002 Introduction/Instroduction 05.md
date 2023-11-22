@@ -105,6 +105,8 @@ The other believed in total financial self-reliance.
 >
 > adj.强调的，坚决的；明显的；带重音的，重读的
 >
+> **emphatic about…**  强调了...
+>
 > TODO: @lingxiao 总结 所有 强调 意思 的 英语单词
 
 ## competent🚩

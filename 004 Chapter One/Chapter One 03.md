@@ -4,7 +4,7 @@
 
 > "Put her foot down" 是一个英语习语，意思是采取坚决的立场或行动，通常是为了制止或改变某种不受欢迎的情况。
 >
-> 当某人 "puts their foot down" 时，他们通常表现出强烈的决心，不再容忍某种行为或情况，并采取行动来改变或制止它。
+> 当某人 "puts their foot down" 时，他们通常表现出强烈的决心，**不再容忍某种行为或情况**，并采取行动来改变或制止它。
 >
 > 例如：
 > - "She put her foot down and told her children they couldn't stay out past midnight on school nights."
@@ -104,6 +104,22 @@ Mike and I **pleaded** and begged, explaining that we would soon have enough and
 > v.授予，给予；承认
 >
 > n.补助金，拨款；（政府给予的）土地；<正式>给予，授予；合法转让
+>
+> ---
+>
+> "Grant" 和 "give" 都是表示给予或转让的动词，但它们在用法上有一些细微的区别。
+>
+> 1. **Grant（授予，给予）**：
+>    - "Grant" 通常用于正式或有权威的上下文，表示授予某人某种权利、批准或许可。这个词强调授权、同意或许可的行为。
+>
+>    - 例如：The university granted him a scholarship.（大学授予了他一笔奖学金。）
+>
+> 2. **Give（给予，给出）**：
+>    - "Give" 是一个更通用的词，可以用于描述任何一方向另一方转移物品、权利、关注等的行为。它的使用范围更广泛，可以涵盖日常生活中的各种情境。
+>
+>    - 例如：She gave him a gift for his birthday.（她送给他一份生日礼物。）
+>
+> 总的来说，"grant"通常涉及到正式的、授权的行为，而 "give" 则更通用，可以用于形容各种日常生活中的给予行为。选择使用哪个词通常取决于语境和表达的具体含义。
 
 ## extension
 
@@ -146,6 +162,8 @@ The date to begin production was moved up
 > **/ɪˈvɪkʃn/**
 >
 > n.**逐出**；**赶出**；收回
+>
+> 词根词缀： e-向外 + -vict-征服,战胜
 
 My first partnership was already being **threatened** with an **eviction** notice by my own mom! 
 

@@ -144,7 +144,7 @@ My mom grew **distressed** **as the weeks wore on.**
 >
 > stock,储存，库存，pile,堆积，堆放。
 
-We had selected a site next to her washing machine as the place we would stockpile our raw materials.
+We had selected a **site**(场地) next to her washing machine as the place we would **stockpile**(储存) our raw materials.
 
 ---
 

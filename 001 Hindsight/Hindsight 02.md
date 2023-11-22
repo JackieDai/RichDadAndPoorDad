@@ -8,7 +8,7 @@
 >
 > n.差异，分歧；（两事物间的）界限；<美>分水岭，分水线
 >
-> 文中是 指 **差距** 的意思
+> 文中是 指 **差距, 差异** 的意思
 
 Today, people are more aware of the growing **divide** between the rich and everyone else.
 

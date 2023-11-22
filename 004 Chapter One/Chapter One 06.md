@@ -1,6 +1,6 @@
 [TOC]
 
-## scrunch
+## scrunch🚩
 
 > **/skrʌntʃ/**
 >
@@ -26,7 +26,7 @@
 >
 > n.[生物]活力，精力
 
-## defunct
+## defunct🚩
 
 > **/dɪˈfʌŋkt/**
 >
@@ -36,7 +36,7 @@
 
 ---
 
-## warehouse
+## warehouse🚩
 
 > **/ˈwerhaʊs/**
 >
@@ -54,7 +54,7 @@
 >
 >n.监督者，管理者；（英国大学里负责学生研究工作的）指导教师；<美>镇长，县长
 
-## pickup
+## pickup🚩
 
 > **/ˈpɪkʌp/**
 >
@@ -66,7 +66,7 @@
 
 ---
 
-## porch
+## porch🚩
 
 >**/pɔːrtʃ/**
 >
@@ -76,7 +76,7 @@
 
 ---
 
-## creak
+## creak🚩
 
 > **/kriːk/**
 >
@@ -86,7 +86,7 @@
 >
 > n.（Creak）（爱、英）克里克（人名）
 
-## threshold
+## threshold🚩
 
 > **/ˈθreʃhoʊld/**
 >
@@ -96,7 +96,7 @@
 
 ---
 
-## mat
+## mat🚩
 
 >**/mæt/**
 >
@@ -106,7 +106,7 @@
 
 ---
 
-## claustrophobic
+## claustrophobic🚩
 
 > **/ˌklɔːstrəˈfoʊbɪk/**
 >

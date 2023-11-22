@@ -55,7 +55,7 @@ He had a **Ph.D**(博士). and completed four years of **undergraduate** work in
 
 ---
 
-## substantial🚩
+## substantial
 
 > **/səbˈstænʃ(ə)l/**
 >
@@ -81,11 +81,13 @@ One died leaving tens of millions of dollars to his family, **charities**, and h
 
 > **/ˌkærɪzˈmætɪk/**
 >
+> 人格魅力
+>
 > adj.有超凡魅力的；（基督教派）蒙受神恩的，有特恩的；（力量）神赐的，（能力）神授的
 >
 > n.神授能力运动拥护者；自称得到神灵启示的人
 
-## influential
+## influential🚩
 
 > **/ˌɪnfluˈenʃ(ə)l/**
 >

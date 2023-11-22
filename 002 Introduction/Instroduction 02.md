@@ -30,13 +30,29 @@ Much of my private time was spent **reflecting**, asking myself questions such a
 
 ---
 
-## ultimately🚩
+## ultimately
 
 > **/ˈʌltɪmətli/**
 >
 > adv.最终，最后；根本上，最重要地
 >
 > 文中是指 **最后，最终**
+>
+> ---
+>
+> "Ultimately"（最终）和"finally"（最后）是两个用于表达结束或结果的词语，它们在某些情境下可以互换使用，但也存在一些微妙的区别。
+>
+> 1. **Ultimately（最终）**：
+>    - "Ultimately"强调的是一个过程或一系列事件的最终结果。它通常用于描述一个长期的、渐进的过程中的最后阶段或最终结果。这个词传达了一个逐渐达到的、经过一番思考或努力之后的最终结论。
+>
+>    - 例如：After years of research and development, they ultimately succeeded in creating a viable solution.（经过多年的研究与开发，他们最终成功地找到了一个可行的解决方案。）
+>
+> 2. **Finally（最后）**：
+>    - "Finally"则更强调时间上的结束，通常用于描述一系列事件或情节中的最后一个。它可能强调的是一个过程中的最后一步，或者一个连续的事件序列中的最后一个事件。
+>
+>    - 例如：After weeks of preparation, they finally launched the product.（经过数周的准备，他们终于推出了这个产品。）
+>
+> 总的来说，这两个词语有一定的重叠，但**"ultimately"更侧重于强调整个过程的最终结果**，而**"finally"更强调一个时间上的结束点**。在许多情境中，它们可以互换使用，但具体语境可能会影响最佳选择。
 
 Instead, having two dads whom I loved forced me to think and **ultimately** choose a way of thinking for myself. 
 

@@ -1,6 +1,6 @@
 [TOC]
 
-## luxury🚩
+## luxury
 
 > **/ˈlʌkʃəri/**
 >
@@ -42,7 +42,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 >
 > 对不起，我现在无法借给你任何钱，我身无分文。
 
-## setback🚩
+## setback
 
 > n.挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
 >
@@ -57,6 +57,22 @@ Even when he was **flat broke** after a major financial **setback**, he continue
 > **/ɪˈtɜːrn(ə)l/**
 >
 > adj.永恒的，永存的；似乎无休无止的，没完没了的
+>
+> ---
+>
+> "Eternal" 和 "forever" 都表示时间上的无限、永恒，但在用法上有一些微妙的区别。
+>
+> 1. **Eternal（永恒的，永远的）**：
+>    - "Eternal" 是一个形容词，用于描述永恒或永远的性质。它常常用于涉及时间或存在的概念，强调无限期或超越时间的存在。
+>
+>    - 例如：Love is often seen as an eternal bond between two people.（爱常常被视为两个人之间永恒的纽带。）
+>
+> 2. **Forever（永远，永恒）**：
+>    - "Forever" 通常作为一个副词，表示时间上的无限期或永久。它可以用来修饰动词，形容词或其他副词。
+>
+>    - 例如：They promised to love each other forever.（他们承诺永远彼此相爱。）
+>
+> 在某些情境中，"eternal" 和 "forever" 可以互换使用，但有时它们的用法可能略有不同。"Eternal" 更常用于描述抽象的、更深层次的永恒，而 "forever" 更常用于强调具体的时间跨度，如持续的爱情、友谊等。在语境中选择使用哪个词可能取决于表达者的语气和强调点。
 
 Poor is eternal.
 

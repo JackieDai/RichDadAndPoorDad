@@ -125,7 +125,7 @@ My dad **silently** **shook** his head, pushed his glasses up the bridge of his 
 > 	plant**种植，植物，工厂，电厂**
 > 	来自拉丁语planta,草木，植物，嫩枝，脚底板，来自	PIE*plat,展开，放平，来自PIE*pele,展开，放平，词源	同plan,place.引申动词词义种植，栽培，并由此引申	工厂，工厂设备，电厂等诸多词义。
 
-We were primarily sugar-plantation town in Hawali.
+We were **primarily** sugar-plantation town in Hawali.
 
 ---
 
@@ -194,7 +194,7 @@ The managers of the **plantation** and the other **affluent** people, such as do
 
 ---
 
-## intermediate
+## intermediate🚩
 
 > **/ˌɪntərˈmiːdiət/**
 >
