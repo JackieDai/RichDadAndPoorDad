@@ -18,7 +18,7 @@
 >
 > adj.推测的，猜测的，推断的；投机性的，风险性的；好奇的，揣摩的；倾向于推测的，爱思辨的
 >
-> speculate,推测，猜测，投机，-ive,形容词后缀。
+> speculate, 推测，猜测，投机，-ive,形容词后缀。
 >
 > ---
 >
@@ -31,6 +31,8 @@
 > 词根词缀： -specul-看 + -ate动词词尾
 
 “Soon the asset base will be so deep that you can **afford to** look at more **speculative** investments”
+
+> look at 看，观察！
 
 ---
 
@@ -49,8 +51,14 @@
 > adj.无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的
 >
 > n.（空间或数量的）无穷大（the infinite）；上帝（the infinite）
+>
+> ---
+>
+> 词根词缀
+>
+> in(否定词性) + fin(结束) + ..
 
-“ investments that may have returns of 100 percent to **infinity**; ”["可能有100%到无穷大回报的投资；"]
+“ investments that may have returns(n. 回报,收益) of 100 percent to **infinity**; ”["可能有100%到无穷大回报的投资；"]
 
 ---
 
@@ -103,6 +111,18 @@
 >    > “After taxes, your next largest expense is usually your mortgage and credit-card debt.”
 >    >
 
+---
+
+## fund
+
+> n.基金，专款；资金，钱款；基金会；储备量
+>
+> v.资助，**为……提供资金**
+>
+> 与-fund-(基础)同源 → 基础的 →首要的储备 → 钱
+>
+> 文中是指 ”为“购置资产"提供资金"。
+
 ## acquisition
 
 > **/ˌækwɪˈzɪʃ(ə)n/**
@@ -117,7 +137,7 @@
 >
 > v.获得，得到；学到，习得；患上（疾病）；逐渐具有，开始学会
 
-“Most people must keep their job and rely on their wages to fund their **acquisition** of assets.”[大多数人必须保持工作，依靠他们的工资来购买他们获取资产。]
+“Most people must keep their job and rely on their wages to **fund** their **acquisition** of assets.”[大多数人必须保持工作，依靠他们的工资来为他们添置的资产提供资金。]
 
 ---
 
@@ -159,7 +179,7 @@
 
 ## buzzing
 
-> 是 buzz 的 ing 形式， 句子中表示 引起 轰动。
+> 是 buzz 的 ing 形式， 句子中表示 **引起 轰动。**
 >
 > ---
 >
@@ -207,7 +227,7 @@
 >
 > ---
 >
-> geodesic **/ˌdʒiːoʊˈdesɪk; ˌdʒiːoʊˈdiːsɪk/**
+> **geodesic** **/ˌdʒiːoʊˈdesɪk; ˌdʒiːoʊˈdiːsɪk/**
 >
 > adj.测地线的；测量的（等于 geodetic）；[测]大地测量学的
 >
@@ -227,5 +247,13 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/7f27936d8925062bf1728719c592bf45.jpg?)
 
-“Years ago he got **architects** **buzzing** because he applied for a **patent** for something called a **geodesic dome**.” [“几年前，他申请了一项名为测地线圆顶的专利，引起了建筑师们的轰动。”]
+“Years ago <u>he got **architects** **buzzing**</u>*(他引起建筑师的轰动) because he applied for a **patent** for something called a **geodesic dome**.” 
+
+> **apply for**
+>
+> 申请，请求，应用
+>
+> · He decided to apply for a scholarship to study abroad.
+>
+> 他决定申请一项留学奖学金。
 

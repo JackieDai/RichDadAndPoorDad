@@ -34,7 +34,7 @@ The rich created **financially-engineered** products known as **derivatives**—
 
 ---
 
-## estimate
+## estimate🚩
 
 > **/ˈestɪmət; ˈestɪmeɪt/**
 >
@@ -50,8 +50,7 @@ In 2007 there were an **estimated** $700 trillion in financial derivatives.
 
 > **/ˈkrɪtɪsaɪz/**
 >
-> v.
-> 批评，指责；评论
+> v.批评，指责；评论
 
 ## disclose
 

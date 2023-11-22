@@ -59,7 +59,7 @@
 >
 > 前缀ac-同ad-. cure, 关心，照料。指用心使精确。
 
-“Unlike net worth—which is the <u>difference(差额)</u> between your assets and liabilities, and is often filled with a person’s <u>expensive junk[昂贵无价值的投资品]</u> and <u>opinions of what things are worth(对事物价值的看法)</u>—this definition creates the possibility for developing a truly accurate measurement.”
+“Unlike net worth—which is the <u>difference(差额)</u> between your assets and liabilities, and is often filled with a person’s <u>expensive junk[昂贵无价值的投资品]</u> and <u>opinions of what things are worth(对事物价值的看法)</u>—this definition creates the possibility for developing a truly **accurate** measurement.”
 
 ---
 
@@ -71,7 +71,7 @@
 >
 > 就薪水而言，这份工作并不是很有吸引力。
 
-“ I could now measure and know where I was (that) **in terms of** my goal to become financially independent.”
+“ I could now measure and know where I was (that) **in terms of** my goal (that is) to become financially independent.”
 
 “我现在可以衡量并知道我在实现经济独立的目标方面所处的位置。”
 
@@ -110,4 +110,7 @@ Although net worth often includes non-cash-producing assets, like stuff you boug
 > 词根词缀： ex-出 + -cess-行走
 
 “My next goal would be to have the **excess** cash flow from my assets reinvested into the asset column. ”[“我的下一个目标是将资产中多余的(超额的)现金流重新投资到资产项中。”]
+
+> 在这个句子中，"have" 的意思是让、使、让别人或其他事物执行某个动作。具体到这个句子，"have the excess cash flow reinvested" 表示让多余的现金流重新投资。
+>
 

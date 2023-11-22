@@ -34,13 +34,13 @@ The increses in income are going to **enterpreneurs** and inverstors, not to emp
 
 ---
 
-## vehemently
+## vehemently🚩
 
 > **/ˈviːəməntli/**
 >
 > adv.激烈地；暴烈地；竭尽全力地
 
-Twenty years ago, most publishers vehemently disagreed with this lesson form rich dad.
+Twenty years ago, most publishers **vehemently** disagreed with this lesson form rich dad.
 
 ---
 

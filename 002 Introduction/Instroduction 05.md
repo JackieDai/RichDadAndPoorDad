@@ -73,7 +73,7 @@ He was impressed with two of his uncles who joined the military and earned a ret
 
 ---
 
-## tenure
+## tenure🚩
 
 > **/ˈtenjər/**
 >
@@ -99,21 +99,31 @@ The other believed in total financial self-reliance.
 
 ---
 
-## emphatic
+## emphatic🚩
 
 > **/ɪmˈfætɪk/**
 >
 > adj.强调的，坚决的；明显的；带重音的，重读的
+>
+> TODO: @lingxiao 总结 所有 强调 意思 的 英语单词
 
-## competent
+## competent🚩
 
 > **/ˈkɑːmpɪtənt/**
 >
 > adj.能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
 >
 > financially competent 财务能力
+>
+> ---
+>
+> competition  **/ˌkɑːmpəˈtɪʃ(ə)n/**  
+>
+> n. 竞争；比赛，竞赛；竞争者，对手
+>
+> *competent 和 competition  关系不大*
 
-He was emphatic about being financially competent.
+He was **emphatic** about being financially **competent**. 他非常强调自己在财务方面的能力。
 
 ---
 

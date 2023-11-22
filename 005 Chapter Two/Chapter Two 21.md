@@ -2,9 +2,9 @@
 
 ## rack up
 
-> 击倒，获胜
+> 击倒,	获胜 ,	**累计** 
 >
-> **累计** `文中是 积累，累计的意思`
+> 文中是 **积累，累计**的意思
 >
 > ---
 >
@@ -33,6 +33,10 @@
 ## roll into
 
 > 纳入、整合。
+>
+> ---
+>
+> 理解: 卷入进去，滚到里面去 ===》 纳入 ==》 整合
 >
 > ---
 >
@@ -82,7 +86,7 @@
 >
 > v.粘，贴；把……放（某处）；刺，戳，插（stick 的过去式和过去分词形式）
 
-“The middle class **get stuck in** the Rat Race because they treat their home as an asset instead of investing in income-producing assets. ”
+“The middle class **get stuck in** the Rat Race because they treat their home as an asset <u>instead of(而不是)</u> investing in income-producing assets. ”
 
 ---
 
@@ -90,7 +94,7 @@
 
 > /ˌekspɜːrˈtiːz/
 >
-> n.专长，专门技能（知识）；专家的意见
+> n.专长，专门技能（知识）；专家的意见，专业知识
 >
 > ---
 >
@@ -168,7 +172,7 @@ Left-hemisphere moment  [左脑时刻]
 
 ## curriculum
 
-> /kəˈrɪkjələm/
+> /kəˈrɪkjuləm/
 >
 > n.课程
 

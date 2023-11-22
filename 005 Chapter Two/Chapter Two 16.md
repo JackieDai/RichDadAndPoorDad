@@ -57,6 +57,15 @@
 > ---
 >
 > 词根词缀： -port-运输,携带 + folio树叶,纸张
+>
+> ---
+>
+> "Portfolio" 一词的词源可以追溯到意大利语。它源自意大利语中的 "portafoglio"，由两个部分组成：
+>
+> 1. "porta" 意为 "携带" 或 "运载"。
+> 2. "foglio" 意为 "纸张"。
+>
+> 因此，"portafoglio" 最初指的是一种用于携带纸张、文件或文件夹的袋子或夹子。随着时间的推移，这个词的意义扩展到包括一个人拥有的全部财产、投资以及其他财务利益，因此在英语中被引入并使用为 "portfolio"，用于描述个人或机构的投资组合。
 
 “Making a decision to own a house that is too expensive **in lieu of**(而不是) starting an investment **portfolio** ”
 

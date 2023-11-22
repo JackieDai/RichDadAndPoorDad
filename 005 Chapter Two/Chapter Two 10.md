@@ -89,6 +89,12 @@ malpractice lawsuits; [医疗事故诉讼]
 
 ---
 
+## fame
+
+> n.名誉，名气
+>
+> v.使闻名，使有名望
+
 ## prestige
 
 > **/preˈstiːʒ/**

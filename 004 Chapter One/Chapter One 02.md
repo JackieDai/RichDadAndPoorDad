@@ -1,4 +1,3 @@
-> 一共 15 个
 [TOC]
 
 ## Someone had drawn...

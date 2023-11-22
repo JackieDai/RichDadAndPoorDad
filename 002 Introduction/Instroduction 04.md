@@ -14,15 +14,21 @@ He **insisted** I ask, “How can I afford it?
 
 ---
 
-## hook
+## off the hook🚩
 
+> [口语]摆脱困境；脱身
+>
+> ---
+>
+> **hook**
+>
 > n.钩，挂钩；勾拳；曲线球；吸引人的东西；使（投手）下场；（尤指用于收割、剪羊毛）弧形切割工具；弯曲的笔画；弧形岬（或沙嘴）
 >
 > v.钩住，挂住；（用手臂等身体部位）箍住；钓鱼；打曲线球；弯成钩状；吸引；<非正式>偷窃；<非正式>卖淫；把……连接到（某设备）
 >
 > ---
 >
-> **off the hook**  [口]摆脱困境；脱身
+> **off the hook**  
 >
 > on the hook 陷入圈套；拖延
 >
@@ -79,13 +85,11 @@ He was **fanatical** about **exercising** your mind, the most powerful computer 
 
 ## sign
 
-> 词源
->
 > ---
 >
 > sign 标记，符号，招牌；征兆，迹象
-> -sign-标记 → sign
->
+>-sign-标记 → sign
+> 
 > ---
 >
 > sign手势，标记，符号，印章，图章，签字，签署

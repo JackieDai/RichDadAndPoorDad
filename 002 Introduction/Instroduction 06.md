@@ -1,6 +1,6 @@
 [TOC]
 
-## luxury
+## luxury🚩
 
 > **/ˈlʌkʃəri/**
 >
@@ -42,7 +42,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 >
 > 对不起，我现在无法借给你任何钱，我身无分文。
 
-## setback
+## setback🚩
 
 > n.挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
 >
@@ -52,7 +52,7 @@ Even when he was **flat broke** after a major financial **setback**, he continue
 
 ---
 
-## eternal
+## eternal🚩
 
 > **/ɪˈtɜːrn(ə)l/**
 >
@@ -62,7 +62,7 @@ Poor is eternal.
 
 ---
 
-## acutely
+## acutely🚩
 
 > **/əˈkjuːtli/**
 >
@@ -77,12 +77,18 @@ Poor is eternal.
 > v.收养；采取，**采纳**，接受；正式通过；选定（名字），承袭（风俗）；移居，定居；提名（某人）为候选人；保持（姿势）；<英>（地方当局）承担（道路）维修保养责任
 >
 > 词根词缀： ad-加强意义 + -opt-选择
+>
+> ---
+>
+> adapt **/əˈdæpt/**
+>
+> v.适应；调整，使适合；改编；改造，改装
 
 As a young boy having two fathers, I became **acutely** aware of being careful about which thoughts I chose to **adopt** as my own.
 
 ---
 
-## tremendous
+## tremendous🚩
 
 > **/trəˈmendəs/**
 >

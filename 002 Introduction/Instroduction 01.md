@@ -55,7 +55,7 @@ He had a **Ph.D**(博士). and completed four years of **undergraduate** work in
 
 ---
 
-## substantial
+## substantial🚩
 
 > **/səbˈstænʃ(ə)l/**
 >
@@ -105,7 +105,7 @@ Both men were strong, **charismatic**, and **influential**.
 
 ---
 
-## evil
+## evil🚩
 
 > **/ˈiːv(ə)l/**
 >
@@ -116,6 +116,16 @@ Both men were strong, **charismatic**, and **influential**.
 The love of money is the root of all **evil**.
 
 ---
+
+## extreme🚩
+
+> **/ɪkˈstriːm/**
+>
+> adj.极大的，极度的；极端的，严重的；过分的，偏激的；尽头的，末端的；极限的，从事极限运动的
+>
+> n.（观点或行为方式的）极端；（事物的）极度；端顶，端词
+>
+> extra-, 外面的，超过的。-m, 最高级后缀
 
 ## intrigue
 

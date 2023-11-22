@@ -120,3 +120,7 @@
 >   - *The sun created spots of light on the water.*（太阳在水面上形成了光斑。）
 >
 >这些只是 "spot" 的一些用法，具体用法会根据语境而有所变化。
+
+“McDonald’s, 7-Eleven, and KFC retain their **spots**(场所) as the three largest franchised brands.”
+
+---

@@ -30,7 +30,7 @@
 >
 > n.（尤指为获得某物制定长期的）策略，行动计划；战略，战略学
 
-“The only way out that they can see is a get-rich strategy.”
+“The only way out that they can see is a get-rich **strategy**.”
 
 ---
 
@@ -48,8 +48,14 @@
 
 ---
 
-## worthy
+## worthy of
 
+> 值得，配得上
+>
+> 
+>
+> ---
+>
 > "worthy" 常用于描述某人、某物或某行为在某种方面具有价值、优越性或值得肯定。
 >
 > 但是在下面的句子中，worthy 表示 **相称的，匹配的**意思
@@ -118,11 +124,11 @@
 
 ---
 
-## add to the mix
+## add ... to the mix
 
-> 意思是“加入到混合物中”，通常用于描述将新因素引入已有的情境或组合中
+> 意思是“加入到混合物中”，通常用于**描述将新因素引入已有的情境或组合中**
 
-“Add a baby to the mix, and they work harder: higher incomes that lead to higher taxes.”
+“**Add** a baby **to the mix**, and they work harder: higher incomes that lead to higher taxes.”
 
 “加入一个孩子，他们会更加努力工作：更高的收入将导致更高的税款。”
 
