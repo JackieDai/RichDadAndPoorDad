@@ -172,7 +172,7 @@ Our dreams were **dashed**.
 >
 > v.颤抖，抖动；使颤抖，使抖动
 
-in a quivering voice.
+in a **quivering** voice.
 
 ---
 

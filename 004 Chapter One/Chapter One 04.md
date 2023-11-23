@@ -137,19 +137,21 @@ The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴
 
 ---
 
-## haste🚩
+## in sb haste🚩
 
-> **/heɪst/**
+> 意思是 "在某人匆忙之中"，表示某人在急于做某事的情况下，通常强调了匆忙的性质。
+>
+> "In his haste to catch the flight, he forgot his passport at home." （他匆忙之中，忘了把护照留在家里，以赶飞机。）
+>
+> ---
+>
+> haste **/heɪst/**
 >
 > n.仓促，急忙
 >
 > v.<古>赶紧，匆忙；<古>催促
 
-## in sb haste
-
-> 意思是 "在某人匆忙之中"，表示某人在急于做某事的情况下，通常强调了匆忙的性质。
->
-> "In his haste to catch the flight, he forgot his passport at home." （他匆忙之中，忘了把护照留在家里，以赶飞机。）
+“**In my haste**, I had knocked the bag over, and the entire area looked like it had been hit by a snowstorm. ”
 
 **Haste 和 Hurry 的联系和区别?**
 

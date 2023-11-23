@@ -30,9 +30,27 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 
 ---
 
+## prophecy
+
+> **/ˈprɑːfəsi/**
+>
+> n.预言；预言能力
+>
+> ---
+>
+> 词根词缀： pro-前 + -phe-说 + -cy名词词尾 → 提前说出来
+
+“For example, my poor dad always said, “I’ll never be rich.” And that **prophecy** became reality.”
+
+----
+
 ## refer to
 
 > 在 文中 指  **称呼** 的意思
+
+“My rich dad, on the other hand, always **referred to** himself as rich. ”
+
+---
 
 ## flat broke
 

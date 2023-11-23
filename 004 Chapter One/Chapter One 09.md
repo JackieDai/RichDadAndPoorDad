@@ -1,5 +1,9 @@
 [TOC]
 
+## make up your mind
+
+> 做决定
+
 ## decisively
 
 >**/dɪˈsaɪsɪvli/**
@@ -9,19 +13,31 @@
 >
 >​	来自 decide
 
-## make up your mind
-
-> 做决定
-
-“ If you can’t make up your mind **decisively**, then you’ll never learn to make money anyway.”
+“ If you can’t **make up your mind** **decisively**, then you’ll never learn to make money anyway.”
 
 ---
 
-## teasing
+## teasing🚩
 
 > **/ˈtiːzɪŋ/**
 >
-> n.戏弄
+> adj.戏弄
+>
+> ---
+>
+> "Teasing" 是一个形容词，通常用来描述一种戏弄、逗趣或挑逗的行为。这个词可以用于描述友好的、轻松的开玩笑，也可以用于描述一些可能让人感到不悦或不安的戏弄。
+>
+> 以下是一些用法示例：
+>
+> 1. **友好的开玩笑：**
+>    - *She gave him a teasing smile.*（她对他露出了一个调皮的微笑。）
+>    - *Their teasing banter continued throughout the evening.*（他们的打闹和取笑贯穿整个晚上。）
+>
+> 2. **不友好或让人不悦的戏弄：**
+>    - *Stop teasing me about my accent.*（别再拿我的口音开玩笑了。）
+>    - *His teasing remarks made her feel uncomfortable.*（他戏弄的言论让她感到不舒服。）
+>
+> "Teasing" 这个词的语境通常决定了它是一种友好的调侃还是一种可能让人感到不快的戏弄。
 
 “Mike’s dad said with a **teasing** smile.”
 
@@ -42,9 +58,13 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 
 ---
 
-## in a matter of minutes
+## in a matter of...🚩
 
-> 在几分钟内
+> 在……的问题上；在……的事情上
+>
+> · He solved the problem in a matter of minutes.
+>
+> 他在几分钟内解决了这个问题。
 
 “Deals come and go on the Internet **in a matter of minutes.**”
 
@@ -72,7 +92,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 
 ---
 
-## stern
+## stern🚩
 
 > **/stɜːrn/**
 >
@@ -81,6 +101,10 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > n.
 > 船尾，艉部
+>
+> ---
+>
+> 作为形容词时 描述了一种严肃、坚定或不妥协的态度。
 
 “Mike’s dad lowered his voice to a **stern** tone. “Take it, or leave it,” he said.”
 
@@ -127,14 +151,14 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 > v.
 > 用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；小心翼翼地把……混合起来（或把……弄平）；（油墨、口红等抹上后）化开，变模糊
 
-## duster
+## duster🚩
 
 > **/ˈdʌstər/**
 >
 > n.
 > 抹布，掸子；除尘器；打扫灰尘的人
 
-## excruciatingly
+## excruciatingly🚩
 
 > **/ɪkˈskruːʃieɪtɪŋli/**
 >
@@ -142,8 +166,16 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 > 极其痛苦地；**难以忍受地**
 >
 > 词根 词源  ex + cruel ==> (外面)超出 + 残酷
+>
+> ---
+>
+> 用来描述某事非常痛苦、难以忍受、或令人难以忍受的程度。这个词通常用于强调极端的痛苦或困扰。
 
-We spent three hours taking **canned** goods off “the **shelves**, brushing each can with a **feather duster**(鸡毛掸子) to get the dust off, and then re-stacking them neatly. It was **excruciatingly** boring work.
+We spent three hours taking **canned** goods off the **shelves**, brushing each can with a **feather duster**(鸡毛掸子) to get the dust off, and then re-stacking them neatly. It was **excruciatingly** boring work.
+
+> take ..A.. off ..B..
+>
+> 从B取出A..
 
 ---
 

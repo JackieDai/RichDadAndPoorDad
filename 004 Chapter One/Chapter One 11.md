@@ -1,6 +1,6 @@
 [TOC]
 
-## violating
+## violating🚩
 
 > **/ˈvaɪəleɪtɪŋ/**
 >
@@ -11,8 +11,12 @@
 > violate  **/ˈvaɪəleɪt/**
 >
 > v . 违反，违背；侵犯，打扰；亵渎，损毁（神圣之地等）；<文>强奸
+>
+> ---
+>
+> 词根词缀： viol暴行,暴力 + -ate动词词尾 同源词：violent, violence, violation
 
-## investigate
+## investigate🚩
 
 > v.侦察（某事）；调查（某人）；研究
 >
@@ -23,6 +27,10 @@
 > vestige **/ˈvestɪdʒ/**
 >
 > n.遗迹；残余；退化的器官
+>
+> ---
+>
+>  词根词缀： in-入,向内 + vestige痕迹(e略) + -ate动词词尾
 
 “My real dad, the one I call the poor one, thought that my rich dad was **violating** child labor laws and should be **investigated**.”
 
@@ -95,7 +103,7 @@ You don’t need that **damned** job anyway,” said my poor dad with indignatio
 
 ---
 
-## awkward
+## awkward🚩
 
 > **/ˈɔːkwərd/**
 >
@@ -103,6 +111,8 @@ You don’t need that **damned** job anyway,” said my poor dad with indignatio
 > 令人尴尬的，使人难堪的；难对付的，难处理的；局促不安的；不方便的；笨拙的，不雅观的；不舒适的
 >
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/1bcf6ed75537f133f0227f9a2ad813bb.jpg" widht = 100>
+>
+> "awkward" 描述的是一种让人感到不自在、尴尬或不方便的情境、动作或关系
 
 Feeling **awkward**
 
@@ -140,13 +150,13 @@ Feeling **awkward**
 
 ---
 
-## cheapskate
+## cheapskate🚩
 
 > **/ˈtʃiːpskeɪt/**
 >
 > n.小气鬼；吝啬鬼
 
-## exploit
+## exploit🚩
 
 > **/ɪkˈsplɔɪt/**
 >
@@ -156,11 +166,13 @@ Feeling **awkward**
 >
 > n.英勇事迹，壮举；大胆的表演，不凡的身手
 >
+> 词根词缀： ex-出,向外 + ploit(-plic-)折叠
+>
 > ---
 >
 > explore 
 >
->  v.探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查
+> v.探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查
 
 “The house was empty, and here I sat in a musty, dark living room on a beautiful sunny Hawaiian day, waiting to talk to a **cheapskate** who **exploited** children.”
 

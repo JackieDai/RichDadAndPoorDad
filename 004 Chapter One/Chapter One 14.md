@@ -17,17 +17,15 @@
 
 ---
 
-## millennial
+## millennial🚩
 
 > **/mɪˈleniəl/**
 >
-> adj.
-> 一千年的，千禧年的
->
-> n.
-> 千禧一代（millennials）
+> adj.一千年的，千禧年的
+> 
+>n.千禧一代（millennials）
 
-## trial
+## trial🚩
 
 > **/ˈtraɪəl/**
 >
@@ -46,11 +44,9 @@
 
 > **/ˌɡærənˈtiː/**
 >
-> v.
-> 确保，保证；担保，为……作保；保修，包换
->
-> n.
-> 保证，担保；保修单，质量保证书；担保金，抵押品
+> v.确保，保证；担保，为……作保；保修，包换
+> 
+>n.保证，担保；保修单，质量保证书；担保金，抵押品
 
 “Today’s **millennials** are learning the hard facts of life. Jobs are harder to find. Robots are replacing workers by the millions. Learning by making mistakes through **trial** and error is more and more important. Book learning is proving to be less valuable in the real world. No longer does a college education **guarantee** a job.”
 
@@ -123,12 +119,47 @@
 > · She may seem tough, but deep inside she is very sensitive.
 >
 > 她看起来很坚强，但内心深处其实非常敏感。
+>
+> ---
+>
+> "deep down" 和 "deep inside" 是用来表示在内心深处或潜意识中的感受、信仰或理解的短语。
+>
+> 1. **Deep Down:**
+>    - **用法：** 通常指一个人真正的、内在的感受、信仰或本质。
+>    - **例句：** Deep down, he knew that he had made the right decision.（在内心深处，他知道自己做出了正确的决定。）
+>
+> 2. **Deep Inside:**
+>    - **用法：** 类似于 "deep down"，强调在内心深处的感受或信仰。
+>    - **例句：** Deep inside, she harbored a secret desire to travel the world.（在内心深处，她怀有一个想环游世界的秘密愿望。）
+>
+> 这两个短语可以互换使用，但在某些情境下，一个可能更自然或更符合语境。它们通常用于强调个人的内在感受，而这些感受可能不太明显或被隐藏在表面之下。
 
 ## terrify
 
 > **/ˈterɪfaɪ/**
 >
 > v.使害怕，使恐惧
+>
+> ---
+>
+> 这三个词汇都与表达害怕或恐惧的情感有关，但它们在用法和强调上有一些区别：
+>
+> 1. **Terrify:**
+>    - **定义：** 意味着极度、强烈的恐惧或害怕。
+>    - **用法：** 通常用于描述一种极具威胁性或极其可怕的情境或事件，使人感到极度的害怕。
+>    - **例句：** The sudden sound of gunfire terrified the entire neighborhood.（突然响起的枪声使整个社区都感到恐惧。）
+>
+> 2. **Frighten:**
+>    - **定义：** 表示使人感到害怕或恐惧。
+>    - **用法：** 比较通用，可以用于描述引起轻度到中度害怕的情况。
+>    - **例句：** The unexpected appearance of the ghost frightened the children.（鬼突然出现吓坏了孩子们。）
+>
+> 3. **Trepidation:**
+>    - **定义：** 指一种紧张、焦虑或战栗的感觉。
+>    - **用法：** 通常用于描述对未来、不确定性或重要决定的担忧和紧张感。
+>    - **例句：** She approached the podium with trepidation, fearing she might forget her speech.（她带着战栗的心情走向讲台，担心她可能会忘记她的演讲。）
+>
+> 总体而言，"terrify" 和 "frighten" 更强调引起恐惧的原因或事件，而 "trepidation" 更强调一种紧张和担忧的感觉。选择使用哪个词取决于所要表达的具体情感和语境。
 
 ## go for
 

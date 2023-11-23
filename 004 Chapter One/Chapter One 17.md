@@ -49,7 +49,7 @@
 >
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/5b18c54848837d8fdb1be41e91745e23.jpg?)
 
-“Anger is a big part of that **formula**, for passion is anger and love combined. When it comes to money, most people want to play it safe and feel secure. So passion does not direct them. Fear does.”
+“Anger is a big part of that **formula**, for passion is anger and love combined. When it comes to money, most people want to play it safe and feel **secure**. So passion does not direct them. Fear does.”
 
 ---
 
