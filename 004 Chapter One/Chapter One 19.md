@@ -26,6 +26,8 @@
 >
 > 3．**以某种方式结束或完成**
 >
+> > 在这个上下文中，建议采取某种行动，否则你会以某种不好的方式结束，类似于“最终处于”或“最终成为”的含义。
+>
 > 4．换句话说，总结
 >
 > · To wind up, I would like to thank everyone for their support.
@@ -109,7 +111,23 @@
 >
 > adj.龅牙的
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/bb3d6dfbea5b2e7e6e987397f60da07c.jpg?)
+> ---
+>
+> "Buck" 和 "money" 都是用来表示货币的术语，但它们在使用上有一些细微的区别。
+>
+> 1. **Buck:**
+>    - "Buck" 是一种非正式的美国英语术语，通常用来指代一美元。这个用法可能源于美国历史上，人们曾经用鹿皮（buckskin）进行交易，而鹿皮的价值相对较高，因此成为了一种代表货币的符号。因此，"buck" 在口语中常用来表示一美元的意思。
+>
+>      - *I'll give you five bucks for that.*
+>        - 我会给你五美元买这个。
+>
+> 2. **Money:**
+>    - "Money" 是一个通用术语，可以用来指代任何形式的货币，不仅限于美元。它是一个更一般性的词，用于表示用于交换货物和服务的任何可接受的媒介。
+>
+>      - *Do you have enough money to buy lunch?*
+>        - 你有足够的钱来买午餐吗？
+>
+> 总体而言，"buck" 更具地域性，主要在美国使用，并且常用来表示美元。而 "money" 是一个更普遍的术语，可以用来表示任何国家或地区的货币。
 
 “Twenty-five cents an hour would be big **bucks** to me.”
 
@@ -185,6 +203,8 @@
 > **/ˌædəˈreɪʃ(ə)n/**
 >
 > n.崇拜；爱慕
+>
+> "adoration" 强调一种深切的、忠诚的、由内心涌现的崇敬和敬仰。
 
 ## flash some cash
 

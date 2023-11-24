@@ -11,13 +11,15 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/2c68b2812cf17e37c1c993aa8bdcb9b0.jpg?)
 
-## resilient
+## resilient🚩
 
 > **/rɪˈzɪliənt/**
 >
 > adj.（人或动物）对困境有承受力的，有复原力的；（物质或物体）有弹性的，有回弹力的
 >
 > 文中意指"坚韧的"、"具有弹性的"或"不容易受到影响的"。
+>
+> "resilient" 描述了在面对压力或困难时能够迅速适应、恢复并保持稳定的能力。这个词通常用于强调某人或某物的坚韧和适应性。
 
 “He understood that every person has a weak and **needy** part of their soul that can be bought, and he knew that every individual also had a part of their soul that was **resilient** and could never be bought.”
 
@@ -99,7 +101,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/481ee9ca85686e21002d2abc2a05c511.jpg?)
 
-“Most people have a price. And they have a price because of human emotions named fear and greed. First, the fear of being without money **motivates** us to work hard, and then once we get that paycheck, greed or desire starts us thinking about all the wonderful things money can buy. The pattern is then set.”
+“Most people have a price. And they have a price because of human emotions named fear and **greed**. First, the fear of being without money **motivates** us to work hard, and then once we get that paycheck, greed or desire starts us thinking about all the wonderful things money can buy. The pattern is then set.”
 
 ---
 
@@ -136,16 +138,6 @@
 “The pattern of get up, go to work, pay bills; get up, go to work, pay bills. People’s lives are forever controlled by two emotions: fear and greed. 
 
 Offer them more money and they continue the cycle by increasing their spending. This is what I call the Rat Race.”
-
-> The pattern of get up
->
-> - 这里 `of` 的意思： 用于连接 "pattern" 和 "get up, go to work, pay bills" 这一短语，起到表明这是一个特定模式或习惯的作用。
->
->   - 看看 of 单词的意思
->
->   - > of
->     >
->     > prep. 属于；……的；……的一部分；住在（某地）；关于；**由……组成的**；因为；（表示人或事的时空位置）在，当
 
 ---
 

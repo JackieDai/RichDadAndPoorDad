@@ -19,7 +19,7 @@
 > n.
 > 常去的地方；栖息地
 
-## turmoil
+## turmoil🚩
 
 > **/ˈtɜːrmɔɪl/**
 >
@@ -84,7 +84,7 @@ Money is running their lives, and they refuse to tell the truth about that. Mone
 
 ---
 
-## sink in
+## sink in🚩
 
 > 理解，领悟：完全被知晓、感受或理解。
 >
@@ -128,7 +128,7 @@ Money is running their lives, and they refuse to tell the truth about that. Mone
 > adv.
 > 完美地，极佳地；绝对地，完全地
 
-## comfort
+## comfort🚩
 
 > **/ˈkʌmfərt/**
 >
@@ -150,7 +150,7 @@ But money can’t do that.”
 
 ---
 
-## eliminate
+## eliminate🚩
 
 > **/ɪˈlɪmɪneɪt/**
 >
@@ -160,11 +160,32 @@ But money can’t do that.”
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/6096acbb311eddaba68cf07351116b62.jpg?)
 
-## amass
+## amass🚩
 
 > **/əˈmæs/**
 >
 > v.积累，积聚；<古>（人）聚集
+>
+> ---
+>
+> "Stockpile," "amass," 和 "rack up" 都是表示积累或聚集的动词，但它们在用法和语境上有一些不同。
+>
+> 1. **Stockpile:**
+>    - "Stockpile" 意味着大量储存或储备，通常指的是物资、资源或商品。这个词通常与储备、储存大量的东西有关。
+>      - *The country stockpiled weapons in preparation for the war.*
+>        - 这个国家储备了武器，为战争做好了准备。
+>
+> 2. **Amass:**
+>    - "Amass" 意味着积累或聚集大量的东西，不仅限于物质。它可以用来描述积累财富、知识、信息等。
+>      - *He amassed a fortune through wise investments.*
+>        - 通过明智的投资，他积累了一笔财富。
+>
+> 3. **Rack up:**
+>    - "Rack up" 意味着获得或累积分数、得分、记录等，通常与竞赛、比赛或成就有关。
+>      - *The team racked up an impressive number of points in the game.*
+>        - 那支球队在比赛中获得了令人印象深刻的得分。
+>
+> 这三个词语在不同的语境中使用，"stockpile" 更侧重于储存、积累物品，"amass" 更通用，可以用于各种类型的积累，而 "rack up" 更倾向于与得分、成就等相关。
 
 ##  tons of
 
@@ -194,7 +215,7 @@ But money can’t do that.”
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/28207ceef10f331fca8b58025e0e45e9.jpg?)
 
-## desperate
+## desperate🚩
 
 > **/ˈdespərət/**
 >
@@ -203,7 +224,7 @@ But money can’t do that.”
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/5f6de495517d4fb10763dbc96830b8d7.jpg?)
 
-## neurotic
+## neurotic🚩
 
 > **/nʊˈrɑːtɪk/**
 >
@@ -212,8 +233,16 @@ But money can’t do that.”
 >
 > n.
 > 神经病患者；神经过敏者
+>
+> ---
+>
+> neuro-,神经，-otic,形容词后缀。
+>
+> ---
+>
+> 描述一种对生活、情绪或人际关系过分担忧、焦虑和紧张的状态。
 
-“In fact, the reason many rich people are rich isn’t because of desire, but because of fear. 
+In fact, the reason many rich people are rich isn’t because of desire, but because of fear. 
 
 They believe that money can **eliminate** the fear of being poor, so they **amass** **tons of** it, only to find the fear gets worse. 
 

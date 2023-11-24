@@ -8,7 +8,7 @@
 >
 > ![](https://oimagea7.ydstatic.com/image?id=8700316913511084783&product=kid-dict&w=240)
 
-“How did you feel when I tempted you with a pay raise? Did you notice your desires rising?”
+“How did you feel when I **tempted** you with a pay raise? Did you notice your desires rising?”
 
 ---
 
@@ -111,5 +111,5 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/47aecc3eb3cb81629f0a5eb59964bed4.jpg?)
 
-“ a donkey dragging a **cart** with its owner dangling a **carrot** just in front of its nose. The donkey’s owner may be going where he wants to, but the donkey is chasing an illusion. Tomorrow there will only be another carrot for the donkey”
+“ a donkey dragging a **cart** with its owner dangling a **carrot** just in front of its nose. The donkey’s owner may be going where he wants to, but the donkey is **chasing** an illusion. Tomorrow there will only be another carrot for the donkey”
 

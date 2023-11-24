@@ -39,28 +39,25 @@
 
 ---
 
-## disenchanted
+## disenchanted🚩
 
 > /ˌdɪsɪnˈtʃæntɪd/
 >
-> adj.
-> 不再着迷的；不再抱幻想的；感到幻灭的
->
-> v.
-> 使不再着迷（disenchant 的过去分词）
->
+> adj.不再着迷的；不再抱幻想的；感到幻灭的
+> 
+>v.使不再着迷（disenchant 的过去分词）
+> 
 > ---
 >
 > disenchant  **/ˌdɪsɪnˈtʃænt/**
 >
-> v.
-> 使清醒；使不抱幻想
+> v.使清醒；使不抱幻想
 
 ## firely quickly
 
 > 相当快的
 
-“Fairly quickly, Robert grew **disenchanted** with the boring work and low pay.”
+“**Fairly quickly**, Robert grew **disenchanted** with the boring work and low pay.”
 
 ---
 
@@ -81,7 +78,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/02414100e2ac4a7efa64d152a6339d13.jpg?)
 
-“ He was <u>fed up(不爽)</u> and emotional by the time he got to complain to Mike’s dad, accusing him of being greedy(贪婪的) and not showing him respect.”
+“ He was <u>fed up(不爽)</u> and emotional by the time he got to complain to Mike’s dad, **accusing** him of being greedy(贪婪的) and not showing him respect.”
 
 ---
 
@@ -111,23 +108,21 @@
 > adj.
 > 王子的，高贵的；**慷慨的**；豪华的
 
-## solidified
+## solidified🚩
 
 > **/səˈlɪdɪfaɪd/**
 >
-> adj.
-> 凝固的；固化的，变硬的
->
-> v.
-> 凝固，团结（solidify 的过去式和过去分词形式）
->
+> adj.凝固的；固化的，变硬的
+> 
+>v.凝固，团结（solidify 的过去式和过去分词形式）
+> 
 > ---
 >
 > solidify  **/səˈlɪdɪfaɪ/**
 >
 > v.
-> （使）凝固，变硬；（使）变可靠，（使）变稳固
->
+>（使）凝固，变硬；（使）变可靠，（使）变稳固
+> 
 > ---
 >
 > time-solidfied
@@ -136,7 +131,7 @@
 >
 > 具体含义可能取决于上下文，例如在艺术、文学或哲学的语境中，这样的表达可能用于形容某个瞬间或时期的持久性或深远影响。
 
-“A final offer of $5 an hour—a princely sum at that time—solidified for Robert that he wouldn’t be bought.”
+“A final offer of $5 an hour—a **princely** sum at that time—**solidified** for Robert that he wouldn’t be bought.”
 
 
 

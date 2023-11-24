@@ -18,7 +18,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/deee57f18f3506c19c1a9f99b4eb29cf.jpg?)
 
-## hoard
+## hoard🚩
 
 > **/hɔːrd/**
 >
@@ -28,7 +28,35 @@
 > v.
 > 贮藏，囤积
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/d069e5aa8e7e72df657eb7d2bc795d78.jpg?)
+> ---
+>
+> stockpile, amass, rack up, hoard 的用法以及异同点有哪些？
+>
+> 1. **Stockpile:**
+>    - **定义：** 意为大量积累或储备，通常指储存备用物资、资源或商品。
+>    - **例句：** The country decided to stockpile food and medical supplies in case of an emergency.
+>      - 该国决定储备食物和医疗用品，以备不时之需。
+>
+> 2. **Amass:**
+>    - **定义：** 意为逐渐积累或聚集大量的东西，可以用于描述财富、信息、知识等的积累。
+>    - **例句：** Over the years, he managed to amass a significant fortune through wise investments.
+>      - 多年来，他通过明智的投资成功积累了一笔可观的财富。
+>
+> 3. **Rack Up:**
+>    - **定义：** 意为迅速积累或累积，通常用于形容得分、债务、成就等的迅速累积。
+>    - **例句：** She managed to rack up a high score in the game.
+>      - 她成功地在游戏中积累了一个高分。
+>
+> 4. **Hoard:**
+>    - **定义：** 意为贪婪地积累或囤积，通常指对某一特定物品或资源的过度储存，有时带有负面的色彩。
+>    - **例句：** The dragon hoarded gold and treasures in its lair.
+>      - 龙在巢穴里囤积了黄金和宝藏。
+>
+> **异同点：**
+> - 所有这些词语都涉及积累或储存的概念，但在具体用法和语境中有细微的区别。
+> - "Stockpile" 和 "hoard" 通常强调储备大量物品，但 "stockpile" 更常用于描述有组织的储备，而 "hoard" 可能带有贪婪或不合理的意味。
+> - "Amass" 更强调逐渐积累，通常指财富、信息、知识等的累积过程。
+> - "Rack up" 则更强调迅速积累，常用于描述分数、债务等的迅速累积。
 
 “That kind of thinking is probably more psychotic than a person who **hoards** money.”
 
@@ -36,7 +64,7 @@
 
 ## countless
 
-> 如数次，数不过来的
+> 无数次，数不过来的
 
 ---
 
@@ -51,8 +79,10 @@
 > 痕迹，遗迹，踪迹；微量，少许；描记图，扫描线；挽绳，缰绳；跟踪，追查；（大脑上的学习或记忆）痕迹，印迹；<西印度，美>小径，小道；交线，迹线；（数）迹
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/f4f5487818229fcd5e0296a01260199a.jpg?)
+>
+> 
 
-“Not work for money until all **traces** of fear and greed are gone?”
+“Not work for money until all **traces**(痕迹) of fear and greed are gone?”
 
 ---
 
@@ -63,6 +93,18 @@
 > 2．支持，拥护：表示对某个观点、政策或行动的支持；
 >
 > 3．忍受：表示允许某事继续发生或存在。
+
+## motion
+
+> **/ˈmoʊʃ(ə)n/**
+>
+> n.运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请
+>
+> v.打手势，示意
+>
+> ---
+>
+> 词根词缀： -mot-移动 + -ion名词词尾
 
 “Emotions are what make us human. The word ‘emotion’ **stands for** ‘energy in motion”
 
@@ -81,21 +123,43 @@ If the fear of not having enough money  **arises**, instead of immediately runni
 
 ---
 
-## interjected
+## interjected🚩
 
 > **/ˌɪntərˈdʒekt/**
 >
 > vt.突然插入；插嘴
+>
+> ---
+>
+> inter-,在内，在中间，相互，-ject,投，射，
 
 “But my dad is always saying, ‘Stay in school and get good grades, so you can find a safe, secure job,’” I **interjected**, somewhat confused.”
 
 ---
 
-## advent
+## advent🚩
 
 > **/ˈædvent/**
 >
 > n.出现，到来，问世；基督降临节（Advent）；基督降临，基督复临（Advent）
+>
+> with the advent of ... 随着... 的出现
+>
+> ---
+>
+> "appearance" 更强调事物的出现或出现的方式，可以是实际的外观，也可以是某人在某个场合的出现。而 "advent" 则更强调时期、时代或某一新事物的开始或到来。
+
+## essential
+
+> **/ɪˈsenʃ(ə)l/**
+>
+> adj.必不可少的，非常重要的；基本的，精髓的；（氨基酸、脂肪酸）必需的；（疾病）自发的，原发的
+>
+> n.必不可少的东西，必需品；要素，本质；（某学科的）基础，基本知识
+>
+> ---
+>
+> 来自essence, 本质。
 
 ## surviving
 
@@ -105,13 +169,13 @@ If the fear of not having enough money  **arises**, instead of immediately runni
 >
 > v.生存（survive 的ing形式）
 
-## adage
+## adage🚩
 
 > **/ˈædɪdʒ/**
 >
 > n.格言，谚语；箴言
 
-“With the **advent** of derivatives and an increasingly complex economy, mastering money has become essential to **surviving** in the world economy. 
+“With the **advent** of derivatives and an increasingly complex economy, mastering money has become **essential** to **surviving** in the world economy. 
 
 With low interest rates and an uncertain stock market, the old **adages** of saving and investing for the long term make no sense.”
 
@@ -134,7 +198,7 @@ With low interest rates and an uncertain stock market, the old **adages** of sav
 
 ---
 
-## self-inflicted
+## self-inflicted🚩
 
 > adj.
 > 自己造成的；加于自身的

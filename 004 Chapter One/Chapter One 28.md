@@ -42,6 +42,10 @@
 ## bean-counters
 
 > 精打细算的人（bean counter的复数）；会计
+>
+> ---
+>
+> 
 
 ## take over
 
@@ -81,7 +85,7 @@
 >
 > vt.刁难，使恼怒
 
-## charged
+## charged🚩
 
 > **/tʃɑːrdʒd/**
 >
@@ -93,7 +97,7 @@
 
 ---
 
-## briar
+## briar🚩
 
 > **/ˈbraɪər/**
 >
@@ -106,33 +110,25 @@
 
 >**/pætʃ/**
 >
->n.
->补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片；**（尤指园艺用的）一小块地**；熟悉的地方，家乡；<非正式> 属地，管辖地；一段时间；<史>（尤指17、18世纪妇女装饰用的）饰颜片，美人斑；（软件的）补丁程序；（电气或电话的）临时连接（线）；（电子乐器，尤指合成乐器中的）预设配置（或声音）数据文件，配音
->
->vt.
->修补，缝补；使出现斑块；临时连接，临时接入（通信系统）；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成
->
->![](https://ydlunacommon-cdn.nosdn.127.net/1e08e784faefa5b9250a00271cf4c747.jpg?)
->
 >---
 >
 >"Patch" 是一个多义词，具有不同的用法。以下是一些常见的用法：
 >
 >1. **作为名词：**
->   - **补丁、修补片：** "I sewed a patch onto my jeans to cover the hole."（我在牛仔裤上缝了一个补丁来遮掩裂缝。）
->   - **地区、区域：** "There is a patch of forest behind the house."（房子后面有一片森林。）
+>  - **补丁、修补片：** "I sewed a patch onto my jeans to cover the hole."（我在牛仔裤上缝了一个补丁来遮掩裂缝。）
+>  - **地区、区域：** "There is a patch of forest behind the house."（房子后面有一片森林。）
 >
 >2. **作为动词：**
->   - **修补、补丁：** "He patched the hole in the roof."（他修补了屋顶上的洞。）
->   - **连接、拼凑：** "They managed to patch together a makeshift solution."（他们设法拼凑出了一个临时解决方案。）
+>  - **修补、补丁：** "He patched the hole in the roof."（他修补了屋顶上的洞。）
+>  - **连接、拼凑：** "They managed to patch together a makeshift solution."（他们设法拼凑出了一个临时解决方案。）
 >
 >3. **计算机领域中的用法：**
 >   - **软件修补程序：** "Make sure to install the latest security patches on your computer."（确保在计算机上安装最新的安全补丁。）
->
+> 
 >4. **颜色或斑块：**
->   - **颜色斑块：** "The cat had a patch of white fur on its chest."（猫的胸前有一块白色的毛发。）
->
->总体而言，"patch" 的具体含义取决于上下文。它可以表示修补、连接、软件修复，也可以指代区域、颜色斑块等。在理解这个词语时，需要考虑具体的语境。
+>  - **颜色斑块：** "The cat had a patch of white fur on its chest."（猫的胸前有一块白色的毛发。）
+> 
+> 总体而言，"patch" 的具体含义取决于上下文。它可以表示修补、连接、软件修复，也可以指代区域、颜色斑块等。在理解这个词语时，需要考虑具体的语境。
 
 “ I’ll take you boys into <u> the briar patch(荆棘之地)</u>, a place almost everyone else avoids.”
 
@@ -145,6 +141,10 @@
 > adv.理性地；讲道理地
 >
 > 词根词缀： -rat-计算,思考 + -ion + -al
+>
+> ---
+>
+> "Rationally" 表示思考、决策或行为过程中考虑合理性和理性。这个词通常与理智、逻辑和合理的思维方式相关。
 
 ## think things through
 
@@ -162,22 +162,22 @@
 
 > **/ˈniː dʒɜːrk/**
 >
-> n.
-> 膝反射
+> n.膝反射
 >
-> adj.
-> 下意识的；自动反应的；膝反射的
+> adj.下意识的；自动反应的；膝反射的
+>
+> ---
+>
+> 理解: 本能反应，条件反射
 
 ## gulp
 
 > **/ɡʌlp/**
 >
-> v.
-> 狼吞虎咽，匆匆吞下；大口呼吸；（因害怕或惊讶而）倒吸气
->
-> n.
-> 大口吞食，大口啜饮；一大口（饮入物）；一大口（吸入的空气）；吞咽，吸入
->
+> v.狼吞虎咽，匆匆吞下；大口呼吸；（因害怕或惊讶而）倒吸气
+> 
+>n.大口吞食，大口啜饮；一大口（饮入物）；一大口（吸入的空气）；吞咽，吸入
+> 
 > ![](https://ydlunacommon-cdn.nosdn.127.net/257609358114c4246bffe64e90f3014e.jpg?)
 
 “ I’ll teach you to have a choice of thoughts rather than a **knee-jerk** reaction, like **gulping** down your morning coffee and running out the door.”
