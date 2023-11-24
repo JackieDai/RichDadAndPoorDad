@@ -34,11 +34,13 @@ The increses in income are going to **enterpreneurs** and inverstors, not to emp
 
 ---
 
-## vehemently🚩
+## vehemently
 
 > **/ˈviːəməntli/**
 >
 > adv.激烈地；暴烈地；竭尽全力地
+>
+> "Vehemently" 的使用强调了言辞、态度或情感的强烈程度，通常暗示着情感的激烈表达或坚定的立场。
 
 Twenty years ago, most publishers **vehemently** disagreed with this lesson form rich dad.
 

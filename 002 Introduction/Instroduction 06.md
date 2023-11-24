@@ -70,7 +70,7 @@ Even when he was **flat broke** after a major financial **setback**, he continue
 
 ---
 
-## eternal🚩
+## eternal
 
 > **/ɪˈtɜːrn(ə)l/**
 >
@@ -106,7 +106,7 @@ Poor is eternal.
 >
 > 词根词缀： -acu-尖,刺 + te
 
-## adopt
+## adopt🚩
 
 > v.收养；采取，**采纳**，接受；正式通过；选定（名字），承袭（风俗）；移居，定居；提名（某人）为候选人；保持（姿势）；<英>（地方当局）承担（道路）维修保养责任
 >
@@ -127,6 +127,12 @@ As a young boy having two fathers, I became **acutely** aware of being careful a
 > **/trəˈmendəs/**
 >
 > adj.巨大的，极大的；极好的，精彩的；令人望而生畏的，可怕的
+>
+> ---
+>
+> "Tremendous" 的使用强调了事物的强大、巨大或引人注目的特质。
+>
+> ---
 >
 > 词根词缀： -trem-发抖 + -end名词词尾 + -ous形容词词尾
 

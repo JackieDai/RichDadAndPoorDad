@@ -87,7 +87,7 @@ One died leaving tens of millions of dollars to his family, **charities**, and h
 >
 > n.神授能力运动拥护者；自称得到神灵启示的人
 
-## influential🚩
+## influential
 
 > **/ˌɪnfluˈenʃ(ə)l/**
 >
@@ -107,7 +107,7 @@ Both men were strong, **charismatic**, and **influential**.
 
 ---
 
-## evil🚩
+## evil
 
 > **/ˈiːv(ə)l/**
 >
@@ -119,7 +119,7 @@ The love of money is the root of all **evil**.
 
 ---
 
-## extreme🚩
+## extreme
 
 > **/ɪkˈstriːm/**
 >

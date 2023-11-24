@@ -1,6 +1,6 @@
 [TOC]
 
-## staggering🚩
+## staggering
 
 > **/ˈstæɡərɪŋ/**
 >

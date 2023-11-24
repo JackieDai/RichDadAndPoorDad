@@ -14,7 +14,7 @@ He **insisted** I ask, “How can I afford it?
 
 ---
 
-## off the hook🚩
+## off the hook
 
 > [口语]摆脱困境；脱身
 >

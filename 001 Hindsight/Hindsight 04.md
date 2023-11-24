@@ -34,7 +34,7 @@ The rich created **financially-engineered** products known as **derivatives**—
 
 ---
 
-## estimate🚩
+## estimate
 
 > **/ˈestɪmət; ˈestɪmeɪt/**
 >

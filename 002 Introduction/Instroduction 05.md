@@ -99,7 +99,7 @@ The other believed in total financial self-reliance.
 
 ---
 
-## emphatic🚩
+## emphatic
 
 > **/ɪmˈfætɪk/**
 >
@@ -107,9 +107,15 @@ The other believed in total financial self-reliance.
 >
 > **emphatic about…**  强调了...
 >
+> ---
+>
+> "Emphatic" 通常用来表示强烈、坚决或强调的特质，强调一种决心或确信的态度。
+>
+> ---
+>
 > TODO: @lingxiao 总结 所有 强调 意思 的 英语单词
 
-## competent🚩
+## competent
 
 > **/ˈkɑːmpɪtənt/**
 >
