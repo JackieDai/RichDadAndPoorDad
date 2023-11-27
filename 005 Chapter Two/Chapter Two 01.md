@@ -42,7 +42,7 @@ Why Teach Financial **Literacy**?
 
 ---
 
-## barring
+## barring🚩
 
 > **/ˈbɑːrɪŋ/**
 >
@@ -62,7 +62,7 @@ Why Teach Financial **Literacy**?
 >
 > un + fore + seen==不 + 提前 + 看到，感受到
 
-## cataclysmic
+## cataclysmic🚩
 
 > **/ˌkætəˈklɪzmɪk/**
 >
@@ -93,13 +93,19 @@ Why Teach Financial **Literacy**?
 
 ---
 
-## implant
+## implant🚩
 
 > **/ɪmˈplænt/**
 >
 > v.（尤指医学）植入，移植；灌输（观点或态度）；（受精卵或胚胎）着床；把……嵌入，埋置
 >
 > n.（植入人体中的）移植物，植入物
+>
+> ---
+>
+> im-,进入，使，plant,种植。引申词义移植，灌输。
+>
+> ---
 >
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/ef6b9cfdd6d7c7a39d7223eaee2a75f0.jpg?)
 

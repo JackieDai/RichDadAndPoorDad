@@ -130,7 +130,7 @@ As a young boy having two fathers, I became **acutely** aware of being careful a
 >
 > ---
 >
-> "Tremendous" 的使用强调了事物的强大、巨大或引人注目的特质。
+> "Tremendous" 的使用**强调了事物的强大、巨大或引人注目的特质。**
 >
 > ---
 >

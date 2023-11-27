@@ -20,7 +20,7 @@
 
 ---
 
-## vice
+## vice🚩
 
 > **/vaɪs/**
 >
@@ -99,13 +99,13 @@
 >    - "She decided to go along with the changes at work."（她决定顺应工作中的变化。）
 >
 
-## dogma
+## dogma🚩
 
 > **/ˈdɔːɡmə/**
 >
 > n.教条，信条，教义
 
-## preach
+## preach🚩
 
 > **/priːtʃ/**
 >
@@ -144,7 +144,7 @@ raised our eyebrows.[皱眉]
 > - process : 步骤，程序
 > - proceed: 开展, 继续做事(执行步骤)
 
-## deviate from
+## deviate from🚩
 
 > **偏离；脱离**
 >

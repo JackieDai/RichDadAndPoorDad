@@ -45,7 +45,7 @@ They may be **advance in** their jobs and receiving pay raises.
 
 ---
 
-## shaky
+## shaky🚩
 
 > **/ˈʃeɪki/**
 >
@@ -63,7 +63,7 @@ They may be **advance in** their jobs and receiving pay raises.
 
 ---
 
-## panic
+## panic🚩
 
 > **/ˈpænɪk/**
 >
@@ -91,7 +91,7 @@ They may be **advance in** their jobs and receiving pay raises.
 
 ---
 
-##  tenuous at best
+##  tenuous at best🚩
 
 > 表示某事物的基础或理由**非常薄弱**，**最多也只能说是勉强存在**。这个短语通常用于强调某种关系、解释或理由的不牢固性或不充分性, **勉勉强强**。
 >

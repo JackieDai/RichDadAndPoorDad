@@ -1,6 +1,6 @@
 [TOC]
 
-## seal🚩
+## seal
 
 > **/siːl/**
 >
@@ -86,7 +86,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 
 ---
 
-## spent🚩
+## spent
 
 > **/spent/**
 >
@@ -96,7 +96,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 >
 > 文中是 spent 是 形容词，表示 **用完的，用废的**
 
-## dust🚩
+## dust
 
 > **/dʌst/**
 >
@@ -124,7 +124,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 
 ---
 
-## counterfeiting🚩
+## counterfeiting
 
 > **/ˈkaʊntərfɪtɪŋ/**
 >
@@ -146,7 +146,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 
 ---
 
-## dash🚩
+## dash
 
 > **/dæʃ/**
 >
@@ -158,7 +158,7 @@ Our dreams were **dashed**.
 
 ---
 
-## quivering🚩
+## quivering
 
 > **/ˈkwɪvərɪŋ/**
 >
@@ -171,6 +171,30 @@ Our dreams were **dashed**.
 > n.（尤指突然的强烈情感所致的）颤抖，颤音；箭囊，箭袋；一组（长度、形状各异的）冲浪板
 >
 > v.颤抖，抖动；使颤抖，使抖动
+>
+> ---
+>
+> "Quiver" 和 "shaky" 都是形容词，用于描述物体或人的颤抖或摇晃的状态，但它们的用法和语境略有不同。
+>
+> 1. **Quiver (颤抖/抖动)：**
+>    - "Quiver" 主要用来描述物体或人因寒冷、恐惧、激动等原因而出现的轻微的颤抖或抖动。这个词通常强调颤抖的快速而轻微的运动。
+>
+>    例句：
+>    - His voice quivered with emotion as he spoke about the incident.
+>      （谈到那件事时，他的声音因为情感而颤抖。）
+>    - The leaves on the tree quivered in the breeze.
+>      （树上的叶子在微风中颤动。）
+>
+> 2. **Shaky (摇晃的/不稳定的)：**
+>    - "Shaky" 用来形容物体或人在整体上的摇晃或不稳定状态，可能是因为缺乏稳定性、弱点或受到外部影响。这个词强调整体的不牢固或不稳定。
+>
+>    例句：
+>    - The old bridge felt shaky under our feet.
+>      （我们脚下的旧桥感觉很摇晃。）
+>    - Her hands were shaky as she tried to hold the fragile glass.
+>      （她试图拿着易碎的玻璃，但她的手感到摇晃。）
+>
+> 总体而言，**"quiver" 更强调轻微而快速的颤抖，而"shaky" 更强调整体的摇晃或不稳定。**
 
 in a **quivering** voice.
 

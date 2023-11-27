@@ -10,12 +10,10 @@
 
 > **/juːˈtɪləti/**
 >
-> n.
-> （煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；<澳>小卡车，轻型货车；（博弈论，经济学）效用
->
-> adj.
-> 有用的，多功能的；（体育运动）多面手的；实用的
->
+> n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；<澳>小卡车，轻型货车；（博弈论，经济学）效用
+> 
+>adj.有用的，多功能的；（体育运动）多面手的；实用的
+> 
 > ![](https://ydlunacommon-cdn.nosdn.127.net/3a1db545bfae6632bf7d7c3abfe56070.jpg?)
 >
 > ---
@@ -23,20 +21,20 @@
 > "Utility" 是一个多义词，具体的用法取决于上下文。以下是一些常见的用法：
 >
 > 1. **实用性或效用（Usefulness）：**
->    - *例句：This tool has a lot of utility in various industries.*（这个工具在各个行业中有很多实用性。）
->
+>   - *例句：This tool has a lot of utility in various industries.*（这个工具在各个行业中有很多实用性。）
+> 
 > 2. **公共事业（Public Utility）：**
->    - *例句：Water and electricity are essential public utilities.*（水和电是基本的公共事业。）
->
+>   - *例句：Water and electricity are essential public utilities.*（水和电是基本的公共事业。）
+> 
 > 3. **计算机科学中的工具或实用程序（Utility in Computer Science）：**
->    - *例句：Disk cleanup is a utility that helps optimize storage space on your computer.*（磁盘清理是一个实用程序，有助于优化计算机存储空间。）
->
+>   - *例句：Disk cleanup is a utility that helps optimize storage space on your computer.*（磁盘清理是一个实用程序，有助于优化计算机存储空间。）
+> 
 > 4. **金融领域中的效用（Utility in Finance）：**
->    - *例句：The utility of a financial investment is often measured in terms of returns and risk.*（财务投资的效用通常以回报和风险为度量标准。）
->
+>   - *例句：The utility of a financial investment is often measured in terms of returns and risk.*（财务投资的效用通常以回报和风险为度量标准。）
+> 
 > 5. **宇航工程中的功能（Utility in Aerospace Engineering）：**
->    - *例句：The utility of the spacecraft is enhanced by its ability to perform multiple functions in space.*（宇宙飞船的效用得到了增强，因为它能够在太空中执行多种功能。）
->
+>   - *例句：The utility of the spacecraft is enhanced by its ability to perform multiple functions in space.*（宇宙飞船的效用得到了增强，因为它能够在太空中执行多种功能。）
+> 
 > 请提供更具体的上下文，以便我能够提供更准确的帮助。
 
 ---
@@ -90,11 +88,15 @@
 >
 > 来自**penny** : 便士，100便士 == 1 英镑，来自英国的货币单位
 
-## insane
+## insane🚩
 
 > **/ɪnˈseɪn/**
 >
 > adj.疯癫的，精神失常的；蠢极的，荒唐的
+>
+> ---
+>
+> 词根缀: in-,不，非，sane,心智健全的。
 >
 > ---
 >
@@ -112,7 +114,7 @@
 >
 > 总体而言，"psychotic" 更侧重于描述某人的思维和感知的扭曲，而"insane" 则更一般地指向精神失常或疯狂的状态。请注意，这些术语在医学和法律上可能有具体的定义和用法，因此在特定背景中可能有不同的含义。
 
-## committed suicide
+## committed suicide🚩
 
 > **自杀死亡**
 >

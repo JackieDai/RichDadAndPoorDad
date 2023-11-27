@@ -125,7 +125,7 @@ so once the paint was burned off, the tubes were dropped in the small steel pot
 
 ---
 
-## plaster🚩
+## plaster
 
 > **/ˈplæstər/**
 >

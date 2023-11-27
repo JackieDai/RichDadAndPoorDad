@@ -35,7 +35,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/a3102911005627fb62dd6c1646558929.jpg?)
 
-## crumpled🚩
+## crumpled
 
 > **/ˈkrʌmpld/**
 >
@@ -71,7 +71,7 @@ I'm going to throw it out,
 
 ---
 
-## pleaded🚩
+## pleaded
 
 > **/ˈpliːdɪd/**
 >
@@ -120,6 +120,10 @@ Mike and I **pleaded** and begged, explaining that we would soon have enough and
 >    - 例如：She gave him a gift for his birthday.（她送给他一份生日礼物。）
 >
 > 总的来说，"grant"通常涉及到正式的、授权的行为，而 "give" 则更通用，可以用于形容各种日常生活中的给予行为。选择使用哪个词通常取决于语境和表达的具体含义。
+>
+> ---
+>
+> "consent" 更侧重于表达同意或允许，而 "grant" 更强调给予或授予某种权利、利益或资助。
 
 ## extension
 

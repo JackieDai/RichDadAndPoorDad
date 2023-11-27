@@ -31,14 +31,11 @@
 >
 > 文中是 试验，实践的意思
 >
-> n.
-> 审判，审理；**试验**，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演
->
-> v.
-> 测试，试验；（马、狗等动物）参加比赛
->
-> adj.
-> 试验性的
+> n.审判，审理；**试验**，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演
+> 
+>v.测试，试验；（马、狗等动物）参加比赛
+> 
+> adj.试验性的
 
 ## guarantee
 
@@ -160,6 +157,30 @@
 >    - **例句：** She approached the podium with trepidation, fearing she might forget her speech.（她带着战栗的心情走向讲台，担心她可能会忘记她的演讲。）
 >
 > 总体而言，"terrify" 和 "frighten" 更强调引起恐惧的原因或事件，而 "trepidation" 更强调一种紧张和担忧的感觉。选择使用哪个词取决于所要表达的具体情感和语境。
+>
+> ---
+>
+> "Terrified" 和 "afraid" 都是形容词，用于描述害怕或恐惧的感觉，但它们在强度和语境上有所不同。
+>
+> 1. **Terrified (恐惧/惊恐)：**
+>    - "Terrified" 是一个强烈的词语，表示极度的、强烈的恐惧感。当使用 "terrified" 时，通常暗示了一种极度害怕的状态，可能导致身体和情绪上的强烈反应。
+>
+>    例句：
+>    - She was terrified when she heard strange noises in the dark alley.
+>      （当她在黑暗的小巷里听到奇怪的声音时，她感到极度恐惧。）
+>    - The children were terrified by the loud thunderstorm.
+>      （孩子们被大声的雷暴吓坏了。）
+>
+> 2. **Afraid (害怕/担心)：**
+>    - "Afraid" 表达的是一种较为普通或一般的害怕感，相对于 "terrified"，它的强度较轻。这个词可以用于描述对某种可能的威胁或不安的感觉。
+>
+>    例句：
+>    - I'm afraid of spiders, so I always ask someone else to remove them from the room.
+>      （我害怕蜘蛛，所以我总是请别人把它们从房间里移走。）
+>    - He's afraid of heights, so climbing the mountain was a challenge for him.
+>      （他害怕高处，所以爬山对他来说是一项挑战。）
+>
+> 总体而言，"terrified" 表示极度的、强烈的恐惧，而 "afraid" 则更一般地表示害怕或担忧。
 
 ## go for
 

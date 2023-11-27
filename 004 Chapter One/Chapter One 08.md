@@ -131,24 +131,23 @@
 
 > **/ˌtrepɪˈdeɪʃ(ə)n/**
 >
-> n.
-> 恐惧；惊恐；忧虑；颤抖
->
-> ---
->
-> "Trepidation" 和 "frightened" 都与恐惧或害怕有关，但它们有一些区别。
->
-> 1. **Trepidation:**
+> n.恐惧；惊恐；忧虑；颤抖
+> 
+>---
+> 
+>"Trepidation" 和 "frightened" 都与恐惧或害怕有关，但它们有一些区别。
+> 
+>1. **Trepidation:**
 >    - "Trepidation" 是名词，表示一种紧张、不安或恐惧的感觉。这个词通常用于描述对未来或不确定事件的担忧或紧张感。
 >      - *She felt a sense of trepidation before the important exam.*（她在重要考试前感到一种紧张。）
 >      - *There was trepidation in the air as the storm approached.*（当风暴逼近时，空气中弥漫着一种紧张感。）
->
-> 2. **Frightened:**
+> 
+>2. **Frightened:**
 >    - "Frightened" 是形容词，用来描述人或动物因为害怕而感到的状态。这个词强调的是实际的害怕或恐惧感。
 >      - *The loud noise frightened the small child.*（刺耳的声音把小孩吓坏了。）
 >      - *He looked frightened when he saw the unexpected visitor.*（当他看到意外的访客时，他显得很害怕。）
->
-> 总体而言，"trepidation" 更强调一种紧张和担忧的感觉，而 "frightened" 更直接地表示已经感到害怕或受到了惊吓。
+> 
+>总体而言，"trepidation" 更强调一种紧张和担忧的感觉，而 "frightened" 更直接地表示已经感到害怕或受到了惊吓。
 
 “I nodded my head quickly, but with a little **trepidation**. ”
 

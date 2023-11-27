@@ -107,12 +107,15 @@ You don’t need that **damned** job anyway,” said my poor dad with indignatio
 
 > **/ˈɔːkwərd/**
 >
-> adj.
-> 令人尴尬的，使人难堪的；难对付的，难处理的；局促不安的；不方便的；笨拙的，不雅观的；不舒适的
+> adj.令人尴尬的，使人难堪的；难对付的，难处理的；局促不安的；不方便的；笨拙的，不雅观的；不舒适的
 >
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/1bcf6ed75537f133f0227f9a2ad813bb.jpg" widht = 100>
 >
 > "awkward" 描述的是一种让人感到不自在、尴尬或不方便的情境、动作或关系
+>
+> ---
+>
+> "awkward" 更强调不适或笨拙的情境，而 "embarrassed" 更侧重于个人感到尴尬或难堪的情感。
 
 Feeling **awkward**
 

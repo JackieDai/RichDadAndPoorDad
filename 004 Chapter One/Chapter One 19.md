@@ -137,11 +137,9 @@
 
 > **/ˈskriːmɪŋ/**
 >
-> adj.
-> **尖叫的**；使人惊叹的；使人捧腹大笑的
->
-> v.
-> 尖叫；大笑；呼啸着前进；呼吁；抗议；告密（非正式）（scream 的现在分词）
+> adj.**尖叫的**；使人惊叹的；使人捧腹大笑的
+> 
+>v.尖叫；大笑；呼啸着前进；呼吁；抗议；告密（非正式）（scream 的现在分词）
 
 “Now my heart started to race. My brain was **screaming**, “Take it. Take it.” I could not believe what I was hearing. Still, I said nothing.”
 

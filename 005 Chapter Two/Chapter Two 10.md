@@ -48,7 +48,7 @@ government **intervention** [政府干预]
 
 ---
 
-## malpractice
+## malpractice🚩
 
 > **/ˌmælˈpræktɪs/**
 >
@@ -56,7 +56,7 @@ government **intervention** [政府干预]
 >
 > 词根词缀： mal-坏,错误 + pract做,从事 + -ice名词词尾
 
-## lawsuit
+## lawsuit🚩
 
 > **/ˈlɔːsuːt/**
 >
@@ -95,7 +95,7 @@ malpractice lawsuits; [医疗事故诉讼]
 >
 > v.使闻名，使有名望
 
-## prestige
+## prestige🚩
 
 > **/preˈstiːʒ/**
 >
@@ -198,6 +198,10 @@ malpractice lawsuits; [医疗事故诉讼]
 >      - 他因为是一位可靠的员工而赢得了声誉。
 >
 > 总体而言，**"pursue" 更强调追求、寻求或追逐的过程**，而 **"acquire" 更强调实际的取得、获得或收购**。两者可以在不同的语境中表示追求目标、知识、关系或财富。
+>
+> ---
+>
+> "chase" 更专注于追逐的行为，通常带有更直接的动作感，而"pursue" 则更广泛，可以表示对目标、兴趣或个人的追求，也可以表示对某人的长时间追踪。
 
 “Because students leave school without financial skills, millions of educated people **pursue** their profession successfully, but later find themselves struggling financially.”
 
