@@ -86,9 +86,9 @@
 > **/ˈdɑːdʒɪŋ/**
 >
 > n.避开；逃避
-> 
->v.闪避；躲开；（冲洗或放大时）局部遮光（dodge 的现在分词）
-> 
+>
+> v.闪避；躲开；（冲洗或放大时）局部遮光（dodge 的现在分词）
+>
 > ---
 >
 > dodge **/dɑːdʒ/**
@@ -96,8 +96,38 @@
 > v.闪开，躲开；巧妙躲避，施计回避；按变换序列鸣钟；（冲洗或放大时）局部遮光
 >
 > n.逃避的诡计，骗人的伎俩；躲闪
-> 
->通常用于描述灵活、迅速的避开或回避某事物，可以是实际的物体，也可以是抽象的责任、问题等
+>
+> 通常用于描述灵活、迅速的避开或回避某事物，可以是实际的物体，也可以是抽象的责任、问题等
+>
+> ---
+>
+> "Dodge" 和 "avoid" 都表示避免某事，但它们在用法和含义上有一些区别。
+>
+> ### "Dodge" 的用法：
+>
+> 1. **闪躲，躲避：** "Dodge" 常用于形容迅速地、灵活地躲避某物或某人。
+>
+>    - *Example: The athlete dodged the opponent's tackle and scored a goal.*
+>      （运动员躲过了对手的铲球，进了一个球。）
+>
+> 2. **回避回答，逃避问题：** 在语言交流中，"dodge" 还可以表示回避或逃避回答某个问题。
+>
+>    - *Example: The politician skillfully dodged the journalist's question about the scandal.*
+>      （政治家巧妙地回避了记者关于丑闻的问题。）
+>
+> ### "Avoid" 的用法：
+>
+> 1. **避免，预防：** "Avoid" 意味着主动采取行动以防止或远离某事。
+>
+>    - *Example: To stay healthy, it's important to avoid unhealthy eating habits.*
+>      （为了保持健康，避免不健康的饮食习惯是很重要的。）
+>
+> 2. **躲避，规避：** "Avoid" 也可以表示主动规避某种情况或责任。
+>
+>    - *Example: She decided to avoid the crowded areas to reduce the risk of getting sick.*
+>      （她决定避免拥挤的地方，以降低生病的风险。）
+>
+> 总体而言，"dodge" 更强调在动作上灵活地躲避，而 "avoid" 更强调主动采取行动以防止或规避某事。选择使用哪个词要根据具体语境和表达的意图。
 
 “We crossed the street, **dodging** a few cars, and walked across a large grassy field where a few adults were playing softball.”
 

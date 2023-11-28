@@ -80,6 +80,11 @@
 
 ---
 
+## the difficulty comes in
+
+> the difficulty lies in == the difficulty comes in
+> 难点在于...
+
 ## unlearn
 
 > **/ˌʌnˈlɜːrn/**
@@ -110,7 +115,7 @@
 >
 > 在这些例子中，"unlearn" 都表示通过努力或经验摒弃了先前学到的信息、习惯、信仰或技能。这个词强调了从先前状态到新状态的变化或转变。
 
-“The difficulty comes in **asking**(要求) adults to unlearn, or become children again” ["难点在于要求成年人重新学习，或者说变得像孩子一样。"]
+“The difficulty comes in **asking**(要求) adults to **unlearn**, or become children again” ["难点在于要求成年人重新学习，或者说变得像孩子一样。"]
 
 > the difficulty lies in == the difficulty comes in
 > 难点在于...
@@ -127,9 +132,11 @@
 >
 > de-, 向下。mean,不友好。即 使下贱，贬损。
 >
+> 通常用来描述言行、态度或行为对他人的轻蔑、贬低或羞辱的性质。这个词通常用于描述不尊重或不礼貌的行为，可能使人感到受到伤害、贬低或被忽视。
+>
 > ---
 >
-> "Mean" 是一个多义的英语单词，可以作为动词、形容词和名词使用，具体用法取决于上下文。以下是 "mean" 的几种常见用法：
+> "mean" 是一个多义的英语单词，可以作为动词、形容词和名词使用，具体用法取决于上下文。以下是 "mean" 的几种常见用法：
 >
 > ### 作为动词：
 >
@@ -171,7 +178,7 @@
 >
 > 总的来说，"mean" 的确切含义取决于上下文，因此在理解和使用时要根据具体语境来把握其含义。
 
-“ An intelligent adult often feels it is **demeaning** to pay attention to simplistic definitions.”
+ “ An intelligent adult often feels it is **demeaning** to pay attention to simplistic definitions.”
 
 ---
 
@@ -224,7 +231,7 @@
 >
 > 请注意，“screw” 这个词有时可能在一些上下文中具有不雅或粗俗的含义，因此在正式场合或文学作品中，可能需要谨慎使用。
 
-“ How could something so simple be so **screwed up**”[这么简单的事情怎么就搞砸了]
+“ How could (something so simple) be (so **screwed up**)”[这么简单的事情怎么就搞砸了]
 
 ---
 
@@ -238,7 +245,6 @@
 >
 > ​	’该单词来自 future‘ 
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/6aed4e19ac682eb21c0940a0c1c7ac3b.jpg?)
 
 ---
 

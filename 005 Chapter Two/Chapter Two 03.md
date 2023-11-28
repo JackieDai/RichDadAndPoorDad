@@ -7,24 +7,90 @@
 > n.**繁荣；流行**，风靡；隆隆声；吊杆；帆桁；水栅
 >
 > v.迅速发展，繁荣；轰鸣，轰响；用低沉的声音说
+>
+> ---
+>
+> "Boom" 是一个多义词，可以用作名词或动词，具体的意义取决于上下文。以下是一些常见的用法：
+>
+> ### 名词用法：
+>
+> 1. **繁荣，经济增长：** "Boom" 可以指经济、商业或某个行业的繁荣和增长期。
+>
+>    - *Example: The 1920s were a time of economic boom in the United States.*
+>      （20世纪20年代是美国经济繁荣的时期。）
+>
+> 2. **爆炸声，轰鸣声：** "Boom" 也可以指爆炸声或某种深沉的轰鸣声。
+>
+>    - *Example: The boom of the thunder shook the windows.*
+>      （雷声的轰鸣震动了窗户。）
+>
+> ### 动词用法：
+>
+> 1. **急速增长，繁荣：** 作为动词，"boom" 表示快速增长，尤其是经济或商业方面的繁荣。
+>
+>    - *Example: The city boomed with the discovery of oil in the region.*
+>      （该地区发现石油后，城市迅速繁荣起来。）
+>
+> 2. **发出深沉的声音：** "Boom" 还可以表示发出深沉的声音，类似于爆炸或雷声。
+>
+>    - *Example: The fireworks boomed in the night sky.*
+>      （烟花在夜空中发出隆隆的声音。）
+>
+> 3. **快速行进：** 在一些领域，"boom" 可以表示快速行进，尤其是指速度很快的航行或移动。
+>
+>    - *Example: The ship boomed through the waves at full speed.*
+>      （船只以全速冲过波浪。）
+>
+> 总体而言，"boom" 是一个灵活的词汇，可以涉及经济、声音、速度等不同的概念。在使用时，要根据具体语境选择适当的含义。
 
 ## bust
 
 > **/bʌst/**
 >
 > n.半身像；女子胸部，胸围；突击搜查；没价值的事物；**经济萧条时期**
-> 
->v.弄坏，打碎；逮捕；降级；阻止，破坏；突袭，搜查；猛烈打击；打破，炸破
-> 
+>
+> v.弄坏，打碎；逮捕；降级；阻止，破坏；突袭，搜查；猛烈打击；打破，炸破
+>
 > adj.坏掉的；破产的
+>
+> ---
+>
+> "**Bust**" 是一个多义词，可以用作名词或动词，具体的含义取决于上下文。以下是一些常见的用法：
+>
+> ### 名词用法：
+>
+> 1. **半身雕像，胸像：** "Bust" 可以指一个人物的半身雕像，通常包括头部和胸部。
+>
+>    - *Example: The museum has a collection of Roman emperor busts.*
+>      （博物馆收藏了一些罗马皇帝的半身雕像。）
+>
+> 2. **经济衰退，不景气：** 在经济上，"bust" 可以表示衰退、不景气或崩溃的状态，与 "boom" 相对应。
+>
+>    - *Example: The stock market experienced a bust after the speculative bubble burst.*
+>      （股市在投机泡沫破裂后经历了一次衰退。）
+>
+> 3. **逮捕，抓获：** "Bust" 也可以用作俚语，表示逮捕某人。
+>
+>    - *Example: The police conducted a drug bust and arrested several suspects.*
+>      （警方进行了一次缉毒行动，逮捕了几名嫌疑人。）
+>
+> ### 动词用法：
+>
+> 1. **打破，破产：** 作为动词，"bust" 可以表示打破或破产。
+>
+>    - *Example: The company went bankrupt, and the CEO was accused of busting the business.*
+>      （公司破产了，CEO被指控破坏了业务。）
+>
+> 2. **查获，抓获：** "Bust" 还可以表示查获或抓获某人，通常用于警察行动。
+>
+>    - *Example: The police managed to bust the drug ring and seize a large quantity of illegal substances.*
+>      （警方成功打击了毒品团伙，查获了大量非法物质。）
+>
+> 总体而言，"bust" 是一个灵活的词汇，其具体含义会根据上下文而变化。在使用时要根据具体语境选择适当的含义。
 
-##  the ups and downs
+## parallel
 
-> 起伏不定：指生活或事物经历的波动和变化，包括成功和失败、喜悦和困难等各种情况。
-
-“ I suspect there will be many **booms**[繁荣] and **busts**[萧条] in the coming years that will parallel **the ups and downs** these men faced.”
-
-> parallel **/ˈpærəlel/**
+>  **/ˈpærəlel/**
 >
 > adj.平行的；相似的，同时发生的；（计算机）并行的；并联的
 >
@@ -50,6 +116,12 @@
 >
 > 总体而言，"parallel" 更强调在某些方面的相似性，而"similar" 则更广泛，可以用于描述各种类型的相似。选择使用哪个词通常取决于要强调的相似性的性质和范围。
 
+##  the ups and downs
+
+> 起伏不定：指生活或事物经历的波动和变化，包括成功和失败、喜悦和困难等各种情况。
+
+“ I suspect there will be many **booms**[繁荣] and **busts**[萧条] in the coming years that will parallel **the ups and downs** (that) these men faced.”
+
 ---
 
 ## concern
@@ -68,16 +140,15 @@
 
 > **/dɪˈspaɪt/**
 >
-> prep.
-> 尽管，即使；不由自主地，忍不住地
+> **despite == in spite of**
+> 
+>prep.尽管，即使；不由自主地，忍不住地
+> 
+> n.<古>亵渎；<古>轻蔑，鄙视
 >
-> n.
-> <古>亵渎；<古>轻蔑，鄙视
->
-> v.
-> <古>蔑视；<古>激怒
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/04cd75121fb14ee500f5049637f368c7.jpg?)
+> v.<古>蔑视；<古>激怒
+> 
+>![词条图片](https://ydlunacommon-cdn.nosdn.127.net/04cd75121fb14ee500f5049637f368c7.jpg?)
 
 ## tough
 
@@ -196,8 +267,9 @@
 
 > **/ˈlɑːtəri/**
 >
-> n.
-> 抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事
+> "lottery" 主要与抽奖、彩票有关，是一种随机选择获胜者的游戏或制度
+>
+> n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/a73edaf2c3f2b0b1ade744c53b012e08.jpg?)
 
@@ -209,11 +281,11 @@
 
 > **/kleɪm/**
 >
-> v.
-> **声称**，断言；索取，索要（钱）；要求（拥有），认领；使丧生，致命；赢得，获得；值得，需要（花时间或精力）
->
-> n.
-> 声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明
+> "claim" 可以表示对某物的要求、声称、索赔或取得，
+> 
+>v.**声称**，断言；索取，索要（钱）；要求（拥有），认领；使丧生，致命；赢得，获得；值得，需要（花时间或精力）
+> 
+> n.声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明
 
 ## wage
 

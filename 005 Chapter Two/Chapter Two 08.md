@@ -12,26 +12,24 @@
 
 > **/ˈvaɪt(ə)l/**
 >
-> adj.
-> 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的
->
-> n.
-> 身体的重要内脏，维持生命的重要器官（vitals）
->
-> 词根词缀： -vit-活 + -al形容词词尾
+> adj.至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的
+> 
+>n.身体的重要内脏，维持生命的重要器官（vitals）
+> 
+> 词根词缀： -vit-活,生命 + -al形容词词尾
 >
 > ---
 >
-> "**Vital**" 和 "**necessary**" 都是形容词，用来描述某事物的重要性，但它们之间有一些微妙的区别。
+> "**vital**" 和 "**necessary**" 都是形容词，用来描述某事物的重要性，但它们之间有一些微妙的区别。
 >
-> - **Vital:**
->   - "Vital" 强调对生命、健康、成功等方面的重要性。它通常与生命力、关键性或至关重要的事物相关。
+> - **vital:**
+>  - "Vital" 强调对生命、健康、成功等方面的重要性。它通常与生命力、关键性或至关重要的事物相关。
 >   - *Example: Sleep is vital for good health.*（睡眠对于健康至关重要。）
->
+> 
 > - **Necessary:**
->   - "Necessary" 强调某事物对于达到某个目标或完成某项任务的必需性。它可能不仅仅关乎生命和健康，也包括一般的需要和要求。
+>  - "Necessary" 强调某事物对于达到某个目标或完成某项任务的必需性。它可能不仅仅关乎生命和健康，也包括一般的需要和要求。
 >   - *Example: It is necessary to submit the report by Friday.*（必须在星期五前提交报告。）
->
+> 
 > 因此，"vital" 更强调对于生命或某一方面的重要性，而"necessary" 更广泛地表示为达到特定目标或满足需求所必需的。**在一些情况下，两者可能有重叠的使用**，但在语境中可能有所不同。
 
 “Many financial **novices** do not know the relationship between the Income Statement and the Balance Sheet, and it is **vital** to understand that relationship.”

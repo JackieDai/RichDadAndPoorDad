@@ -77,6 +77,8 @@ He was impressed with two of his uncles who joined the military and earned a ret
 
 > **/ˈtenjər/**
 >
+> "tenure" 是一个用于描述在某个职位上的长期、稳定或持久性的词汇，常见于学术界。
+>
 > n.（土地的）居住权，保有权；（尤指大学教师的）终身职位，长期聘用；（尤指重要政治职务的）任期，任职
 >
 > v.授予……终身职位（尤指教师、讲师职位）,**终身聘用**

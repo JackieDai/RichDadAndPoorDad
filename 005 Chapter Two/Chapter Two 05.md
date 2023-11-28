@@ -62,11 +62,13 @@
 
 ---
 
-## Agrarian
+## agrarian
 
 > **/əˈɡreriən/**
 >
 > adj.土地的；耕地的；有关土地的
+>
+> "agrarian" 一词通常用于描述涉及农业、农村、土地和与农民有关的事物
 
 in the **Agrarian** Age （在农业时代）
 
@@ -87,6 +89,10 @@ in the **Agrarian** Age （在农业时代）
 ## rage
 
 > 除了有 愤怒之意，还有 流行的意思
+>
+> ---
+>
+> "rage" 主要用来表达强烈的愤怒、狂怒或一种风靡的热潮。在日常用语中，可以用于形容个人的情绪或描述某种社会、文化现象的流行。
 
 “Dirt floors are still the rage.”[泥地板仍然很流行]
 

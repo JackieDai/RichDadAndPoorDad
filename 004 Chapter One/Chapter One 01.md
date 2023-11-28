@@ -8,7 +8,7 @@ My dad **put down** the evening paper.
 
 ---
 
-## incredulously 🚩
+## incredulously
 
 > **/ɪnˈkredʒələsli/**  
 >
@@ -144,7 +144,7 @@ We were **primarily** sugar-plantation town in Hawali.
 >
 > 这个词通常用来形容财富、资源或者流动性的丰富程度。例如，当我们说一个地区是 "affluent" 时，意味着那个地区的居民通常拥有高收入和较高的生活水平。这个词在英语中通常用来描述富裕、富有的状态或个体。
 
-## elementary 🚩
+## elementary
 
 > **/ˌelɪˈmentri/**
 >
@@ -192,7 +192,7 @@ The managers of the **plantation** and the other **affluent** people, such as do
 
 ---
 
-## intermediate🚩
+## intermediate
 
 > **/ˌɪntərˈmiːdiət/**
 >
@@ -201,14 +201,18 @@ The managers of the **plantation** and the other **affluent** people, such as do
 > n.中级水平者，中级学生；中间事物；（化合物）中间体
 >
 > v.充当调解人，斡旋
+>
+> ---
+>
+> 词根词缀： inter-中间,之间,相互 + -medi-中间 + -ate形容词词尾
 
 intermediate school 初中：通常指7年级到9年级的学校。
 
 ---
 
-## tell 🚩
+## tell
 
-> 文中是指看出，察觉到  的意思
+> 文中是指**看出，察觉到**  的意思
 >
 > v.
 > 告诉，告知；说，讲述；吐露，显示；**看出**，**确切地判断**；辨别，区别；命令，吩咐；告诉自己，暗自叮嘱；表明，说明；（不快的或令人疲倦的经历）产生效果，产生影响；泄密；数，计算；（通常指小孩）告状；警告，告诫；（某种因素）影响，起作用

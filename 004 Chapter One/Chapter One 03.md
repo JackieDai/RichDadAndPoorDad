@@ -82,6 +82,36 @@ I'm going to throw it out,
 > plead **/pliːd/**
 >
 > v.恳求，乞求；极力主张，极力为……辩护；（在法庭）申辩，认罪；（向法庭）陈述案情；以……为理由，提出……作借口
+>
+> ---
+>
+> "Plead" 和 "beg" 都是表示请求或乞求的动词，但它们之间有一些细微的区别。
+>
+> ### "Plead" 的用法：
+>
+> 1. **法庭上的恳求：** 在法律上，"plead" 常用于表示在法庭上对某事提出请求或辩护。
+>
+>    - *Example: The defendant decided to plead not guilty to the charges.*
+>      （被告决定对指控提出无罪辩护。）
+>
+> 2. **请求，恳求：** 在一般场合，"plead" 表示请求或恳求，但通常带有更正式的语气。
+>
+>    - *Example: He pleaded with his parents to let him go to the party.*
+>      （他请求父母允许他去参加聚会。）
+>
+> ### "Beg" 的用法：
+>
+> 1. **恳求，乞求：** "Beg" 表示强烈的请求或恳求，通常带有较强的感情色彩。
+>
+>    - *Example: The homeless man begged for food and shelter.*
+>      （无家可归的人乞求食物和庇护。）
+>
+> 2. **请求免除或宽恕：** "Beg" 有时也用于请求宽恕、饶恕或免除。
+>
+>    - *Example: She begged for forgiveness after realizing her mistake.*
+>      （她在意识到自己的错误后请求原谅。）
+>
+> 总体而言，"plead" 更常用于法律和正式场合，而 "beg" 更强调感情上的恳求，可以用于更广泛的语境中。选择使用哪个词取决于语境以及想要表达的程度和形式。
 
 Mike and I **pleaded** and begged, explaining that we would soon have enough and then we would begin production
 

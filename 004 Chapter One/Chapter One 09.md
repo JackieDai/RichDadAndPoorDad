@@ -60,7 +60,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 
 ## in a matter of...🚩
 
-> 在……的问题上；在……的事情上
+> 在...之内，表示某个时间段或某个范围内。
 >
 > · He solved the problem in a matter of minutes.
 >
@@ -158,12 +158,18 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 > **/ɪkˈskruːʃieɪtɪŋli/**
 >
 > adv.极其痛苦地；**难以忍受地**
-> 
->词根 词源  ex + cruel ==> (外面)超出 + 残酷
-> 
->---
-> 
->用来描述某事非常痛苦、难以忍受、或令人难以忍受的程度。这个词通常用于强调极端的痛苦或困扰。
+>
+> 词根 词源  ex + cruel ==> (外面)超出 + 残酷
+>
+> ---
+>
+> 用来描述某事非常痛苦、难以忍受、或令人难以忍受的程度。这个词通常用于强调极端的痛苦或困扰。
+>
+> ---
+>
+> excruciate	**/ɪkˈskruːʃiˌeɪt/**
+>
+> v.（使）受酷刑，折磨
 
 We spent three hours taking **canned** goods off the **shelves**, brushing each can with a **feather duster**(鸡毛掸子) to get the dust off, and then re-stacking them neatly. It was **excruciatingly** boring work.
 

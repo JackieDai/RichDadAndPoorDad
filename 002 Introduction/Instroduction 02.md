@@ -64,13 +64,37 @@ Instead, having two dads whom I loved forced me to think and **ultimately** choo
 
 ## turn out
 
-> 结果是，最后是
+> 1. **结果是，证明是：** 当你想要讲述某个事情的最终结果时，可以使用 "turn out"。
+>
+>    - *Example: The party turned out to be a great success.*
+>      （聚会最终证明是非常成功的。）
+>
+> 2. **原来是，事实证明：** 用于表达事情的真相或最终情况与最初期望或认知的不同。
+>
+>    - *Example: The weather turned out to be much better than we expected.*
+>      （天气原来比我们预期的好得多。）
+>
+> 3. **参与，出席：** 表示某人是否出席或参与了某个活动。
+>
+>    - *Example: Did many people turn out for the meeting?*
+>      （有多少人参加了会议？）
+>
+> 4. **生产，制造：** 在制造或生产方面，表示制造或生产出某物。
+>
+>    - *Example: The factory turns out hundreds of cars each day.*
+>      （该工厂每天生产数百辆汽车。）
+>
+> 5. **转变为，演变为：** 表示某物的发展或演变。
+>
+>    - *Example: The situation turned out to be more complicated than we thought.*
+>      （情况演变得比我们想象的更加复杂。）
+>
 
-## in the long run 
+## in the long run🚩
 
 > 从长远来看
 
-As a process, choosing for myself turned out to be much more valuable in the long run than simply accepting or rejecting a single point of view.
+As a process, choosing for myself **turned out** to be much more valuable **in the long run** than simply accepting or rejecting a single point of view.
 
 ---
 

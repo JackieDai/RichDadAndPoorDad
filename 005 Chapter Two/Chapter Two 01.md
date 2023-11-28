@@ -87,6 +87,10 @@ Why Teach Financial **Literacy**?
 > n.
 > 通货膨胀，通胀率；充气，膨胀，增大；（宇宙论某些理论）暴涨；夸张，自命不凡
 >
+> ---
+>
+> 词根词缀： in-入,向内 + -flat-吹 + -ion名词词尾
+>
 > ![](https://ydlunacommon-cdn.nosdn.127.net/52074a684c1e4c99394a8d3648a5b33a.jpg?)
 
 **stay ahead of infation**

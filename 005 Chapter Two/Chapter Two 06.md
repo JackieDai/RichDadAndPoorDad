@@ -22,7 +22,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/9ebff5f26c7fe86f5831ede02bc5ccd8.jpg?)
 
-“Construction on the **skyscraper** begins. ”
+“Construction on the **skyscraper** ”
 
 ---
 
