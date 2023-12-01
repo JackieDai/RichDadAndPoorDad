@@ -66,3 +66,43 @@ It took approximately 50 years in both England and the United States to **sell**
 
 ## constitutionally
 
+> **/ˌkɑːnstɪˈtuːʃənl/**
+>
+> adj.宪法的；宪法规定的，合乎宪法的；体质的，体格的；本性的，天性的
+>
+> n.<旧>保健散步
+
+## wound up
+
+> "wound up" 是一个口语表达，意思是最终、结果变成、以某种方式结束
+>
+> ---
+>
+> wound	**/wuːnd/**
+>
+> n.（刀、枪或其他武器所致的）创伤，伤口；（感情或名誉的）损害，痛苦
+>
+> v.（武器或其他利器）伤害，使受伤；（在感情上）使受创伤
+>
+> v.蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
+
+“in reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
+
+---
+
+## appetite
+
+> **/ˈæpɪtaɪt/**
+>
+> n.食欲，胃口；欲望，爱好
+
+“Once government got a taste of money, its **appetite** grew”
+
+## bureaucrat
+
+> **/ˈbjʊrəkræt/**
+>
+> n.官僚，官僚主义者, 官职，当官的人
+
+“ He’s a government **bureaucrat**, and I am a capitalist.”
+

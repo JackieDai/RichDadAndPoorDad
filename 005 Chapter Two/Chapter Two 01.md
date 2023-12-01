@@ -31,8 +31,6 @@ Why Teach Financial **Literacy**?
 >
 > n.
 > 新郎；马夫；<英>王室侍从官
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/5aed550904ffa70e8b90d3bc3d6a79ec.jpg?)
 
 ## take one’s place
 
@@ -67,6 +65,14 @@ Why Teach Financial **Literacy**?
 > **/ˌkætəˈklɪzmɪk/**
 >
 > adj.灾难性的；极不成功的；大变动的
+>
+> ---
+>
+> cataclysm  **/ˈkætəklɪzəm/**
+>
+> n.灾难；大洪水，地震；（社会政治的）大变动
+>
+> cata-, 向下。-clysm, 冲洗，流，词源可能同flow, flood. 原指大洪水。
 
 “**barring** **unforeseen** **cataclysmic** changes”
 
@@ -91,7 +97,6 @@ Why Teach Financial **Literacy**?
 >
 > 词根词缀： in-入,向内 + -flat-吹 + -ion名词词尾
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/52074a684c1e4c99394a8d3648a5b33a.jpg?)
 
 **stay ahead of infation**
 
@@ -109,9 +114,6 @@ Why Teach Financial **Literacy**?
 >
 > im-,进入，使，plant,种植。引申词义移植，灌输。
 >
-> ---
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/ef6b9cfdd6d7c7a39d7223eaee2a75f0.jpg?)
 
 “Its roots are **implanted** deep enough”
 

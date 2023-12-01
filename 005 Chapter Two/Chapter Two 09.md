@@ -8,8 +8,6 @@
 >
 > v.削弱，使失效
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/1bdd6ad44f53dde8ed36dc6fbbccf8f6.jpg?)
->
 > "flaw" 被用来指代一个**不完美、有问题的方面，可能是实物中的缺陷、计划中的问题，或者是个人品质中的缺点**。这个词通常带有负面的含义，暗示了一些需要修复或改进的地方。
 
 “The reason I started with the story of the richest men in America is to illustrate the **flaw** in believing that money will solve all problems. ”
@@ -96,6 +94,10 @@
 > 4. *It's tragic to see so much suffering in the world.*（看到世界上有这么多的苦难真是令人悲痛。）
 >
 > "Tragic" 这个词强调了与丧失、不幸或痛苦有关的深刻悲剧性质。在文学、艺术或日常用语中，这个词经常用来描述令人遗憾、令人心痛的事件或情境。
+
+## put a spotlight on ...
+
+> 表示将注意力集中在....上，使之成为关注焦点。
 
 ## spotlight
 

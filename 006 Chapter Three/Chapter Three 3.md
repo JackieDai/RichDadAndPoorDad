@@ -131,7 +131,7 @@
 
 > **/ˈskræmb(ə)l/**
 >
-> 文中是指 匆忙，忙乱的意思
+> 文中是指 **匆忙，忙乱**的意思
 >
 > v.（迅速而吃力地）爬，攀登；不规则地生长；匆忙地移动；仓促完成（困难的事）；匆忙穿（衣）（scramble into）；争夺，抢夺；变换……的无线电信号，倒换……的频率；扰乱（思维）；炒蛋；命令（飞机）紧急起飞，紧急起飞；（四分卫）持球跑进；打乱
 >
@@ -139,7 +139,7 @@
 
 ## put away
 
-> 放好 储存 存好 放置暂时不用
+> 放好 **储存** 存好 放置暂时不用
 
 “For many people, just as the last child leaves home, the parents realize they have not **adequately** prepared for retirement and they begin to **scramble** to<u> **put** some money **away**</u>(存一些钱).”
 

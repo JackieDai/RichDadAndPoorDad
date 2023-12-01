@@ -7,6 +7,11 @@
 > v.揭示，透露；表明，证明；展示，显示；（通过神或超自然手段）启示
 >
 > n.（电视节目最后的）揭示；门侧，窗侧
+>
+> ---
+>
+> 作为证明,证实的意思时
+> "reveal" 更强调揭示或展示信息，而 "prove" 更强调通过证据或实验证明某事的真实性或有效性。
 
 “<u>Other than(除了)</u> your home, is there something that you thought was an asset that later **revealed**(证实) itself to be a liability?”
 
@@ -33,6 +38,10 @@
 > v.完成，实现
 >
 > 词根词缀： ac-加强意义 + com-共同 + -pli-(充满,i省略) + -ish动词词尾 
+>
+> ---
+>
+> "Accomplish" 常用于描述取得某种成就、完成某项任务、实现目标或履行责任。它强调成功地完成某事，并常常与努力、计划或目标达成有关。
 
 “When was a time in your life that a seemingly positive **accomplishment**, such as <u>a promotion or raise</u>(升职加薪), didn’t lead to the balance-sheet result you expected?”
 

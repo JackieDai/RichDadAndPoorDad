@@ -271,7 +271,6 @@
 >
 > n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/a73edaf2c3f2b0b1ade744c53b012e08.jpg?)
 
 “ We’ve all heard stories of **lottery** winners who are poor, then suddenly rich, and then poor again. ”
 

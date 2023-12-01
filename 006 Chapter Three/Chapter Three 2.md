@@ -74,7 +74,7 @@
 
 > 大多数...
 
-fiscally
+## fiscally
 
 > **/ˈfɪskəli/**
 >
@@ -136,7 +136,7 @@ fiscally
 >
 >  fore-先,前 + cast(broadcast广播)
 
-“The International Labour Organization forecasted that 2017 global unemployment could reach 200 million.”
+“The International Labour Organization **forecasted** that 2017 global unemployment could reach 200 million.”
 
 ---
 

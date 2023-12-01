@@ -4,7 +4,7 @@
 
 > /fɑːnd/
 >
-> 文中是指美好的
+> 文中是指**美好的**
 >
 > adj.喜爱的，喜欢做……的；美好的，愉悦的；慈爱的，深情的；天真的，不切实际的
 >
@@ -14,7 +14,7 @@
 >
 > ---
 >
-> be fond of 喜欢爱好喜爱喜好
+> be fond of 喜欢 爱好 喜爱 喜好
 >
 > be fond of doing sth 对做某事感兴趣喜欢做某事对做某事感兴致
 >
@@ -22,7 +22,7 @@
 >
 > 来自古英语fon, 傻，简单，词源同fun. 词义由傻引申为发狂，喜爱，溺爱等。
 
- I enjoyed my time with those organizations and <u>have **fond** memories<有美好的回忆/u>, but I know deep down I am not a company man.
+ I enjoyed my time with those organizations and <u>have **fond** memories<有美好的回忆</u>, but I know deep down I am not a company man.
 
 ---
 
@@ -34,7 +34,7 @@
 >
 > ---
 >
-> di-, 表加强。-min, 小，词源同minus,minute. 即缩小，缩减。
+>  词根词缀： di-分离,分开 + -min-小 + -ish动词词尾
 
 “ Risk is **diminished** if you love what the investment is, understand it, and know the game.”
 
@@ -45,6 +45,11 @@
 > **/drəˈmætɪkli/**
 >
 > adv.剧烈地，**明显地；**戏剧性地，夸张地
+>
+> ---
+>
+> - "dramatically" 强调的是戏剧性的变化或显著的程度
+> -  "vehemently" 强调的是强烈的、激烈的表达方式，通常用来描述言辞、意见或情感的强烈程度。
 
 “This allows the value to increase **dramatically**.”
 
@@ -60,6 +65,36 @@
 >
 > ---
 >
+> "Odds" 这个词有多种用法，具体含义取决于上下文。以下是 "odds" 的一些常见用法：
+>
+> ### 名词用法：
+>
+> 1. **概率/可能性：**
+>    - *The odds of winning the lottery are very low.*（中彩票的概率非常低。）
+>    - *There are high odds of rain tomorrow.*（明天下雨的可能性很大。）
+>
+> 2. **对赌的比率/赔率：**
+>    - *The horse with the best odds won the race.*（赔率最好的马赢得了比赛。）
+>    - *What are the odds on that team winning the championship?*（那支球队赢得冠军的赔率是多少？）
+>
+> 3. **差异/不同：**
+>    - *They were at odds over how to handle the situation.*（他们在如何处理这种情况上意见不一。）
+>
+> ### 短语用法：
+>
+> 1. **At odds with:**
+>    - *His opinion is at odds with the majority of the team.*（他的观点与大多数团队成员的观点不一致。）
+>
+> 2. **Even odds:**
+>    - *The game is evenly matched, with even odds for both teams.*（比赛势均力敌，两支球队的胜算相等。）
+>
+> 3. **Against all odds:**
+>    - *She succeeded against all odds and became a successful entrepreneur.*（她克服了一切困难，成为了一位成功的企业家。）
+>
+> 总的来说，"odds" 可以表示概率、对赌的比率、差异、不一致，以及一些常见的短语表达。具体的含义需要根据具体的语境来理解。
+>
+> ---
+>
 > 来自odd,偶然发生的，此处形容词做名词，-s,复数后缀。原用于赌博赔率，引申词义机会，可能性。
 >
 > ---
@@ -70,7 +105,7 @@
 >
 > adv.（用于数字后）大约，左右
 
-“But the **odds** are against success: Nine out of ten companies fail in five years.”
+“But <u>the **odds** are against success</u>: Nine out of ten companies fail in five years.”
 
 > 这句话中的关键词解释如下：
 >
@@ -108,6 +143,10 @@
 >
 > ---
 >
+>  词根词缀： di-分离 + -stinct-刺 + ion → 以刺的记号区分
+>
+> ---
+>
 > "Distinction" 和 "difference" 都是描述两个或多个事物之间的差异的词汇，但它们在使用上有一些区别。
 >
 > 1. **Distinction（区别）:**
@@ -130,7 +169,13 @@
 >
 > adv.有推动力地, 冲动性地，
 >
-> 词根词缀： im-向内 + -puls-推动
+> ---
+>
+> "Impulsively" 是 "impulsive" 的副词形式，用来描述做事缺乏深思熟虑、冲动或突发奇想的方式
+>
+> ---
+>
+> 词根词缀： im-向内 + -puls-推动 + ly
 
 “Most people **impulsively** go out and buy a new car, or some other luxury, on credit. 
 
@@ -146,6 +191,16 @@
 >
 > ---
 >
+> - "bored" 用来描述人的感受，表示感到无聊或厌烦；
+>
+> - "boring" 用来描述事物的特性，表示令人感到无聊或令人失去兴趣。
+>
+>   
+>
+>   因此，一个人可能感到 bored，而一件事物可能是 boring。
+>
+> ---
+>
 > bore  **/bɔːr/**
 >
 > v.使厌烦，使讨厌；钻（孔），挖（洞）；盯着看
@@ -156,6 +211,16 @@ They may feel **bored** and just want a new toy.
 
 ---
 
+## cause sb to do sth
+
+> 导致某人做某事	
+>
+> 使某人做某事
+>
+> 使某人干某事
+>
+> 使某人做
+
 ## resent
 
 > **/rɪˈzent/**
@@ -163,6 +228,10 @@ They may feel **bored** and just want a new toy.
 > v.怨恨，憎恶
 >
 > 词根词缀： re-回,向后;相反,反对 + -sent-感觉 → 反感
+>
+> ---
+>
+> "Resent" 表达了一种对被冤屈或不公平对待的强烈反感或愤怒情绪。这个词强调了对某人、某事或某种对待的不满。
 
 ## burden
 

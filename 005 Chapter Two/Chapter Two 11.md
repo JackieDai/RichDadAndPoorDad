@@ -63,7 +63,7 @@ finanical aptitude  [财务能力]
 
 ---
 
-## cramped🚩
+## cramped
 
 > **/kræmpt/**
 >
@@ -151,7 +151,7 @@ finanical aptitude  [财务能力]
 
 > 除此之外：表示在已经提到的事物之外，还有其他事物需要考虑。
 
-## deduct from🚩
+## deduct from
 
 > 从……中扣除：从某个总数或金额中减去一部分。
 >
@@ -163,7 +163,7 @@ finanical aptitude  [财务能力]
 >
 > 词根词缀： de-下降,减少 + -duct-引导
 
-## withholding🚩
+## withholding
 
 > **/wɪðˈhoʊldɪŋ; wɪθˈhoʊldɪŋ/**
 >
@@ -183,7 +183,7 @@ finanical aptitude  [财务能力]
 
 ---
 
-## appliance🚩
+## appliance
 
 > **/əˈplaɪəns/**
 >
@@ -201,11 +201,11 @@ finanical aptitude  [财务能力]
 >
 > 灯突然熄灭，我们陷入了完全的黑暗。
 
-“**All of a sudden**, they wake up and their liabilities column is full of mortgage and credit-card debt. Their liabilities go up.”
+“**All of a sudden**, they wake up and their liabilities column is full of mortgage and credit-card debt. Their liabilities <u>go up.(上升)</u>”
 
 ---
 
-## bracket creep🚩
+## bracket creep
 
 > 税负膨胀：由于收入上涨而进入更高税收档位的现象，旨在抵消通货膨胀的影响。
 >

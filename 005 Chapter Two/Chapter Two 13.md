@@ -26,6 +26,8 @@
 >
 >legend 可以表示传说故事、传奇人物、图例或非常出色的人或事物。
 
+“This self-knowledge, according to Japanese **legend**, was the most treasured of the three.”
+
 ---
 
 ## wisdom

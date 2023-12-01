@@ -52,15 +52,13 @@
 
 > 值得，配得上
 >
-> 
->
 > ---
 >
 > "worthy" 常用于描述某人、某物或某行为在某种方面具有价值、优越性或值得肯定。
 >
 > 但是在下面的句子中，worthy 表示 **相称的，匹配的**意思
 
-“Robert and his childhood friend Mike, however, were given a strong foundation worthy of a skyscraper thanks to the teaching of the rich dad.”
+“Robert and his childhood friend Mike, however, were given a strong foundation **worthy of** a skyscraper thanks to the teaching of the rich dad.”
 
 >然而，罗伯特和他的童年朋友迈克得到了一个坚实的基础，这个基础堪比摩天大楼，这要归功于富有的父亲的教导。
 >
@@ -96,9 +94,15 @@
 
 ## hit
 
-> 在这里，hit 表示 "碰到, 遇到"
+> The couple is **hit** with 
+>
+> - 在这里，hit 表示 "碰到, 遇到"
+>
+> gives the biggest **hit**
+>
+> - 这里 hit 表示 冲击，打击的意思
 
-“The couple is **hit** with the No. 1 expense for most people: taxes. And for many people, **it’s no**t income tax that gives the biggest hit **but** Social Security.”
+“The couple is **hit** with the No. 1 expense for most people: taxes. And for many people, **it’s no**t income tax that gives the biggest **hit** **but** Social Security.”
 
 > “这对夫妇面临了大多数人最大的开支：税收。而对于许多人来说，最大的开支不是所得税，而是社会保障。”
 >

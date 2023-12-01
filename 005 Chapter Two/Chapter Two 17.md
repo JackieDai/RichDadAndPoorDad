@@ -39,6 +39,20 @@
 
 > 在某个领域或方面取得进步或提升
 >
+> ---
+>
+> advance /ædˈvæns/
+>
+> 理解，是一个积极意义的词语，意味着 前进，进步，领先 的意思
+>
+> v.（使）前进，（使）向前移动；发展，进步；预付；提前，提早；促进，推动；提出（想法或理论）；上涨，增加；提拔，晋升
+>
+> n.前进；进步，进展；改善；预付款；勾引，追求；（价格、价值的）上涨；贷款
+>
+> adj.预先的，事先的；先行的，先遣的
+>
+> ---
+>
 > TODO: @lingxiao 总结  英语中 表示 进步，提升的词汇
 
 They may be **advance in** their jobs and receiving pay raises.
@@ -53,7 +67,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > 来自 shake,摇动，摇晃，-y,形容词后缀。
 >
-> 文中是指**"不牢靠的，脆弱的"**意思
+> 文中是指**"不牢靠的，脆弱的"**意思。常用来描述不稳定、摇摆或不安定的状态
 
 “The massive loss of jobs in recent times proves how **shaky** the middle class really is financially.”
 

@@ -40,8 +40,6 @@
 >
 > n.干预，介入；调停，斡旋；（为改善情况尤指病痛采取的）措施，做法
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/de9adf53ae9861edfe6b7dc025d2b61e.jpg?)
->
 > 词根词缀： inter-中间,之间,相互 + -vent-来 + -ion名词词尾
 
 government **intervention** [政府干预]
