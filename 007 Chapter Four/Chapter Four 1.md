@@ -5,6 +5,8 @@
 > **/ˌkɔːrpəˈreɪʃ(ə)n/**
 >
 > n.社团，公司，法人（团体）；市政当局
+>
+> "Corporation" 这个词通常用来指代一种商业实体或法人，其规模和组织形式可能因行业和国家而异。
 
 ---
 
@@ -31,6 +33,10 @@
 > n.幻想，想象；想象产物，幻想作品；虚拟比赛（游戏）；幻想曲，集成曲；期望
 >
 > v.想象，幻想
+>
+> ---
+>
+> "Fantasy" 这个词通常与想象力、虚构、奇幻故事等相关，可以用来描述包括文学、艺术、电影等多种领域中的非现实或虚构的元素。
 
 “It is this Robin Hood **fantasy**, or taking from the rich to give to the poor, that has caused the most pain for the poor and the middle class. ”
 
@@ -38,7 +44,7 @@
 
 ## fashion
 
-> 文中是指 **“塑造”**的意思
+> > 文中是作为动词指 **“塑造”**的意思
 >
 > n.时髦打扮，流行装扮；时尚，时兴；（做事的）方式；时装领域，时尚界
 >
@@ -55,6 +61,10 @@
 > v.征收（罚款、税款等）；扣押财产（以执行判决）；<古>征兵；发动（战争）
 >
 > n.征收额，税款；（为执行判决而进行的）财产扣押；征兵
+>
+> ---
+>
+> "levy" 作为动词通常表示征收或提出，而作为名词表示征税、费用、军队的征兵人数等。
 
 “Occasionally, there were temporary taxes **levied** in order to pay for wars. ”
 
@@ -65,6 +75,10 @@
 > **/tʃɪp ɪn/**
 >
 > 捐助；插嘴；下赌注
+>
+> > 文中是指  “捐助”的意思。
+> >
+> > "Chip in" 是一个短语动词，通常用来表示参与、投入、或捐助。
 >
 > ---
 >
@@ -81,6 +95,8 @@ The king or the president would put the word out and ask everyone to **“chip i
 ## permanent
 
 > **/ˈpɜːrmənənt/**
+>
+> > 用来描述持久的、永久的，或长期存在的状态。
 >
 > adj.永久的，永恒的；（尤指问题或困难）不断出现的，一直存在的；（员工）终生的，长期的；（家庭住址）固定的
 >

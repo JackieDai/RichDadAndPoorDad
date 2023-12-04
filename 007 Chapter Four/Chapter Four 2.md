@@ -11,6 +11,13 @@
 > ---
 >
 > 词根词缀： in-加强意义 + -cid-降临 + -ent名词词尾
+>
+> ---
+>
+> 虽然 "incident" 和 "accident" 在某些语境下可能重叠使用，但
+>
+> - "incident" 更通常用于描述发生的事情，无论其性质如何，
+> -  "accident" 更强调无意识的事件，特别是导致损害或伤害的情况。
 
 ## ignite
 
@@ -21,6 +28,10 @@
 > ---
 >
 > 词根词缀： -ign-火 + -ite动词词尾
+>
+> ---
+>
+> 这个词通常用于描述火焰、火药、情感等的开始或引发。
 
 ## revolutionary
 
@@ -30,7 +41,7 @@
 >
 > n.革命者，革命家
 
-“ It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **incident** that helped **ignite** the Revolutionary War. ”
+“ It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **incident** that helped **ignite** the **Revolutionary** War. ”
 
 > Tea Party in Boston Harbor : 波士顿港的茶党事件.
 >
@@ -76,6 +87,8 @@ It took approximately 50 years in both England and the United States to **sell**
 
 > "wound up" 是一个口语表达，意思是最终、结果变成、以某种方式结束
 >
+> 参考 wind up,  [wound 是 wind 的过去式]
+>
 > ---
 >
 > wound	**/wuːnd/**
@@ -95,12 +108,14 @@ It took approximately 50 years in both England and the United States to **sell**
 > **/ˈæpɪtaɪt/**
 >
 > n.食欲，胃口；欲望，爱好
+>
+> 通常用来指食欲，但它也可以在其他方面表示对某种事物的渴望或欲望。
 
 “Once government got a taste of money, its **appetite** grew”
 
 ## bureaucrat
 
-> **/ˈbjʊrəkræt/**
+> **/ˈbjʊərəˌkræt/**
 >
 > n.官僚，官僚主义者, 官职，当官的人
 

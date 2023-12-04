@@ -5,6 +5,10 @@
 > n.目的，目标；出击目标（尤指在军事攻击中)；（望远镜或显微镜中的）物镜；出击目标（尤指在军事攻击中）；宾格
 >
 > adj.客观的，不带个人情感的；客观存在的；宾格的；目标的
+>
+> ---
+>
+> "Objective" 这个词的意义取决于其是作为形容词还是名词出现，但总体而言，它与客观性、实际性、目标设定等相关。
 
 They have different **objectives** than most business people.
 
@@ -15,6 +19,8 @@ They have different **objectives** than most business people.
 > **/sɪnˈsɪrli/**
 >
 > adv.由衷地，真诚地
+>
+> > "Sincerely" 在书面表达中常常用于表示真挚、真诚或正式的结束语，通常出现在信函、邮件、感谢信、表扬信等正式场合。
 >
 > ---
 >
@@ -35,6 +41,8 @@ They have different **objectives** than most business people.
 > strive **/straɪv/**
 >
 > v.努力，力争；斗争，反抗
+>
+> > 表示努力奋斗、争取或追求某个目标。
 
 ## grant
 
@@ -63,6 +71,10 @@ They have different **objectives** than most business people.
 > adj.重要的，著名的；显眼的，突出的；突起的，高耸的
 >
 > n.舟蛾（=prominent moth）
+>
+> pro-,向前，-min,伸出，词源同eminent,mountain.即突出来的，引申词义显著的，突出的。
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/88c1c574a3a067c9d1c6f3ab04660227.jpg?)
 
 “ It was difficult to go to work for one of the biggest capitalists in town and come home to a father who was a **prominent** government leader. ”
 
@@ -153,6 +165,8 @@ They have different **objectives** than most business people.
 
 ## trickle
 
+> **/ˈtrɪkl/**
+>
 > v.（使）滴，淌；（小批地）慢慢移动；（球）缓慢滚动
 >
 > n.慢速移动；滴，淌，细流
