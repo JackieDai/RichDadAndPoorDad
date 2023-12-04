@@ -32,9 +32,11 @@
 >
 > v.减弱，降低，减少；贬低，轻视
 >
+> "diminish" 的意思通常涉及到某物减少或变得不如之前显著。在不同的语境中，它可以用于形容数量、程度、重要性、价值、声望等的减少。
+>
 > ---
 >
->  词根词缀： di-分离,分开 + -min-小 + -ish动词词尾
+> 词根词缀： di-分离,分开 + -min-小 + -ish动词词尾
 
 “ Risk is **diminished** if you love what the investment is, understand it, and know the game.”
 
@@ -130,6 +132,8 @@
 > indulge	**/ɪnˈdʌldʒ/**
 >
 > v.沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
+>
+> 常用来表示纵容、迁就或沉溺于某种欲望或行为。
 
 “As your cash flow grows, you can **indulge in** some luxuries.”
 
@@ -139,11 +143,13 @@
 
 > **/dɪˈstɪŋkʃn/**
 >
+> > 理解为 **区别** 的意思便可。
+>
 > n.差别，区分；杰出，卓越；特点；荣誉
 >
 > ---
 >
->  词根词缀： di-分离 + -stinct-刺 + ion → 以刺的记号区分
+> 词根词缀： di-分离 + -stinct-刺 + ion → 以刺的记号区分
 >
 > ---
 >
@@ -169,9 +175,13 @@
 >
 > adv.有推动力地, 冲动性地，
 >
+> > 这个词用来形容做事莽撞，缺乏考虑，冲动
+>
 > ---
 >
 > "Impulsively" 是 "impulsive" 的副词形式，用来描述做事缺乏深思熟虑、冲动或突发奇想的方式
+>
+> "Impulsive" 是一个形容词，用来描述那些冲动、即兴行动的人或事物。这个词通常用来形容缺乏深思熟虑、迅速做决定的特质
 >
 > ---
 >
@@ -240,6 +250,8 @@ They may feel **bored** and just want a new toy.
 > n.负担，责任；负重，负荷；船的载重量，吨位；（演讲、书或辩论的）主题，主旨（the burden）
 >
 > v.烦扰，使负重担
+>
+> "Burden" 这个词强调了负担的沉重和对个人或组织的压力。在日常用语中，它经常用来描述那些由责任、困境或艰难情况引起的重负。
 
 Buying a luxury on credit often causes a person to eventually **resent** that luxury because the debt becomes a financial **burden**.”
 
