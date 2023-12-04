@@ -1,6 +1,6 @@
 [TOC]
 
-## boom
+## boom🚩
 
 > **/buːm/**
 >
@@ -43,7 +43,7 @@
 >
 > 总体而言，"boom" 是一个灵活的词汇，可以涉及经济、声音、速度等不同的概念。在使用时，要根据具体语境选择适当的含义。
 
-## bust
+## bust🚩
 
 > **/bʌst/**
 >
@@ -120,7 +120,7 @@
 
 > 起伏不定：指生活或事物经历的波动和变化，包括成功和失败、喜悦和困难等各种情况。
 
-“ I suspect there will be many **booms**[繁荣] and **busts**[萧条] in the coming years that will parallel **the ups and downs** (that) these men faced.”
+“ I suspect there will be many **booms**[繁荣] and **busts**[萧条] in the coming years that will **parallel** **the ups and downs** (that) these men faced.”
 
 ---
 

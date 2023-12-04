@@ -159,7 +159,7 @@ malpractice lawsuits; [医疗事故诉讼]
 
 ---
 
-## pursue
+## pursue🚩
 
 > **/pərˈsuː/**
 >

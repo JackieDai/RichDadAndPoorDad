@@ -60,7 +60,6 @@
 >
 > 词根词缀： dis-分开 + crimin(-cern-)区分 + -ation
 >
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/64a5e61a2c07e8c94c08820967fa3455.jpg?)
 
 “ His story made national news and he is **appealing** his **termination**, claiming **hardship** and **discrimination**.”
 

@@ -95,6 +95,7 @@ A few rejection **slips** offered comments like "You do not know what you are ta
 ## prophetic
 
 > **/prəˈfetɪk/**
+>
 > adj.预言的，预示的；先知的
 >
 > prophetic预言的==>来自prophet,预言家。

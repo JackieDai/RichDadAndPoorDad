@@ -1,6 +1,6 @@
 [TOC]
 
-## novice
+## novice🚩
 
 > **/ˈnɑːvɪs/**
 >
@@ -36,7 +36,7 @@
 
 ---
 
-## plot
+## plot🚩
 
 > **/plɑːt/**
 >
@@ -74,7 +74,7 @@
 
 ---
 
-## get ahead
+## get ahead🚩
 
 > 取得成功，取得进展，提升地位
 >
@@ -146,7 +146,7 @@ In 80 percent of most families, the financial story paints a picture of hard wor
 
 ---
 
-## dividend
+## dividend🚩
 
 > **/ˈdɪvɪdend/**
 >

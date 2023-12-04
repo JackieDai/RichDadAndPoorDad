@@ -1,6 +1,6 @@
 [TOC]
 
-## absurdly
+## absurdly🚩
 
 > **/əbˈsɜːrdli/**
 >
@@ -18,17 +18,10 @@
 >
 > ---
 >
-> **Absurdly** 是一个副词，用来描述某事物或行为非常荒谬、荒唐或荒诞不经的程度。以下是一些例句，展示了这个词的用法：
->
-> 1. *He was dressed absurdly, wearing a suit to the beach.*（他穿着荒谬可笑，竟然在沙滩上穿着西装。）
->
-> 2. *The idea of a talking dog seemed absurdly unrealistic.*（有只能说话的狗的想法似乎非常荒诞不经。）
->
-> 3. *She laughed absurdly when he suggested they should build a spaceship in their backyard.*（当他建议他们在后院建造一艘宇宙飞船时，她荒谬地笑了起来。）
->
-> 在这些例子中，"absurdly" 用来强调事物或行为的荒谬程度，表明其违背常理或理智。这个副词有时也可以用来表示某事过于夸张或不合理。
+> - "Absurd" 更强调事物与常理相悖
+>- "ridiculous" 则强调事物荒谬可笑，可能带有一些嘲笑或轻蔑的语气。
 
-## profound
+## profound🚩
 
 > **/prəˈfaʊnd/**
 >
@@ -122,7 +115,7 @@
 
 ---
 
-## demeaning
+## demeaning🚩
 
 > **/dɪˈmiːnɪŋ/**
 >
@@ -182,7 +175,7 @@
 
 ---
 
-## screw up
+## screw up🚩
 
 > 搞砸：犯错误，导致事情失败或出现问题。
 >
@@ -231,7 +224,7 @@
 >
 > 请注意，“screw” 这个词有时可能在一些上下文中具有不雅或粗俗的含义，因此在正式场合或文学作品中，可能需要谨慎使用。
 
-“ How could (something so simple) be (so **screwed up**)”[这么简单的事情怎么就搞砸了]
+“ How could <u>something so simple</u> be <u>so **screwed up**</u>”[这么简单的事情怎么就搞砸了]
 
 ---
 

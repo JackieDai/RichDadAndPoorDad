@@ -1,6 +1,6 @@
 [TOC]
 
-## exile
+## exile🚩
 
 > **/ˈeksaɪl/**
 >
@@ -68,7 +68,7 @@
 
 ---
 
-## crucial
+## crucial🚩
 
 > **/ˈkruːʃ(ə)l/**
 >

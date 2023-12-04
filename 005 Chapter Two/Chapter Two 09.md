@@ -12,7 +12,7 @@
 
 “The reason I started with the story of the richest men in America is to illustrate the **flaw** in believing that money will solve all problems. ”
 
-## cringe
+## cringe🚩
 
 > **/krɪndʒ/**
 >
@@ -38,7 +38,7 @@
 
 ---
 
-## compound
+## compound🚩
 
 > **/ˈkɑːmpaʊnd/**
 >
@@ -159,11 +159,11 @@
 
 > 彩票奖金
 
-“That is why, all too often, a person who comes into a sudden **windfall** of cash—let’s say an inheritance, a pay raise, or **lottery winnings**—soon returns to the same financial mess(这里mess 指 困境，混乱局面)”
+“That is why, all too often, a person who **comes into** a sudden **windfall** of cash—let’s say an inheritance, a pay raise, or **lottery winnings**—soon returns to the same financial mess(这里mess 指 困境，混乱局面)”
 
 ---
 
-## accentuate
+## accentuate🚩
 
 > **/əkˈsentʃueɪt/**
 >

@@ -135,6 +135,11 @@ As a young boy having two fathers, I became **acutely** aware of being careful a
 > ---
 >
 > 词根词缀： -trem-发抖 + -end名词词尾 + -ous形容词词尾
+>
+> ---
+>
+> - "tremendous" 主要用于形容量、程度、感觉等。
+> - "vehemently" 则用于描述表达、否认、辩论等动作或情感。
 
 ## respect
 
