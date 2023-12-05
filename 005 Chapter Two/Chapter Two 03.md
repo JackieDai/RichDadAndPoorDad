@@ -204,52 +204,48 @@
 
 > **/rʌf/**
 >
-> adj.
-> （表面）粗糙的，不平的；（网球或软式墙网球拍）粗面的；粗暴的，猛烈的；（地方）多暴力的，犯罪盛行的；汹涌的，风浪很大的；粗制的，不完善的；粗俗的，不讲究的；粗略的，大致的；<非正式> **艰难的，不愉快的**；<英，非正式> 身体不适的；（声音）粗哑的，不悦耳的；（酒）涩味的；未经加工的；（文具）用以打草稿的
+> adj.（表面）粗糙的，不平的；（网球或软式墙网球拍）粗面的；粗暴的，猛烈的；（地方）多暴力的，犯罪盛行的；汹涌的，风浪很大的；粗制的，不完善的；粗俗的，不讲究的；粗略的，大致的；<非正式> **艰难的，不愉快的**；<英，非正式> 身体不适的；（声音）粗哑的，不悦耳的；（酒）涩味的；未经加工的；（文具）用以打草稿的
+> 
+>n.（高尔夫球场的）深草区（the rough）；草稿，草图；<旧，非正式> 粗野的人，暴徒；未加工的宝石；高低不平的地面；粗糙的部分；艰苦，不愉快
+> 
+> v.粗制，对……粗加工；草拟，画……的轮廓；使不平，把……弄毛糙；<非正式> 因陋就简地生活；粗暴地对待；（在美式橄榄球、冰球等比赛中对对手）动粗
 >
-> n.
-> （高尔夫球场的）深草区（the rough）；草稿，草图；<旧，非正式> 粗野的人，暴徒；未加工的宝石；高低不平的地面；粗糙的部分；艰苦，不愉快
->
-> v.
-> 粗制，对……粗加工；草拟，画……的轮廓；使不平，把……弄毛糙；<非正式> 因陋就简地生活；粗暴地对待；（在美式橄榄球、冰球等比赛中对对手）动粗
->
-> adv.
-> <非正式> 粗糙地，粗暴地；<英> 风餐露宿
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/1de7ef9c51303426e51dec1c0697b2f3.jpg?)
->
+> adv.<非正式> 粗糙地，粗暴地；<英> 风餐露宿
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/1de7ef9c51303426e51dec1c0697b2f3.jpg?)
+> 
 > ---
 >
 > "Rough" 是一个多义词，以下是一些常见的用法：
 >
 > 1. **粗糙的、不平整的（Coarse or Uneven）：**
->    - *例句：The surface of the rock was rough and difficult to walk on.*（岩石表面粗糙，难以行走。）
->
-> 2. **艰难的、困难的（Difficult or Challenging）：**
+>   - *例句：The surface of the rock was rough and difficult to walk on.*（岩石表面粗糙，难以行走。）
+> 
+>2. **艰难的、困难的（Difficult or Challenging）：**
 >    - *例句：He had a rough time adjusting to the new job.*（他在适应新工作时遇到了一些困难。）
->
-> 3. **粗暴的、粗野的（Rude or Uncivil）：**
+> 
+>3. **粗暴的、粗野的（Rude or Uncivil）：**
 >    - *例句：His rough manners offended some of the guests.*（他粗鲁的举止冒犯了一些客人。）
->
-> 4. **大致的、概略的（Approximate or General）：**
+> 
+>4. **大致的、概略的（Approximate or General）：**
 >    - *例句：We have a rough estimate of the costs, but the details are still being worked out.*（我们对成本有一个大致的估计，但细节仍在制定中。）
->
-> 5. **不精致的、简陋的（Not Fine or Elegant）：**
+> 
+>5. **不精致的、简陋的（Not Fine or Elegant）：**
 >    - *例句：The campsite had only rough facilities, but we enjoyed the natural surroundings.*（露营地的设施很简陋，但我们喜欢这自然的环境。）
->
-> 6. **汹涌的、波涛汹涌的（Stormy or Turbulent）：**
+> 
+>6. **汹涌的、波涛汹涌的（Stormy or Turbulent）：**
 >    - *例句：The sea was rough, and the boat struggled in the high waves.*（海面波涛汹涌，船在巨浪中艰难前行。）
->
-> ---
->
+> 
+>---
+> 
 > 在某些情境下，"rough" 和 "tough" 在表示艰难、困难的意义上可以互换使用，但它们并不是完全等同的。有时候，它们的用法会有一些微妙的区别。
 >
 > - "Rough" 更强调外部环境或状况的困难，可能涉及到一些不确定性、不适应、或外部条件的恶劣。例如：
->   - *例句：The journey through the mountains was rough due to the rocky terrain and unpredictable weather.*（由于崎岖的地形和变幻莫测的天气，穿越山区的旅程很艰难。）
->
-> - "Tough" 更侧重于描述任务、工作、或局面本身的难度，强调的是对个体的挑战。例如：
+>  - *例句：The journey through the mountains was rough due to the rocky terrain and unpredictable weather.*（由于崎岖的地形和变幻莫测的天气，穿越山区的旅程很艰难。）
+> 
+>- "Tough" 更侧重于描述任务、工作、或局面本身的难度，强调的是对个体的挑战。例如：
 >   - *例句：The exam was tough; many students found it difficult to complete in the given time.*（这次考试很难；许多学生发现在规定的时间内难以完成。）
->
+> 
 
 ## a rough ride
 

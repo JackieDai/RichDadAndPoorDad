@@ -11,36 +11,33 @@
 >
 > v.
 > 呼吁，恳求；上诉，申诉；有吸引力，引起兴趣；启发，打动
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/b14fd129d79c443400d017a73e027a0c.jpg?)
 
 ## termination
 
 > **/ˌtɜːrmɪˈneɪʃ(ə)n/**
 >
-> n.
-> 终止妊娠，人工流产；结束，终止；<美>**解聘，解雇**；<美>暗杀；词尾（尤指屈折变化或派生词的词尾）；<古>结局
->
-> ---
->
-> 在表示雇佣时:
+> n.终止妊娠，人工流产；结束，终止；<美>**解聘，解雇**；<美>暗杀；词尾（尤指屈折变化或派生词的词尾）；<古>结局
+> 
+>---
+> 
+>在表示雇佣时:
 > "Termination" 和 "fire" 都与雇佣关系的结束有关，但它们在用法和含义上有所不同。
->
-> ### "Termination" 的用法：
->
-> "Termination" 是一个比较正式的术语，用于表示雇佣关系的结束，通常指的是雇员离职、解雇或合同到期等情况。它可以表示结束雇佣关系的任何原因，包括雇员自愿离职、雇主解雇、或者合同期满。
->
-> - *Example: The termination of his employment was due to restructuring within the company.*
+> 
+>### "Termination" 的用法：
+> 
+>"Termination" 是一个比较正式的术语，用于表示雇佣关系的结束，通常指的是雇员离职、解雇或合同到期等情况。它可以表示结束雇佣关系的任何原因，包括雇员自愿离职、雇主解雇、或者合同期满。
+> 
+>- *Example: The termination of his employment was due to restructuring within the company.*
 >   （他的雇佣关系终止是因为公司内部重组。）
->
-> ### "Fire" 的用法：
->
-> "Fire" 是一个口语化的词汇，用于表示雇员被解雇或开除。这个词通常强调雇主采取了主动行动，中断雇佣关系，并且有时可能伴随着负面的情感。
->
-> - *Example: She was fired from her job for consistently arriving late to work.*
+> 
+>### "Fire" 的用法：
+> 
+>"Fire" 是一个口语化的词汇，用于表示雇员被解雇或开除。这个词通常强调雇主采取了主动行动，中断雇佣关系，并且有时可能伴随着负面的情感。
+> 
+>- *Example: She was fired from her job for consistently arriving late to work.*
 >   （因为经常迟到，她被解雇了。）
->
-> 总体而言，"termination" 更为正式和广泛，可以包括各种结束雇佣关系的原因，而 "fire" 更口语化，强调解雇的行为，通常涉及雇员表现不佳或违反公司规定。选择使用哪个词汇取决于语境和表达的程度。
+> 
+>总体而言，"termination" 更为正式和广泛，可以包括各种结束雇佣关系的原因，而 "fire" 更口语化，强调解雇的行为，通常涉及雇员表现不佳或违反公司规定。选择使用哪个词汇取决于语境和表达的程度。
 
 ## hardship
 
@@ -48,7 +45,6 @@
 >
 > n.困苦，艰难
 > 
->![词条图片](https://ydlunacommon-cdn.nosdn.127.net/80e393fd9402aa0ccbd120ddbba79773.jpg?)
 
 ## discrimination🚩
 
