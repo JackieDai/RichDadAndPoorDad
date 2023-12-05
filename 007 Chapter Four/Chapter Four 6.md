@@ -88,3 +88,19 @@
 
 Although I was **excited** by the idea, my **inexperience** wouldn’t let me **envision** the possibility that grown-ups would someday work for a company I would own.
 
+## merely
+
+> **/ˈmɪrli/**
+>
+> adv.仅仅，只（用于强调某物小或微不足道）；无非是……，不过是……（指某事的原因或影响）
+
+## keep...alive
+
+> 保持... 的存在
+
+“It was **merely** the occasional reminder of my rich dad that **kept** the idea of owning my own corporation **alive** and kept me on a different path.”
+
+> It was **merely** the occasional reminder of my rich dad  [仅仅是偶尔想起我的富爸爸]
+
+
+

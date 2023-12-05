@@ -50,7 +50,7 @@
 > 
 >![词条图片](https://ydlunacommon-cdn.nosdn.127.net/80e393fd9402aa0ccbd120ddbba79773.jpg?)
 
-## discrimination
+## discrimination🚩
 
 > **/dɪˌskrɪmɪˈneɪʃ(ə)n/**
 >
