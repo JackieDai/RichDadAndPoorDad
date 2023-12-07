@@ -39,6 +39,8 @@
 ## outsmart
 
 > vt.比……更聪明；用计谋打败
+>
+> > 文中是**指用计谋打败**的意思
 
 “No matter what the “take-from-the-rich” crowd came up with, the rich always found a way to **outsmart** them”
 
@@ -49,12 +51,14 @@
 > n.围堰；保险箱；金库；资金
 >
 > vt.把……放进箱柜；用平顶镶板装饰
+>
+> > "coffer" 通常用来指代用于储藏财富、文件或其他重要物品的容器，也可以指财政、国库或建筑装饰中的相关元素。
 
 “Once the “take-from-the-rich” tax was passed, cash started flowing into government **coffers**.”
 
 ## hand out
 
-> > 理解 hand (手)  out(出去)，手伸出去提供帮助，衍生意思 为 分发，帮助，给与
+> > 理解 hand (手)  out(出去)，手伸出去提供帮助，衍生意思 为 **分发，帮助，给与**
 >
 > "Hand out" 是一个短语，通常有几种常见的用法：
 >
@@ -77,6 +81,8 @@
 
 “ If you fail to spend your **allotted** funds, you **risk** losing it in the next budget.”
 
+> fail to ...未能做到或未能实现某事。通常用于描述某人或某事物未能达到预期的目标或标准
+>
 > 句子中的risk 作为动词，表示 **承担... 风险，冒...风险**
 
 ## recognize
@@ -84,8 +90,14 @@
 > **/ˈrekəɡnaɪz/**
 >
 > > 文中是指 **认可，承认** 的意思
+> >
+> > 动词 "recognize" 的主要意思是认出、辨认、承认或意识到某物或某人的存在、身份、价值或特征。
 >
 > v.认识，辨别出；承认，意识到；**（正式或在法律上）认可，承认；**赞赏，公认；表扬，表彰；（会议或辩论主席）邀请……发言；（计算机等）自动识别（声音、印刷字体等）
+>
+> ---
+>
+> re-,再，重新，cognize,认识，认出，词源同 know.
 
 “You would certainly not be **recognized** for being efficient.”
 
@@ -95,9 +107,11 @@
 
 > **/əˈplɔːd/**
 >
+> > "Applaud" 是一个积极正面的词汇，通常用于表示对某人或某事的欢迎和认可。
+>
 > v.鼓掌；称赞，赞许
 >
->  词根词缀： ap-临近 + -plaud-拍手
+> 词根词缀： ap-临近 + -plaud-拍手
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/8883649f23c6f5f6f9c1722f1815dda1.jpg?)
 

@@ -76,6 +76,14 @@
 > consistent	**/kənˈsɪstənt/**
 >
 > adj.始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的
+>
+> ---
+>
+> NOTE: 注意consist跟上面的单词意思有很大区别
+>
+> consist	**/kənˈsɪst/**
+>
+> v.由……组成，由……构成；在于，存在于
 
 “ I was **consistently** one of the top five sales people at the company.”
 
@@ -112,6 +120,10 @@
 > n.小伙子，家伙；**同伴，同事，同学**；研究员；男朋友；（研究期间领取津贴的）研究生；<英>（大学的）董事；（学术或专业团体）会员；对等者，对手
 >
 > adj.同类的，同伴的
+>
+> - "fellow" 可以用于更广泛的社交场合，
+> - "colleague" 更偏向于工作和专业环境，
+> -  "schoolmate" 强调学校背景。
 
 ## commission
 

@@ -70,6 +70,16 @@
 
 ---
 
+## put the word out
+
+> 发布消息
+>
+> 发布消息：散布消息或信息以便让更多的人知道。
+>
+> · I'll put the word out about the party on social media.
+>
+> 我会在社交媒体上发布关于聚会的消息。
+
 ## chip in
 
 > **/tʃɪp ɪn/**
@@ -88,7 +98,7 @@
 >
 > v.打破，弄缺；（尤指用工具）削下，凿下；切成细条；撮球，挑球
 
-The king or the president would put the word out and ask everyone to **“chip in.”** 
+The king or the president would **put the word out** and ask everyone to **“chip in.”** 
 
 ---
 
@@ -102,11 +112,10 @@ The king or the president would put the word out and ask everyone to **“chip i
 >
 > n.<美>烫发
 >
-> ---
->
-> 词根词缀： per-完全,贯穿 + -man-居住,留 + -ent形容词词尾
 
 “In 1874, England made income tax a **permanent** levy on its citizens.”
+
+> a permanent levy 持久的税款 ，此处 levy 作为 名词表示 税款的意思
 
 ---
 
@@ -125,8 +134,18 @@ The king or the president would put the word out and ask everyone to **“chip i
 > **/əˈmendmənt/**
 >
 > n.修正，修订之处；美国宪法修正案（Amendment）；（土壤结构或肥力的）改善；（对文件或计划的）修改
+>
+> ---
+>
+> 词源来自
+>
+> amend	**/əˈmend/**
+>
+> v.	修改，修订；纠正，改正；改善（土壤）的结构（或肥力）；<古>修复；改过自新
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/16f8b1889ec537a236ec0f0292518bc0.jpg?)
 
-## Constitution
+## constitution
 
 > **/ˌkɑːnstɪˈtuːʃn/**
 >

@@ -176,7 +176,7 @@ In 80 percent of most families, the financial story paints a picture of hard wor
 
 > **/bɑːnd/**
 >
-> 文中 是 **“债券”**的意思
+> > 文中 是 **“债券”**的意思
 > 
 >n.纽带，联系；公债，**债券**；结合，黏合；承诺，契约；枷锁，桎梏
 > 

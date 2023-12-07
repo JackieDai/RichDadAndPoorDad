@@ -1,14 +1,20 @@
 [TOC]
 
-## overrall
+## overall
 
 > **/ˌoʊvərˈɔːl/**
+>
+> > "Overall" 用于表示总体来说、总体上、整体而言。它经常用于描述整个范围、全面的观点或总体的概况。
 >
 > adj.总的，全面的；所有的，包括一切的
 >
 > adv.全部，总共； 总的说来，大体上
 >
 > n.<英>（工作时穿的）罩衣；<英>（上下连身的）工作服，防护服（overalls）；<美>背带工装裤（overalls）；<英>骑马裤，紧身制服裤（overalls）
+>
+> ---
+>
+> over-,在上，all,全部的。
 
 ## entity
 
@@ -16,11 +22,13 @@
 >
 > n.实体，独立存在体
 
-“As part of your **overall** financial strategy, I recommend that you learn about the protection that legal entities can provide for businesses and assets.”
+“As part of your **overall** financial strategy, I recommend that you learn about the protection that legal **entities** can provide for businesses and assets.”
 
 ## sentiment
 
 > **/ˈsentɪmənt/**
+>
+> > 通常表示对某事物或主题的态度或情感倾向。这个词经常用于描述公众的看法、市场的情绪或个体的感受。
 >
 > n.观点，看法，情绪；多愁善感，伤感情绪
 >

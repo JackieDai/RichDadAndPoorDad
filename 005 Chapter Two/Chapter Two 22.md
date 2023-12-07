@@ -43,7 +43,7 @@
 >
 > "Accomplish" 常用于描述取得某种成就、完成某项任务、实现目标或履行责任。它强调成功地完成某事，并常常与努力、计划或目标达成有关。
 
-“When was a time in your life that a seemingly positive **accomplishment**, such as <u>a promotion or raise</u>(升职加薪), didn’t lead to the balance-sheet result you expected?”
+“When was a time in your life that a **seemingly** positive **accomplishment**, such as <u>a promotion or raise</u>(升职加薪), didn’t lead to the balance-sheet result you expected?”
 
 “在你的生活中，什么时候看似积极的成就，比如升职或加薪，并没有给你带来预期的资产负债表结果?”
 

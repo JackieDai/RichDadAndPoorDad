@@ -4,7 +4,7 @@
 
 > **/ˌbækˈfaɪər/**
 >
-> > NOTE: back + fire == 回 + 火
+> > NOTE: back + fire == 回 + 火 ==》 反噬
 > >
 > > "backfire" 描述了原本打算取得积极结果的计划、行动或策略反而产生了意外的负面影响。
 >
@@ -19,6 +19,8 @@
 > **/kəmˈplaɪ/**
 >
 > v.遵从，服从；（商品）符合特定标准
+>
+> > "Comply" 是一个强调遵从和符合规定的正式用词，通常用于描述对法规、规章、政策或要求的遵守。
 
 “Every time people try to punish the rich, the rich don’t simply **comply**.”
 
@@ -44,7 +46,7 @@ They do not just sit there and **voluntarily** pay more taxes.
 >
 > v.说服，劝服；使相信，使信服；（情形，事件）驱使，敦促
 >
-> per-,完全的，-suad,甜的，词源同sweet,dissuade.引申词义劝说，劝服。
+> persuade sb to do sth 劝说劝说某人做某事说服某人干某事说服某人做某事
 
 ## loophole
 

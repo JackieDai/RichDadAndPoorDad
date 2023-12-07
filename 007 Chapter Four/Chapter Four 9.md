@@ -40,7 +40,17 @@
 >
 > n.债权人，贷方
 
-“the rich trusts to protect their assets from **creditors**”
+“the rich **trusts** to **protect** their assets **from** **creditors**”
+
+>  trust 在句子中表示动词"设立信托" 的意思
+>
+> ---
+>
+> protect ... from ...
+>
+> 保护... 免受... 的伤害
+>
+> > 是一个英语结构，表示保护某物免受来自某种威胁、危险或伤害的影响。
 
 ## sue
 

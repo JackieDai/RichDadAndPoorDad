@@ -48,7 +48,11 @@
 >
 > v.（裤袜等）抽丝
 
-“He **spoke of** the **virtues** of “working your way up the corporate **ladder**.”  "他谈论了『通过职业阶梯逐步晋升』的优点。"
+“He **spoke of** the **virtues** of “**working your way up** the corporate **ladder**.”  "他谈论了『通过职业阶梯逐步晋升』的优点。"
+
+> working your way up
+>
+> 提升职位地位：在所在的组织中努力提升自己的职位地位。
 
 ## docile
 
@@ -83,6 +87,8 @@
 > **/ɪnˈvɪʒ(ə)n/**
 >
 > > en + vision
+> >
+> > 动词 "envision" 意指想象、设想或预见某事的发生。这个词通常用于描述对未来的计划、构想或预期。
 >
 > v.想象，预想
 

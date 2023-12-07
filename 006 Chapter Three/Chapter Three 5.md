@@ -6,7 +6,7 @@
 >
 > adv.以后，后来
 
-“Afterward, Ray agreed to join the students at their favorite hangout for a few beers.”
+“**Afterward**, Ray agreed to join the students at their favorite hangout for a few beers.”
 
 ---
 

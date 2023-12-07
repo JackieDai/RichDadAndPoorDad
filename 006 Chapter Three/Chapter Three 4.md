@@ -30,9 +30,9 @@
 
 > **/dɪˈmɪnɪʃ/**
 >
-> v.减弱，降低，减少；贬低，轻视
+> > "diminish" 的意思通常涉及到某物减少或变得不如之前显著。在不同的语境中，它可以用于形容数量、程度、重要性、价值、声望等的减少。
 >
-> "diminish" 的意思通常涉及到某物减少或变得不如之前显著。在不同的语境中，它可以用于形容数量、程度、重要性、价值、声望等的减少。
+> v.减弱，降低，减少；贬低，轻视
 >
 > ---
 >
@@ -47,6 +47,11 @@
 > **/drəˈmætɪkli/**
 >
 > adv.剧烈地，**明显地；**戏剧性地，夸张地
+>
+> > - dramatic	
+> >   - adj.巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
+> > - dramatical
+> >   - adj.剧烈的，戏剧的；显著的、巨大的、惊人的
 >
 > ---
 >
@@ -113,7 +118,7 @@
 >
 > 1. **"odds"：** 这指的是概率或可能性，表示某种事件发生的可能性。在这个句子中，"the odds are against success" 表示成功的可能性很小，即成功的概率不高。
 >
-> 2. **"against"：** 在这里，"against" 表示对抗、不利于、不支持。因此，"the odds are against success" 可以理解为成功的可能性受到不利的因素或障碍。
+> 2. **"against"：** 在这里，**"against" 表示对抗、不利于、不支持**。因此，"the odds are against success" 可以理解为成功的可能性受到不利的因素或障碍。
 >
 > 因此，整个句子的意思是：“但成功的机会很小：十家公司中有九家在五年内失败。”这强调了在商业领域中，许多公司在短时间内面临失败的高概率。
 
@@ -253,13 +258,13 @@ They may feel **bored** and just want a new toy.
 >
 > "Burden" 这个词强调了负担的沉重和对个人或组织的压力。在日常用语中，它经常用来描述那些由责任、困境或艰难情况引起的重负。
 
-Buying a luxury on credit often causes a person to eventually **resent** that luxury because the debt becomes a financial **burden**.”
+Buying a luxury on credit often **causes** a person **to** eventually **resent** that luxury because the debt becomes a financial **burden**.”
 
 ---
 
 ## pack
 
-> 文中 “the pack” 可以理解为一群人或一组竞争者
+> > 文中 “the pack” 可以理解为**一群人,一伙人或一组竞争者**
 >
 > "Pack" 是一个多义词，具有多种用法。以下是其中一些常见的用法：
 >

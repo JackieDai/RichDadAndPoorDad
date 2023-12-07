@@ -35,7 +35,7 @@
 
 ---
 
-## advance in
+## advance in🚩
 
 > 在某个领域或方面取得进步或提升
 >
@@ -135,7 +135,7 @@ They may be **advance in** their jobs and receiving pay raises.
 
 ---
 
-## genuine
+## genuine🚩
 
 > **/ˈdʒenjuɪn/**
 >
@@ -143,9 +143,9 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > 词根词缀： -gen-生(殖) + -u- + -ine形容词词尾 --- 生殖 → 纯种,地道,正宗
 
-## come along
+## come along🚩
 
-> "Come along" 是一个短语，文中的意思是突然出现：
+> >  "Come along" 是一个短语，文中的意思是**突然出现**：
 >
 > 1. **前进，一起行动**：
 >    - *Example: "Come along, let's go to the store together."*

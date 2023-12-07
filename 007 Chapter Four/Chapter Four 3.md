@@ -119,6 +119,8 @@ They have different **objectives** than most business people.
 
 > 在文中 是 **"通过"** 的意思， passage 还有其他的意思
 >
+> 词源来自pass,走过，通过。
+>
 > n.
 >
 > - （书、演讲、乐曲等的）段，章；

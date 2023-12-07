@@ -5,6 +5,8 @@
 > **/pruːf/**
 >
 > > 文中作为名词 表示 **证据，证明**
+> >
+> > "proof" 是一个名词，指的是证据或证明的内容，而 "prove" 是一个动词，表示进行证明的行为。在许多情况下，我们需要提供证据来证明某事的真实性。因此，你可以说你需要 "proof" 来 "prove" 你的观点。
 >
 > n.**证明，证据**；检验，证实；（数学）验算，验证；校样，样张；（酒的）标准酒精度；<苏格兰>法官单独听证
 >
@@ -56,7 +58,7 @@
 >
 > n.跌倒，滚落；（数量、价值）暴跌；混乱，杂乱；翻跟头；<非正式>性交；<美，非正式>（表认可、感激或感兴趣的）示好
 
-“The more money you are responsible for, the more accuracy is required,  or the house comes tumbling down. 
+“The more money you are responsible for, the more **accuracy** is required,  or(否则) the house comes(发生) **tumbling down.** 
 
 > 这里的 or 表示 “否则，不然” 的意思。
 >
@@ -104,6 +106,18 @@
 >
 > n.披肩，围巾； 包裹（或包装）材料；宽松外套，浴衣；面卷饼（一种三明治，由薄面包包着肉、蔬菜等）；拍摄（或录音）结束，停机；（全身覆盖湿布或海草等进行的）皮肤护理；（喻）秘密；<英，非正式>一小包白粉（毒品）
 
+## contribute to 
+
+> **有助于，促成**：表示某个行为、事件或因素对某个结果的产生起到了积极或消极的作用。
+>
+> ---
+>
+> contribute	**/kənˈtrɪbjuːt/**
+>
+> v.捐赠，捐助；（为……）做贡献；促成，是……的原因之一；撰稿，投稿；发表意见，提议
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/52a1175f720e28fb59726181044008ac.jpg?)
+
 ## explosive growth
 
 > 爆炸性增长
@@ -118,7 +132,7 @@
 >
 > n.炸药，爆炸物
 
-“A corporation **wrapped around** the technical skills of accounting, investing, and markets can contribute to **explosive growth**.”
+“A corporation <u>(that) **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
 
 ## sole
 

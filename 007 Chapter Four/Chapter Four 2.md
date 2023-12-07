@@ -74,6 +74,8 @@ It took approximately 50 years in both England and the United States to **sell**
 “What these historical dates fail to **reveal** is that both of these taxes were **initially** **levied against** only the rich. ”
 
 > “这些历史日期没有揭示的是，这两种税最初都是针对富人征收的。”
+>
+> 句子中，"against" 的意思是“对付”、“对抗”、“针对”或“施加在……上”。具体到这个句子，它表示两项税收最初只对富人征收。
 
 ## constitutionally
 
@@ -100,6 +102,8 @@ It took approximately 50 years in both England and the United States to **sell**
 > v.蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
 
 “in reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
+
+> 句子中 the very people, 中的 very 表示 形容词 ，意思是  "正是"、"恰恰是" 或者 "正是那些"。
 
 ---
 
