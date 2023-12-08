@@ -62,7 +62,7 @@ They have different **objectives** than most business people.
 
 ----
 
-## prominent
+## prominent🚩
 
 > **/ˈprɑːmɪnənt/**
 >
@@ -80,7 +80,7 @@ They have different **objectives** than most business people.
 
 ---
 
-## incentive
+## incentive🚩
 
 > **/ɪnˈsentɪv/**
 >
@@ -165,7 +165,7 @@ They have different **objectives** than most business people.
 
 “**the passage of** taxes was only possible because the masses believed in the Robin Hood theory of economics”
 
-## trickle
+## trickle🚩
 
 > **/ˈtrɪkl/**
 >

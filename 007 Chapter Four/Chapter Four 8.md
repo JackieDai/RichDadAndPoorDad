@@ -16,7 +16,7 @@
 
 “The plan was working, and my Porsche was the **proof**.”
 
-## proverbial
+## proverbial🚩
 
 > **/prəˈvɜːrbiəl/**
 >
@@ -44,7 +44,7 @@
 >
 > 前缀ac-同ad-. cure, 关心，照料。指用心使精确。
 
-## tumble down
+## tumble down🚩
 
 > 倒塌，崩塌：指建筑物或结构物因失去稳定而倒塌或崩溃。
 >
@@ -88,7 +88,7 @@
 
 “Investing is the **science** of “money making money.”
 
-## wrap around
+## wrap around🚩
 
 > 环绕：围绕某物的动作或状态。
 >
@@ -134,7 +134,7 @@
 
 “A corporation <u>(that) **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
 
-## sole
+## sole🚩
 
 > 参考 前面章节 的 solely.
 >
@@ -146,7 +146,7 @@
 >
 > v.给（鞋）换底
 
-## proprietor
+## proprietor🚩
 
 > **/prəˈpraɪətər/**
 >

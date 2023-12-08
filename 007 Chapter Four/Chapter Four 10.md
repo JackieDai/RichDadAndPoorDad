@@ -24,7 +24,7 @@
 
 “As part of your **overall** financial strategy, I recommend that you learn about the protection that legal **entities** can provide for businesses and assets.”
 
-## sentiment
+## sentiment🚩
 
 > **/ˈsentɪmənt/**
 >
@@ -36,7 +36,7 @@
 
 “Though the popular **sentiment** is that the rich should pay more in taxes and give to the poor”
 
-## protest
+## protest🚩
 
 > **/ˈproʊtest/**
 >
@@ -60,7 +60,7 @@
 
 “They were always **seeking** more grants and budget increases so they could hire more people.”
 
-## steep
+## steep🚩
 
 > **/stiːp/**
 >
@@ -74,7 +74,7 @@
 
 “Understanding the legal corporate structure gave the rich a **steep** advantage”
 
-## consultant
+## consultant🚩
 
 > **/kənˈsʌltənt/**
 >
@@ -98,7 +98,7 @@
 
 “Robert **urges** those who own legitimate assets to find out more about corporations’ benefits and protections.”
 
-## assessment
+## assessment🚩
 
 > **/əˈsesmənt/**
 >

@@ -19,7 +19,7 @@
 > - "incident" 更通常用于描述发生的事情，无论其性质如何，
 > -  "accident" 更强调无意识的事件，特别是导致损害或伤害的情况。
 
-## ignite
+## ignite🚩
 
 > **/ɪɡˈnaɪt/**
 >
@@ -107,7 +107,7 @@ It took approximately 50 years in both England and the United States to **sell**
 
 ---
 
-## appetite
+## appetite🚩
 
 > **/ˈæpɪtaɪt/**
 >
@@ -117,7 +117,7 @@ It took approximately 50 years in both England and the United States to **sell**
 
 “Once government got a taste of money, its **appetite** grew”
 
-## bureaucrat
+## bureaucrat🚩
 
 > **/ˈbjʊərəˌkræt/**
 >

@@ -24,7 +24,7 @@
 
 “Car payments, insurance, **repairs**, and health-club memberships are company expenses.”
 
-## litigious
+## litigious🚩
 
 > **/lɪˈtɪdʒəs/**
 >
@@ -34,7 +34,7 @@
 
 “We live in a **litigious** society”“我们生活在一个爱打官司的社会”
 
-## creditor
+## creditor🚩
 
 > **/ˈkredɪtər/**
 >
@@ -52,7 +52,7 @@
 >
 > > 是一个英语结构，表示保护某物免受来自某种威胁、危险或伤害的影响。
 
-## sue
+## sue🚩
 
 > **/suː/**
 >
@@ -74,7 +74,7 @@
 
 “When someone **sues** a wealthy individual, they are often met with **layers of** legal protection and often find that the wealthy person actually owns nothing. ”
 
-## legitimate
+## legitimate🚩
 
 > **/lɪˈdʒɪtɪmət/**
 >
@@ -90,7 +90,7 @@
 
 “ you own any kind of legitimate assets”
 
-## synergy
+## synergy🚩
 
 > **/ˈsɪnərdʒi/**
 >
@@ -100,7 +100,7 @@
 
 “Financial IQ is actually the **synergy** of many skills and talents.”
 
-## aspire
+## aspire🚩
 
 > **/əˈspaɪər/**
 >
@@ -108,7 +108,7 @@
 >
 > 词根词缀： a-来,临近 + -spir-呼吸 + -e
 
-## amplify
+## amplify🚩
 
 > **/ˈæmplɪfaɪ/**
 >

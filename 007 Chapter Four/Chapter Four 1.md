@@ -70,7 +70,7 @@
 
 ---
 
-## put the word out
+## put the word out🚩
 
 > 发布消息
 >
@@ -129,7 +129,7 @@ The king or the president would **put the word out** and ask everyone to **“ch
 >
 > n.采用，接受；<英>推选；正式通过；选择；收养，领养
 
-## Amendment
+## amendment🚩
 
 > **/əˈmendmənt/**
 >
@@ -145,7 +145,7 @@ The king or the president would **put the word out** and ask everyone to **“ch
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/16f8b1889ec537a236ec0f0292518bc0.jpg?)
 
-## constitution
+## constitution🚩
 
 > **/ˌkɑːnstɪˈtuːʃn/**
 >

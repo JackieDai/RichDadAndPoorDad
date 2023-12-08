@@ -22,7 +22,7 @@
 
 “The corporation would then hire a **crew** to sail to the New World to look for treasure. ”
 
-## penalize
+## penalize🚩
 
 > **/ˈpiːnəlaɪz/**
 >
@@ -56,7 +56,7 @@
 
 “Once the “take-from-the-rich” tax was passed, cash started flowing into government **coffers**.”
 
-## hand out
+## hand out🚩
 
 > > 理解 hand (手)  out(出去)，手伸出去提供帮助，衍生意思 为 **分发，帮助，给与**
 >
@@ -71,13 +71,13 @@
 
 “Money was **handed out** to government workers and the rich.”
 
-## allot
+## allot🚩
 
 > **/əˈlɑːt/**
 >
 > v.分配，分派，划拨
 >
-> "allot" 通常用于描述有组织地分配或分派某物，以确保公平或有效地管理资源、时间或责任。
+> > "allot" 通常用于描述有组织地分配或分派某物，以确保公平或有效地管理资源、时间或责任。
 
 “ If you fail to spend your **allotted** funds, you **risk** losing it in the next budget.”
 

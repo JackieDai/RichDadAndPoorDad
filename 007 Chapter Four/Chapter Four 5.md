@@ -74,7 +74,7 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 
 “As long as you keep trading up in value, you will not be taxed on the gains until you **liquidate**.”
 
-## needle
+## needle🚩
 
 > **/ˈniːd(ə)l/**
 >
@@ -86,7 +86,7 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 
 “let the government’s **needles** enter their arm and allow the blood donation to begin.”“让政府的注射针进入他们的手臂，允许献血活动开始。”
 
-## intimidation
+## intimidation🚩
 
 > **/ɪnˌtɪmɪˈdeɪʃn/**
 >
@@ -106,7 +106,7 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 
 “My poor dad never **fought back.** ”
 
-## as opposed to...
+## as opposed to...🚩
 
 > 与……相对比：用于表示与某事物相对立或相对比的另一事物。
 >

@@ -26,7 +26,7 @@
 
 ---
 
-## diminish
+## diminish🚩
 
 > **/dɪˈmɪnɪʃ/**
 >
@@ -42,7 +42,7 @@
 
 ---
 
-## dramatically
+## dramatically🚩
 
 > **/drəˈmætɪkli/**
 >
@@ -236,7 +236,7 @@ They may feel **bored** and just want a new toy.
 >
 > 使某人做
 
-## resent
+## resent🚩
 
 > **/rɪˈzent/**
 >

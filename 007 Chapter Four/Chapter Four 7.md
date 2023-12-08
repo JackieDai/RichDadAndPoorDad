@@ -1,6 +1,6 @@
 [TOC]
 
-## head
+## head🚩
 
 > 文中 作为 动词，表示  **朝某特定方向行进；**
 
@@ -32,7 +32,7 @@
 
 “It was **not until** my **mid-twenties** that my rich dad’s advice began to **make more sense to** me.”
 
-## flattering
+## flattering🚩
 
 > **/ˈflætərɪŋ/**
 >
@@ -50,7 +50,7 @@
 
 “ It was **flattering**, but I could hear my rich dad asking in my ear: “Who are you working for? Who are you making rich?”
 
-## form
+## form🚩
 
 > 在文中  form 作为 动词 使用 表示  “组织,建立” 的意思
 >
@@ -125,7 +125,7 @@
 > - "colleague" 更偏向于工作和专业环境，
 > -  "schoolmate" 强调学校背景。
 
-## commission
+## commission🚩
 
 > **/kəˈmɪʃ(ə)n/**
 >
