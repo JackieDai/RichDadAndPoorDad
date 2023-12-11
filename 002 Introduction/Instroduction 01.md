@@ -83,6 +83,8 @@ One died leaving tens of millions of dollars to his family, **charities**, and h
 >
 > 人格魅力
 >
+> > "Charismatic" 是一个形容词，用来描述一个人具有魅力、吸引力和影响力的特质。这个词通常用于形容那些能够吸引他人注意并赢得他们支持或信任的人。
+>
 > adj.有超凡魅力的；（基督教派）蒙受神恩的，有特恩的；（力量）神赐的，（能力）神授的
 >
 > n.神授能力运动拥护者；自称得到神灵启示的人
@@ -94,6 +96,8 @@ One died leaving tens of millions of dollars to his family, **charities**, and h
 > adj.有影响力的，有势力的
 >
 > n.有影响力的人
+>
+> > "influential" 用于描述那些能够对他人、社会或领域产生深远影响的人、事物或观念。这个词强调了对他人行为、信仰或发展方向的影响程度。
 >
 > ---
 >
@@ -153,7 +157,7 @@ The love of money is the root of all **evil**.
 >
 > 总之，"intrigue" 这个词通常用于描述引起好奇心、兴趣或神秘感的情境，可以用作动词、名词或形容词，具体用法取决于句子的上下文。
 
-The contrast in their points of view, particularly about money, was so extreme that I grew curious and **intrigued**.
+The contrast in their points of view, particularly about money, was so **extreme** that I grew curious and **intrigued**.
 
 > 在这个句子中， "that" 在语法上是一个连词，引导了一个名词性从句，这个从句解释或说明了前面的句子。具体来说，它引导了一个结果从句，说明了为什么作者变得好奇和着迷。在这种情况下， "that" 引导的从句是 "I grew curious and intrigued"，它回答了为什么作者变得好奇和着迷的问题。所以，句子的结构可以解释为：
 >

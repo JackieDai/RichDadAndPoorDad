@@ -1,6 +1,6 @@
 [TOC]
 
-## seal
+## seal🚩
 
 > **/siːl/**
 >
@@ -96,7 +96,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 >
 > 文中是 spent 是 形容词，表示 **用完的，用废的**
 
-## dust
+## dust🚩
 
 > **/dʌst/**
 >
@@ -146,7 +146,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 
 ---
 
-## dash
+## dash🚩
 
 > **/dæʃ/**
 >

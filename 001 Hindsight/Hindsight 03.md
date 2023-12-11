@@ -121,5 +121,5 @@ When you compare the first three crashes of the 21st century to the **giant** cr
 >
 > 词根词源: 为拟声词 【气泡破裂的声音】
 
-Ten years later, in 2007 when **subprime** **borrowers** began to default on their subprime **mortgages**, the world’s real estate **bubble** burst and millions of homeowners found out the truth in that lesson the hard way. Their house was not “an asset.
+Ten years later, in 2007 when **subprime** **borrowers** **began** to default on their subprime **mortgages**, the world’s real estate **bubble** burst and millions of homeowners found out the truth in that lesson the hard way. Their house was not “an asset.
 

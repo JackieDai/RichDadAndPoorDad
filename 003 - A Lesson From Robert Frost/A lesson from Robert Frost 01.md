@@ -88,7 +88,7 @@
 >
 > ---
 >
-> > "Tread" 是一个通用的词汇，用于描述脚步、行走、鞋底、痕迹等与步行和接触地面相关的动作和事物
+> > "tread" 是一个通用的词汇，用于描述脚步、行走、鞋底、痕迹等与步行和接触地面相关的动作和事物
 
 “Then took the other, **as just as fair**, and having perhaps the better **claim**, because it was **grassy** and wanted **wear** (踩出路/踏出路径) though as for that the passing there had **worn** them really about the same, and both that morning equally lay in leaves no step had **trodden** black.”
 

@@ -6,7 +6,7 @@
 > · I know I can count on you to keep our secret.
 > 我知道我可以依赖你保守我们的秘密。
 
-Not only does it not put money in your pocket, but we cannot count on the fact that it will go up in value
+Not only does it not put money in your pocket, but we cannot **count on** the fact that it will go up in value
 
 > 这是个倒装句，部分倒装使用条件如下：
 >
@@ -97,7 +97,7 @@ He also loved the **tenure** system available through the university；他也喜
 >
 > 来自 rely,依靠，信赖。
 
-The other believed in total financial self-reliance.
+The other believed in total financial **self-reliance.**
 
 ---
 

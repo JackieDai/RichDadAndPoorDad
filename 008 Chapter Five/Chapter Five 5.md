@@ -66,3 +66,48 @@
 
 ## slight
 
+> **/slaɪt/**
+>
+> > 文中是指**“轻微的，微妙的”**意思
+>
+> adj.轻微的，少量的；（人）瘦小的，纤弱的；（尤指创作）不深奥的，不重要的
+>
+> v.怠慢，轻视；<古>破坏，摧毁（防御工事）
+>
+> n.冒犯，冷落
+
+“ In her **cooling-off** period, she could see some **slight** relationship between the game and her life”[“在她冷静下来的时候，她看到了游戏和她的生活之间的一些微妙的联系。”]
+
+## run off with 
+
+> > 文中是指**“私奔，鞋带某人离开”**的意思
+>
+> 通常用于描述某人携带或带走某物，尤其是指携带某人离开。这个短语通常用于一些负面或不寻常的情境，例如：
+>
+> 1. **感情关系：** "She ran off with another man."（她和另一个男人私奔了。）
+> 2. **金钱：** "He ran off with the company funds."（他带着公司的资金跑了。）
+> 3. **物品：** "Someone ran off with my bag when I wasn't looking."（有人趁我不注意的时候偷走了我的包。）
+>
+> 总的来说，"run off with" 表示离开某地并带走了某人或某物。
+
+“She was angry after their divorce, both because he had **run off with** a younger woman”
+
+---
+
+## in the way of ...
+
+> 妨碍，**关于...的方面**
+
+“they had accumulated little **in the way of** assets. ”
+
+“他们在资产方面积累得很少。”
+
+---
+
+## incredible
+
+> **/ɪnˈkredəb(ə)l/**
+>
+> adj.不可思议的，难以置信的；惊人的，极大的，极多的；了不起的，极好的
+
+“Their 20 years of married life had been **incredible** fun”

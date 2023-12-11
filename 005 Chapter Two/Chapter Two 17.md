@@ -1,6 +1,6 @@
 [TOC]
 
-## philosophy
+## philosophy🚩
 
 > **/fəˈlɑːsəfi/**
 >
@@ -89,7 +89,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/74804b175da5b909e7b0ebd180eebe3e.jpg?)
 
-“Panic has set in for the middle class.”“中产阶级开始感到恐慌。”
+“**Panic** has set in for the middle class.”“中产阶级开始感到恐慌。”
 
 ---
 

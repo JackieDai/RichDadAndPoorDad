@@ -51,6 +51,8 @@ In 2007 there were an **estimated** $700 trillion in financial derivatives.
 > **/ˈkrɪtɪsaɪz/**
 >
 > v.批评，指责；评论
+>
+> ![](https://ydlunacommon-cdn.nosdn.127.net/12fc12e84db49c8ae0b737bffe49ff58.jpg?)
 
 ## disclose
 

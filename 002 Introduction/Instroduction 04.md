@@ -102,6 +102,8 @@ He was **fanatical** **about** **exercising** your mind, the most powerful compu
 > adj.存在于大脑中的，思考的；精神的，思想的，智力的；精神病治疗的，精神健康的；<非正式>疯癫的，不正常的
 >
 > mental laziness -- 精神思想懒惰
+>
+> > "mental" 通常用于描述与思维、心理或认知有关的事物，包括情感、认知过程、精神健康等方面。
 
 He believed that automatically saying “I can’t afford it” was a **sign** of **mental** laziness.
 
@@ -131,7 +133,7 @@ It is not much different from a person who goes to the gym to exercise on a regu
 >
 > 创业者通常需要冒险才能取得成功。
 
-Don’t take risks.
+Don’t **take risks.**
 
 ---
 

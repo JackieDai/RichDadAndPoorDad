@@ -192,7 +192,7 @@ The managers of the **plantation** and the other **affluent** people, such as do
 
 ---
 
-## intermediate
+## intermediate🚩
 
 > **/ˌɪntərˈmiːdiət/**
 >

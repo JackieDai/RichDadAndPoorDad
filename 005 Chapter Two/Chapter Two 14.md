@@ -86,7 +86,7 @@
 
 ## go along with
 
-> "Go along with" 是一个常见的短语，它有几种含义，具体取决于上下文。以下是一些可能的解释：
+> 文中是指 **“同意, 支持”** 的意思：
 >
 > 1. **同意或支持：** 当说某人或某物 "goes along with" 另一个人或事物时，意味着他们同意或支持那个人或事物。例如：
 >    - "I'll go along with your suggestion."（我同意你的建议。）

@@ -52,7 +52,7 @@ Schools focus on **scholastic** and professional skills, but not on financial sk
 >
 > n.会计，会计师
 
-This explains why smart bankers, doctors, and accountants who earned excellent grades may struggle financially all of their lives.
+This explains why smart bankers, doctors, and **accountants** who earned excellent grades may struggle financially all of their lives.
 
 ---
 
@@ -94,7 +94,7 @@ Today I often wonder what will happen when we have millions of people who need f
 >
 > 他不小心把咖啡洒了出来，在这样做的过程中，弄脏了桌布。
 
-I had to think about each dad’s advice and, in doing so, I gained valuable insight into the power and effect of one’s thoughts on one’s life. 
+I had to think about each dad’s advice and, **in doing so**, I gained valuable insight into the power and effect of one’s thoughts on one’s life. 
 
 > 1. "I had to think about each dad’s advice" - 我必须思考每位父亲的建议。"had to" 表示必须或不得不，用来表示一种义务或需要。
 > 2. "and" - 这个连词用来连接两个并列的动作或想法。在这里，它连接了两个动作：考虑父亲的建议和获得宝贵的见解。
@@ -124,6 +124,3 @@ For example, one dad had a **habit** of saying, “I can’t afford it.
 
 The other dad **forbade** those words to be used.
 
----
-
-## 
