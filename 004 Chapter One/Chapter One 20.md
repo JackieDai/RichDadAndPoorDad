@@ -4,12 +4,13 @@
 
 > **/ˈniːdi/**
 >
-> adj.
-> （人）贫困的；（环境）贫穷的；需要关注的，需要情感支持的
->
-> 【名】 （Needy）（英）尼迪（人名）
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/2c68b2812cf17e37c1c993aa8bdcb9b0.jpg?)
+> adj.（人）贫困的；（环境）贫穷的；需要关注的，需要情感支持的
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/2c68b2812cf17e37c1c993aa8bdcb9b0.jpg?)
+
+##### He understood that every person has a weak and <u>**needy** part</u> of their soul
+
+他理解每个人都有灵魂中脆弱和需要的部分。
 
 ## resilient🚩
 
@@ -21,7 +22,9 @@
 >
 > "resilient" 描述了在面对压力或困难时能够迅速适应、恢复并保持稳定的能力。这个词通常用于强调某人或某物的坚韧和适应性。
 
-“He understood that every person has a weak and **needy** part of their soul that can be bought, and he knew that every individual also had a part of their soul that was **resilient** and could never be bought.”
+##### Every individual had a part of their soul that was **<u>resilient</u>**.
+
+每个个体都有他们灵魂中坚韧的一部分。
 
 ---
 
@@ -34,7 +37,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/ae8ad3639b26c25fa65124e88f984595.jpg?)
 
-“The offer was too big and **ridiculous**”
+##### “The offer was too big and **<u>ridiculous</u>**”
 
 ---
 
@@ -42,12 +45,11 @@
 
 > **/tempˈteɪʃ(ə)n/**
 >
-> n.
-> 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the Temptation）
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/6523f1a339357b6e460f23165bafe437.jpg?)
+> n.引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the Temptation）
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/6523f1a339357b6e460f23165bafe437.jpg?)
 
-“quickly my **temptation** disappeared”
+##### “Quickly my **<u>temptation</u>** disappeared”
 
 ---
 
@@ -55,18 +57,14 @@
 
 > **/ˈsaɪləns/**
 >
-> n.
-> 寂静，无声；沉默，默不作声:；保持沉默，拒绝回答；无音信，失去联系；默哀，静默
+> n.寂静，无声；沉默，默不作声:；保持沉默，拒绝回答；无音信，失去联系；默哀，静默
+> 
+>v.使安静，使不说话；压制，使不再发表（反对意见）；杀……灭口；给（枪，排气系统）装消音器
+> 
+> int.<正式>（用以让人们安静）安静，静下来
 >
-> v.
-> 使安静，使不说话；压制，使不再发表（反对意见）；杀……灭口；给（枪，排气系统）装消音器
->
-> int.
-> <正式>（用以让人们安静）安静，静下来
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/1c7081ceff67191deda06cf503d7240a.jpg?)
 
-“The part of my soul that was weak and needy was **silenced**.”
+##### “The part of my soul that was weak and needy was **<u>silenced</u>**.”
 
 ---
 
@@ -78,7 +76,7 @@
 >
 > 下个月新任CEO将接管公司。
 
-“The part of me that had no price **took over**”
+##### “The part of me that had no price **<u>took over</u>**”
 
 ---
 
@@ -88,7 +86,7 @@
 >
 > n.贪婪，贪欲；贪食，贪吃
 
-“People’s lives are forever controlled by two emotions: fear and **greed**.”
+##### People’s lives are forever controlled by two emotions: fear and **<u>greed</u>**.
 
 ---
 
@@ -96,12 +94,11 @@
 
 > **/ˈmoʊtɪveɪt/**
 >
-> v.
-> 成为……的动机，是……的原因；激励，激发；<南非>申请
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/481ee9ca85686e21002d2abc2a05c511.jpg?)
+> v.成为……的动机，是……的原因；激励，激发；<南非>申请
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/481ee9ca85686e21002d2abc2a05c511.jpg?)
 
-“Most people have a price. And they have a price because of human emotions named fear and **greed**. First, the fear of being without money **motivates** us to work hard, and then once we get that paycheck, greed or desire starts us thinking about all the wonderful things money can buy. The pattern is then set.”
+##### The fear of being without money **<u>motivates</u>** us to work hard
 
 ---
 
@@ -129,15 +126,31 @@
 >
 > 5．兴奋：变得活跃或兴奋。
 
+##### The pattern of <u>**get up**</u>, go to work, pay bills; get up, go to work, pay bills...
+
 ## the rat race 
 
-> "The Rat Race" 是一个习语，指的是紧张的、竞争激烈且忙碌的生活方式，通常用于描述人们在为了生计、财富和成功而不断忙碌、竞争、追求物质财富的现代社会中的生活。在这种生活方式下，人们常常感到压力重重，努力追逐事业成功和金钱，但可能会忽略了其他更有意义的方面，如家庭、休闲和个人满足感。
+> "The Rat race" 这个短语是指为了生计而进行的激烈的竞争。即人们像老鼠一样在同样的轮子上不断奔跑，却很难真正前进或脱离忙碌的生活。
 >
-> 这个短语的“rat”（鼠）意味着像老鼠一样在竞争中拼命奔跑，不断追逐。所以，"The Rat Race" 暗示了一种单调、疲惫和无休止的生活方式，其中人们为了追求物质利益而不断努力，类似于老鼠在一个没有明显目标的迷宫中不断奔跑。这个习语通常用来批评或描述忙碌和竞争激烈的现代生活方式，强调了人们在追求成功和财富的同时可能忽视了生活的其他重要方面。
+> ---
+>
+> **rat**	
+>
+> n.老鼠；<非正式>卑鄙小人（尤指欺诈或变节者）；<非正式> 常客，常待在某处的人；<美>（为头发定型做出饱满效果的）女用发垫
+>
+> v.捕（捉）老鼠，灭鼠；<非正式> 告发，告密；<非正式> 背信弃义，食言；<美>用发垫给（头发）定型
+>
+> int.（rats） <非正式>胡说，去你的（用以表示轻度烦恼，恼怒）
+>
+> ---
+>
+> race	**/reɪs/**
+>
+> n.赛跑，速度竞赛；竞争，角逐；赛马会（the races）；人种，种族；民族；（动植物）种，属；（具有共同特征的）一群（或一批）人（或物）；急流；沟槽，通道；<古>血统，门第
+>
+> v.（和……）比赛，参加比赛；使（动物或车辆）参赛参赛；（使）快速移动，快速运转；疾走，全速行进；竞相，赶（时间）；（因害怕、兴奋而）急速跳动，快速转动；（发动机）猛转
 
-“The pattern of get up, go to work, pay bills; get up, go to work, pay bills. People’s lives are forever controlled by two emotions: fear and greed. 
-
-Offer them more money and they continue the cycle by increasing their spending. This is what I call the Rat Race.”
+##### Offer them more money and they continue the cycle by increasing their spending. This is what I call **<u>the Rat Race</u>**.”
 
 ---
 

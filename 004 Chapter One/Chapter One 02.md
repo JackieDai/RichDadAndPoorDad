@@ -36,7 +36,7 @@
 
 > 提出，想出：找到主意、解决方案、答案等。
 
-We spent all morning **coming up with** ideas on how to make money.
+##### We spent all morning **<u>coming up with</u>** ideas on how to make money.
 
 ---
 
@@ -66,7 +66,7 @@ We spent all morning **coming up with** ideas on how to make money.
 >
 > v.用管道运输；<英，非正式>乘地铁；使成管状；玩内胎漂流；<非正式>（给做过喉剖开术的人或动物）插管（以助呼吸）
 
-if they would save their **toothpaste** **tubes** for us '如果他们把牙膏管留给我们'
+##### If they would save their <u>**toothpaste** **tubes**</u> for us '如果他们把牙膏管留给我们'
 
 ---
 
@@ -78,7 +78,7 @@ if they would save their **toothpaste** **tubes** for us '如果他们把牙膏�
 >
 > n.测验智力（或知识）的游戏（或玩具，问题）；拼图游戏，拼图玩具；令人费解的人（或事物），难题
 
-with **puzzled** looks '带着困惑的表情'
+##### with **<u>puzzled</u>** looks '带着困惑的表情'
 
 ---
 
@@ -94,7 +94,7 @@ with **puzzled** looks '带着困惑的表情'
 >
 > 词根词缀： con-共同 + -sent-感觉 → 同感
 
-most adults **consented** with a smile.
+##### most adults **<u>consented</u>** with a smile.
 
 ---
 
@@ -126,7 +126,7 @@ most adults **consented** with a smile.
 >   （随着时间的流逝，他们的关系开始恶化。）
 >
 
-My mom grew **distressed** **as the weeks wore on.**
+##### My mom <u>grew **distressed**</u> **<u>as the weeks wore on</u>.**
 
 ---
 
@@ -185,7 +185,7 @@ My mom grew **distressed** **as the weeks wore on.**
 >
 > > stock,储存，库存，pile,堆积，堆放。
 
-We had selected a **site**(场地) next to her washing machine as the place we would **stockpile**(储存) our raw materials.
+##### We had selected a <u>**site**(场地)</u> next to her washing machine as the place we would <u>**stockpile**(储存)</u> our raw materials.
 
 ---
 
@@ -217,7 +217,7 @@ We had selected a **site**(场地) next to her washing machine as the place we w
 >
 > a pile of 一堆；很多
 
-In a brown **cardboard** box that at one time held **catsup** bottles, our little **pile** of used toothpaste tubes began to grow.
+##### In a brown **<u>cardboard</u>** box that at one time held **<u>catsup</u>** bottles, our little **<u>pile</u>** of used toothpaste tubes began to grow.
 
 ---
 

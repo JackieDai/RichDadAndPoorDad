@@ -4,19 +4,17 @@
 
 > **/dɪˈnaɪəl/**
 >
-> n.
-> 否认；拒绝接受，拒不承认；剥夺，拒绝给予
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/142bb0c2dd4ece921f6db2d117d02c50.jpg?)
->
-> ---
->
-> deny 
->
-> v.
-> 否认；拒绝承认；拒绝给予
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/deee57f18f3506c19c1a9f99b4eb29cf.jpg?)
+> n.否认；拒绝接受，拒不承认；剥夺，拒绝给予
+> 
+>---
+> 
+>deny 
+> 
+>v.否认；拒绝承认；拒绝给予
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/deee57f18f3506c19c1a9f99b4eb29cf.jpg?)
+
+##### That’s <u>a **denial** of</u> truth
 
 ## hoard🚩
 
@@ -56,13 +54,15 @@
 > - "Amass" 更强调逐渐积累，通常指财富、信息、知识等的累积过程。
 > - "Rack up" 则更强调迅速积累，常用于描述分数、债务等的迅速累积。
 
-“That kind of thinking is probably more psychotic than a person who **hoards** money.”
+##### “That kind of thinking is probably more psychotic than a person who **<u>hoards</u>** money.”
 
 ---
 
 ## countless
 
 > 无数次，数不过来的
+
+##### As I sat there listening to my rich dad, my mind flashed back to <u>the **countless** times</u> my own dad said, “I’m not interested in money.
 
 ---
 
@@ -80,7 +80,7 @@
 >
 > 
 
-“Not work for money until all **traces**(痕迹) of fear and greed are gone?”
+##### “Not work for money until all <u>**traces**(痕迹)</u> of fear and greed are gone?”
 
 ---
 
@@ -104,7 +104,7 @@
 >
 > 词根词缀： -mot-移动 + -ion名词词尾
 
-“Emotions are what make us human. The word ‘emotion’ **stands for** ‘energy in **motion**”
+##### “Emotions are what make us human. The word ‘emotion’ <u>**stands for**</u> <u>‘energy in **motion**”</u>
 
 ---
 
@@ -117,7 +117,9 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/c6de7df97cbd804a0e6ebc9714d460e1.jpg?)
 
-If the fear of not having enough money  **arises**, instead of immediately running out to get a job, they instead might ask themselves this question: ‘Will a job be the best solution to this fear <u>over the long run(长远看来，长期)</u>?’ In my opinion, the answer is no. A job is really a short-term solution to a long-term problem.
+##### If the fear of not having enough money  **<u>arises</u>**, instead of immediately running out to get a job, they instead might ask themselves this question: ‘Will a job be the best solution to this fear <u>over the long run(长远看来，长期)</u>?’
+
+ In my opinion, the answer is no. A job is really a short-term solution to a long-term problem.
 
 ---
 
@@ -131,7 +133,7 @@ If the fear of not having enough money  **arises**, instead of immediately runni
 >
 > inter-,在内，在中间，相互，-ject,投，射，
 
-“But my dad is always saying, ‘Stay in school and get good grades, so you can find a safe, secure job,’” I **interjected**, somewhat confused.”
+##### “But my dad is always saying, ‘Stay in school and get good grades, so you can find a safe, secure job,’” I **<u>interjected</u>**, somewhat confused.”
 
 ---
 
@@ -167,15 +169,15 @@ If the fear of not having enough money  **arises**, instead of immediately runni
 >
 > v.生存（survive 的ing形式）
 
+##### <u>With the **advent** of</u> derivatives and an increasingly complex economy, mastering money has become **<u>essential</u>** to **<u>surviving</u>** in the world economy. 
+
 ## adage🚩
 
 > **/ˈædɪdʒ/**
 >
 > n.格言，谚语；箴言
 
-“With the **advent** of derivatives and an increasingly complex economy, mastering money has become **essential** to **surviving** in the world economy. 
-
-With low interest rates and an uncertain stock market, the old **adages** of saving and investing for the long term make no sense.”
+##### With low interest rates and an uncertain stock market, <u>the old **adages** of</u> saving and investing for the long term make no sense.”
 
 ---
 
@@ -192,7 +194,7 @@ With low interest rates and an uncertain stock market, the old **adages** of sav
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/1da1bbbcd7d108b0f4fb99a7d9a6a6a1.jpg?)
 
-“The main cause of poverty or financial struggle is fear and **ignorance**, not the economy or the government or the rich”
+##### “The main cause of poverty or financial struggle is fear and **<u>ignorance</u>**”
 
 ---
 
@@ -216,7 +218,7 @@ With low interest rates and an uncertain stock market, the old **adages** of sav
 >
 > 使承受（inflict 的过去式和过去分词）
 
-“ It’s **self-inflicted** fear and ignorance that keep people trapped.”
+##### It’s **<u>self-inflicted</u>** fear and ignorance that keep people trapped.
 
 ---
 

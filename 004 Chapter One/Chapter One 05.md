@@ -12,7 +12,7 @@
 > v.
 > 封上（信封）；密封（容器）；确定，使成定局；给……涂上保护层；（给文件）加封，盖印；封锁；（为避免烹调时失去过多水分，将食物放在热油中）快速煎炸；猎捕海豹
 
-With a small hammer, I tapped at the **seal** that divided the cube in half.
+##### With a small hammer, I tapped at the **<u>seal</u>** that divided the cube in half.
 
 ---
 
@@ -64,7 +64,7 @@ With a small hammer, I tapped at the **seal** that divided the cube in half.
 >
 > 5．解散，散开
 
-Cautiously, I **pulled up** the top half of the plaster mold and a lead **nickel** **fell out.**
+##### Cautiously, I **<u>pulled up</u>** the top half of the plaster mold and <u>a lead **nickel** **fell out.**</u>
 
 ---
 
@@ -82,7 +82,7 @@ Cautiously, I **pulled up** the top half of the plaster mold and a lead **nickel
 >
 > 词根词源： ex- 出 + -claim- 叫喊
 
-Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
+##### Oh, no!” my dad **<u>exclaimed</u>**. “You’re casting nickels out of lead!
 
 ---
 
@@ -94,7 +94,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 >
 > v.用，花（钱）；花费，度过（一段时间）；用尽，耗尽（spend 的过去式和过去分词形式）
 >
-> 文中是 spent 是 形容词，表示 **用完的，用废的**
+> > 文中是 spent 是 形容词，表示 **用完的，用废的**
 
 ## dust🚩
 
@@ -108,7 +108,7 @@ Oh, no!” my dad **exclaimed**. “You’re casting nickels out of lead!
 
 > 笑的合不拢嘴，很开心
 
-Along with a fire and a box of **spent** toothpaste tubes, in front of him were two little boys covered with white **dust** **smiling from ear to ear.**
+##### Along with a fire and a box of **<u>spent</u>** toothpaste tubes, in front of him were two little boys covered with white **<u>dust</u>**	 **<u>smiling from ear to ear</u>.**
 
 ---
 
@@ -120,7 +120,7 @@ Along with a fire and a box of **spent** toothpaste tubes, in front of him were 
 >
 > 3、贬低：用言语或行为使他人感到不好或不重要。
 
-He asked us to **put** everything **down** and sit with him on the front step of our house.
+##### He asked us to **<u>put</u>** everything **<u>down</u>** and sit with him on the front step of our house.
 
 ---
 
@@ -154,7 +154,7 @@ He asked us to **put** everything **down** and sit with him on the front step of
 >
 > n.猛冲，飞奔；少量，少许（添加物）；破折号；<旧>冲劲，锐气；<美>短跑；<非正式>（汽车的）仪表盘；（莫尔斯电码中的）长划；（Dash）达世币（一种网络加密货币）
 
-Our dreams were **dashed**.
+##### Our dreams were **<u>dashed</u>**.
 
 ---
 
@@ -196,7 +196,7 @@ Our dreams were **dashed**.
 >
 > 总体而言，**"quiver" 更强调轻微而快速的颤抖，而"shaky" 更强调整体的摇晃或不稳定。**
 
-in a **quivering** voice.
+##### in a **<u>quivering</u>** voice.
 
 ---
 
@@ -204,7 +204,7 @@ in a **quivering** voice.
 
 > 大扫除, 收拾干净
 
-Sweeping the powder up.  收拾干净粉末
+##### <u>**Sweeping**</u> the powder <u>**up**</u>.  收拾干净粉末
 
 ---
 

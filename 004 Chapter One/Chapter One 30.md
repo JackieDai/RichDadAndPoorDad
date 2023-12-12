@@ -10,7 +10,7 @@
 > n.
 > 富人；<古>支流
 
-“they were “poor kids” in an **affluent** school.”
+##### “they were “poor kids” <u>in an **affluent** school</u>.”
 
 ---
 
@@ -33,9 +33,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/9f9bcf9b582d15725fdb2151368308b8.jpg?)
 
-
-
-“They were soon **set straight** by Robert’s dad, who told them they should talk to Mike’s dad, who never finished eighth grade but ran multiple successful businesses.”
+##### They were soon **<u>set straight</u>** by Robert’s dad,”
 
 ---
 
@@ -57,28 +55,25 @@
 
 > 相当快的
 
-“**Fairly quickly**, Robert grew **disenchanted** with the boring work and low pay.”
+##### “**<u>Fairly quickly</u>**, Robert <u>grew **disenchanted**</u> with the boring work and low pay.”
 
 ---
 
 ## accusing
 
-> adj.
-> 指责的；非难的；归咎的
->
-> v.
-> 指责；指控（accuse 的 ing 形式）
->
+> adj.指责的；非难的；归咎的
+> 
+>v.指责；指控（accuse 的 ing 形式）
+> 
 > ---
 >
 > accuse **/əˈkjuːz/**
 >
-> v.
-> 控告，指控；指责，谴责，归咎于
+> v.控告，指控；指责，谴责，归咎于
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/02414100e2ac4a7efa64d152a6339d13.jpg?)
 
-“ He was <u>fed up(不爽)</u> and emotional by the time he got to complain to Mike’s dad, **accusing** him of being greedy(贪婪的) and not showing him respect.”
+##### “ He was <u>fed up(不爽)</u> and emotional by the time he got to complain to Mike’s dad, **<u>accusing</u>** him of being greedy(贪婪的) and not showing him respect.”
 
 ---
 
@@ -86,18 +81,15 @@
 
 > /dɪˈspaɪt/
 >
-> prep.
-> 尽管，即使；不由自主地，忍不住地
->
-> n.
-> <古>亵渎；<古>轻蔑，鄙视
->
-> v.
-> <古>蔑视；<古>激怒
+> prep.尽管，即使；不由自主地，忍不住地
+> 
+>n.<古>亵渎；<古>轻蔑，鄙视
+> 
+> v.<古>蔑视；<古>激怒
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/04cd75121fb14ee500f5049637f368c7.jpg?)
 
-“When he said Mike’s dad hadn’t taught him anything **despite** their agreement, the business owner calmly disagreed.”
+##### “When he said Mike’s dad hadn’t taught him anything <u>**despite** their agreement</u>, the business owner calmly disagreed.”
 
 ---
 
@@ -131,7 +123,7 @@
 >
 > 具体含义可能取决于上下文，例如在艺术、文学或哲学的语境中，这样的表达可能用于形容某个瞬间或时期的持久性或深远影响。
 
-“A final offer of $5 an hour—a **princely** sum at that time—**solidified** for Robert that he wouldn’t be bought.”
+##### “A final offer of $5 an hour—<u>a **princely** sum</u> at that <u>time—**solidified**</u> for Robert that he wouldn’t be bought.”
 
 
 

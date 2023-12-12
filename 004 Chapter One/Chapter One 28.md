@@ -39,6 +39,8 @@
 >
 > 总体而言，"sophisticate" 用于形容使某人或某物变得更为复杂、精密，或者指称一个经验丰富、老练的个体。这个词语常常带有一种正面的意味，表示对知识、技能或经验的提升。
 
+##### **<u>But all too often</u>** business schools train employees to become **<u>sophisticated</u>** bean-counters. 
+
 ## bean-counters
 
 > 精打细算的人（bean counter的复数）；会计
@@ -55,7 +57,7 @@
 >
 > 下个月新任CEO将接管公司。
 
-“But all too often business schools train employees to become **sophisticated** bean-counters. Heaven forbid a **bean-counter** **takes over** a business. ”
+##### Heaven forbid <u>a **bean-counter**</u> **<u>takes over</u>** a business. ”
 
 ---
 
@@ -93,7 +95,7 @@
 >
 > v.充电；使……承担责任；控告，指控（charge 的和过去式和过去分词形式）
 
-“When you again **resisted** your emotions when I tempted you with more money, you were again learning to think in **spite** of being emotionally **charged**.”
+##### “When you again **<u>resisted</u>** your emotions when I tempted you with more money, you were again learning to think <u>in **spite** of</u> being emotionally **<u>charged</u>**.”
 
 ---
 
@@ -130,7 +132,7 @@
 > 
 > 总体而言，"patch" 的具体含义取决于上下文。它可以表示修补、连接、软件修复，也可以指代区域、颜色斑块等。在理解这个词语时，需要考虑具体的语境。
 
-“ I’ll take you boys into <u> the briar patch(荆棘之地)</u>, a place almost everyone else avoids.”
+##### I’ll take you boys into <u> **the briar patch**(荆棘之地)</u>
 
 ---
 
@@ -154,13 +156,17 @@
 >
 > 在做出决定之前，认真思考各个方面是很重要的
 
-“ Most people are too afraid to **rationally** **think things through**(仔细考虑) and instead run out the door to a job they hate. ”
+##### “Most people are too afraid to **<u>rationally</u>**	 <u>**think things through**(仔细考虑)</u>. ”
 
 ---
 
-## knee-jerk
+## a knee-jerk reaction
 
-> **/ˈniː dʒɜːrk/**
+> 下意识的反应, 不由自主的反应
+>
+> ---
+>
+> knee-jerk	**/ˈniː dʒɜːrk/**
 >
 > n.膝反射
 >
@@ -170,15 +176,19 @@
 >
 > 理解: 本能反应，条件反射
 
-## gulp
+## gulp down
 
-> **/ɡʌlp/**
+> 狼吞虎咽：非常快地吃或喝，不咀嚼食物或一次性吞下大量液体。
+>
+> ---
+>
+> gulp	**/ɡʌlp/**
 >
 > v.狼吞虎咽，匆匆吞下；大口呼吸；（因害怕或惊讶而）倒吸气
-> 
->n.大口吞食，大口啜饮；一大口（饮入物）；一大口（吸入的空气）；吞咽，吸入
-> 
+>
+> n.大口吞食，大口啜饮；一大口（饮入物）；一大口（吸入的空气）；吞咽，吸入
+>
 > ![](https://ydlunacommon-cdn.nosdn.127.net/257609358114c4246bffe64e90f3014e.jpg?)
 
-“ I’ll teach you to have a choice of thoughts rather than a **knee-jerk** reaction, like **gulping** down your morning coffee and running out the door.”
+##### “ I’ll teach you to have a choice of thoughts rather than <u>a **knee-jerk** reaction</u>, like <u>**gulping** down</u> your morning coffee and running out the door.”
 

@@ -6,7 +6,7 @@
 >
 > 是一个常见的隐喻，用来比喻一个脆弱、不稳定或容易倒塌的结构、系统或局面。纸牌屋是由纸牌叠成的建筑，由于纸牌之间的连接非常脆弱，一点微小的压力或干扰就可能导致整个结构坍塌。
 
-“ It’s only out of fear and greed that the illusion of money is held together by billions of people who believe that money is real. It’s not. Money is really made up. It is only because of the illusion of confidence and the ignorance of the masses that this **house of cards** stands.”
+##### “this **<u>house of cards</u>** stands.”
 
 ---
 
@@ -34,7 +34,7 @@
 >
 > 通常用来表示有形的、实实在在的，而不是抽象或虚构的
 
-“What concerned him was the **rumor** that we would someday go off the gold standard and our dollars would no longer be backed by something **tangible**.”
+##### “What concerned him was the **<u>rumor</u>** that we would someday <u>go off the gold standard</u> and our dollars would no longer be backed by something **<u>tangible</u>**.”
 
 ---
 
@@ -45,6 +45,8 @@
 > 2．突然变得松动：突然停止与某物相连。
 >
 > 字面理解就是 打断紧固，挣脱束缚
+
+##### If that happens, all hell(地狱) will **<u>break loose.</u>** 
 
 ## ruined
 
@@ -64,7 +66,7 @@
 > 
 >![](https://ydlunacommon-cdn.nosdn.127.net/9f73fc349d98b0423f500c07bdea917c.jpg?)
 
-“If that happens, boys, all hell(地狱) will **break loose.** The poor, the middle class, and the ignorant will have their lives **ruined** simply because they will continue to believe that money is real and that the company they work for, or the government, will look after them.”
+##### The ignorant will have their lives **ruined**.
 
 ---
 
@@ -83,7 +85,7 @@
 > - "Stare" 常常强调更直接、强烈的目光，可能带有一种过于专注或突兀的感觉。
 > - "Gaze" 则更强调一种柔和、沉思或欣赏的注视，通常与浪漫、美丽或宏伟的事物相关。
 
-“At the end of the second Saturday, I was again saying goodbye to Mrs. Martin and looking at the comic-book stand with a longing **gaze**. ”
+##### Martin and looking at the comic-book stand with <u>a longing **gaze**</u>. ”
 
 ---
 
@@ -94,7 +96,7 @@
 > n.
 > 经销商，批发商；（汽油发动机中的）配电器，配电盘
 
-“Soon the **distributor** arrived, and I asked him if we could have the comic books.”
+##### “Soon <u>the **distributor** arrived</u>, and I asked him if we could have the comic books.”
 
 ---
 
@@ -111,7 +113,7 @@
 > - "Happy" 是一个通用的形容词，可以用于描述一般的愉悦和生活中的愉快时刻。
 > - "Delight" 强调的是更为深刻和令人愉悦的感觉，通常与特殊的原因、经历或惊喜相关。
 
-“To my **delight**（让我高兴的是）, he said, “You can have them if you work for this store and do not resell them”
+##### “<u>To my **delight**（让我高兴的是）</u>, he said, “You can have them if you work for this store and do not resell them”
 
 ---
 
@@ -147,7 +149,7 @@
 > 
 > 在总体上，"renew" 更强调给予新的生命、期限、活力，通常涉及到续约或更新。而 "revive" 更侧重于使某事物重新焕发活力、恢复生气，可能包括复苏、振兴等含义。
 
-“Remember our old business partnership? Well,Mike and I **revived** it”.
+##### “Remember our old business partnership? Well,Mike and I **<u>revived</u>** it”.
 
 ---
 
@@ -192,7 +194,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/29b89815faf2874cd1022533f85cd251.jpg?)
 
-“Using a **spare** room in Mike’s **basement**, we began **piling** hundreds of comic books in that room.”
+##### Using <u>a **spare** room</u> in Mike’s **<u>basement</u>**, we began **<u>piling</u>** hundreds of comic books in that room.
 
 `"piling" 的意思是将大量的漫画书堆积或堆放在那个房间里。这指的是把漫画书一个接一个地堆积或叠放在一起，以积累大量的漫画书。作者描述了他们将成百上千本漫画书堆积在 Mike 的地下室的备用房间中的情况。 "Piling" 表示了漫画书的积累或堆放过程。`
 
@@ -224,7 +226,7 @@
 >
 > 总体来说，"bargain" 作为名词时通常指交易、协议或便宜货，作为动词时指讨价还价或谈判以达成协议。在购物或商业谈判的语境中经常会用到这个词。
 
-“It was a **bargain** for them since a comic cost 10 cents each,”
+##### “It was <u>a **bargain** for</u> them since a comic cost 10 cents each,”
 
 ---
 
@@ -248,7 +250,7 @@
 > 
 > ![](https://ydlunacommon-cdn.nosdn.127.net/87e7f4027762ee2900d99c7745db4d76.jpg?)
 
-“We burned them once they got too **tattered**”
+##### “We burned them once they got too **<u>tattered</u>**”
 
 ---
 
@@ -289,7 +291,7 @@
 > 
 > 词根词缀： de-加强意义 + -dic-说,讲 + -ate动词词尾
 
-“We tried opening a branch office, but we could never **quite** find someone as **trustworthy** and **dedicated** as Mike’s sister.”
+##### We could never **<u>quite</u>** find someone as <u>**trustworthy** and **dedicated**</u> as Mike’s sister.
 
 > "Quite" 和 "very" 都是用于强调程度的副词，但它们在用法上有一些区别。
 >
@@ -333,7 +335,7 @@
 >
 > 这个短语强调了决心和努力克服阻碍，以实现某个目标或到达某个地点。
 
-“ Some **bullies** from another neighborhood pushed their way in, and Mike’s dad suggested we shut down the business. ”
+##### “ Some <u>bullies</u> from another neighborhood **<u>pushed their way in</u>**”
 
 ---
 

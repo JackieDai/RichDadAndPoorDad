@@ -12,7 +12,7 @@
 
 > n. 工匠，技工，男工
 
-“**Across from** the women sat a man in **workman’s** clothes.”
+##### “<u>**Across from**</u> the women sat a man <u>in **workman’s** clothes</u>.”
 
 ---
 
@@ -96,7 +96,7 @@
 >
 > v.猛踢；锁住（非法停车的轮子）；启动（电脑）；在车轮上装制动装置；解雇；（使）穿靴
 
-“He wore **khaki** **slacks** and a khaki shirt, **neatly** **pressed** but without **starch**, and **polished** work **boots**.”
+##### “He wore <u>**khaki** **slacks**</u> and a khaki shirt, <u>**neatly** **pressed**</u> but without **<u>starch</u>**, and **<u>polished</u>** work **<u>boots</u>**.”
 
 ---
 
@@ -104,6 +104,6 @@
 
 > 走过，经过：从某个地方走过而不停留。
 
-“ I **walked past** them toward the back porch.”
+##### “ I **<u>walked past</u>** them toward the back porch.”
 
 ---

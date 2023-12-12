@@ -4,30 +4,32 @@
 
 > **/ˈpæʃ(ə)n/**
 >
-> n.
-> 爱恋，情欲；**激情，热情**；酷爱，热衷的爱好（或活动等）；盛怒，激愤；耶稣的受难（the Passion）
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/c946faa4f42b8409cb008417d77194e6.jpg?)
+> n.爱恋，情欲；**激情，热情**；酷爱，热衷的爱好（或活动等）；盛怒，激愤；耶稣的受难（the Passion）
+> 
+>![词条图片](https://ydlunacommon-cdn.nosdn.127.net/c946faa4f42b8409cb008417d77194e6.jpg?)
 
-## burning
+## a burning desire
 
-> **/ˈbɜːrnɪŋ/**
+> **强烈的渴望**：指一种非常强烈的欲望或渴求，常常伴随着热情和决心。
 >
-> adj.
-> 燃烧的，着火的；**强烈的**，**热切的**；炙热的，明亮的；疼痛的，火辣辣的；事关紧要的
+> · He had a burning desire to become a successful musician.
 >
-> adv.
-> 炙热地，火热地
+> 他有着成为成功音乐家的强烈渴望。
 >
-> n.
-> 灼热，烧毁
+> ---
 >
-> v.
-> 燃烧，消耗；烧坏，烧毁；火辣辣地发痛，发烫（burn 的现在分词）
+> **burning	/ˈbɜːrnɪŋ/**
 >
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/653b2eadd05314ab510255384cea4769.jpg?)
+> adj.燃烧的，着火的；**强烈的**，**热切的**；炙热的，明亮的；疼痛的，火辣辣的；事关紧要的
+>
+> adv.炙热地，火热地
+>
+> n.灼热，烧毁
+>
+> v.燃烧，消耗；烧坏，烧毁；火辣辣地发痛，发烫（burn 的现在分词）
+>
 
-“You see, true learning takes energy, passion, and a burning desire.”
+##### “You see, true learning takes energy, **<u>passion</u>**, and **<u>a burning desire</u>**.”
 
 ---
 
@@ -39,21 +41,17 @@
 >
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/c7ba03c2f8110e89ef01e0303f42bee1.jpg)
 
-## secure
+##### Anger is a big part of that **<u>formula</u>**, for passion is anger and love combined. 
 
-> adj.
-> 稳固的，可靠的；严密把守的，牢固的；**安全的，稳妥的；**（对自己和自己的能力）有自信的；感到有保障的，没有顾虑的；固定住的，系牢的；秘密的
->
-> v.
-> （尤指经过努力而）获得，得到；使安全，保护；缚牢，将（某物）固定；确保，保证；为（债务或贷款）作抵押，作保；（外科）压迫（血管）止血；停止工作；船抛锚
->
+## secure🚩
+
+> adj.稳固的，可靠的；严密把守的，牢固的；**安全的，稳妥的；**（对自己和自己的能力）有自信的；感到有保障的，没有顾虑的；固定住的，系牢的；秘密的
+> 
+>v.（尤指经过努力而）获得，得到；使安全，保护；缚牢，将（某物）固定；确保，保证；为（债务或贷款）作抵押，作保；（外科）压迫（血管）止血；停止工作；船抛锚
+> 
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/5b18c54848837d8fdb1be41e91745e23.jpg?)
 
-“Anger is a big part of that **formula**, for passion is anger and love combined. When it comes to money, most people want to play it safe and feel **secure**. So passion does not direct them. Fear does.”
-
----
-
-## “Most people, given more money, only get into more debt.”
+##### When it comes to money, most people want to play it safe and feel **<u>secure</u>**.
 
 ---
 
@@ -61,12 +59,12 @@
 
 > **/ˈnaɪtmer/**
 >
-> n.
-> 噩梦；可怕的经历，很难对付的人（或情形）
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/375f50057a43be807b27d389a6c3a03e.jpg?)
+> n.噩梦；可怕的经历，很难对付的人（或情形）
+> 
 
-“While I am a huge supporter of education and life-long learning, “going to school”—especially college—has become a financial **nightmare**.”
+##### “While I am a huge supporter of education and life-long learning, “going to school”—especially college—has become a financial **<u>nightmare</u>**.”
+
+> 此处的while表示 然而（表示对比）的意思
 
 ---
 
@@ -90,15 +88,13 @@ Most people become a **slave** to money—and then get angry at their boss.”
 
 > **/ˈhaɪər/**
 >
-> v.
-> <英>租用，租借；聘用，录用
->
-> n.
-> 租借，租金；<美>被雇用的人
->
+> v.<英>租用，租借；聘用，录用
+> 
+>n.租借，租金；<美>被雇用的人
+> 
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/c2cfe397942060edcee5e2a1470f4a43.jpg?)
 
-“How did you feel waiting in line to see me, once to get **hired** and once to ask for more money?”
+##### “How did you feel waiting in line to see me, once to <u>get **hired**</u> and once to ask for more money?”
 
 ---
 
@@ -106,10 +102,9 @@ Most people become a **slave** to money—and then get angry at their boss.”
 
 > **/dɪˈdʌkʃ(ə)n/**
 >
-> n.
-> 演绎，推论；**扣除，扣除额**
->
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/6d789bcf82cf30143d9cd706daef0c3a.jpg?)
+> n.演绎，推论；**扣除，扣除额**
+> 
+>![词条图片](https://ydlunacommon-cdn.nosdn.127.net/6d789bcf82cf30143d9cd706daef0c3a.jpg?)
 
 ## take out
 
@@ -131,7 +126,7 @@ Most people become a **slave** to money—and then get angry at their boss.”
 >
 > 5．消灭：杀死或摧毁（某人或某物）。
 
-“especially after all the tax and other **deductions** are **taken out**.”
+##### “especially after all the tax and other **<u>deductions</u>** are <u>**taken out**.</u>”
 
 ---
 
@@ -141,7 +136,7 @@ You’re taxed when you spend.
 
 You’re taxed when you save.
 
- You’re taxed when you die.
+You’re taxed when you die.
 
 ---
 
@@ -158,5 +153,5 @@ You’re taxed when you save.
 > abbr.
 > 在……之间（between）
 
- I’ll **bet** you that I earn more than your dad, yet he pays more in taxes.
+#####  I’ll **<u>bet</u>** you that I earn more than your dad, yet he pays more in taxes.
 

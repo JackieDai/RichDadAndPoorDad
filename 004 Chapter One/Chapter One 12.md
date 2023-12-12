@@ -5,7 +5,7 @@
 
 > "On top of that" 可以翻译成中文为 "而且"、"除此之外"、"更甚的是" 等，视上下文而定。
 
-“ I had agreed to work only because I wanted to learn to make money from Mike’s dad, and now I was a slave for 10 cents an hour. **On top of that**, I had not seen Mike’s dad since that first Saturday.”
+##### “ I had agreed to work only because I wanted to learn to make money from Mike’s dad, and now I was a slave for 10 cents an hour. **<u>On top of that</u>**, I had not seen Mike’s dad since that first Saturday.”
 
 ---
 
@@ -17,7 +17,8 @@
 >
 > 在这个句子中，说话者提到看到30美分让他感到困扰，意味着这个小额钱物质上看似微不足道，但却在某种程度上引起了他的情感或情感上的不满。这句话可能是在谈论某种情境，其中30美分引起了不适或不满情感。
 
-"But it was the 30 cents that really got to me" 
+##### "But it was the 30 cents that really **<u>got to m</u>**e" 
+
 "但真正让我感到困扰的是那30美分"。
 
 ---
@@ -48,7 +49,7 @@
 >
 > 这些短语在交流中非常常见，但需要注意它们有时可能会使陈述显得不太确定或模糊，具体取决于上下文和语气。
 
-“Dad**’s kind of** different” "爸爸有点不同"
+##### “Dad **is kind of** different” "爸爸有点不同"
 
 ---
 
@@ -56,7 +57,7 @@
 
 > 排队等候
 
-take a seat and **wait in line**.
+##### take a seat and <u>**wait in line**.</u>
 
 ---
 
@@ -80,11 +81,11 @@ take a seat and **wait in line**.
 >
 >  sw-,弯，转，摇摆，摇晃，
 
-“I understand you want a raise, or you’re going to quit,” rich dad said as he **swiveled** in his office chair.”
+##### “I understand you want a raise, or you’re going to quit,” rich dad said as he **<u>swiveled</u>** in his office chair.”
 
 ---
 
-## keep
+## keep(遵守)
 
 > keep 有很多意思，句子中表示  **“遵守”**  的意思。
 
@@ -120,5 +121,5 @@ take a seat and **wait in line**.
 >
 > n.（尤指用于对儿童说话时）大人，成年人
 
-“Well, you’re not keeping your end of the **bargain**,” I **blurted out**, nearly in tears. It was really frightening for me to **confront** a **grown-up**.”
+##### “Well, you’re not **<u>keeping</u>** your end of the **<u>bargain</u>**,” I **<u>blurted out</u>**, nearly in tears. It was really frightening for me to **<u>confront</u>** a **<u>grown-up</u>**.”
 

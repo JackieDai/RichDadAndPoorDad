@@ -33,7 +33,7 @@
 >
 > <img src = "https://img1.baidu.com/it/u=2247578761,1548868210&fm=253&fmt=auto&app=120&f=JPEG?w=526&h=391" width = "100px">
 
-“Mike’s dad, whom I call my rich dad, **owned** nine of these little superettes, each with a large **parking lot**.”
+##### “Mike’s dad, whom I call my rich dad, **<u>owned</u>** nine of these little superettes, each with a large <u>**parking lot**.</u>”
 
 ---
 
@@ -46,7 +46,7 @@
 >
 > <img src = "https://img1.baidu.com/it/u=2640691513,1623807120&fm=253&fmt=auto&app=138&f=JPEG?w=719&h=500" width = "100px">
 
-“They were the early version of the 7-Eleven convenience stores, little neighborhood **grocery** stores where people bought items such as milk, bread, butter, and cigarettes. ”
+##### “They were the early version of the 7-Eleven convenience stores, little neighborhood <u>**grocery** stores</u> where people bought items such as milk, bread, butter, and cigarettes. ”
 
 ---
 
@@ -62,7 +62,7 @@
 >
 > 文中 == 方言 "bang 人"
 
-“Every time a car drove by or pulled into the parking lot, dust would **swirl** and settle in the store. ”
+##### “Every time a car drove by or pulled into the parking lot, dust would **<u>swirl</u>** and settle in the store. ”
 
 ---
 
@@ -74,7 +74,7 @@
 > v.
 > **报道**；据说，传闻；述说，报告；公告，公布；举报（罪案）， 报告（事故）；报到；描述（感情、病情等）；<英>（议会委员会主席）正式宣布委员会已讨论（法案）；<美>（议会委员会）将法案交还给议会表决；对（上级或监督者）负责，由......领导；告发，检举
 
-“For three weeks, Mike and I **reported** to Mrs.”
+##### “For three weeks, Mike and I **<u>reported</u>** to Mrs.”
 
 ---
 
@@ -100,7 +100,7 @@
 > n.
 > （美国、加拿大的）十分硬币；<非正式>小钱，少量的钱；<非正式>（就尺寸、面积或程度而言的）小东西
 
-“By **noon**, our work was over, and she dropped three little **dimes** in each of our hands.”
+##### “<u>By **noon**</u>, our work was over, and she dropped three little **<u>dimes</u>** in each of our hands.”
 
 ---
 
@@ -120,7 +120,7 @@
 >
 > 一个短语，意思是在**过去的某个特定时间或时代**，通常用来指代与当前时间不同的时期。在这个句子中，"back then" 指的是谈话者在过去的某个时间段，当漫画书的价格是10美分时的情境。这个短语用来提供上下文，使读者了解谈话者所描述的事件发生在过去。
 
-“**Comic** books cost 10 cents **back then**, so I usually spent my money on comic books and went home.”
+##### “<u>**Comic** books</u> cost 10 cents **<u>back then</u>**, so I usually spent my money on comic books and went home.”
 
 ---
 
@@ -128,15 +128,13 @@
 
 > **/sleɪv/**
 >
-> n.
-> 奴隶，苦工；完全受（某事物）控制的人；从动装置
->
-> v.
-> 苦干，拼命干；使（装置）从属于（另一装置）
->
+> n.奴隶，苦工；完全受（某事物）控制的人；从动装置
+> 
+>v.苦干，拼命干；使（装置）从属于（另一装置）
+> 
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/4ddd7f65659b5f98cf52395f8fe94b1c.jpg" width = "100px">
 
- I was a **slave** for 10 cents an hour.
+#####  I was a **<u>slave</u>** for 10 cents an hour.
 
 ---
 
@@ -159,7 +157,7 @@
 >
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/cb167e387636c66094b379bbeb30d98f.jpg" width="100">
 
-“What are you laughing at?” I asked with anger and **frustration**.”
+##### “What are you laughing at?” I asked with anger and **<u>frustration</u>**.”
 
 ---
 
@@ -189,7 +187,7 @@
 >
 > feed 喂养，饲养
 
-“What?” I said **indignantly**. “He’s been waiting for me to get **fed up**?”
+##### “What?” I said **<u>indignantly</u>**. “He’s been waiting for me to get **<u>fed up</u>**?”
 
 ---
 
@@ -205,7 +203,7 @@
 >
 >  词根词缀： -lect-诵读 + -ure
 
-“Dad’s kind of different. He doesn’t teach like your dad. Your mom and dad **lecture** a lot.”
+##### “Dad’s kind of different. He doesn’t teach like your dad. Your mom and dad **<u>lecture</u>** a lot.”
 
 > - "爸爸有点不同。他的教学方式不像你爸爸。你妈妈和爸爸经常给你们上讲座。"
 > - "lecture" 是一个动词，意思是向某人讲解、授课或发表长篇演讲，通常用于教育或传授知识的背景中。
@@ -238,6 +236,6 @@
 >
 > 他被敌人陷害，被错误指控犯罪。
 
-You mean I’ve been **set up**?
+##### You mean I’ve been **<u>set up</u>**?
 
 ---

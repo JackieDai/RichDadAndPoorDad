@@ -13,7 +13,7 @@
 >
 >​	来自 decide
 
-“ If you can’t **make up your mind** **decisively**, then you’ll never learn to make money anyway.”
+##### “ If you can’t <u>**make up your mind** **decisively**</u>, then you’ll never learn to make money anyway.”
 
 ---
 
@@ -39,7 +39,7 @@
 >
 > "Teasing" 这个词的语境通常决定了它是一种友好的调侃还是一种可能让人感到不快的戏弄。
 
-“Mike’s dad said with a **teasing** smile.”
+##### “Mike’s dad said with a **<u>teasing</u>** smile.”
 
 ---
 
@@ -50,7 +50,7 @@
 > n.
 > 规模较小的超级商场；[贸易] 小型自动售货店
 
-After I’m through with her, you’ll ride with her to my **superette** and you can begin working.
+##### After I’m through with her, you’ll ride with her to my **<u>superette</u>** and you can begin working.
 
 > I’m through with her, 表示跟他分开，文中值得是 跟她 处理完事情之后分开的意思
 >
@@ -66,7 +66,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > 他在几分钟内解决了这个问题。
 
-“Deals come and go on the Internet **in a matter of minutes.**”
+##### “Deals come and go on the Internet **<u>in a matter of minutes</u>.**”
 
 ---
 
@@ -78,7 +78,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > adj.相互矛盾的；相互竞争的
 
-“More and more people are **competing** for good deals.”
+##### “More and more people <u>are **competing** for</u> good deals.”
 
 ---
 
@@ -88,7 +88,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > v . **抓住，捉住**；（用武力）夺取，占领；逮捕，捉拿；没收，扣押；把握（机会等）；（感觉、疼痛）侵袭，控制；吸引（注意力），唤起（想象力）；<正式>理解，掌握；意识到，得知（be seized of）；（有活动部件的机器，机器的活动部件）咬住，卡住；<英，法律>依法占有（be seized of）；<史>具有（财产）的终身保有权（be seized of）
 
-“So the faster you can make a decision the more likely you’ll be able to **seize** opportunities—before someone else does.”
+##### “So the faster you can <u>make a decision</u> the more likely you’ll be able to **<u>seize</u>** opportunities—before someone else does.”
 
 ---
 
@@ -104,7 +104,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > 作为形容词时 描述了一种严肃、坚定或不妥协的态度。
 
-“Mike’s dad lowered his voice to a **stern** tone. “Take it, or leave it,” he said.”
+##### “Mike’s dad lowered his voice to a **<u>stern</u>** tone. “Take it, or leave it,” he said.”
 
 ---
 
@@ -171,7 +171,7 @@ After I’m through with her, you’ll ride with her to my **superette** and you
 >
 > v.（使）受酷刑，折磨
 
-We spent three hours taking **canned** goods off the **shelves**, brushing each can with a **feather duster**(鸡毛掸子) to get the dust off, and then re-stacking them neatly. It was **excruciatingly** boring work.
+##### We spent three hours <u>taking **canned** goods off the **shelves**</u>, brushing each can with a <u>**feather duster**(鸡毛掸子)</u> to <u>get the dust off</u>, and then re-stacking them neatly. It was **<u>excruciatingly</u>** boring work.
 
 > take ..A.. off ..B..
 >

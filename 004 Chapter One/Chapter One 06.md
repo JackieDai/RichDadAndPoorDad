@@ -28,7 +28,7 @@
 >
 > 在这个句子中，迈克的脸部表情可能因为他听到了一些出乎意料的消息或信息而变得扭曲或不自然。
 
-“My dad?” asked Mike with a **scrunched-up** face.”
+##### “My dad?” asked Mike with a **<u>scrunched-up</u>** face.”
 
 ---
 
@@ -50,7 +50,7 @@
 >
 > de-, 夺去，损毁。funct-, 功能，词源同function.
 
-“With new **vigor**, we began cleaning up the mess caused by our **now-defunct** first business.”
+##### “With new **<u>vigor</u>**, we began cleaning up the mess caused by our **<u>now-defunct</u>** first business.”
 
 ---
 
@@ -66,7 +66,7 @@
 >
 > ware,物品，house,屋子。即仓库。
 
-“His father owned **warehouses**, a construction company, a chain of stores, and three restaurants.”
+##### “His father owned **<u>warehouses</u>**, a construction company, a chain of stores, and three restaurants.”
 
 > "Own" 和 "have" 都是表示拥有的动词，但它们在用法和语境上略有不同。
 >
@@ -116,7 +116,7 @@
 >
 > adj.<美，非正式>临时拼凑的，临时组织的
 
-“His construction **supervisor** was just leaving in his **pickup** truck as I walked up to his simple, small, and tidy home.”
+##### “His construction **<u>supervisor</u>** was just leaving in his <u>**pickup** truck</u> as I walked up to his simple, small, and tidy home.”
 
 ---
 
@@ -128,7 +128,7 @@
 >
 >指的是房屋或建筑物前面或侧面的露天平台或门廊。
 
-“Dad’s on the phone, and he said to wait on the back **porch**”
+##### “Dad’s on the phone, and he said to wait on the back **<u>porch</u>**”
 
 ---
 
@@ -152,7 +152,7 @@
 >
 > n.门槛，门口；阈，界，起始点；开端，起点，入门；机场跑道入口，跑道头
 
-“The old wooden floor **creaked** as I stepped across the **threshold** of the aging house. ”
+##### “The old wooden floor **<u>creaked</u>** as I stepped across the **<u>threshold</u>** of the aging house. ”
 
 ---
 
@@ -162,7 +162,7 @@
 >
 >n.地垫，垫子；团，簇
 
-“There was a cheap **mat** just inside the door.”
+##### “There was a cheap **<u>mat</u>** just inside the door.”
 
 ---
 
@@ -190,7 +190,7 @@
 >
 > vt.装填过度；给（软椅、沙发等）加厚软垫， 塞满，填满 等
 
-“I felt **claustrophobic** as I entered the narrow living room that was filled with old **musty(过时的)** **overstuffed** furniture that today would be collectors’ items. ”
+##### “I felt **<u>claustrophobic</u>** as I entered the narrow living room that was filled with <u>old **musty(过时的)** **overstuffed** furniture</u> that today would be collectors’ items. ”
 
 ---
 
@@ -198,4 +198,4 @@
 
 > 文章里  表示"经营"或"管理"
 
-The older man **runs** his warehouses
+##### The older man **<u>runs</u>** his warehouses

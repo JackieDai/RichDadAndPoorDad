@@ -4,14 +4,11 @@
 
 > **/krʊk/**
 >
-> n.
-> <非正式>**骗子**，罪犯；弯曲部分（尤指胳膊肘处的弯曲处）；（某物的）弯曲部分；（主教或牧羊人用的）曲柄杖
->
-> v.
-> (手指或手臂)弯曲；诈骗，偷窃；弯曲，成钩形；（手指或手臂）弯曲
->
-> adj.
-> <非正式>有病的；不诚实的，非法的
+> n.<非正式>**骗子**，罪犯；弯曲部分（尤指胳膊肘处的弯曲处）；（某物的）弯曲部分；（主教或牧羊人用的）曲柄杖
+> 
+>v.(手指或手臂)弯曲；诈骗，偷窃；弯曲，成钩形；（手指或手臂）弯曲
+> 
+> adj.<非正式>有病的；不诚实的，非法的
 
 ## greedy
 
@@ -22,7 +19,7 @@
 >
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/117e74a40714aa6afee99b2bec5944ae.jpg?">
 
-“You are a **crook** like everyone in town thinks you are. You’re **greedy**.”
+##### “You are a **<u>crook</u>** like everyone in town thinks you are. You’re **<u>greedy</u>**.”
 
 ---
 
@@ -36,7 +33,7 @@
 >
 > <img src="https://ydlunacommon-cdn.nosdn.127.net/45015f3672a692c8c06093155875b8d5.jpg">
 
-“Rich dad rocked back in his swivel chair, hands up to his chin, and stared at me.”
+##### “Rich dad rocked back in his swivel chair, hands up to his **<u>chin</u>**, and stared at me.”
 
 > "富爸爸摇晃着他的摇椅，双手扶在下巴上，盯着我看。"
 >
@@ -55,7 +52,7 @@
 >
 > 词根词缀： griev(-grav-)重;压迫 + -ance名词词尾
 
-“ I continued with my **grievance**” 	我继续表达不满
+##### “ I continued with my **<u>grievance</u>**” 	我继续表达不满
 
 ---
 
@@ -73,7 +70,7 @@
 >
 > 通常指的是极端的身体或精神折磨、痛苦或折磨的行为。这通常与惩罚、审讯、报复或控制等负面行为相关。
 
-“I thought you were going to keep your end of the bargain and teach me. Instead you want to **torture** me? That’s cruel. That’s really cruel.”
+##### “I thought you were going to keep your end of the bargain and teach me. Instead you want to **<u>torture</u>** me? That’s cruel. That’s really cruel.”
 
 ---
 
@@ -83,7 +80,7 @@
 >
 > n.花生，花生米；**<非正式>很少的钱（peanuts）**；小片聚苯乙烯泡沫塑料（peanuts）
 
-“You haven’t even talked to me once since I agreed to work for **peanuts**.”
+##### “You haven’t even talked to me once since I agreed to work for **<u>peanuts</u>**.”
 
 ---
 
@@ -99,7 +96,7 @@
 >
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/f9b0ab63609d7860a3608390211fed82.jpg?)
 
-“Well, you’ve never talked to me. I’ve worked for three weeks and you have not taught me anything,” I said with a **pout**.”
+##### “Well, you’ve never talked to me. I’ve worked for three weeks and you have not taught me anything,” I said with a **<u>pout</u>**.”
 
 ---
 
@@ -121,7 +118,7 @@
 > 
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/6c1c58773fcea7af1ecea15fbbd24d79.jpg?)
 
-the cone of learing
+##### the **<u>cone</u>** of learing
 
 > "The Cone of Learning" 可以直译成 "学习锥"，这是一个教育理论和教育方法的概念，它强调了学习的不同阶段和方式对记忆和理解的影响。这个理论表明，学习方式不同，对知识的记忆和理解也不同，而学习锥是用来表示这种差异的图示。学习锥通常分为不同的部分，从底部到顶部，代表了从被动学习到主动学习的过程。这个概念强调了多种学习方式和教学方法的重要性，以促进更好的理解和记忆。
 
@@ -131,34 +128,40 @@ the cone of learing
 
 > **/ˈkredɪt/**
 >
+> > 文中是指 **赞扬，信誉，声望** 的意思
+>
 > n.
 > 信用，信贷，赊购；**赞扬，信誉，声望**；存款金额，余额；补助；退税，抵免；学分；带来荣耀的人（或事）；作品（指影片、电视节目、戏剧等）；信任，相信
 >
 > v.
 > 把（钱）记入总账，把钱存入（账户）；相信，信任；认为是……的功劳，给予承认；认为……有特定品质（或效果）
 
+##### Edgar Dale <u>gets **credit** for</u> helping us to understand that we learn best through action.
+
 ## least
 
-> adj.一点儿；最少的（little 的最高级）；最微不足道的（little 的最高级形式）；用于极小动植物的名称，如least shrew（little 的最高级形式）
-> 
->adv.最低程度地；最少，至少
-> 
+> > 文中是指 	**最少的（little 的最高级）；最微不足道的（little 的最高级形式）**
+>
+> adj.一点儿；**最少的（little 的最高级）；最微不足道的（little 的最高级形式）**；用于极小动植物的名称，如least shrew（little 的最高级形式）
+>
+> adv.最低程度地；最少，至少
+>
 > n.
->最不重要的事物，最微小的事物；至少，起码
-> 
+> 最不重要的事物，最微小的事物；至少，起码
+>
 > pron.
->最少量；起码
-> 
+> 最少量；起码
+>
 > det.
->最少的，最小的
-> 
+> 最少的，最小的
+>
 > ---
 >
 > at least 至少至少来源最低限度起码
 
-“Edgar Dale gets **credit** for helping us to understand that we learn best through action—doing the real thing or a simulation. Sometimes it’s called experiential learning. Dale and his Cone of Learning tell us that reading and lecture are the least effective ways to learn. And yet we all know how most schools teach: reading and lecture.”
+##### reading and lecture are <u>the **least** effective ways</u> to learn
 
-埃德加·戴尔（Edgar Dale）因帮助我们理解最佳学习方式是通过行动——实际操作或模拟而获得了赞誉。有时这被称为体验式学习。戴尔和他的学习锥告诉我们，阅读和听讲座是学习效果最差的方式。然而，我们都知道大多数学校的教学方法是阅读和听讲座。
+> the least effective way 最无效的方法
 
 ---
 

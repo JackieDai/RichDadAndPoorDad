@@ -32,7 +32,7 @@
 > 
 >总的来说，这两个词在很多情况下可以互换使用，但在特定语境中，一个可能更适用于强调程度的增加，而另一个可能更适用于强调整体质量或效果的提高。
 
-“What **intensifies** fear and desire is ignorance.”
+##### “What **<u>intensifies</u>** fear and desire is ignorance.”
 
 ---
 
@@ -49,7 +49,7 @@
 >
 >![](https://ydlunacommon-cdn.nosdn.127.net/cc7e7602a2d89991cd88a0d0f9cd3d95.jpg?)
 
-“a human’s life is a <u>struggle(此处指斗争的意思)</u> between ignorance and **illumination**.”
+##### “a human’s life is a <u>struggle(此处指斗争的意思)</u> between ignorance and **<u>illumination</u>**.”
 
 > "Struggle" 是一个动词，也可以用作名词，常用来描述在面对困难、挑战或抵抗时所进行的努力、奋斗或斗争。
 >
@@ -78,10 +78,9 @@
 > n.
 > 机械工，机修工；<旧>劳工，工匠；方法，手段
 >
-> adj.
-> 手工的
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/f92e89fd06d96905ace908c6840c5220.jpg?)
+> adj.手工的
+
+##### Every culture needs teachers, doctors, **<u>mechanics</u>** ...
 
 ---
 
@@ -99,7 +98,7 @@
 > 
 >n.夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰
 
-“Schools train them so society can **thrive** and **flourish**”
+##### “Schools train them so society can <u>**thrive** and **flourish**</u>”
 
 ---
 
@@ -109,7 +108,7 @@
 >
 > v.理解，领悟；包括，包含
 
-“ I didn’t **comprehend** everything he said that day.”
+##### “ I didn’t **<u>comprehend</u>** everything”
 
 ---
 
@@ -120,6 +119,8 @@
 > adj.可怕的，令人恐惧的；糟糕的，讨厌的；不友好的
 > 
 >![](https://ydlunacommon-cdn.nosdn.127.net/5f5ff098ae35578aeee77d048ee5ae04.jpg?)
+
+##### To wake up in the middle of the night terrified about paying bills is <u>a **horrible** way</u> to live. 
 
 ## dictate🚩
 
@@ -158,39 +159,5 @@
 > - "Order" 可以用于一般情境中的命令，更为灵活。
 > - "Command" 常用于军事或领导层面，强调权威和控制。
 
-“Never forget that fear and desire can lead you into life’s biggest trap if you’re not aware of them controlling your thinking. 
+##### To live a life **<u>dictated</u>** by the size of a paycheck is not really living a life. 
 
-To spend your life living in fear, never exploring your dreams, is cruel. 
-
-To work hard for money, thinking that it will buy you things that will make you happy is also cruel. 
-
-To wake up in the middle of the night terrified about paying bills is a **horrible** way to live. 
-
-To live a life **dictated** by the size of a paycheck is not really living a life. 
-
-Thinking that a job makes you secure is lying(撒谎) to yourself. 
-
-That’s cruel, and that’s the trap I want you to avoid. I’ve seen how money runs people’s lives. Don’t let that happen to you. Please don’t let money run your life.”
-
----
-
-**EXTENSIION**
-
-> **term** 的用法
->
-> "Term" 是一个多义词，其用法取决于上下文。以下是 "term" 的几种常见用法：
->
-> 1. **作为名词：**
->    - **学期、术语：** "I have two exams at the end of this term."（我在本学期末有两门考试。）
->    - **条件、条款：** "They agreed to the terms of the contract."（他们同意了合同的条件。）
->
-> 2. **作为动词：**
->    - **把...称为、把...命名为：** "We term this phenomenon 'global warming.'"（我们把这个现象称为 '全球变暖'。）
->
-> 3. **短语用法：**
->    - **in terms of（从...角度来看、根据...来说）：** "Let's discuss this problem in terms of its impact on the budget."（让我们从其对预算的影响角度来讨论这个问题。）
->
-> 4. **数学和逻辑中的用法：**
->    - **术语：** "In mathematical terms, the equation is quite simple."（从数学的角度来看，这个方程非常简单。）
->
-> 总的来说，"term" 可以用作名词表示时间段、术语、条件等，也可以用作动词表示命名或称呼。根据具体上下文，它可能有不同的含义。

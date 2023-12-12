@@ -6,7 +6,7 @@
 >
 > "offer" 表示他会提出一种提议或报价，可能是涉及交易、合同、服务或其他形式的协议。这个动作通常意味着他将提供一些东西，以满足特定需求、要求或交易条件。
 
-“Well, he had a funny look on his face at first, and then he said he would make us an **offer**.”
+##### “Well, he had a funny look on his face at first, and then he said he would make us an **<u>offer</u>**.”
 
 ---
 
@@ -34,7 +34,7 @@
 >
 > adv.向后，在后面
 
-“Oh,” I said, rocking my chair back **against** the wall. I sat there **perched** on two **rear** legs of the chair.(我坐在那里，倚在椅子的两条后腿上)”
+##### “Oh,” I said, rocking my chair back **<u>against</u>** the wall. I sat there **<u>perched</u>** on two **<u>rear</u>** legs of the chair.(我坐在那里，倚在椅子的两条后腿上)”
 
 ---
 
@@ -54,7 +54,7 @@
 >
 > adj.摇晃的；虚弱的；患佝偻病的
 
-“Suddenly, Mike’s dad **burst** through the **rickety** screen(屏风,隔断物) door and onto the porch”（"突然间，迈克的爸爸猛地冲破摇摇欲坠的纱门，踏上了门廊。"）
+##### “Suddenly, Mike’s dad **<u>burst</u>** through the **<u>rickety</u>** screen(屏风,隔断物) door and onto the porch”（"突然间，迈克的爸爸猛地冲破摇摇欲坠的纱门，踏上了门廊。"）
 
 ---
 
@@ -72,7 +72,7 @@
 >
 > 一般表示短暂的 吓一跳
 
-“Mike and I jumped to our feet(调到自己的脚上，表示迅速站立的意思), not out of respect, but because we were **startled**.”
+##### “Mike and I jumped to our feet(调到自己的脚上，表示迅速站立的意思), not out of respect, but because we were **<u>startled</u>**.”
 
 ---
 
@@ -123,7 +123,7 @@
 >
 > 根据具体的语境，"makeup" 可以表示化妆用品、组成成分、弥补、或舞台化妆等不同的意义。
 
-“They **sort of** looked alike, though not of the same **ethnic** **makeup**.”
+##### “They **<u>sort of</u>** looked alike, though not of the same <u>**ethnic** **makeup**.</u>”
 
 ---
 
@@ -149,7 +149,7 @@
 > 
 >总体而言，"trepidation" 更强调一种紧张和担忧的感觉，而 "frightened" 更直接地表示已经感到害怕或受到了惊吓。
 
-“I nodded my head quickly, but with a little **trepidation**. ”
+##### “I nodded my head quickly, but with a little **<u>trepidation</u>**. ”
 
 ---
 
@@ -163,7 +163,7 @@
 
 > 太……以致不能……
 
-“ I’ve got **too** much work to do **to** waste my time.”
+##### “ I’ve got **<u>too</u>** much work to do **<u>to</u>** waste my time.”
 
 ---
 

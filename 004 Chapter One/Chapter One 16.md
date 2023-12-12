@@ -4,7 +4,7 @@
 
 > 越来越不耐烦
 
-“Don’t blame me for your problems,” rich dad said, **growing impatient**.”
+##### “Don’t blame me for your problems,” rich dad said, <u>**growing impatient**.”</u>
 
 ---
 
@@ -32,7 +32,7 @@
 >
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/9a69b93d2a56cca866bc3aa22ddda6ac.jpg?)
 
-“That you’re cheap(小气的),” I said with a **sly grin**.”
+##### “That you’re cheap(小气的),” I said with a **<u>sly grin</u>**.”
 
 ---
 
@@ -59,7 +59,7 @@
 >
 > 通常用来形容数量、金额或尺寸极小或微不足道的事物。它通常带有一种轻蔑、不满或嘲讽的语气。
 
-“Just take this **measly** 10 cents an hour and smile?”
+##### “Just take this **<u>measly</u>** 10 cents an hour and smile?”
 
 ---
 
@@ -97,7 +97,7 @@
 > n.
 > （Leaning）（美）利宁（人名）
 
-“This,” he said, **leaning** forward in his chair and tapping me gently on the head. “This stuff between your ears.”
+##### “This,” he said, **<u>leaning</u>** forward in his chair and tapping me gently on the head. “This stuff between your ears.”
 
 ---
 
@@ -116,7 +116,7 @@
 >
 > adv. 最终，结果
 
-It was at that moment that rich dad shared the **pivotal** point of view that **separated** him **from** his employees and my poor dad—and led him to eventually become one of the richest men in Hawaii, while my highly educated but poor dad struggled financially all his life.
+##### It was at that moment that rich dad shared <u>the **pivotal** point of view</u> that <u>**separated** him **from** his employees and my poor dad</u>.
 
 ---
 
@@ -130,11 +130,20 @@ It was at that moment that rich dad shared the **pivotal** point of view that **
 > n.
 > 单数，单数形式（the singular）
 
-## make a difference
+## made all the difference
 
-> 产生变化，产生影响.
+> 非常重要；起决定性作用
+>
+> · Having a good night's sleep can make all the difference in how you feel the next day.
+>
+> 睡个好觉可能对你第二天的感觉起到决定性的作用。
 
-“ It was a **singular** point of view that made all the difference over a lifetime.”
+##### It was <u>a **singular** point of view</u> that <u>made all the difference</u> over a lifetime.
+
+> a singular point of view 一个独特的观点
+>
+> 这句话的翻译是 ：
+> 这是一个独特的观点，它在一生中产生了重大的影响。
 
 ---
 

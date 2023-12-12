@@ -28,7 +28,7 @@
 
 > 属于，附属于, **依赖**
 >
-> 文中表示对金钱有强烈的依赖。
+> > 文中表示对金钱有强烈的**依赖**。
 >
 > ---
 >
@@ -38,7 +38,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/b3783570fc434360c518ea523a14ccbf.jpg?)
 
-“The **avoidance** of money is just as **psychotic** as being **attached to** money.”
+##### <u>The **avoidance** of</u> money is just as **<u>psychotic</u>** as <u>being **attached to**</u> money.
 
 ---
 
@@ -97,7 +97,7 @@
 >
 > n.翻寻；捐赠品，旧杂货；（海关人员对船只的）彻底检查
 
-“**As if on cue**, the town **derelict** went past our table, stopping by the large **rubbish** **can** and **rummaging** around in it. ”
+##### **<u>As if on cue</u>**, <u>the town **derelict**</u> went past our table, stopping by <u>the large **rubbish** **can**</u> and <u>**rummaging** around</u> in it.
 
 ---
 
@@ -109,7 +109,7 @@
 >
 > 文中 指 非常 的意思
 
-thanked rich dad **profusely** . 非常感谢  rich dad
+##### thanked rich dad **<u>profusely</u>** . 非常感谢  rich dad
 
 ---
 
@@ -148,7 +148,7 @@ thanked rich dad **profusely** . 非常感谢  rich dad
 > v.给予财富；偶然发生
 >
 
-“**ecstatic** with his good **fortune**.”
+##### “<u>ecstatic</u> with <u>his good **fortune**</u>.”
 
 ---
 

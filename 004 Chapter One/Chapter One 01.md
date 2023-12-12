@@ -4,7 +4,7 @@
 
 > 把......放下
 
-My dad **put down** the evening paper.
+##### My dad **<u>put down</u>** the evening paper.
 
 ---
 
@@ -20,7 +20,7 @@ My dad **put down** the evening paper.
 >
 > in-否定 + -cred-相信,信任 + -ulous形容词词尾,易于…的
 
-"They did?" my dad asked **incredulously**.
+##### "They did?" my dad asked **<u>incredulously</u>**.
 
 ---
 
@@ -48,7 +48,7 @@ My dad **put down** the evening paper.
 >
 > shake **/ʃeɪk/** v&n, 摇晃 抖动
 
-My dad **silently** **shook** his head, pushed his glasses up the bridge of his nose.
+##### My dad <u>**silently** **shook**</u> his head, pushed his glasses up the bridge of his nose.
 
 ---
 
@@ -84,7 +84,7 @@ My dad **silently** **shook** his head, pushed his glasses up the bridge of his 
 >
 > attend class 上课
 
-**By some twist fate**, I attended the same public school where the rich people sent their kids.
+##### **<u>By some twist fate</u>**, I <u>**attended**</u> the same public school where the rich people sent their kids.
 
 ---
 
@@ -123,7 +123,7 @@ My dad **silently** **shook** his head, pushed his glasses up the bridge of his 
 > 	plant**种植，植物，工厂，电厂**
 > 	来自拉丁语planta,草木，植物，嫩枝，脚底板，来自	PIE*plat,展开，放平，来自PIE*pele,展开，放平，词源	同plan,place.引申动词词义种植，栽培，并由此引申	工厂，工厂设备，电厂等诸多词义。
 
-We were **primarily** sugar-plantation town in Hawali.
+##### We were **<u>primarily</u>** sugar-plantation town in Hawali.
 
 ---
 
@@ -166,11 +166,11 @@ We were **primarily** sugar-plantation town in Hawali.
 >
 > n.基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒
 
-The managers of the **plantation** and the other **affluent** people, such as doctors, business owners, and bankers, sent their children to this public **elementary** school.
+##### The managers of the **<u>plantation</u>** and the other **<u>affluent</u>** people, such as doctors, business owners, and bankers, sent their children to this public <u>**elementary** school(小学)</u>.
 
 ---
 
-## Had I lived on the other side of the street, I would have gone to a different school with kids from families more like mine. 
+Had I lived on the other side of the street, I would have gone to a different school with kids from families more like mine. 
 
 > 这个句子的语法结构是一个条件句，使用了虚拟语气，用来表示假设的情况和可能的结果。这种类型的条件句通常被称为"虚拟条件句"，其基本结构是：
 >
@@ -206,7 +206,7 @@ The managers of the **plantation** and the other **affluent** people, such as do
 >
 > 词根词缀： inter-中间,之间,相互 + -medi-中间 + -ate形容词词尾
 
-intermediate school 初中：通常指7年级到9年级的学校。
+##### intermediate school 初中：通常指7年级到9年级的学校。
 
 ---
 
@@ -219,5 +219,5 @@ intermediate school 初中：通常指7年级到9年级的学校。
 >
 > n.（尤作纸牌用语）（泄露试图作弊的）不经意动作；（中东）台形（土墩）遗址（由远古人村落遗迹堆积而成的）
 
-I could tell he was thinking "我可以感觉到（或察觉到）他在思考。"
+##### I could **<u>tell</u>** he was thinking "我可以感觉到（或察觉到）他在思考。"
 

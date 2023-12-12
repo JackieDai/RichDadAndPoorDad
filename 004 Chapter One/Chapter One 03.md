@@ -15,6 +15,8 @@
 >
 > 这个表达强调了决心和坚定，以确保某种变化或控制在某种情况下发生。
 
+##### “my mom **<u>put her foot down</u>**.”  “我妈坚决反对”
+
 ---
 
 ## messy
@@ -59,7 +61,7 @@
 >
 > adj.见票即付的；即席的
 
-The **sight** of her neighbors’ **messy**, **crumpled**, used toothpaste tubes had gotten to her.
+##### The **<u>sight</u>** of her neighbors’ **<u>messy</u>**, **<u>crumpled</u>**, used toothpaste tubes <u>had gotten to her</u>.
 
 ---
 
@@ -67,7 +69,7 @@ The **sight** of her neighbors’ **messy**, **crumpled**, used toothpaste tubes
 
 > 扔掉
 
-I'm going to throw it out, 
+##### I'm going to **<u>throw</u>** it **<u>out</u>**, 
 
 ---
 
@@ -113,7 +115,7 @@ I'm going to throw it out,
 >
 > 总体而言，"plead" 更常用于法律和正式场合，而 "beg" 更强调感情上的恳求，可以用于更广泛的语境中。选择使用哪个词取决于语境以及想要表达的程度和形式。
 
-Mike and I **pleaded** and begged, explaining that we would soon have enough and then we would begin production
+##### Mike and I **<u>pleaded</u>** and **<u>begged</u>**, explaining that we would soon have enough and then we would begin production
 
 ---
 
@@ -161,7 +163,7 @@ Mike and I **pleaded** and begged, explaining that we would soon have enough and
 >
 >n.延伸，扩展；展期，**延长期,延期**；扩建部分，延伸部分；（电话）分机；扩展名；（为非全日制学生开设的）进修部；牵伸（术）；外延；广延（性）
 
-Mom **granted** us a one-week **extension**.
+##### Mom **<u>granted</u>** us a one-week **<u>extension</u>**.
 
 ---
 
@@ -173,7 +175,7 @@ Mom **granted** us a one-week **extension**.
 >
 > 我们需要将会议提前到明天上午。
 
-The date to begin production was moved up
+##### The date to begin production was **<u>moved up</u>**
 
 ---
 
@@ -199,7 +201,7 @@ The date to begin production was moved up
 >
 > 词根词缀： e-向外 + -vict-征服,战胜
 
-My first partnership was already being **threatened** with an **eviction** notice by my own mom! 
+##### My first partnership was already being **<u>threatened</u>** with an **<u>eviction</u>** notice by my own mom! 
 
 ---
 
@@ -207,7 +209,7 @@ My first partnership was already being **threatened** with an **eviction** notic
 
 > 组装,装配
 
-I began to put together the production line.
+##### I began to **<u>put together</u>** the production line.
 
 ---
 

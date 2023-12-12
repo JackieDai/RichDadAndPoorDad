@@ -32,7 +32,7 @@
 >
 >  词根词缀： in-入,向内 + vestige痕迹(e略) + -ate动词词尾
 
-“My real dad, the one I call the poor one, thought that my rich dad was **violating** child labor laws and should be **investigated**.”
+##### “My real dad, the one I call the poor one, thought that my rich dad was <u>**violating** child labor laws</u> and should be **<u>investigated</u>**.”
 
 ---
 
@@ -48,7 +48,7 @@
 > n.
 > <美>加薪；（扑克牌或勃莱格牌用语）赌注加码；（举重）（持杠铃时的）提，举；上升
 
-My poor dad told me that if I did not get a **raise**, I was to quit immediately.
+##### My poor dad told me that if I did not <u>get a **raise**</u>, I was to quit immediately.
 
 ---
 
@@ -99,7 +99,7 @@ My poor dad told me that if I did not get a **raise**, I was to quit immediately
 > v.
 > 损坏，损害；对……造成坏影响
 
-You don’t need that **damned** job anyway,” said my poor dad with indignation.
+##### You don’t need that **<u>damned</u>** job anyway,” said my poor dad with indignation.
 
 ---
 
@@ -117,7 +117,7 @@ You don’t need that **damned** job anyway,” said my poor dad with indignatio
 >
 > "awkward" 更强调不适或笨拙的情境，而 "embarrassed" 更侧重于个人感到尴尬或难堪的情感。
 
-Feeling **awkward**
+##### Feeling **<u>awkward</u>**
 
 ---
 
@@ -129,7 +129,7 @@ Feeling **awkward**
 
 > 给某人腾点空间
 
-“They smiled and **slid down** the couch to **make room for me**.”
+##### “They smiled and **<u>slid down</u>** the couch to **<u>make room for me</u>**.”
 
 ---
 
@@ -147,7 +147,7 @@ Feeling **awkward**
 > n.
 > 结伙沿路偷窃
 
-“Forty-five minutes went by, and I was **steaming**.”
+##### “Forty-five minutes went by, and I was **<u>steaming</u>**.”
 
 > 四十五分钟过去了，我浑身冒着热气(有点生气了)
 
@@ -177,7 +177,7 @@ Feeling **awkward**
 >
 > v.探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查
 
-“The house was empty, and here I sat in a musty, dark living room on a beautiful sunny Hawaiian day, waiting to talk to a **cheapskate** who **exploited** children.”
+##### “The house was empty, and here I sat in a musty, dark living room on a beautiful sunny Hawaiian day, waiting to talk to a **<u>cheapskate</u>** who **<u>exploited</u>** children.”
 
 ---
 
@@ -191,5 +191,5 @@ Feeling **awkward**
 > 
 > adj.沙沙作响的
 
-“I could hear him **rustling** around the office, talking on the phone, and ignoring me. ”
+##### “I could hear him **<u>rustling</u>** around the office, talking on the phone, and ignoring me. ”
 

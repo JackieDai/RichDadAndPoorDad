@@ -8,7 +8,7 @@
 >
 > ![](https://oimagea7.ydstatic.com/image?id=8700316913511084783&product=kid-dict&w=240)
 
-“How did you feel when I **tempted** you with a pay raise? Did you notice your desires rising?”
+##### How did you feel when I **<u>tempted</u>** you with a pay raise?
 
 ---
 
@@ -32,17 +32,17 @@
 >
 > 在就业市场上，拥有强大的人脉关系可以对你有利。
 
-“ **From here on in**, it’s imperative for you to use those emotions **to your advantage**, and for the long term to not let your emotions control your thinking.”
+**<u>From here on in</u>**, it <u>is **imperative** for</u> you to use those emotions **to your advantage**.
 
 ---
 
-## cheasing
+## chasing
 
 > **/ˈtʃeɪsɪŋ/**
 >
 > n.[建] 雕镂术；车螺丝雕镂；铸件最后抛光
 > 
->v.追赶（chase 的现在分词形式）
+>v.**追赶**（chase 的现在分词形式）
 > 
 > ---
 >
@@ -62,7 +62,7 @@
 > v.
 > **向……提出问题，盘问；对……提出质疑**（异议），怀疑
 
-“Most people live their lives **chasing** paychecks, pay raises and job security because of the emotions of desire and fear, not really questioning where those emotion-driven thoughts are leading them.”
+##### “Most people live their lives <u>**chasing** paychecks</u>, not really **<u>questioning</u>** where those emotion-driven thoughts are leading them.”
 
 ---
 
@@ -88,6 +88,8 @@
 ## dangling
 
 > **/ˈdæŋɡlɪŋ/**
+>
+> > 句子中是指  **“悬挂” 的**意思
 >
 > adj.悬挂的；摇摆的
 >
@@ -121,5 +123,4 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/47aecc3eb3cb81629f0a5eb59964bed4.jpg?)
 
-“ a donkey dragging a **cart** with its owner dangling a **carrot** just in front of its nose. The donkey’s owner may be going where he wants to, but the donkey is **chasing** an illusion. Tomorrow there will only be another carrot for the donkey”
-
+##### <u>a **donkey** **dragging(悬挂)** a **cart**</u> with its owner dangling a **carrot** just in front of its nose. 

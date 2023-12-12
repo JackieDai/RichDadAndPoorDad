@@ -4,10 +4,9 @@
 
 > **/ˈdraɪvweɪ/**
 >
-> n.
-> （从建筑物，住房，车库等通往大路的）私人车道
+> n.（从建筑物，住房，车库等通往大路的）私人车道
 
-One day my dad drove up with a friend to see two nine-year-old boys in the **driveway** with a production line operating at full speed. 
+##### One day my dad drove up with a friend to see two nine-year-old boys in the **<u>driveway</u>** with a production line operating at full speed. 
 
 ---
 
@@ -31,7 +30,7 @@ One day my dad drove up with a friend to see two nine-year-old boys in the **dri
 >
 > v.往（脸或身体）上搽粉；撒粉（状物）于（表面），以粉（状物）覆盖；使（某物）成粉状；变成粉末
 
-There was **fine** white **powder** everywhere.
+##### There was **<u>fine</u>** white **<u>powder</u>** everywhere.
 
 ---
 
@@ -73,7 +72,9 @@ There was **fine** white **powder** everywhere.
 >
 > v.**发出微弱而稳定的光**；（脸部或身体）发红，**发热**；喜形于色，容光焕发（glow 的现在分词）
 
-On a long table were small milk **cartons** from school, and our family’s **hibachi** **grill** was **glowing** with red-hot coals at maximum heat.“在一张长桌上放着学校的小牛奶盒子，我们家的火盆上红热的煤炭正在最高温度下闪耀着。”
+##### On a long table were small milk **<u>cartons</u>** from school, and our family’s <u>**hibachi** **grill**</u> was **<u>glowing</u>** with red-hot coals at maximum heat.“
+
+在一张长桌上放着学校的小牛奶盒子，我们家的火盆上红热的煤炭正在最高温度下闪耀着。”
 
 ---
 
@@ -89,7 +90,7 @@ On a long table were small milk **cartons** from school, and our family’s **hi
 >
 > n.车库；（美）车棚
 
-Dad walked up cautiously, having to park the car **at the base of** the driveway since the production line blocked the **carport**. 
+##### Dad walked up cautiously, having to park the car **<u>at the base of</u>** the driveway since the production line blocked the **<u>carport</u>**. 
 
 ---
 
@@ -105,7 +106,7 @@ Dad walked up cautiously, having to park the car **at the base of** the driveway
 
 > 融化
 
-As he and his friend got closer, they saw a steel pot sitting on top of the coals in which(引导的作用指代前面的 前面提到的钢锅) the toothpaste tubes were being melted down.
+##### As he and his friend got closer, they saw **<u>a steel pot</u>** sitting on top of the coals in which the toothpaste tubes were being **<u>melted down</u>**.
 
 ---
 
@@ -121,7 +122,7 @@ As he and his friend got closer, they saw a steel pot sitting on top of the coal
 
 >燃烧消失
 
-so once the paint was burned off, the tubes were dropped in the small steel pot
+##### so once the **<u>paint(油漆)</u>** was **<u>burned off</u>**, the tubes were dropped in the small steel pot
 
 ---
 
@@ -133,7 +134,9 @@ so once the paint was burned off, the tubes were dropped in the small steel pot
 >
 > v.用灰泥抹（墙等）；（用某物）涂抹，覆盖；大量张贴，贴满；使……紧贴；把（头发）梳平；敷石膏于，敷膏药于；（新闻报道）充斥于（报纸版面）
 
-The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴黎石膏”
+##### The milk cartons were filled with **<u>plaster</u>** of paris
+
+“牛奶盒子里装满了巴黎石膏”
 
 ---
 
@@ -151,7 +154,7 @@ The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴
 >
 > v.<古>赶紧，匆忙；<古>催促
 
-“**In my haste**, I had knocked the bag over, and the entire area looked like it had been hit by a snowstorm. ”
+##### “**<u>In my haste</u>**, I had knocked the bag over, and the entire area looked like it had been hit by a snowstorm. ”
 
 **Haste 和 Hurry 的联系和区别?**
 
@@ -183,7 +186,7 @@ The milk cartons were filled with plaster of paris“牛奶盒子里装满了巴
 >
 > v.使成立方；把（食物）切成小方块
 
-My dad and his friend watched as we carefully poured the **molten** lead through a small hole in the top of the plaster of paris **cube**.
+##### My dad and his friend watched as we carefully poured the **<u>molten</u>** lead through a small hole in the top of the plaster of paris **<u>cube</u>**.
 
 ---
 
@@ -196,7 +199,7 @@ My dad and his friend watched as we carefully poured the **molten** lead through
 > v.露齿而笑，咧嘴笑（grin的现在分词）
 >
 
-“Yup,” said Mike, **grinning** and nodding his head. “We’re partners.
+##### “Yup,” said Mike, **<u>grinning</u>** and nodding his head. 
 
 ---
 
@@ -208,7 +211,7 @@ My dad and his friend watched as we carefully poured the **molten** lead through
 >
 > v.分批处理
 
-This should be a good batch.
+##### This should be a good **<u>batch</u>**.
 
 ---
 

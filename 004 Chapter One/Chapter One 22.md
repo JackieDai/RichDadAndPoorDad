@@ -9,15 +9,19 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/c04ae0dfcea4a39577f53b30efcd11ba.jpg?)
 
+##### They feel the fear so they go to work, hoping that money will **<u>soothe</u>** the fear, but it doesn’t.
+
 ## haunt
 
 > **/hɔːnt/**
 >
-> v.
-> （鬼魂）出没；萦绕在……心头；**（长期）困扰**；常去（某地）
->
-> n.
-> 常去的地方；栖息地
+> > 文中是指**长期困扰**的意思
+> 
+>v.（鬼魂）出没；萦绕在……心头；**（长期）困扰**；常去（某地）
+> 
+> n.常去的地方；栖息地
+
+##### It continues to **<u>haunt</u>** them and they return to work, hoping again that money will calm their fears, and again it doesn’t. 
 
 ## turmoil🚩
 
@@ -40,6 +44,8 @@
 > 4. **个人生活的混乱或困扰：**
 >    - *例：His personal life was in turmoil after the loss of his job.*（失业后，他的个人生活陷入了混乱。）
 
+##### For millions of people that old fear keeps them awake all night, causing <u>a night of **turmoil**</u> and worry. 
+
 ## gnawing
 
 > **/ˈnɔːɪŋ/**
@@ -59,8 +65,8 @@
 >
 > vi.
 > 咬；折磨；侵蚀
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/2997f3dc1768297d7bc821927e38e052.jpg?)
+
+##### A paycheck will kill that fear **<u>gnawing</u>** at their soul. 
 
 ## run
 
@@ -68,21 +74,7 @@
 >
 > 在文中  指 左右，控制的意思
 
----
-
-“Instead of admitting the truth about how they feel, they react to their feelings and fail to think. 
-
-They feel the fear so they go to work, hoping that money will **soothe** the fear, but it doesn’t.
-
- It continues to **haunt** them and they return to work, hoping again that money will calm their fears, and again it doesn’t. 
-
-Fear keeps them in this trap of working, earning money, working, earning money, hoping the fear will go away. 
-
-But every day they get up, and that old fear wakes up with them. For millions of people that old fear keeps them awake all night, causing a night of **turmoil** and worry. So they get up and go to work, hoping that a paycheck will kill that fear **gnawing** at their soul. 
-
-Money is running their lives, and they refuse to tell the truth about that. Money is in control of their emotions and their souls.”
-
----
+##### Money is **<u>running</u>** their lives, and they refuse to tell the truth about that. Money is in control of their emotions and their souls.”
 
 ## sink in🚩
 
@@ -96,18 +88,13 @@ Money is running their lives, and they refuse to tell the truth about that. Mone
 >
 > sink **/sɪŋk/**
 >
-> v.
-> 下沉，沉没；使（船）沉没；（喻）消失，无音信；使失败，使受挫，阻挠；（喻）隐藏，掩盖；下降，降低（至某一高度）；倒下，颓然坐下（尤因非常疲倦或虚弱）；陷入；衰退，恶化；（心情）低落，陷入（沮丧）；（价值或数量）减少，下跌；（声音）减弱，降低；堕落，做错事；挖掘，刻，凿；用（牙）咬，用（尖锐的东西）戳（捅）；将（球）击入洞中，将（球）投入篮中；投资；<英，非正式> 喝（酒）
->
-> adj.
-> 位于社会条件差的贫穷地区的，贫民窟的
->
-> n.
-> 水槽，水池；洼地，渗坑；（技）汇，壑；（喻）位于社会贫困地区的学校或房产；（喻）巢，窟，藏垢的场所
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/dacebe05272ddba1c3dba16c0b7bceff.jpg?)
+> v.下沉，沉没；使（船）沉没；（喻）消失，无音信；使失败，使受挫，阻挠；（喻）隐藏，掩盖；下降，降低（至某一高度）；倒下，颓然坐下（尤因非常疲倦或虚弱）；陷入；衰退，恶化；（心情）低落，陷入（沮丧）；（价值或数量）减少，下跌；（声音）减弱，降低；堕落，做错事；挖掘，刻，凿；用（牙）咬，用（尖锐的东西）戳（捅）；将（球）击入洞中，将（球）投入篮中；投资；<英，非正式> 喝（酒）
+> 
+>adj.位于社会条件差的贫穷地区的，贫民窟的
+> 
+> n.水槽，水池；洼地，渗坑；（技）汇，壑；（喻）位于社会贫困地区的学校或房产；（喻）巢，窟，藏垢的场所
 
-“Rich dad sat quietly, letting his words **sink in.** ”
+##### “Rich dad sat quietly, letting his words **<u>sink in</u>.** ”
 
 ## hurry off
 
@@ -117,7 +104,7 @@ Money is running their lives, and they refuse to tell the truth about that. Mone
 >
 > 我必须匆忙离开以赶上我的火车。
 
- I just knew that I often wondered why grown-“ups **hurried off** to work.
+##### I often wondered why grown-ups **<u>hurried off</u>** to work.
 
 ---
 
@@ -125,28 +112,19 @@ Money is running their lives, and they refuse to tell the truth about that. Mone
 
 > **/ˈpɜːrfɪktli/**
 >
-> adv.
-> 完美地，极佳地；绝对地，完全地
+> adv.完美地，极佳地；绝对地，完全地
+
+##### It’s **<u>perfectly</u>** normal to desire something better, prettier, more fun, or exciting. 
 
 ## comfort
 
 > **/ˈkʌmfərt/**
 >
-> n.
-> 舒服，舒适；**安慰，慰藉；令人感到安慰的人（或事物）**；舒适的设施（或条件）；生活富足
->
-> v.
-> 安慰，抚慰
+> n.舒服，舒适；**安慰，慰藉；令人感到安慰的人（或事物）**；舒适的设施（或条件）；生活富足
+> 
+>v.安慰，抚慰
 
-“ desire. Some call it greed, but I prefer desire. It’s **perfectly** normal to desire something better, prettier, more fun, or exciting. 
-
-So people also work for money because of desire.
-
- They desire money for the joy they think it can buy. But **the joy that money brings is often short-lived**, and they soon need more money for more joy, more pleasure, more **comfort**, and more security. 
-
-So they keep working, thinking money will soothe their souls that are troubled by fear and desire. 
-
-But money can’t do that.”
+##### But **the joy that money brings is often <u>short-lived</u>**, and they soon need more money for more joy, more pleasure, <u>more **comfort**</u>, and more security. 
 
 ---
 
@@ -219,23 +197,21 @@ But money can’t do that.”
 >
 > 很多的
 
+##### They believe that money can **<u>eliminate</u>** the fear of being poor, so they **<u>amass</u>** <u>**tons of**</u> it, only to find the fear gets worse. 
+
 ## plenty
 
 > **/ˈplenti/**
 >
-> n.
-> 富裕，充裕
+> n.**富裕，充裕**
+> 
+>pron.大量，众多
+> 
+> adv.大量，很多；<非正式>非常，十分；<非正式>足够有余
 >
-> pron.
-> 大量，众多
->
-> adv.
-> 大量，很多；<非正式>非常，十分；<非正式>足够有余
->
-> det.
-> <非正式>很多，大量
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/28207ceef10f331fca8b58025e0e45e9.jpg?)
+> det.<非正式>很多，大量
+
+#####  I have friends who keep working even though they have **<u>plenty</u>**.
 
 ## desperate🚩
 
@@ -263,17 +239,7 @@ But money can’t do that.”
 >
 > 描述一种对生活、情绪或人际关系过分担忧、焦虑和紧张的状态。 过于敏感
 
-In fact, the reason many rich people are rich isn’t because of desire, but because of fear. 
-
-They believe that money can **eliminate** the fear of being poor, so they **amass** **tons of** it, only to find the fear gets worse. 
-
-Now they fear losing the money. I have friends who keep working even though they have **plenty**. I know people who have millions who are more afraid now than when they were poor. They’re terrified of losing it all. 
-
-The fears that drove them to get rich got worse. That weak and needy part of their soul is actually screaming louder. They don’t want to lose the big houses, the cars and the high life money has bought them. 
-
-They worry about what their friends would say if they lost all their money.
-
- Many are emotionally **desperate** and **neurotic**, although they look rich and have more money.”
+##### Many are <u>emotionally **desperate** and **neurotic**</u>, although they look rich and have more money.”
 
 ---
 

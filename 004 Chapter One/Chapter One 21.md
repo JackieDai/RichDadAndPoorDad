@@ -18,7 +18,7 @@
 >
 > 6．防止或限制：防止或限制某人在某个地方或做某事。
 
-“That’s what I hope you boys will learn as you work and study with me. That is why I **took away** all forms of pay.”
+##### That’s what I hope you boys will learn as you work and study with me. That is why I <u>**took away**</u> all forms of pay.
 
 > as 作为连词，起到解释的作用
 
@@ -28,13 +28,11 @@
 
 > **/hɪnt/**
 >
-> n.
-> 暗示，提示；征兆，迹象；少许，少量；秘诀，窍门
->
-> v.
-> 暗示，示意
+> n.暗示，提示；征兆，迹象；少许，少量；秘诀，窍门
+> 
+>v.暗示，示意
 
-“Any **hints**?” Mike asked. “We’re kind of tired of working hard, especially for nothing.”
+##### “<u>Any **hints**?</u>” Mike asked. “We’re kind of tired of working hard, especially for nothing.”
 
 ---
 
@@ -60,7 +58,7 @@
 >
 > "retort" 用于描述回应、反驳或作为反应的行为，也可指化学实验装置。这个词通常带有一种直接、迅速而有力的语气。
 
-“I did not say you were lying. I said to tell the truth,” rich dad **retorted**.”
+##### “I did not say you were lying. I said to tell the truth,” rich dad **<u>retorted</u>**.”
 
 ---
 
@@ -84,7 +82,9 @@
 >
 > To admit of being transported.容许被运输。
 
-“You don’t have to say it to anyone else. Just **admit** it to yourself.” "你不必对任何其他人说出来，只需承认给自己听。"
+##### “You don’t have to say it to anyone else. Just <u>**admit** it to</u> yourself.” 
+
+"你不必对任何其他人说出来，只需承认给自己听。"
 
 ---
 
@@ -99,7 +99,7 @@
 > 词根词缀：
 > con-共同,一起 + front面对
 
-“They don’t **confront** it logically.”
+##### “They don’t **<u>confront</u>** it logically.”
 
 ---
 
@@ -130,26 +130,24 @@
 >
 > tie **//taɪ//**
 >
-> v.
->（用线、绳索等）系，扎，捆；将……系在……上，系牢；打结；使相联系；束缚；（比赛中）打成平局；用系材（或横杆）连接；用连结线连接（音符）；连音演奏（两个音符）
-> 
-> n.
->领带，领结；（绑扎东西用的）带子，绳子；纽带，联系；束缚；平局；<英>淘汰赛；<美>枕木，轨枕；延音连接线；系带鞋；系梁
-> 
-> ![](https://ydlunacommon-cdn.nosdn.127.net/00e035a8502075616c1fbe68e1d4549e.jpg?)
+> v.（用线、绳索等）系，扎，捆；将……系在……上，系牢；打结；使相联系；束缚；（比赛中）打成平局；用系材（或横杆）连接；用连结线连接（音符）；连音演奏（两个音符）
 >
+> n.领带，领结；（绑扎东西用的）带子，绳子；纽带，联系；束缚；平局；<英>淘汰赛；<美>枕木，轨枕；延音连接线；系带鞋；系梁
 > 
+>![](https://ydlunacommon-cdn.nosdn.127.net/00e035a8502075616c1fbe68e1d4549e.jpg?)
+> 
+> 
+
+##### “As the world <u>population **ages**</u> and more and more people <u>**move toward** retirement,</u> it’s been reported that the #1(头号) fear **<u>is tied to</u>** money. 
 
 ## survey
 
 > **/ˈsɜːrveɪ/**
 >
-> n.
-> 民意调查，民意测验；考察，调查；（对课题或情况的）全面考察，概述；测量，勘测；测绘图，勘测记录；测量部门；<英> （尤指为欲购房者所做的）房屋鉴定；查勘报告
->
-> v.
-> 做民意测验，做民意调查；（尤指认真地）审视，检查；测量，勘测；<英> （尤指为可能的买家）查勘，检视（建筑物的状况）；全面评述，概述
->
+> n.民意调查，民意测验；考察，调查；（对课题或情况的）全面考察，概述；测量，勘测；测绘图，勘测记录；测量部门；<英> （尤指为欲购房者所做的）房屋鉴定；查勘报告
+> 
+>v.做民意测验，做民意调查；（尤指认真地）审视，检查；测量，勘测；<英> （尤指为可能的买家）查勘，检视（建筑物的状况）；全面评述，概述
+> 
 > ![](https://ydlunacommon-cdn.nosdn.127.net/01b480a8b746d58a7aba06b98bb724da.jpg?)
 
 ## outlive
@@ -168,7 +166,7 @@
 >
 > 我需要去商店，因为我已经用完了牛奶。
 
-“As the world population **ages** and more and more people **move toward** retirement, it’s been reported that the #1(头号) fear **is tied to** money. Nearly 50% of those **surveyed** fear that they will **outlive** their money… **running out of money** in their “golden years.”
+##### Nearly 50% of those **<u>surveyed</u>** fear that they will **<u>outlive</u>** their money… **<u>running out of money</u>** in their “golden years.”
 
 ---
 
