@@ -6,7 +6,7 @@
 >
 > adv.以后，后来
 
-“**Afterward**, Ray agreed to join the students at their favorite hangout for a few beers.”
+##### “**Afterward**, Ray agreed to join the students at their favorite hangout for a few beers.”
 
 ---
 
@@ -38,7 +38,7 @@
 >
 > 总体而言，"mind" 的用法相当灵活，可以根据上下文表示思想、关注、注意、关心、决心等不同的概念。
 
-“Too many people spend their lives **minding** someone else’s business and making them rich.”
+##### “Too many people spend their lives **minding** someone else’s business and making them rich.”
 
 ---
 
@@ -48,7 +48,9 @@
 >
 > adv.勤奋地；勤勉地， 努力的
 
-**diligently** build a base of solid assets.[“努力建立坚实的资产基础。”]
+##### **diligently** build a base of solid assets.
+
+[“努力建立坚实的资产基础。”]
 
 ---
 

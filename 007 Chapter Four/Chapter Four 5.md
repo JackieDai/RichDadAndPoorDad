@@ -12,7 +12,7 @@
 >
 > n.（车辆或发动机的）回火；<北美>（为形成防火隔离带而有意点燃的）迎面火
 
-“That is why I believe that the idea of “take-from-the-rich” **backfired** on the very people who voted it in.”
+##### “That is why I believe that the idea of “take-from-the-rich” **<u>backfired</u>** on the very people who voted it in.”
 
 ## comply
 
@@ -22,7 +22,7 @@
 >
 > > "Comply" 是一个强调遵从和符合规定的正式用词，通常用于描述对法规、规章、政策或要求的遵守。
 
-“Every time people try to punish the rich, the rich don’t simply **comply**.”
+##### “Every time people try to punish the rich, <u>the rich don’t simply **comply**</u>.”
 
 ## voluntarily
 
@@ -38,7 +38,7 @@
 >
 > 词根词缀： -volunt-自愿 + -ary形容词词尾
 
-They do not just sit there and **voluntarily** pay more taxes.
+##### They do not  **<u>voluntarily</u>** pay more taxes.
 
 ## persuade
 
@@ -58,7 +58,7 @@ They do not just sit there and **voluntarily** pay more taxes.
 >
 > v.在（墙或建筑物上）开射箭用小窗口
 
-They **persuade** politicians to change laws or create legal **loopholes**.
+##### They **<u>persuade</u>** politicians to change laws or <u>create legal **loopholes**</u>.
 
 ## liquidate
 
@@ -72,7 +72,7 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 >
 > > 在经济和法律领域，"liquidate" 通常与资产、债务和公司状况有关，而在其他情境下，它可能指的是终结或处理某种情况。
 
-“As long as you keep trading up in value, you will not be taxed on the gains until you **liquidate**.”
+##### “As long as you <u>keep trading up in value</u>, you will not be taxed on the gains <u>until you **liquidate**</u>.”
 
 ## needle🚩
 
@@ -84,11 +84,15 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 >
 > v.刺激，（尤指）不断地数落；用针穿刺（某物），像针一样地刺（某物）；用针缝；缝纫，做针线
 
-“let the government’s **needles** enter their arm and allow the blood donation to begin.”“让政府的注射针进入他们的手臂，允许献血活动开始。”
+##### “let <u>the government’s **needles**</u> enter their arm and allow the blood donation to begin.”
+
+“让政府的注射针进入他们的手臂，允许献血活动开始。”
 
 ## intimidation🚩
 
 > **/ɪnˌtɪmɪˈdeɪʃn/**
+>
+> > 通过威胁、恐吓或胁迫来制造恐惧或迫使某人做某事的行为
 >
 > n.恫吓，威胁
 >
@@ -98,13 +102,13 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 >
 > adj.令人紧张不安的， 令人胆怯的
 
-“But the price of working from January to May is a high price to pay for that **intimidation**.”
+<u>“But the price of working from January to May is a high price to pay for that **intimidation**.”</u>
 
 ## fight back
 
 > 反击；还击：攻击或试图击败攻击或试图击败自己的人；对抗对手进行新的努力。
 
-“My poor dad never **fought back.** ”
+##### “My poor dad never <u>**fought back.** ”</u>
 
 ## as opposed to...🚩
 
@@ -118,5 +122,5 @@ They **persuade** politicians to change laws or create legal **loopholes**.
 >
 > 词根词缀： op-对面 + -pos-放置 + -e → 置于相反位置或立场
 
-“The first lesson of having money work for you, **as opposed to** you working for money, is all about power. ”
+##### “The first lesson of having money work for you, <u>**as opposed to** you working for money</u>, is all about power. ”
 

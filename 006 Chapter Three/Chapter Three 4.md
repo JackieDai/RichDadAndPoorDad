@@ -22,7 +22,7 @@
 >
 > 来自古英语fon, 傻，简单，词源同fun. 词义由傻引申为发狂，喜爱，溺爱等。
 
- I enjoyed my time with those organizations and <u>have **fond** memories<有美好的回忆</u>, but I know deep down I am not a company man.
+#####  I enjoyed my time with those organizations and <u>have **fond** memories<有美好的回忆</u>, but I know deep down I am not a company man.
 
 ---
 
@@ -38,7 +38,7 @@
 >
 > 词根词缀： di-分离,分开 + -min-小 + -ish动词词尾
 
-“ Risk is **diminished** if you love what the investment is, understand it, and know the game.”
+##### “<u>Risk is **diminished**</u> if you love what the investment is, understand it, and know the game.”
 
 ---
 
@@ -58,7 +58,7 @@
 > - "dramatically" 强调的是戏剧性的变化或显著的程度
 > -  "vehemently" 强调的是强烈的、激烈的表达方式，通常用来描述言辞、意见或情感的强烈程度。
 
-“This allows the value to increase **dramatically**.”
+##### “This allows the value to increase **dramatically**.”
 
 这允许价值明显的增长
 
@@ -112,7 +112,9 @@
 >
 > adv.（用于数字后）大约，左右
 
-“But <u>the **odds** are against success</u>: Nine out of ten companies fail in five years.”
+##### “But <u>the **odds** are against success</u>: Nine out of ten companies fail in five years.”
+
+“但成功的机会很小：十家公司中有九家在五年内失败。”
 
 > 这句话中的关键词解释如下：
 >
@@ -120,7 +122,6 @@
 >
 > 2. **"against"：** 在这里，**"against" 表示对抗、不利于、不支持**。因此，"the odds are against success" 可以理解为成功的可能性受到不利的因素或障碍。
 >
-> 因此，整个句子的意思是：“但成功的机会很小：十家公司中有九家在五年内失败。”这强调了在商业领域中，许多公司在短时间内面临失败的高概率。
 
 ---
 
@@ -140,7 +141,7 @@
 >
 > 常用来表示纵容、迁就或沉溺于某种欲望或行为。
 
-“As your cash flow grows, you can **indulge in** some luxuries.”
+##### “As your cash flow grows, you can **indulge in** some luxuries.”
 
 ---
 
@@ -170,11 +171,11 @@
 >
 > 总体而言，"distinction" 常常强调在某一方面的卓越差异，而 "difference" 更一般，可以用来描述各种程度和类型的差异。选择使用哪个词通常取决于你想要强调的差异的程度和性质。
 
-“An important **distinction** is that rich people buy luxuries last, while the poor and middle class tend to buy luxuries first.”
+##### “An important **distinction** is that rich people buy luxuries last, while the poor and middle class tend to buy luxuries first.”
 
 ---
 
-## impulsively
+## impulsively🚩
 
 > **/ɪmˈpʌlsɪvli/**
 >
@@ -192,7 +193,9 @@
 >
 > 词根词缀： im-向内 + -puls-推动 + ly
 
-“Most people **impulsively** go out and buy a new car, or some other luxury, on credit. 
+##### Most people **impulsively** go out and buy a new car, or some other luxury, on credit. 
+
+大多数人**冲动地**出去用信用卡买一辆新车或其他奢侈品。
 
 ---
 
@@ -222,7 +225,7 @@
 >
 > n.令人讨厌的人；使人厌烦的事；内径，口径；探孔，钻孔；涌潮，激潮
 
-They may feel **bored** and just want a new toy. 
+##### They may feel **bored** and just want a new toy. 
 
 ---
 
@@ -258,7 +261,7 @@ They may feel **bored** and just want a new toy.
 >
 > "Burden" 这个词强调了负担的沉重和对个人或组织的压力。在日常用语中，它经常用来描述那些由责任、困境或艰难情况引起的重负。
 
-Buying a luxury on credit often **causes** a person **to** eventually **resent** that luxury because the debt becomes a financial **burden**.”
+##### Buying a luxury on credit often **causes** a person **to** eventually **resent** that luxury because the debt becomes a financial **burden**.”
 
 ---
 
@@ -282,7 +285,7 @@ Buying a luxury on credit often **causes** a person **to** eventually **resent**
 >
 > 这是一些常见的用法，具体取决于上下文。
 
-“After you’ve taken the time and invested in and built your own business, you are now ready to learn the biggest secret of the rich—the secret that puts the rich way ahead of **the pack**.”
+##### “After you’ve taken the time and invested in and built your own business, you are now ready to learn the biggest secret of the rich—the secret that puts the rich way ahead of **the pack**.”
 
 “在你花时间、投资并建立了自己的事业之后，你现在就准备好学习富人的最大秘密了——这个秘密让富人在人群中领先的方法。”
 

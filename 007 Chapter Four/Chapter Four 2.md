@@ -41,7 +41,7 @@
 >
 > n.革命者，革命家
 
-“ It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **incident** that helped **ignite** the **Revolutionary** War. ”
+##### “ It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **<u>incident</u>** that helped <u>**ignite** the **Revolutionary** War.</u> ”
 
 > Tea Party in Boston Harbor : 波士顿港的茶党事件.
 >
@@ -53,7 +53,7 @@
 
 > 文中是 **推销，推广**的意思
 
-It took approximately 50 years in both England and the United States to **sell** the idea of <u>a regular income tax</u>(定期所得税).
+##### It took approximately 50 years in both England and the United States to <u>**sell** the idea of</u> <u>a regular income tax</u>(定期所得税).
 
 ---
 
@@ -63,7 +63,7 @@ It took approximately 50 years in both England and the United States to **sell**
 >
 > adv.开始，最初
 
-## levy against...
+## levy against...🚩
 
 > 对......征收：指政府或其他权力机构对某人或某物实施强制性的征税或征收。
 >
@@ -71,11 +71,11 @@ It took approximately 50 years in both England and the United States to **sell**
 >
 > 政府决定对该公司未缴纳的税款进行征收。
 
-“What these historical dates fail to **reveal** is that both of these taxes were **initially** **levied against** only the rich. ”
+##### “What these historical dates <u>fail to **reveal**</u> is that both of these taxes were <u>**initially** **levied against** only the rich.</u> ”
 
 > “这些历史日期没有揭示的是，这两种税最初都是针对富人征收的。”
 >
-> 句子中，"against" 的意思是“对付”、“对抗”、“针对”或“施加在……上”。具体到这个句子，它表示两项税收最初只对富人征收。
+> 句子中，"against" 的意思是“对付”、“对抗”、**<u>“针对”或“施加在……上”</u>**。具体到这个句子，它表示两项税收最初只对富人征收。
 
 ## constitutionally
 
@@ -101,7 +101,7 @@ It took approximately 50 years in both England and the United States to **sell**
 >
 > v.蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
 
-“in reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
+##### “in reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
 
 > 句子中 the very people, 中的 very 表示 形容词 ，意思是  "正是"、"恰恰是" 或者 "正是那些"。
 
@@ -115,7 +115,7 @@ It took approximately 50 years in both England and the United States to **sell**
 >
 > 通常用来指食欲，但它也可以在其他方面表示对某种事物的渴望或欲望。
 
-“Once government got a taste of money, its **appetite** grew”
+##### “Once government got a taste of money, <u>its **appetite** grew</u>”
 
 ## bureaucrat🚩
 
@@ -123,5 +123,5 @@ It took approximately 50 years in both England and the United States to **sell**
 >
 > n.官僚，官僚主义者, 官职，当官的人
 
-“ He’s a government **bureaucrat**, and I am a capitalist.”
+##### “ He’s <u>a government **bureaucrat**</u>, and I am a capitalist.”
 

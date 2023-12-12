@@ -4,7 +4,7 @@
 
 > 文中 作为 动词，表示  **朝某特定方向行进；**
 
-“ I was determined not to **head** in the direction (which) most of my classmates were **heading**.”
+##### “ I was determined not to <u>**head** in the direction</u> (which) most of my classmates were **heading**.”
 
 ## not until
 
@@ -30,7 +30,7 @@
 
 > 对……有意义：表示某事物或某种说法对某人或某种情况是有意义或合理的。
 
-“It was **not until** my **mid-twenties** that my rich dad’s advice began to **make more sense to** me.”
+##### “It was **not until** my **mid-twenties** that my rich dad’s advice began to **make more sense to** me.”
 
 ## flattering🚩
 
@@ -48,7 +48,7 @@
 >
 > 词根词缀：flat, 平的。-er, 表反复。引申词义俯伏在地，拜倒，奉承等。
 
-“ It was **flattering**, but I could hear my rich dad asking in my ear: “Who are you working for? Who are you making rich?”
+##### “ <u>It was **flattering**</u>, but I could hear my rich dad asking in my ear: “Who are you working for? Who are you making rich?”
 
 ## form🚩
 
@@ -61,7 +61,7 @@
 > - "form" 更广泛，可以包括创造、塑造、组织等更多的方面
 > - "build" 更专注于建筑和构建的实际过程。
 
-“ I **formed** my first corporation and began minding my own business. ”
+##### “ <u>I **formed** my first corporation</u> and began minding my own business. ”
 
 ## consistently
 
@@ -85,7 +85,7 @@
 >
 > v.由……组成，由……构成；在于，存在于
 
-“ I was **consistently** one of the top five sales people at the company.”
+##### “ I was **<u>consistently</u>** one of the top five sales people at the company.”
 
 ## badly
 
@@ -95,7 +95,7 @@
 >
 > > 文中表示 强烈的 程度 ，**非常，很** 的意思
 
-“I **badly** wanted out of the Rat Race.”
+##### “I **badly** wanted out of the Rat Race.”
 
 ## pound
 
@@ -107,7 +107,7 @@
 >
 > v.连续重击，猛打；（心脏）剧烈地跳动；（头）剧痛；脚步声沉重地走（跑）；连续轰炸，猛烈袭击；捣碎，击碎；长时间苦干；<美，非正式> 快速地喝；<非正式> 彻底打败（对手）；大声播放；监禁，拘留
 
-“not me pounding on doors selling copiers.”
+##### “not me **<u>pounding</u>** on doors selling copiers.”
 
 > "不是我在敲门推销复印机。"
 >
@@ -135,5 +135,5 @@
 >
 > v.委托撰写，委托制作；委任，任命……为军官；（使军舰）正式使用，服现役
 
-“My **fellow** Xerox salespeople thought I was spending my **commissions**. I wasn’t.”
+##### “<u>My **fellow**</u> Xerox salespeople thought I was spending my **commissions**. I wasn’t.”
 

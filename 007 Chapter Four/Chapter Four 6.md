@@ -10,7 +10,7 @@
 >
 > "abide" 的含义取决于上下文，可以表示遵守、持续存在、等待或忠诚等不同的概念
 
-“ He knew the law because he was a **law-abiding** citizen and because it was expensive to not know the law.”
+##### “He knew the law because he was <u>a **law-abiding** citizen</u> and because it was expensive to not know the law.”
 
 > law-abiding 		adj.守法的
 
@@ -48,7 +48,9 @@
 >
 > v.（裤袜等）抽丝
 
-“He **spoke of** the **virtues** of “**working your way up** the corporate **ladder**.”  "他谈论了『通过职业阶梯逐步晋升』的优点。"
+##### “He **<u>spoke of</u>** the **<u>virtues</u>** of “**<u>working your way up</u>** the corporate **ladder**.”  
+
+"他谈论了『通过职业阶梯逐步晋升』的优点。"
 
 > working your way up
 >
@@ -64,7 +66,7 @@
 >
 > > "docile" 描述了一种温和、顺从和易于管理的特质，可以用于形容人或动物。
 
-“I would be a **docile** cow ready for milking.”
+##### “I would be <u>a **docile** cow</u> ready for milking.”
 
 ## excite
 
@@ -92,7 +94,7 @@
 >
 > v.想象，预想
 
-Although I was **excited** by the idea, my **inexperience** wouldn’t let me **envision** the possibility that grown-ups would someday work for a company I would own.
+##### Although I was **excited** by the idea, my **inexperience** wouldn’t let me **envision** the possibility that grown-ups would someday work for a company I would own.
 
 ## merely
 
@@ -104,7 +106,7 @@ Although I was **excited** by the idea, my **inexperience** wouldn’t let me **
 
 > 保持... 的存在
 
-“It was **merely** the occasional reminder of my rich dad that **kept** the idea of owning my own corporation **alive** and kept me on a different path.”
+##### “It was **<u>merely</u>** the occasional reminder of my rich dad that **<u>kept</u>** the idea of owning my own corporation **<u>alive</u>** and kept me on a different path.”
 
 > It was **merely** the occasional reminder of my rich dad  [仅仅是偶尔想起我的富爸爸]
 

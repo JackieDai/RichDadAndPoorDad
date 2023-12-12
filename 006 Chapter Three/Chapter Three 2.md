@@ -10,7 +10,7 @@
 >
 > 词根词缀： inter-相互 + -sect-切割 + -ion
 
-“ McDonald’s owns some of the most valuable **intersections** and street corners in America and around the globe.”
+##### “McDonald’s owns some of the most valuable **intersections** and street corners in America and around the globe.”
 
 ---
 
@@ -30,7 +30,7 @@
 >
 > 根词缀： re-再,重复 + -volv-卷动 + -e动词词尾
 
-“Their lives will **revolve around** their wages”
+##### “Their lives will **<u>revolve around</u>** their wages”
 
 ---
 
@@ -44,7 +44,7 @@
 > >
 > > work + force  ==>   工作的一群人 ==》 劳动力，劳动人口 ===
 
-“These professional skills allow them to enter the **workforce** and work for money.”
+##### “These professional skills allow them to <u>enter the **workforce**</u> and work for money.”
 
 ---
 
@@ -54,7 +54,7 @@
 >
 > n.（尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教
 
-“But there is a big difference between your **profession** and your business.”
+##### “But there is a big difference between your **profession** and your business.”
 
 ---
 
@@ -66,7 +66,7 @@
 >
 > v.<非正式>当厨师
 
-“So if you study cooking, you become a **chef**.”
+##### “So if you study cooking, you become a **<u>chef</u>**.”
 
 ---
 
@@ -106,7 +106,7 @@
 >
 > 词根词缀： con-加强意义 + -serv-保持,留心 + -ative形容词词尾
 
-“The primary reason (that) **the majority of** the poor and middle class are **fiscally conservative**”
+##### “The primary reason (that) **<u>the majority of</u>** the poor and middle class are <u>**fiscally conservative**</u>”
 
 ---
 
@@ -118,7 +118,7 @@
 >
 > v.领导（参加）运动，从事竞选活动
 
-“Donald Trump’s 2016 <u>Presidential campaign(总统竞选活动)</u> focused on Jobs, Jobs, Jobs.”
+##### “Donald Trump’s 2016 <u>Presidential campaign(总统竞选活动)</u> focused on Jobs, Jobs, Jobs.”
 
 ---
 
@@ -136,7 +136,7 @@
 >
 >  fore-先,前 + cast(broadcast广播)
 
-“The International Labour Organization **forecasted** that 2017 global unemployment could reach 200 million.”
+##### “The International Labour Organization **<u>forecasted</u>** that 2017 global unemployment could reach 200 million.”
 
 ---
 
@@ -156,4 +156,4 @@
 >
 > v.（使）变得持重，变得冷静；（使）醒酒，（使）清醒
 
-Another sobering(清醒的) thought that ....
+##### Another <u>sobering(清醒的) thought</u> that ....

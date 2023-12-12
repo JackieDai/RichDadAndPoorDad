@@ -20,7 +20,7 @@
 > >
 > > 2.downsize staffs and improve efficiency 减员增效
 
-“When **downsizing**(裁员) became the “in” thing to do, millions of workers found out their largest so-called asset, their home, was eating them alive.”
+##### “When **downsizing**(裁员) became the “in” thing to do, millions of workers found out their largest so-called asset, their home, was eating them alive.”
 
 > 句子里"in" 是作为 adj 的词性 ， 表示 “时髦的”
 
@@ -34,7 +34,7 @@
 >
 > "fall back on" 表示在需要时退而求其次，寻找替代方案或资源以解决问题或克服困难。
 
-“ Without job security, they had nothing to **fall back on**.”
+##### “ Without job security, they had nothing to **fall back on**.”
 
 ---
 
@@ -60,7 +60,9 @@
 >
 > 总之，"fill out" 主要用于描述通过填写信息、加入细节或补充内容，使某物完整或更加充实的过程。
 
-“I assume most of us have **filled out** a credit application to buy a house or a car. It’s always interesting to look at the “net-worth” section because of what accepted (by) banking and accounting practices (is that) allow a person to count as assets.”
+##### “I assume most of us have **filled out** a credit application to buy a house or a car. 
+
+It’s always interesting to look at the “net-worth” section because of what accepted (by) banking and accounting practices (is that) allow a person to count as assets.”
 
 （"我假设我们大多数人都填写过购房或购车的信用申请。总是很有趣看到“净值”部分，因为银行和会计实践被接受，（这个实践是）允许一个人将什么算作资产。"）
 
@@ -76,7 +78,7 @@
 >
 > n.推动，促进；广告，宣扬
 
-“So I added my new golf clubs, my art collection... to **boost** the number in the asset column.”
+##### “So I added my new golf clubs, my art collection... to <u>**boost** the number</u> in the asset column.”
 
 ---
 
@@ -84,7 +86,7 @@
 
 > 句子中表示  **遭遇 陷入**  的意思
 
-“So many people have put themselves in deep financial trouble when they **run** <u>short of income(收入不足)</u>.”
+##### “So many people have put themselves in deep financial trouble when they **run** <u>short of income(收入不足)</u>.”
 
 ---
 
@@ -101,7 +103,7 @@
 > fraction小部分，一点儿，碎片；分数
 > 词根词缀： -fract-打破,打碎 + -ion
 
-“But their personal assets can generally be sold for only **a fraction of** the <u>value<价值></u> that is listed on their personal balance sheet.”
+##### “But their personal assets can generally be sold for only **<u>a fraction of</u>** the <u>value<价值></u> that is listed on their personal balance sheet.”
 
 ---
 
@@ -109,7 +111,7 @@
 
 > lot 除了有 一群，一批，大量的意思之外  还有 （汽车经销商的）停车场 的意思
 
-“A new car loses nearly 25 percent of the price you pay for it the moment you drive it off the **lot**.”
+##### “A new car loses nearly 25 percent of the price you pay for it the moment you drive it off the **lot**.”
 
 ---
 
@@ -173,5 +175,5 @@
 
 > 放好 **储存** 存好 放置暂时不用
 
-“For many people, just as the last child leaves home, the parents realize they have not **adequately** prepared for retirement and they begin to **scramble** to<u> **put** some money **away**</u>(存一些钱).”
+##### “For many people, just as the last child leaves home, the parents realize they <u>have not **adequately** prepared for</u> retirement and they begin to <u>**scramble** to</u><u> **put** some money **away**</u>(存一些钱).”
 

@@ -8,7 +8,7 @@
 >
 > v.航行，远行
 
-“The rich created the corporation as a vehicle to limit their risk to the assets of each **voyage**.”
+##### “The rich created the corporation as a vehicle to limit their risk to the assets of <u>each **voyage**</u>.”
 
 ## crew
 
@@ -20,7 +20,7 @@
 >
 > 词源同create, 生长，创造。即还在成长中的员工。
 
-“The corporation would then hire a **crew** to sail to the New World to look for treasure. ”
+##### “The corporation would then hire <u>a **crew**</u> to sail to the New World to look for treasure. ”
 
 ## penalize🚩
 
@@ -34,7 +34,7 @@
 >
 > adj.刑事的；刑罚的
 
-“ It seemed to me that the socialists ultimately **penalized** themselves due to their lack of financial education.”
+##### It seemed to me that the socialists ultimately <u>**penalized** themselves</u> due to their lack of financial education.
 
 ## outsmart
 
@@ -42,9 +42,9 @@
 >
 > > 文中是**指用计谋打败**的意思
 
-“No matter what the “take-from-the-rich” crowd came up with, the rich always found a way to **outsmart** them”
+##### No matter what the “take-from-the-rich” crowd came up with, the rich always found a way to <u>**outsmart** them</u>
 
-## coffer
+## coffer🚩
 
 > **/ˈkɔːfər/**
 >
@@ -54,7 +54,7 @@
 >
 > > "coffer" 通常用来指代用于储藏财富、文件或其他重要物品的容器，也可以指财政、国库或建筑装饰中的相关元素。
 
-“Once the “take-from-the-rich” tax was passed, cash started flowing into government **coffers**.”
+##### “Once the “take-from-the-rich” tax was passed, cash started flowing into <u>government **coffers**</u>.”
 
 ## hand out🚩
 
@@ -69,7 +69,7 @@
 > 3. **突然给予、提供：** 这可以指突然给予或提供某事物，通常是意外的。例如，"Fate handed out a surprise when he won the lottery."
 >
 
-“Money was **handed out** to government workers and the rich.”
+##### “Money was <u>**handed out** to government workers</u> and the rich.”
 
 ## allot🚩
 
@@ -79,7 +79,7 @@
 >
 > > "allot" 通常用于描述有组织地分配或分派某物，以确保公平或有效地管理资源、时间或责任。
 
-“ If you fail to spend your **allotted** funds, you **risk** losing it in the next budget.”
+##### If you fail to spend <u>your **allotted** funds</u>, you **risk** losing it in the next budget.
 
 > fail to ...未能做到或未能实现某事。通常用于描述某人或某事物未能达到预期的目标或标准
 >
@@ -99,7 +99,7 @@
 >
 > re-,再，重新，cognize,认识，认出，词源同 know.
 
-“You would certainly not be **recognized** for being efficient.”
+##### You would certainly not <u>be **recognized** for</u> being efficient.
 
 “你肯定不会因为效率而受到认可。”
 
@@ -115,7 +115,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/8883649f23c6f5f6f9c1722f1815dda1.jpg?)
 
-“Business people, on the other hand, are rewarded for having excess money and are **applauded** for their efficiency.”
+##### Business people, on the other hand, are rewarded for having excess money and <u>are **applauded** for</u> their efficiency.
 
 ## wage
 
@@ -127,5 +127,5 @@
 >
 > v.进行，**发动（战争，运动）**
 
-“The battle is **waged** whenever and wherever laws are made, and it will go on forever.”
+##### <u>The battle is **waged**</u> whenever and wherever laws are made, and it will go on forever.
 

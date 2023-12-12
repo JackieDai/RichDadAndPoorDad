@@ -10,7 +10,7 @@
 >
 > "Objective" 这个词的意义取决于其是作为形容词还是名词出现，但总体而言，它与客观性、实际性、目标设定等相关。
 
-They have different **objectives** than most business people.
+##### They have <u>different **objectives**</u> than most business people.
 
 ---
 
@@ -28,7 +28,7 @@ They have different **objectives** than most business people.
 >
 > adj.衷心的，诚挚的；（人）真诚的，诚恳的
 
-“My educated dad **sincerely** believed that government should help people.”
+##### “My educated dad <u>**sincerely** believed</u> that government should help people.”
 
 ---
 
@@ -54,7 +54,7 @@ They have different **objectives** than most business people.
 >
 > n.补助金，拨款；（政府给予的）土地；<正式>给予，授予；合法转让
 
-“He always **strived for** additional **grants** and budget increases”
+##### “He always **<u>strived for</u>** <u>additional **grants**</u> and <u>budget increases</u>”
 
 > additional grants --- 额外的资助，拨款
 >
@@ -76,7 +76,7 @@ They have different **objectives** than most business people.
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/88c1c574a3a067c9d1c6f3ab04660227.jpg?)
 
-“ It was difficult to go to work for one of the biggest capitalists in town and come home to a father who was a **prominent** government leader. ”
+##### “ It was difficult to go to work for one of the biggest capitalists in town and come home to a father who was <u>a **prominent** government leader.</u> ”
 
 ---
 
@@ -86,7 +86,7 @@ They have different **objectives** than most business people.
 >
 > n.激励，刺激
 
-“More and more often we see governments use the tax laws to provide **incentives** to <u>business owners and investors</u> to create jobs and housing.”
+##### “More and more often we see governments <u>use the tax laws to provide **incentives**</u> to <u>business owners and investors</u> to create jobs and housing.”
 
 > more and more often : 越来越频繁
 
@@ -98,9 +98,7 @@ They have different **objectives** than most business people.
 >
 > n.（企业、组织的）收入，收益；（政府的）税收；税务局，税务署（the revenue）
 
-“So the only place for the government to drive tax **revenue** is from the middle class.”
-
-> drive tax revenue:  增加税收
+##### “So the only place for the government to <u>drive tax **revenue**（增加税收）</u> is from the middle class.”
 
 ## emerge
 
@@ -113,7 +111,7 @@ They have different **objectives** than most business people.
 > - "appear" 更强调表面上的显现，
 > -  "emerge" 则更侧重于从某个状态、情境或隐藏位置中浮现。
 
-“Yet when you study the history of taxes, an interesting perspective **emerges**.”
+##### “Yet when you study the history of taxes, <u>an interesting perspective **emerges**.”</u>
 
 ## passage
 
@@ -163,7 +161,7 @@ They have different **objectives** than most business people.
 >
 > 这些例子展示了"passage" 这个词在不同语境中的灵活应用，涵盖了物理空间、文字、时间、运输等多个方面。在理解和使用这个词时，需要根据具体的语境来确定其确切的含义。
 
-“**the passage of** taxes was only possible because the masses believed in the Robin Hood theory of economics”
+##### “<u>**the passage of** taxes</u> was only possible because the masses believed in the Robin Hood theory of economics”
 
 ## trickle🚩
 
@@ -177,7 +175,7 @@ They have different **objectives** than most business people.
 >
 > trickle down 向下渗透
 
-“ it kept trickling down.”  他持续渗透
+##### “ it kept <u>**trickling down**</u>.”  他持续渗透
 
 
 

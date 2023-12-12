@@ -37,7 +37,7 @@
 >
 > 这只是 "found" 的一些常见用法，具体的意义取决于上下文。在动词形式中，它通常表示创建、建立、找到等含义；而在名词形式中，它通常表示基金、基础或建立的东西。
 
-“In 1974, Ray Kroc, the **founder** of McDonald’s, was asked to speak to the MBA class at the University of Texas at Austin.”
+##### Ray Kroc, <u>the **founder** of</u> McDonald’s
 
 ---
 
@@ -73,7 +73,7 @@
 >
 > "graciously" 描述了一种温和、友善、得体的态度，通常在社交、接受奖项、款待客人等场合中使用。这个词强调了以一种令人愉快、优雅的方式行事。
 
-“After a powerful and inspiring talk, <u>the class **adjourned**</u> and the students asked Ray if he would join them at their favorite **hangout** to have a few beers. Ray **graciously** accepted.”
+##### “After a powerful and inspiring talk, <u>the class **adjourned**</u> and the students asked Ray if he would join them at <u>their favorite **hangout**</u> to have a few beers. <u>Ray **graciously** accepted.</u>”
 
 在一场充满力量和启发的演讲之后，班级休会了，学生们询问 Ray 是否愿意和他们一起去他们最喜欢的聚会场所喝几杯啤酒。Ray 非常慷慨地答应了。
 
@@ -91,7 +91,7 @@
 >
 > "Chuckle" 通常用于描述一种轻松、舒适的笑声，与大笑或嘲笑相比，它更加温和和愉快。这个词强调的是一种含蓄而轻微的笑声。
 
-“Ray **chuckled**. “That’s what I thought you would say.” He paused and then quickly added, “Ladies and gentlemen, I’m not in the hamburger business. My business is real estate.”
+<u>Ray **chuckled**.</u> 
 
 ---
 
@@ -103,7 +103,9 @@
 >
 > v.给予特许经销权；给予……公民权（或选举权）
 
-“ the primary business focus was to sell hamburger **franchises**”  “主要的业务重点是销售汉堡包连锁店。”
+##### “The primary business focus was to <u>sell hamburger **franchises**</u>”  
+
+“主要的业务重点是销售汉堡包连锁店。”
 
 ---
 
@@ -147,6 +149,6 @@
 >
 >虽然在某些情况下它们可以互换，但通常 "site" 更倾向于描述一个相对较大、有组织的地点，而 "spot" 可以指代更随意或不那么正式的地方。在特定的语境中，选择使用哪个词可能会更符合语境的要求。
 
-“McDonald’s, 7-Eleven, and KFC retain their **spots**(场所) as the three largest franchised brands.”
+##### “McDonald’s, 7-Eleven, and KFC <u>retain their **spots**(场所)</u> as the three largest franchised brands.”
 
 ---
