@@ -16,6 +16,8 @@
 >
 > n. **地基，基础**；基本原理，根据；基金会；建立，创办；（化妆打底用的）粉底霜
 
+##### If you are going to build the Empire State Building, the first thing you need to do is **<u>dig a deep hole</u>** and <u>pour a strong **foundation**(地基)</u>.
+
 ----
 
 ##  suburb
@@ -46,7 +48,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/0cefd88de552426387f6ab42dbb2eae2.jpg)
 
-“If you are going to build the Empire State Building, the first thing you need to do is **dig a deep hole** and pour a strong **foundation**(地基). If you are going to build a home in the **suburbs**, all you need to do is pour a six-inch **slab of concrete.**（混凝土板） ”
+##### “If you are going to build a home in the **<u>suburbs</u>**, all you need to do is pour <u>a six-inch **slab of concrete</u>.**（混凝土板） ”
 
 ---
 
@@ -58,7 +60,7 @@
 >
 > "agrarian" 一词通常用于描述涉及农业、农村、土地和与农民有关的事物
 
-in the **Agrarian** Age （在农业时代）
+##### in the **Agrarian** Age （在农业时代）
 
 ---
 
@@ -82,7 +84,7 @@ in the **Agrarian** Age （在农业时代）
 >
 > "rage" 主要用来表达强烈的愤怒、狂怒或一种风靡的热潮。在日常用语中，可以用于形容个人的情绪或描述某种社会、文化现象的流行。
 
-“Dirt floors are still the rage.”[泥地板仍然很流行]
+##### “**<u>Dirt floors</u>** are still the **<u>rage</u>**.”[泥地板仍然很流行]
 
 ---
 
@@ -92,7 +94,9 @@ in the **Agrarian** Age （在农业时代）
 >
 > adv.事实上，**几乎**；虚拟地，模拟地
 
-“ So kids graduate from school with **virtually** no financial foundation. ”[所以孩子们从学校毕业时几乎没有任何经济基础。]
+##### “ So kids graduate from school with **<u>virtually</u>** no financial foundation. ”
+
+[所以孩子们从学校毕业时几乎没有任何经济基础。]
 
 ---
 

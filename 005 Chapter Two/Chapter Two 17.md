@@ -16,7 +16,7 @@
 
 > 负债累累的, 债台高筑
 
-“This pattern of treating your home as an investment, and the **philosophy**(理念) that a pay raise means you can buy a larger home or spend more, is the foundation of today’s **debt-ridden** society.”
+##### “This pattern of treating your home as an investment, and the **philosophy**(理念) that a pay raise means you can buy a larger home or spend more, is the foundation of today’s **debt-ridden** society.”
 
 > "Foundational" 和 "fundamental" 都是描述基础和基本概念的词语，但它们在用法上有一些微妙的差别。
 >
@@ -55,7 +55,7 @@
 >
 > TODO: @lingxiao 总结  英语中 表示 进步，提升的词汇
 
-They may be **advance in** their jobs and receiving pay raises.
+##### They may be **advance in** their jobs and receiving pay raises.
 
 ---
 
@@ -69,7 +69,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > 文中是指**"不牢靠的，脆弱的"**意思。常用来描述不稳定、摇摆或不安定的状态
 
-“The massive loss of jobs in recent times proves how **shaky** the middle class really is financially.”
+##### “The massive loss of jobs in recent times proves how **shaky** the middle class really is financially.”
 
 > 在这个句子中，"financially" 被放在最后，是为了强调整个中产阶级在财务上的不稳定性。这种结构是为了使句子的重点清晰.
 >
@@ -89,7 +89,9 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/74804b175da5b909e7b0ebd180eebe3e.jpg?)
 
-“**Panic** has set in for the middle class.”“中产阶级开始感到恐慌。”
+##### “<u>**Panic** has set in</u> for the middle class.”
+
+“中产阶级开始感到恐慌。”
 
 ---
 
@@ -99,7 +101,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > n.悲惨事件，惨剧；悲剧（作品）；不幸，遗憾；令人非常烦乱（或生气）的情形
 
-“The real **tragedy** is that the lack of early financial education is what creates the risk faced by average<普通的,平常的> middle-class people. ”
+##### “The real **tragedy** is that the lack of early financial education is what creates the risk faced by average<普通的,平常的> middle-class people. ”
 
 > TODO: @lingxiao what differences between 'average' and 'common' ?
 
@@ -119,7 +121,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > adj.纤细的；稀薄的；贫乏的
 
-“The reason they have to play it safe is because their financial <u>positions</u>(n. 处境/状况) are **tenuous at best**. ”“他们必须谨慎行事的原因是，他们的财务状况充其量只能说是脆弱的。”
+##### “The reason they have to play it safe is because their financial <u>positions</u>(n. 处境/状况) are **<u>tenuous at best</u>**. ”“他们必须谨慎行事的原因是，他们的财务状况充其量只能说是脆弱的。”
 
 ---
 
@@ -129,7 +131,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > n.生计，营生
 
-“Their **livelihood** becomes entirely dependent on their employer.”
+##### “Their **livelihood** becomes entirely dependent on their employer.”
 
 > dependent 在这里是 adj 词性
 
@@ -168,7 +170,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >    - 这个用法表示孩子的成长和发展情况。
 >
 
-“So when **genuine** “deals of a lifetime” *come along*, these people can’t take advantage of them because they are working so hard, are taxed to the max, and are loaded with debt.”
+##### “So when **genuine** “deals of a lifetime” *come along*, these people can’t take advantage of them because they are working so hard, are taxed to the max, and are loaded with debt.”
 
 > load with  加载，装载
 >
@@ -204,7 +206,7 @@ They may be **advance in** their jobs and receiving pay raises.
 >
 > dedicate 的 词根词缀： de-, 向下，强调。-dic, 说，声称，词源同diction. 原为宗教术语，即向上帝发愿，致力于完成某功德。后词义通用化。
 
-“ Once you understand the difference, **concentrate** your efforts **on** buying income-generating assets. ”
+##### “ Once you understand the difference, **concentrate** your efforts **on** buying income-generating assets. ”
 
 > "Comprehend" 和 "understand" 都是表示理解的动词，但它们在使用上有一些微妙的差异。
 >

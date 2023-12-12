@@ -41,7 +41,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/96c1ee65313e0ba562366a5e518c76e5.jpg?)
 
-“This may sound **absurdly** simple, but most people have no idea how **profound** this rule is.”
+##### “This may sound **absurdly** simple, but most people have no idea how **profound** this rule is.”
 
 ---
 
@@ -69,7 +69,7 @@
 >
 > 在这些例子中，"misguided" 表达了某人或某事物由于错误的理解、判断或决策而走上了错误的道路。
 
-“How could adults be so **misguided**?”
+##### “How could adults be so **misguided**?”
 
 ---
 
@@ -108,7 +108,9 @@
 >
 > 在这些例子中，"unlearn" 都表示通过努力或经验摒弃了先前学到的信息、习惯、信仰或技能。这个词强调了从先前状态到新状态的变化或转变。
 
-“The difficulty comes in **asking**(要求) adults to **unlearn**, or become children again” ["难点在于要求成年人重新学习，或者说变得像孩子一样。"]
+##### “The difficulty comes in **asking**(要求) adults to **unlearn**, or become children again” 
+
+["难点在于要求成年人重新学习，或者说变得像孩子一样。"]
 
 > the difficulty lies in == the difficulty comes in
 > 难点在于...
@@ -171,7 +173,7 @@
 >
 > 总的来说，"mean" 的确切含义取决于上下文，因此在理解和使用时要根据具体语境来把握其含义。
 
- “ An intelligent adult often feels it is **demeaning** to pay attention to simplistic definitions.”
+#####  “An intelligent adult often feels it is **demeaning** to pay attention to simplistic definitions.”
 
 ---
 
@@ -224,7 +226,9 @@
 >
 > 请注意，“screw” 这个词有时可能在一些上下文中具有不雅或粗俗的含义，因此在正式场合或文学作品中，可能需要谨慎使用。
 
-“ How could <u>something so simple</u> be <u>so **screwed up**</u>”[这么简单的事情怎么就搞砸了]
+##### “ How could <u>something so simple</u> be <u>so **screwed up**</u>”
+
+[这么简单的事情怎么就搞砸了]
 
 ---
 
@@ -251,7 +255,7 @@
 
 ---
 
-“ It’s called that because it’s supposed to balance assets **against** liabilities.”
+##### “ It’s called that because it’s supposed to balance assets **against** liabilities.”
 
 “它被称为这样，因为它应该平衡资产与负债。”
 

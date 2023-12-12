@@ -12,7 +12,7 @@
 >
 > n.象征，标志；符号；代表性的人（物）
 
-“The sword **symbolizes** the power of weapons.”
+##### “The sword **symbolizes** the power of weapons.”
 
 ---
 
@@ -26,7 +26,7 @@
 >
 >legend 可以表示传说故事、传奇人物、图例或非常出色的人或事物。
 
-“This self-knowledge, according to Japanese **legend**, was the most treasured of the three.”
+##### “This self-knowledge, according to Japanese **legend**, was the most treasured of the three.”
 
 ---
 
@@ -48,7 +48,7 @@
 >
 > adj.<非正式>天才的
 
-“If they used the power of the mirror, they would have asked themselves, “Does this make sense?” All too often, instead of trusting their inner **wisdom**, that **genius** inside, most people follow the crowd.”
+##### “If they used the power of the mirror, they would have asked themselves, “Does this make sense?” All too often, instead of trusting their inner **wisdom**, that **genius** inside, most people follow the crowd.”
 
 ---
 
@@ -70,7 +70,7 @@
 >
 > 词根词缀： con-加强意义 + -firm-巩固,确定
 
-“They **conform**, rather than question.”
+##### “They **conform**, rather than question.”
 
 ---
 
@@ -88,7 +88,7 @@
 >
 > 也可以表示 金融术语 “分散投资”
 
-“they mindlessly(无脑的) repeat what they have been told: “**Diversify**.(分散投资)”
+##### “they mindlessly(无脑的) repeat what they have been told: “**Diversify**.(分散投资)”
 
 ---
 
@@ -100,7 +100,9 @@
 
 > 增加债务
 
-"“You get a tax break for going into greater debt.”" “你因为增加债务而获得税收减免。”
+##### "“You get a tax break for going into greater debt.”"
+
+ “你因为增加债务而获得税收减免。”
 
 ---
 
@@ -168,6 +170,6 @@
 >
 > 总体而言，"ostracism" 更强调一种行为，即将某人排斥或孤立，而 "outcast" 更强调个体的状态，即被社会排斥或遗弃。
 
-“According to **psychiatrists**, the fear of public speaking is caused by the fear of **ostracism**, the fear of **standing out**, the fear of criticism, the fear of **ridicule**, and the fear of being an **outcast**.”
+##### “According to **psychiatrists**, the fear of public speaking is caused by the fear of **ostracism**, the fear of **standing out**, the fear of criticism, the fear of **ridicule**, and the fear of being an **outcast**.”
 
 ---

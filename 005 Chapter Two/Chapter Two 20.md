@@ -8,7 +8,7 @@
 >
 > v.流放；使离开
 
-“Twenty-five years later, most of their lives had ended tragically, with the men either broke, **exiled**, or in prison.”
+##### “Twenty-five years later, most of their lives had ended tragically, with the men either broke, **exiled**, or in prison.”
 
 ---
 
@@ -16,7 +16,7 @@
 
 >在……中起作用
 
-“The 1929 stock crash and Great Depression likely **played a part in** their fates”
+##### “The 1929 stock crash and Great Depression likely **played a part in** their fates”
 
 ---
 
@@ -30,7 +30,7 @@
 >
 > n.（尤指为获得某物制定长期的）策略，行动计划；战略，战略学
 
-“The only way out that they can see is a get-rich **strategy**.”
+##### “The only way out that they can see is a get-rich **strategy**.”
 
 ---
 
@@ -44,7 +44,7 @@
 >
 > 最终到达/陷入：到达或陷入一个没有计划或预期的地方、状态或情况。
 
-“But without having that financial-literacy background, their efforts are like building a skyscraper on <u>a weak foundation(脆弱的基础)</u>, and instead of creating the Empire State Building, they **end up with** the <u>Leaning Tower(斜塔)</u> of Suburbia.”
+##### “But without having that financial-literacy background, their efforts are like building a skyscraper on <u>a weak foundation(脆弱的基础)</u>, and instead of creating the Empire State Building, they **end up with** the <u>Leaning Tower(斜塔)</u> of Suburbia.”
 
 ---
 
@@ -58,7 +58,7 @@
 >
 > 但是在下面的句子中，worthy 表示 **相称的，匹配的**意思
 
-“Robert and his childhood friend Mike, however, were given a strong foundation **worthy of** a skyscraper thanks to the teaching of the rich dad.”
+##### “Robert and his childhood friend Mike, however, were given a strong foundation **worthy of** a skyscraper thanks to the teaching of the rich dad.”
 
 >然而，罗伯特和他的童年朋友迈克得到了一个坚实的基础，这个基础堪比摩天大楼，这要归功于富有的父亲的教导。
 >
@@ -88,7 +88,7 @@
 > - big
 >   - 一般表示(尺寸)大的, 但是也有 “重大的，严重的；” 之意
 
-“Accounting as a subject is boring, confusing—and absolutely **crucial** to financial success.”
+##### “Accounting as a subject is boring, confusing—and absolutely **crucial** to financial success.”
 
 ---
 
@@ -102,7 +102,7 @@
 >
 > - 这里 hit 表示 冲击，打击的意思
 
-“The couple is **hit** with the No. 1 expense for most people: taxes. And for many people, **it’s no**t income tax that gives the biggest **hit** **but** Social Security.”
+##### “The couple is **hit** with the No. 1 expense for most people: taxes. And for many people, **it’s no**t income tax that gives the biggest **hit** **but** Social Security.”
 
 > “这对夫妇面临了大多数人最大的开支：税收。而对于许多人来说，最大的开支不是所得税，而是社会保障。”
 >
@@ -124,7 +124,7 @@
 >
 > adv.粗略地，大约；粗暴地，粗鲁地；粗糙地，不精细地
 
-“It’s **roughly** 15 percent ”
+##### “It’s **roughly** 15 percent ”
 
 ---
 
@@ -132,7 +132,7 @@
 
 > 意思是“加入到混合物中”，通常用于**描述将新因素引入已有的情境或组合中**
 
-“**Add** a baby **to the mix**, and they work harder: higher incomes that lead to higher taxes.”
+##### “**Add** a baby **to the mix**, and they work harder: higher incomes that lead to higher taxes.”
 
 “加入一个孩子，他们会更加努力工作：更高的收入将导致更高的税款。”
 

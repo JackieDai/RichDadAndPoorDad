@@ -8,7 +8,7 @@
 >
 > 文中是**升值，增值**的意思
 
-“A loan company calls and says their greatest “asset,” their home, has **appreciated** in value.”
+##### “A loan company calls and says their greatest “asset,” their home, has **appreciated** in value.”
 
 ---
 
@@ -57,7 +57,7 @@
 >
 > **总体而言，"clear off" 可能更强调从财务记录中清除债务的概念，而"paying off" 则更强调通过实际支付款项来还清债务。在很多情况下，这两个表达方式可以互换使用，具体取决于上下文和说话者的偏好。**
 
-“Because their credit is so good, the company offers a bill-**consolidation** loan and tells them the intelligent thing to do is **clear off** the high-interest **consumer debt** by **paying off** their credit card.”
+##### “Because their credit is so good, the company offers a bill-**consolidation** loan and tells them the intelligent thing to do is **clear off** the high-interest **consumer debt** by **paying off** their credit card.”
 
 “因为他们的信用非常好，公司提供了一种账单合并贷款，并告诉他们明智的做法是通过还清信用卡来消除高额的消费债务”
 
@@ -97,7 +97,7 @@
 
 > 偶遇, 不经意间遇到
 
-“I **run into** this young couple all the time” 我总是不经意间遇到这对夫妇。
+##### “I **run into** this young couple all the time” 我总是不经意间遇到这对夫妇。
 
 ---
 
@@ -109,7 +109,7 @@
 >
 > 描述一个困难的选择或进退两难的情况。当一个人面临两种相互冲突或矛盾的选择，而且每个选择都伴随着不同的问题或困难时，就可以用 "dilemma" 来表达
 
-“Their names change, but their financial **dilemma** is the same.”
+##### “Their names change, but their financial **dilemma** is the same.”
 
 ---
 
@@ -121,7 +121,7 @@
 >
 > "Seldom" 用于描述事件或动作发生的频率较低，通常意味着相对稀有或罕见。
 
-“More money **seldom** solves someone’s money problems.”
+##### “More money **seldom** solves someone’s money problems.”
 
 ---
 
@@ -139,7 +139,7 @@
 >
 >v.用宝石装饰；把宝石承轴装进手表
 
-“As a child, my dad often told us that the Japanese were aware of three powers: the power of the **sword**, the **jewel**, and the mirror.”
+##### “As a child, my dad often told us that the Japanese were aware of three powers: the power of the **sword**, the **jewel**, and the mirror.”
 
 “小时候，我爸爸经常告诉我们，日本人知道三种力量:剑的力量、宝石的力量和镜子的力量。”
 

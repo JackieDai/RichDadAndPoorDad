@@ -68,7 +68,7 @@
 >
 > 这只是 "roll" 的一些常见用法，具体的意义取决于上下文。
 
-“They continue to **rack up** debt, eventually **rolling** it **into** their mortgage in a consolidation loan”
+##### “They continue to **rack up** debt, eventually **rolling** it **into** their mortgage in a consolidation loan”
 
 > 他们继续累积债务，最终将其纳入他们的抵押贷款中进行整合。
 
@@ -86,7 +86,7 @@
 >
 > v.粘，贴；把……放（某处）；刺，戳，插（stick 的过去式和过去分词形式）
 
-“The middle class **get stuck in** the Rat Race because they treat their home as an asset <u>instead of(而不是)</u> investing in income-producing assets. ”
+##### “The middle class **<u>get stuck in</u>** the Rat Race because they treat their home as an asset <u>instead of(而不是)</u> investing in income-producing assets. ”
 
 ---
 
@@ -110,7 +110,7 @@
 >
 > 词根词缀： ex-出 + -pert-( = -peri- )试验,尝试 → 通过反复试验而变成的
 
-“Many invest in mutual funds, paying a manager to handle their accounts, because they don’t have the time or the **expertise** to do it themselves. ”
+##### “Many invest in mutual funds, paying a manager to handle their accounts, because they don’t have the time or the **expertise** to do it themselves. ”
 
 ---
 
@@ -120,7 +120,7 @@
 >
 > 2．推到极限或极端：将某事物推向极限或极端。
 
-“They can’t take advantage of opportunities because they are **maxed out** on debt and only have their salary bringing money in.”
+##### “They can’t take advantage of opportunities because they are **maxed out** on debt and only have their salary bringing money in.”
 
 ---
 
@@ -132,7 +132,7 @@
 >
 > 词根词缀： hemi-半 + -spher- 球 + -e
 
-Left-hemisphere moment  [左脑时刻]
+##### Left-hemisphere moment  [左脑时刻]
 
 ---
 
@@ -166,7 +166,7 @@ Left-hemisphere moment  [左脑时刻]
 >
 > v.<美>趋向，倾向；（尤指地理特征的）走向；成为热门话题
 
-“**Subconscious** moment: The fear of ostracism causes people to conform to, and not question, commonly-accepted opinions or popular **trends**, often to their financial detriment.”
+##### “**Subconscious** moment: The fear of ostracism causes people to conform to, and not question, commonly-accepted opinions or popular **trends**, often to their financial detriment.”
 
 ---
 
@@ -176,7 +176,9 @@ Left-hemisphere moment  [左脑时刻]
 >
 > n.课程
 
-“Remember, this **curriculum** is designed to be cooperative and supportive. ” “记住，这门课程是为合作和支持而设计的。”
+##### “Remember, this **curriculum** is designed to be cooperative and supportive. ” 
+
+##### “记住，这门课程是为合作和支持而设计的。”
 
 ---
 
@@ -190,7 +192,7 @@ Left-hemisphere moment  [左脑时刻]
 >
 > 文中  是指 详细 解释
 
-“ After he fully **laid out** his argument, did he change your mind?”
+##### “ After he fully **laid out** his argument, did he change your mind?”
 
 ---
 

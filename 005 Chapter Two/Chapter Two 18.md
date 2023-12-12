@@ -30,7 +30,7 @@
 >
 > 词根词缀： -specul-看 + -ate动词词尾
 
-“Soon the asset base will be so deep that you can **afford to** look at more **speculative** investments”
+##### “Soon the asset base will be so deep that you can **afford to** look at more **speculative** investments”
 
 > look at 看，观察！
 
@@ -58,7 +58,9 @@
 >
 > in(否定词性) + fin(结束) + ..
 
-“ investments that may have returns(n. 回报,收益) of 100 percent to **infinity**; ”["可能有100%到无穷大回报的投资；"]
+##### “investments that may have returns(n. 回报,收益) of 100 percent to **infinity**; ”
+
+["可能有100%到无穷大回报的投资；"]
 
 ---
 
@@ -80,7 +82,9 @@
 >
 > 这两个单词比较相像，但是却有着不同的意思，mass 表示 多，大量 的意思，而 mess 表示混乱，杂乱的意思
 
-“If you do what the **masses** do”, 如果你想跟大多数人做的一样[高端的翻译是 如果你想随波逐流]
+##### “If you do what the **masses** do”, 
+
+如果你想跟大多数人做的一样[高端的翻译是 如果你想随波逐流]
 
 ---
 
@@ -94,7 +98,7 @@
 >
 > share+holder == 注意理解背后的含义, share 分享(分享表示不止一个人)  holder 持有者
 
-“Employees make their business owner or the **shareholders** rich, not themselves.”
+##### “Employees make their business owner or the **shareholders** rich, not themselves.”
 
 ---
 
@@ -141,7 +145,9 @@
 >
 > v.获得，得到；学到，习得；患上（疾病）；逐渐具有，开始学会
 
-“Most people must keep their job and rely on their wages to **fund** their **acquisition** of assets.”[大多数人必须保持工作，依靠他们的工资来为他们添置的资产提供资金。]
+##### “Most people must keep their job and rely on their wages to **<u>fund</u>** <u>their **acquisition** of</u> assets.”
+
+[大多数人必须保持工作，依靠他们的工资来为他们添置的资产提供资金。]
 
 ---
 
@@ -157,7 +163,7 @@
 >
 > 词根词缀： ex-出,向外 + -tent-延伸
 
-“As their assets grow, how do they measure **the extent of** their success?”
+##### “As their assets grow, how do they measure **the extent of** their success?”
 
 ---
 
@@ -169,7 +175,9 @@
 >
 > v.（鸭子）呱呱叫，嘎嘎叫；<非正式>**大声说蠢话**，咭咭呱呱
 
-“Some call him a **quack**, and others call him a **genius**”[有人称他为江湖郎中，而有人称他为天才。]
+##### “Some call him a **quack**, and others call him a **genius**”
+
+[有人称他为江湖郎中，而有人称他为天才。]
 
 ---
 
@@ -251,7 +259,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/7f27936d8925062bf1728719c592bf45.jpg?)
 
-“Years ago <u>he got **architects** **buzzing**</u>*(他引起建筑师的轰动) because he applied for a **patent** for something called a **geodesic dome**.” 
+##### “Years ago <u>he got **architects** **buzzing**</u>*(他引起建筑师的轰动) because he applied for a **patent** for something called a **geodesic dome**.” 
 
 > **apply for**
 >

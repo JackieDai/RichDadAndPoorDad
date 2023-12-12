@@ -8,7 +8,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/7689c148cf8f12e21e134a3121ea33bf.jpg?)
 
-“One day, sleepless and deep in debt in **suburbia**, living the American Dream, they decide that the answer to their financial problems is to find a way to get rich quick.”
+##### “One day, sleepless and deep in debt in **suburbia**
 
 ---
 
@@ -22,7 +22,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/9ebff5f26c7fe86f5831ede02bc5ccd8.jpg?)
 
-“Construction on the **skyscraper** ”
+##### “Construction on the **skyscraper** ”
 
 ---
 
@@ -34,7 +34,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/58c3643a345e0f8379b85d6838a1d787.jpg?)
 
-“Rich people acquire assets. The poor and middle class acquire **liabilities**(负债) that they think are assets.”
+##### “Rich people acquire assets. The poor and middle class acquire **liabilities**(负债) that they think are assets.”
 
 > "Acquire" 是一个多功能的动词，可以表示获得、获取、取得、收购等概念。以下是一些常见的用法：
 >
@@ -88,7 +88,7 @@
 >
 > v.画；拉；吸引（draw 的现在分词）
 
-“Mike and I understood <u>the simple drawings(简单的图画)</u>, the **jargon**, the movement of money, and then in later years, rich dad began adding numbers.”
+##### “Mike and I understood <u>the simple **drawings**(简单的图画)</u>, the **jargon**, the movement of money, and then in later years, rich dad began adding numbers.”
 
 ---
 
@@ -114,7 +114,9 @@
 >
 > 在这些例子中，"sophisticate" 用来描述一个人具有高雅、有教养的品质，或者用来表示**使某事物变得更复杂、更精致的行为**。
 
-“Today, Mike has gone on to master much more complex and **sophisticated** accounting analysis because he had to in order to run his empire.”[今天，迈克已经掌握了更加复杂和复杂的会计分析，因为他必须这样做才能经营他的帝国。]
+##### “Mike has gone on to master much more complex and **sophisticated** accounting analysis because he had to in order to run his empire.”
+
+[今天，迈克已经掌握了更加复杂和复杂的会计分析，因为他必须这样做才能经营他的帝国。]
 
 ---
 

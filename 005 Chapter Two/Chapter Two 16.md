@@ -26,7 +26,7 @@
 >
 > adj.廉价的，经济型的
 
-“They had already retired, so the increase **put a strain on** their **budget**.”
+##### “They had already retired, so the increase **put a strain on** their **budget**.”
 
 ---
 
@@ -67,7 +67,7 @@
 >
 > 因此，"portafoglio" 最初指的是一种用于携带纸张、文件或文件夹的袋子或夹子。随着时间的推移，这个词的意义扩展到包括一个人拥有的全部财产、投资以及其他财务利益，因此在英语中被引入并使用为 "portfolio"，用于描述个人或机构的投资组合。
 
-“Making a decision to own a house that is too expensive **in lieu of**(而不是) starting an investment **portfolio** ”
+##### “Making a decision to own a house that is too expensive **in lieu of**(而不是) starting an investment **portfolio** ”
 
 ---
 
@@ -91,7 +91,7 @@
 >
 > 这个作业算不算额外加分？
 
-“Too often, people **count** their house and savings and retirement plans **as** all they have in their asset column. ”
+##### “Too often, people **<u>count</u>** their house and savings and retirement plans **<u>as</u>** all they have in their asset column. ”
 
 ---
 
@@ -99,7 +99,7 @@
 
 > 这里文中是指 **损失 ** 的意思
 
-“This **costs** them investment experience.”
+##### “This **costs** them investment experience.”
 
 ---
 
@@ -117,7 +117,7 @@
 >
 > 致力于做某事：全身心地投入到某项活动或任务中，专注于完成某个目标。
 
-“My rich dad’s personal financial statement on the right reflects the results of a life **dedicated to** investing and minimizing liabilities.”
+##### “My rich dad’s personal financial statement on the right reflects the results of a life **dedicated to** investing and minimizing liabilities.”
 
 ---
 
@@ -125,7 +125,7 @@
 
 > 对......的回顾：对某个主题、事件或作品的详细分析和评价。
 
-“**A review of** my rich dad’s financial statement shows why the rich get richer.”
+##### “**A review of** my rich dad’s financial statement shows why the rich get richer.”
 
 ---
 
@@ -157,7 +157,7 @@
 >
 >  词根词缀： pro-前 + -port-部,比率 + -ion名词词尾
 
-“Their expenses **tend to** increase **in proportion to** their salary increase”
+##### “Their expenses **tend to** increase **in proportion to** their salary increase”
 
 ---
 

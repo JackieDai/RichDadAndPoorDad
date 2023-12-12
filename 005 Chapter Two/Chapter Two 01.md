@@ -9,7 +9,9 @@
 > 词根词缀： -liter-文字,字母 + -acy
 >
 
-Why Teach Financial **Literacy**?
+##### Why Teach Financial **<u>Literacy</u>**?
+
+为什么要教金融知识?
 
 ---
 
@@ -35,7 +37,7 @@ Why Teach Financial **Literacy**?
 
 > 取代某人的位置
 
-“Mike is now **grooming** his son to **take his place**, as his dad had groomed us.”
+##### “Mike is now **<u>grooming</u>** his son to <u>**take his place**,</u> as his dad had groomed us.”
 
 ---
 
@@ -73,7 +75,7 @@ Why Teach Financial **Literacy**?
 >
 > cata-, 向下。-clysm, 冲洗，流，词源可能同flow, flood. 原指大洪水。
 
-“**barring** **unforeseen** **cataclysmic** changes”
+##### “**barring** **unforeseen** **cataclysmic** changes”
 
 ---
 
@@ -96,7 +98,7 @@ Why Teach Financial **Literacy**?
 >词根词缀： in-入,向内 + -flat-吹 + -ion名词词尾
 > 
 
-**stay ahead of infation**
+##### **stay ahead of infation**
 
 ---
 
@@ -113,7 +115,7 @@ Why Teach Financial **Literacy**?
 > im-,进入，使，plant,种植。引申词义移植，灌输。
 >
 
-“Its roots are **implanted** deep enough”
+##### “Its roots are **<u>implanted</u>** deep enough”
 
 ---
 
@@ -121,4 +123,4 @@ Why Teach Financial **Literacy**?
 
 > 使想起；提醒
 
-“Whenever I hear one of these questions, I’m **reminded of** the following story”
+##### “Whenever I hear one of these questions, I’m **<u>reminded of</u>** the following story”

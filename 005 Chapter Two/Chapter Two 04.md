@@ -57,7 +57,7 @@
 > 词根词缀： dis-分开 + crimin(-cern-)区分 + -ation
 >
 
-“ His story made national news and he is **appealing** his **termination**, claiming **hardship** and **discrimination**.”
+##### “ His story made national news and he is **<u>appealing</u>** his **<u>termination</u>**, claiming **<u>hardship</u>** and **<u>discrimination</u>**.”
 
 ---
 
@@ -124,7 +124,7 @@
 >
 > v.在（食品）上涂面包屑；弄碎
 
-“ He claims that the ring is all he has left and if it was **stripped away**, he’ll **crumble**.”
+##### “ He claims that the ring is all he has left and if it was <u>**stripped away**</u>, he’ll **<u>crumble</u>**.”
 
 ---
 
@@ -170,7 +170,7 @@
 > - intend
 >   - v.打算，想要；意指，意思是；准备，预留（作某种用途或给某人用）
 
-“I know so many people who became **instant millionaires.**”
+##### “I know so many people who became **<u>instant millionaires</u>.**”
 
 ---
 
@@ -184,7 +184,7 @@
 >
 > 词根词缀： -liter-文字,字母 + -ate形容词词尾
 
-“If you want to be rich, you need to be financially **literate**.”
+##### “If you want to be rich, you need to be <u>financially **literate**</u>.”
 
 ---
 

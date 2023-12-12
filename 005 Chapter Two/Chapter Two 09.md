@@ -10,7 +10,7 @@
 >
 > "flaw" 被用来指代一个**不完美、有问题的方面，可能是实物中的缺陷、计划中的问题，或者是个人品质中的缺点**。这个词通常带有负面的含义，暗示了一些需要修复或改进的地方。
 
-“The reason I started with the story of the richest men in America is to illustrate the **flaw** in believing that money will solve all problems. ”
+##### “The reason I started with the story of the richest men in America is to illustrate the **flaw** in believing that money will solve all problems. ”
 
 ## cringe🚩
 
@@ -34,7 +34,7 @@
 >
 > 总的来说，"cringe" 表达了一种因为尴尬、不悦或不舒服而引起的身体或情感上的反应。
 
-“That is why I **cringe** whenever I hear people ask me how to get rich quicker, or where they should start. ”
+##### “That is why I **cringe** whenever I hear people ask me how to get rich quicker, or where they should start. ”
 
 ---
 
@@ -70,7 +70,7 @@
 >
 > 在不同的上下文中，"compound" 可以**表示复合物、化合物，也可以表示合院、复合的**，或者**作为动词表示使变得更加复杂或恶化。**
 
-“But more money will often not solve the problem. In fact, it may **compound** the problem.”
+##### “But more money will often not solve the problem. In fact, it may **compound** the problem.”
 
 > 这里compound 作为动词使用，表示更加复杂，加重，恶化的意思
 
@@ -125,7 +125,7 @@
 >
 > 在这些用法中**，"spotlight" 可以表示实体的聚光灯，也可以用来比喻引起关注、突出显示或强调的状态**。
 
-“Money often makes obvious our **tragic** human flaws, putting a **spotlight** on what we don’t know.”
+##### “Money often makes obvious our **tragic** human flaws, <u>putting a **spotlight** on</u> what we don’t know.”
 
 [金钱常常显露出我们悲剧性的人类缺陷，将焦点聚集在我们所不知道的事物上。]
 
@@ -159,7 +159,9 @@
 
 > 彩票奖金
 
-“That is why, all too often, a person who **comes into** a sudden **windfall** of cash—let’s say an inheritance, a pay raise, or **lottery winnings**—soon returns to the same financial mess(这里mess 指 困境，混乱局面)”
+##### “That is why, all too often, a person who **comes into** a sudden **windfall** of cash—let’s say an inheritance, a pay raise, or **lottery winnings**—soon returns to the same financial mess
+
+(这里mess 指 困境，混乱局面)”
 
 ---
 
@@ -191,7 +193,7 @@
 >
 > 虽然两个词都涉及突出显示或强调，但"accentuate" 更侧重于通过增强某特征使其更为明显，而"highlight" 更广泛地表示通过特别关注或突显使某事物更为显著。
 
-“Money only **accentuates** the cash-flow pattern running in your head. If your pattern is to spend everything you get, most likely an increase in cash will just result in an increase in spending. Thus, the saying, “A fool and his money is one big party.”
+##### “Money only **accentuates** the cash-flow pattern running in your head. 
 
 ---
 

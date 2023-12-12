@@ -2,7 +2,7 @@
 
 ## head of
 
-> 领导人，或者 负责人
+> ...领导人，或者 负责人
 
 ---
 
@@ -45,7 +45,7 @@
 >
 > n.投机者；思索者
 
-“two of the biggest stock(股票) **speculators**;”
+##### “two of the biggest stock(股票) **<u>speculators</u>**;”
 
 ---
 
@@ -57,7 +57,7 @@
 >
 > adj.内阁的
 
-“a member of President Harding’s **cabinet**”  "Harding’s总统的内阁成员"
+##### “a member of President Harding’s **<u>cabinet</u>**”  "Harding’s总统的内阁成员"
 
 ---
 
@@ -76,7 +76,7 @@
 > 3. "These titans of the business world have amassed immense wealth and power." （这些商界巨头积累了巨大的财富和权力。）
 > 4. "In Greek mythology, the Titans were ancient and powerful deities who came before the Olympian gods." （在希腊神话中，泰坦神是比奥林匹克神祇更古老和强大的神明。）
 
-“nine of these **titans** ended their lives as follows”
+##### “nine of these **<u>titans</u>** ended their lives as follows”
 
 ---
 
@@ -87,6 +87,8 @@
 > adj. 身无分文的；贫穷的
 >
 > 来自**penny** : 便士，100便士 == 1 英镑，来自英国的货币单位
+
+##### Schwab died **<u>penniless</u>** after living for five years on borrowed money.
 
 ## insane🚩
 
@@ -114,6 +116,8 @@
 >
 > 总体而言，"psychotic" 更侧重于描述某人的思维和感知的扭曲，而"insane" 则更一般地指向精神失常或疯狂的状态。请注意，这些术语在医学和法律上可能有具体的定义和用法，因此在特定背景中可能有不同的含义。
 
+##### Hopson went **insane**. 
+
 ## committed suicide🚩
 
 > **自杀死亡**
@@ -127,8 +131,6 @@
 > adj.自杀的，与自杀有关的
 >
 > v.自杀
-
-“Schwab died **penniless** after living for five years on borrowed money. Insull died broke in a foreign land, and Kreuger and Cotton also died broke. Hopson went **insane**. Whitney and Albert Fall were released from prison, and Fraser and Livermore **committed suicide**.”
 
 ---
 

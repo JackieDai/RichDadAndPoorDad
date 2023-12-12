@@ -32,7 +32,7 @@
 > 
 > 因此，"vital" 更强调对于生命或某一方面的重要性，而"necessary" 更广泛地表示为达到特定目标或满足需求所必需的。**在一些情况下，两者可能有重叠的使用**，但在语境中可能有所不同。
 
-“Many financial **novices** do not know the relationship between the Income Statement and the Balance Sheet, and it is **vital** to understand that relationship.”
+##### “Many financial **novices** do not know the relationship between the Income Statement and the Balance Sheet, and it <u>is **vital** to</u> understand that relationship.”
 
 ---
 
@@ -70,7 +70,9 @@
 >
 > 这些是 "plot" 的一些常见用法。具体使用哪种意义取决于上下文。
 
-“In financial reporting, reading numbers is looking for the **plot**, the story of where the cash is flowing.” 在财务报告中，阅读数字就是寻找情节(细节的意思)，找出现金流向的故事。
+##### “In financial reporting, reading numbers is looking for the **plot**, the story of where the cash is flowing.” 
+
+在财务报告中，阅读数字就是寻找情节(细节的意思)，找出现金流向的故事。
 
 ---
 
@@ -114,7 +116,7 @@
 >
 > 总体来说，"get ahead" 通常用于描述通过努力、学习和发展来取得进步，而 "success" 更强调已经实现的目标和取得的好的成果。
 
-In 80 percent of most families, the financial story paints a picture of hard work to **get ahead.**”
+##### In 80 percent of most families, the financial story paints a picture of hard work to **get ahead.**
 
 ---
 
@@ -142,7 +144,7 @@ In 80 percent of most families, the financial story paints a picture of hard wor
 >
 > 在这些例子中，"naught" 用来表示没有结果、无效、徒劳无功的概念。这个词有时也可以用来表示负面的情感或价值的缺失。
 
-“this effort is for **naught** because they spend their lives buying liabilities instead of assets.”
+##### “this effort is for **naught** because they spend their lives buying liabilities instead of assets.”
 
 ---
 

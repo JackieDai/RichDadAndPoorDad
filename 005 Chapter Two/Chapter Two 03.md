@@ -120,7 +120,7 @@
 
 > 起伏不定：指生活或事物经历的波动和变化，包括成功和失败、喜悦和困难等各种情况。
 
-“ I suspect there will be many **booms**[繁荣] and **busts**[萧条] in the coming years that will **parallel** **the ups and downs** (that) these men faced.”
+##### “I suspect there will be <u>many **booms** and **busts**</u> in the coming years that will <u>**parallel** **the ups and downs**</u> (that) these men faced.”
 
 ---
 
@@ -132,7 +132,7 @@
 >
 > v.有关，关于；涉及，影响；使忧虑，使担心
 
-“ I am **concerned** that too many people are too focused on money and not on their greatest wealth, their education.”
+##### “ I am **<u>concerned</u>** that too many people are too focused on money and not on their greatest wealth, their education.”
 
 ---
 
@@ -196,7 +196,7 @@
 >
 > 根据具体的语境，"tough" 可以表示不同的含义。在理解和使用时，需要考虑句子的整体语境。
 
-“ If people are prepared to be flexible, keep an open mind and learn, they will grow richer and richer **despite** **tough** changes. ”
+##### “If people are prepared to be flexible, keep an open mind and learn, they will grow richer and richer <u>**despite** **tough** changes</u>. ”
 
 ---
 
@@ -255,7 +255,7 @@
 >
 > "ride" 的含义并非字面上的骑行或乘坐，而是指**经历、处境或经济状况等方面的“行程”或“经历”**
 
-“If they think money will solve problems, they will **have a rough ride**.”
+##### “If they think money will solve problems, they will <u>**have a rough ride**.</u>”
 
 ---
 
@@ -268,7 +268,7 @@
 > n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事
 >
 
-“ We’ve all heard stories of **lottery** winners who are poor, then suddenly rich, and then poor again. ”
+##### “ We’ve all heard stories of <u>**lottery** winners</u> who are poor, then suddenly rich, and then poor again. ”
 
 ---
 
@@ -309,7 +309,7 @@
 > - "Paycheck" 强调收到薪酬的实际支票或电子支付，可以涵盖各种薪酬形式。
 > - "Income" 是一个更广泛的术语，包括所有获得的收入来源，不仅仅限于工资或薪酬。
 
-“he **claims** his friends, attorney, and accountant took his money, and he was forced to work at a car wash for minimum **wage**.”
+##### “he **<u>claims</u>** his friends took his money, and he was forced to work at a car wash for minimum **<u>wage</u>**.”
 
 ---
 

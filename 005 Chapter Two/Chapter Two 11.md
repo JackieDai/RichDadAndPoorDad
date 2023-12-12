@@ -31,7 +31,9 @@
 >      （他在领导方面的倾向在他成功地带领团队完成挑战性项目中变得明显。）
 >
 
-finanical aptitude  [财务能力]
+##### finanical aptitude 
+
+ [财务能力]
 
 ---
 
@@ -45,7 +47,7 @@ finanical aptitude  [财务能力]
 >
 > 很难不感到担心这种情况。
 
-“what you do with the money once you make it, how to **keep people from** taking it from you, how to keep it longer, and how to make that money work hard for you. ”
+##### “what you do with the money once you make it, how to **keep people from** taking it from you, how to keep it longer, and how to make that money work hard for you. ”
 
 ---
 
@@ -97,7 +99,7 @@ finanical aptitude  [财务能力]
 >
 > 总的来说，"cramped" 更侧重于描述空间狭小、感觉受限的情况，而 "narrow" 可以描述物体的宽度狭窄，也可比喻为心胸狭窄、观点狭隘等。
 
-“highly educated young couple now share a **cramped** rented apartment”
+##### “highly educated young couple now share a **cramped** rented apartment”
 
 ---
 
@@ -179,7 +181,7 @@ finanical aptitude  [财务能力]
 >
 > 词根词缀： with-向后,背离 + hold占据
 
-“ **In essence**, it is money the employer can’t pay you. **On top of that**, you still have to pay income tax on the amount **deducted from** your wages for Social Security tax, income you never received because it went directly to Social Security through **withholding**.”
+##### “ **In essence**, it is money the employer can’t pay you. **On top of that**, you still have to pay income tax on the amount **deducted from** your wages for Social Security tax, income you never received because it went directly to Social Security through **withholding**.”
 
 ---
 
@@ -189,7 +191,7 @@ finanical aptitude  [财务能力]
 >
 > n.**家用电器**，装置；<英>应用；消防车
 
-“Then they buy a new car, new furniture, and new **appliances** to match their new house. ”
+##### “Then they buy a new car, new furniture, and new **appliances** to match their new house. ”
 
 ---
 
@@ -201,7 +203,7 @@ finanical aptitude  [财务能力]
 >
 > 灯突然熄灭，我们陷入了完全的黑暗。
 
-“**All of a sudden**, they wake up and their liabilities column is full of mortgage and credit-card debt. Their liabilities <u>go up.(上升)</u>”
+##### “**All of a sudden**, they wake up and their liabilities column is full of mortgage and credit-card debt. Their liabilities <u>go up.(上升)</u>”
 
 ---
 

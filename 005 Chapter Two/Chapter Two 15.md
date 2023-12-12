@@ -6,7 +6,7 @@
 >
 > adj.适用的，适当的
 
-“Occasionally, Mike or I would ask our teachers how what we studied was **applicable** in the real world, or why we never studied money and how it worked. ”
+##### “Occasionally, Mike or I would ask our teachers how what we studied was **applicable** in the real world, or why we never studied money and how it worked. ”
 
 ---
 
@@ -24,7 +24,7 @@
 >
 > int.太好了
 
-“To the latter question, we often got the answer that money was not important, that if we **excelled** in our education, the money would follow. ”
+##### “To the latter question, we often got the answer that money was not important, that if we **excelled** in our education, the money would follow. ”
 
 ---
 
@@ -62,7 +62,7 @@
 >
 > 我需要买一些杂货，比如面包、牛奶、鸡蛋等等。
 
-“I could **keep books,** I listened to <u>tax accountants(税务会计师)</u>, <u>**corporate** attorneys(公司律师)</u>, bankers, real estate **brokers**, investors, **and so forth**.”
+##### “I could **keep books,** I listened to <u>tax accountants(税务会计师)</u>, <u>**corporate** attorneys(公司律师)</u>, bankers, real estate **brokers**, investors, **and so forth**.”
 
 ---
 
@@ -81,7 +81,7 @@
 > - **"perception"** 强调个体对外部世界的感知和认知
 > - **"perspective"** 更强调对事物的看法或观点
 
-“The diagram above illustrates the difference in **perception** between my rich dad and my poor dad when it came to their homes. ”
+##### “The diagram above illustrates the difference in **perception** between my rich dad and my poor dad when it came to their homes. ”
 
 ---
 
@@ -93,7 +93,7 @@
 >
 > n.助手；附件
 
-“I remember when I drew the following diagram for my dad, showing him the direction of cash flow. I also showed him the **ancillary** expenses that went along with owning the home.”
+##### “I remember when I drew the following diagram for my dad, showing him the direction of cash flow. I also showed him the **ancillary** expenses that went along with owning the home.”
 
 "我记得当我给我爸爸画下面的图表时，向他展示了现金流的方向。我还向他展示了拥有房屋所带来的附加费用。"
 
@@ -112,7 +112,7 @@
 >
 > put forth their best efforts 提出了最大的努力提出尽最大努力提出其最大努力
 
-“So here is the argument that I **put forth.** ”
+##### “So here is the argument that I **put forth.** ”
 
 ---
 
@@ -169,7 +169,7 @@
 >
 > "Inflict" 和 "incur" 的用法相对较窄。 "Inflict" 更侧重于描述一个人或事物对另一个人或事物施加的伤害或惩罚，而 "incur" 主要用于描述个人或实体遭受到的不利后果、费用或责任。
 
-“ In other words, most people buy a new house every few years, each time **incurring** a new 30-year loan to pay off the previous one.”
+##### “ In other words, most people buy a new house every few years, each time **incurring** a new 30-year loan to pay off the previous one.”
 
 ---
 
@@ -179,7 +179,7 @@
 >
 > 惊呆了，震惊
 
-“My wife’s parents were **shocked** when <u>the property taxes(房产税)</u> on their home increased to $1,000 a month. ”
+##### “My wife’s parents were **shocked** when <u>the property taxes(房产税)</u> on their home increased to $1,000 a month. ”
 
 ---
 

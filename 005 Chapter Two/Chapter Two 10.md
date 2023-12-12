@@ -20,7 +20,7 @@
 >
 > n.（尤指需要长期训练和正规资格的）**职业**；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教
 
-“ In the 1960s when I was in high school, if someone did well **academically**, people assumed this bright(聪明的) student would go on to be a medical doctor because it was the **profession** with the promise of the greatest financial reward.”
+##### “ If someone did well **academically**, people assumed this bright(聪明的) student would go on to be a medical doctor because it was the **profession** with the promise of the greatest financial reward.”
 
 ---
 
@@ -42,7 +42,7 @@
 >
 > 词根词缀： inter-中间,之间,相互 + -vent-来 + -ion名词词尾
 
-government **intervention** [政府干预]
+##### government **intervention** [政府干预]
 
 ---
 
@@ -83,7 +83,9 @@ government **intervention** [政府干预]
 >
 > 总体而言，"suit" 的意思可以根据上下文来理解，它可以是名词、动词或形容词，具体含义取决于它在句子中的角色。
 
-malpractice lawsuits; [医疗事故诉讼]
+##### malpractice lawsuits;
+
+ [医疗事故诉讼]
 
 ---
 
@@ -127,7 +129,7 @@ malpractice lawsuits; [医疗事故诉讼]
 >
 > "Prestige" **表示一种社会上被认可和尊重的崇高地位，通常与成功、质量、优越性等概念相关联。这个词在形容正面的社会评价和认可时常被使用。**
 
-“Today, kids want to be famous athletes, movie stars, rock stars, beauty queens, or CEOs because that is where the fame, money, and **prestige** are. ”
+##### “Today, kids want to be famous athletes, movie stars, rock stars, beauty queens, or CEOs because that is where the **fame**, money, and **prestige** are. ”
 
 ---
 
@@ -155,7 +157,7 @@ malpractice lawsuits; [医疗事故诉讼]
 >
 >总的来说，"only" 更通用，可以表示排他性，也可以表示数量或程度。而 "solely" 则更强调独一无二、唯一，通常用于强调某一方面与其他事物的分离。
 
-“They know that professional success is no longer **solely** linked to academic success, as it once was.”
+##### “They know that professional success is no longer **solely** linked to academic success, as it once was.”
 
 ---
 
@@ -201,7 +203,7 @@ malpractice lawsuits; [医疗事故诉讼]
 >
 > "chase" 更专注于追逐的行为，通常带有更直接的动作感，而"pursue" 则更广泛，可以表示对目标、兴趣或个人的追求，也可以表示对某人的长时间追踪。
 
-“Because students leave school without financial skills, millions of educated people **pursue** their profession successfully, but later find themselves struggling financially.”
+##### “Because students leave school without financial skills, millions of educated people **pursue** their profession successfully, but later find themselves struggling financially.”
 
 ---
 
@@ -213,7 +215,7 @@ malpractice lawsuits; [医疗事故诉讼]
 >
 > 她努力工作以在职业生涯中取得成功。
 
-“They work harder but don’t **get ahead.** ”
+##### “They work harder but don’t **get ahead.** ”
 
 ---
 

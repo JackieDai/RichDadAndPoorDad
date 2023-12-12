@@ -4,7 +4,7 @@
 
 > 文中 是作为动词, **“看重”**的意思
 
-“That is why my educated dad said the Japanese **valued** the power of the mirror the most,”
+##### “That is why my educated dad said the Japanese **valued** the power of the mirror the most,”
 
 ---
 
@@ -16,7 +16,7 @@
 >
 > v.<美>趋向，倾向；（尤指地理特征的）走向；成为热门话题
 
-“commonly accepted opinions or popular **trends**”
+##### “commonly accepted opinions or popular **trends**”
 
 ---
 
@@ -34,7 +34,7 @@
 >
 > "vice" 更侧重于指代一个人在另一个人的代理下履行职责，而 "agent" 可能更广泛地涵盖执行代理任务的各种实体。
 
-“Someday I’ll be a **vice** president.(副总统)” 
+##### “Someday I’ll be a **vice** president.(副总统)” 
 
 ---
 
@@ -50,7 +50,9 @@
 >
 > 词根词缀： -mut-变 + -ual形容词词尾
 
-“Mutual funds are safe.”“共同基金是安全的。”
+##### “Mutual funds are safe.”
+
+“共同基金是安全的。”
 
 ---
 
@@ -80,7 +82,7 @@
 >
 > 总体而言，这两个词语在表达强烈厌恶时可以互换，但 "detest" 更加强调深刻、极端的情感，而 "hate" 则更广泛，可以包括程度较轻的厌恶。
 
-“He was a man who did his own thinking and **detested** the words, “We have to do it this way because that’s the way everyone else does it.”
+##### “He was a man who did his own thinking and **detested** the words, “We have to do it this way because that’s the way everyone else does it.”
 
 ---
 
@@ -115,7 +117,7 @@
 >
 > v.布道，讲道；宣扬，鼓吹；说教，训诫
 
-“But because of this, Mike and I couldn’t **go along with** the standard **dogma** our teachers **preached**(宣扬), and that caused problems. ”
+##### “But because of this, Mike and I couldn’t **<u>go along with</u>** the standard **dogma** our teachers **preached**(宣扬), and that caused problems. ”
 
 ---
 
@@ -127,7 +129,9 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/d4e43202c7fcec921347adfaa5a0fb1c.jpg?)
 
-raised our eyebrows.[皱眉]
+##### raised our eyebrows.
+
+[皱眉]
 
 ---
 
@@ -180,5 +184,5 @@ raised our eyebrows.[皱眉]
 >
 > 总体而言，"diverge" 更强调分离或分歧，而 "deviate" 更强调偏离或背离一定的规范、计划或期望。在某些情境中，这两个词的使用可能是可互换的，但在其他情境下，选择使用哪个词可能取决于要强调的偏离类型。
 
-“When we were told to follow <u>set **procedures**(既定的程序)</u> and not **deviate from** the rules, we could see how school discouraged creativity.”
+##### “When we were told to follow <u>set **procedures**(既定的程序)</u> and not **deviate from** the rules, we could see how school discouraged creativity.”
 
