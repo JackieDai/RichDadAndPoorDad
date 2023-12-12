@@ -26,7 +26,7 @@
 >
 > vt.对儿童进行特殊教育评估认定
 
-Much of my private time was spent **reflecting**, asking myself questions such as, “Why does he say that?” and then asking the same question of the other dad’s **statement**.
+##### Much of my private time was spent **<u>reflecting</u>**, asking myself questions such as, “Why does he say that?” and then asking the same question of the other dad’s **<u>statement</u>**.
 
 ---
 
@@ -54,7 +54,7 @@ Much of my private time was spent **reflecting**, asking myself questions such a
 >
 > 总的来说，这两个词语有一定的重叠，但**"ultimately"更侧重于强调整个过程的最终结果**，而**"finally"更强调一个时间上的结束点**。在许多情境中，它们可以互换使用，但具体语境可能会影响最佳选择。
 
-Instead, having two dads whom I loved forced me to think and **ultimately** choose a way of thinking for myself. 
+##### Instead, having two dads whom I loved forced me to think and **<u>ultimately</u>** choose a way of thinking for myself. 
 
 ---
 
@@ -94,7 +94,7 @@ Instead, having two dads whom I loved forced me to think and **ultimately** choo
 
 > 从长远来看
 
-As a process, choosing for myself **turned out** to be much more valuable **in the long run** than simply accepting or rejecting a single point of view.
+##### <u>**As a process**</u>, choosing for myself **<u>turned out</u>** to be much more valuable **<u>in the long run</u>** than simply accepting or rejecting a single point of view.
 
 ---
 
@@ -118,7 +118,7 @@ As a process, choosing for myself **turned out** to be much more valuable **in t
 >
 > 词根词源： mind,思想，思维，挂念，set,设定。比喻用法。
 
-The child may graduate with **excellent grades**, but with a poor person’s **financial programming** and **mindset**.
+##### The child may graduate with **<u>excellent grades</u>**, but with a poor person’s **<u>financial programming</u>** and **<u>mindset</u>**.
 
 ---
 

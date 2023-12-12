@@ -36,7 +36,7 @@
 >
 > 通常用来描述森林底层或丛林中的植被，特别是那些生长得很密集的部分。
 
-“Two roads **diverged** in a yellow wood, and sorry I could not travel both and be one traveler, long I stood and looked down one as far as I could to where it **bent** in the **undergrowth**;”
+##### “Two roads **<u>diverged</u>** in a yellow wood, and sorry I could not travel both and be one traveler, long I stood and looked down one as far as I could to where it **<u>bent</u>** in the **<u>undergrowth</u>**;”
 
 在一片黄色的树林中，有两条分岔的道路，很抱歉我不能同时选择双方成为一个旅者，我站了很久，尽可能地望着其中一条一直延伸到在矮树丛中转弯的地方。
 

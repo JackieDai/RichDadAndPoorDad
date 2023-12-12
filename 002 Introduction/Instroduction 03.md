@@ -28,7 +28,7 @@
 >
 > 截稿时，会议的结果仍然不确定。
 
-Fast forward 20 years… and the U.S. national debt is beyond **staggering**. **At press time**, it’s nearing $20 trillion. That’s trillion… with a T.
+##### Fast forward 20 years… and the U.S. national debt is beyond **<u>staggering</u>**. <u>**At press time**</u>, it’s nearing $20 trillion.
 
 ---
 
@@ -42,7 +42,7 @@ Fast forward 20 years… and the U.S. national debt is beyond **staggering**. **
 >
 > 词源：来自 scholar,学者，-astic,形容词后缀
 
-Schools focus on **scholastic** and professional skills, but not on financial skills.
+##### Schools focus on **<u>scholastic</u>** and professional skills, but not on financial skills.
 
 ---
 
@@ -52,7 +52,7 @@ Schools focus on **scholastic** and professional skills, but not on financial sk
 >
 > n.会计，会计师
 
-This explains why smart bankers, doctors, and **accountants** who earned excellent grades may struggle financially all of their lives.
+##### This explains why smart bankers, doctors, and **<u>accountants</u>** who earned excellent grades may struggle financially all of their lives.
 
 ---
 
@@ -82,7 +82,7 @@ This explains why smart bankers, doctors, and **accountants** who earned excelle
 >
 > 词根词缀： as-临近 + -sist-站立 → 站在旁边自然就有"协助"之意
 
-Today I often wonder what will happen when we have millions of people who need financial and **medical assistance**.
+##### Today I often wonder what will happen when we have millions of people who need financial and **<u>medical assistance</u>**.
 
 ---
 
@@ -94,7 +94,7 @@ Today I often wonder what will happen when we have millions of people who need f
 >
 > 他不小心把咖啡洒了出来，在这样做的过程中，弄脏了桌布。
 
-I had to think about each dad’s advice and, **in doing so**, I gained valuable insight into the power and effect of one’s thoughts on one’s life. 
+##### I had to think about each dad’s advice and, **<u>in doing so</u>**, I gained valuable insight into the power and effect of one’s thoughts on one’s life. 
 
 > 1. "I had to think about each dad’s advice" - 我必须思考每位父亲的建议。"had to" 表示必须或不得不，用来表示一种义务或需要。
 > 2. "and" - 这个连词用来连接两个并列的动作或想法。在这里，它连接了两个动作：考虑父亲的建议和获得宝贵的见解。
@@ -112,7 +112,7 @@ I had to think about each dad’s advice and, **in doing so**, I gained valuable
 >
 > 文中指 **习惯**
 
-For example, one dad had a **habit** of saying, “I can’t afford it.
+##### For example, one dad had a **<u>habit</u>** of saying, “I can’t afford it.
 
 ---
 
@@ -122,5 +122,5 @@ For example, one dad had a **habit** of saying, “I can’t afford it.
 >
 > v.禁止（forbid 的过去式）
 
-The other dad **forbade** those words to be used.
+##### The other dad **<u>forbade</u>** those words to be used.
 

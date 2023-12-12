@@ -10,7 +10,7 @@
 >
 > 文中是 指 **差距, 差异** 的意思
 
-Today, people are more aware of the growing **divide** between the rich and everyone else.
+##### Today, people are more aware of the growing *<u>divide</u>* between the rich and everyone else.
 
 ---
 
@@ -20,7 +20,7 @@ Today, people are more aware of the growing **divide** between the rich and ever
 >
 > n.企业家，创业者；主办者，提倡者
 
-The increses in income are going to **enterpreneurs** and inverstors, not to employee-not to the people who work for money.
+##### The increses in income are going to *<u>enterpreneurs</u>* and inverstors, not to employee-not to the people who work for money.
 
 ---
 
@@ -30,7 +30,7 @@ The increses in income are going to **enterpreneurs** and inverstors, not to emp
 >
 > n.储户，存款人；救助者；起节约作用的物品；节约装置；（旅游）折扣价；（赛马）两面下注；节俭的人
 
-**Savers** are losers.
+##### **<u>Savers</u>** are losers.
 
 ---
 
@@ -42,7 +42,7 @@ The increses in income are going to **enterpreneurs** and inverstors, not to emp
 >
 > "Vehemently" 的使用强调了言辞、态度或情感的强烈程度，通常暗示着情感的激烈表达或坚定的立场。
 
-Twenty years ago, most publishers **vehemently** disagreed with this lesson from rich dad.
+##### Twenty years ago, most publishers **<u>vehemently</u>** disagreed with this lesson from rich dad.
 
 ---
 
@@ -89,7 +89,7 @@ Twenty years ago, most publishers **vehemently** disagreed with this lesson from
 >
 > 词源: 来自crude，粗糙的
 
-For the poor and middle class, “saving money” is a **religion**, **financial** **salvation** from **poverty** and protection from the **cruel** world.
+##### For the poor and middle class, “saving money” is a **<u>religion</u>**, <u>**financial** **salvation**</u> from **<u>poverty</u>** and protection from the **cruel** world.
 
 ---
 
@@ -99,7 +99,7 @@ For the poor and middle class, “saving money” is a **religion**, **financial
 >
 > adj.虚荣的，自负的；徒劳的
 
-For many people, calling savers “losers” is like taking god’s name in **vain**.
+##### For many people, calling savers “losers” is like taking god’s name in **<u>vain</u>**.
 
 > "Taking God's name in vain" 
 >
@@ -116,6 +116,6 @@ For many people, calling savers “losers” is like taking god’s name in **va
 >
 > Investors lost billions of dollars in the stock market crash.投资者在股市崩盘中损失了数十亿美元。
 
-The chart shows there are have been three massive **stock market crashes** in the first 10 years of this new century.
+##### The chart shows there are have been three massive **<u>stock market crashes</u>** in the first 10 years of this new century.
 
 ---

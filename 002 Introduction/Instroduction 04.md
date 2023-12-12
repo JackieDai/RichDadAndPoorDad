@@ -10,7 +10,7 @@
 >
 > insist upon 坚持…
 
-He **insisted** I ask, “How can I afford it?
+##### He <u>**insisted(坚持)**</u> I ask, “How can I afford it?
 
 ---
 
@@ -34,7 +34,7 @@ He **insisted** I ask, “How can I afford it?
 >
 > hook up 以钩钩住
 
- One lets you **off the hook**, and the other forces you to think.
+#####  One lets you **<u>off the hook</u>**, and the other forces you to think.
 
 ---
 
@@ -84,7 +84,7 @@ He **insisted** I ask, “How can I afford it?
 >
 > v.运动，锻炼；运用，行使；使担忧，使烦恼；驯，遛
 
-He was **fanatical** **about** **exercising** your mind, the most powerful computer in the world.
+##### He was <u>**fanatical** **about** **exercising**</u> your mind, the most powerful computer in the world.
 
 ---
 
@@ -105,7 +105,7 @@ He was **fanatical** **about** **exercising** your mind, the most powerful compu
 >
 > > "mental" 通常用于描述与思维、心理或认知有关的事物，包括情感、认知过程、精神健康等方面。
 
-He believed that automatically saying “I can’t afford it” was a **sign** of **mental** laziness.
+##### He believed that automatically saying “I can’t afford it” was a **<u>sign</u>** of **<u>mental</u>** laziness.
 
 ---
 
@@ -117,11 +117,11 @@ He believed that automatically saying “I can’t afford it” was a **sign** o
 >
 > 词根词源 vers(转) + us ==（围着我们转）
 
-It is not much different from a person who goes to the gym to exercise on a regular basis **versus** someone who sits on the couch watching television.
+##### It is not much different from a person who goes to the gym to exercise on a regular basis **<u>versus</u>** someone who sits on the couch watching television.
 
-> It is not much different from..  表示两者之间没有太大的不同。
+> **It is not much different from..**  表示两者之间没有太大的不同。
 >
-> on a regular basis  短语，表示以规律、定期的方式进行某种活动或行为
+> **on a regular basis**  短语，表示以规律、定期的方式进行某种活动或行为
 
 ---
 
@@ -133,7 +133,7 @@ It is not much different from a person who goes to the gym to exercise on a regu
 >
 > 创业者通常需要冒险才能取得成功。
 
-Don’t **take risks.**
+##### Don’t **<u>take risks.</u>**
 
 ---
 
@@ -151,7 +151,7 @@ Don’t **take risks.**
 >
 > adj.（在法律上）有责任的，有义务的；负有偿付责任的；很可能会发生的；有……倾向的
 
-My house is a **liability**, and if your house is your largest investment, you’re in trouble
+##### My house is a **<u>liability</u>**, and if your house is your largest investment, you’re in trouble
 
 ---
 
@@ -161,7 +161,7 @@ My house is a **liability**, and if your house is your largest investment, you�
 >
 > n.住宅，住所；居住，定居；（在某国的）居住权，居留许可；（大学的）学生宿舍楼
 
-The 2008 housing market crash was a clear message that your personal **residence** is not an asset.
+##### The 2008 housing market crash was a clear message that your personal **<u>residence</u>** is not an asset.
 
 ---
 

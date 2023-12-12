@@ -30,7 +30,7 @@
 >
 > 大规模 金融 毁灭性 武器
 
-The rich created **financially-engineered** products known as **derivatives**—products Warren Buffett has called **"weapons of mass financial destruction"**.
+##### The rich created **financially-engineered** products known as **derivatives**—products Warren Buffett has called **"weapons of mass financial destruction"**.
 
 ---
 
@@ -42,7 +42,7 @@ The rich created **financially-engineered** products known as **derivatives**—
 >
 > n.估计，估价；估价单；看法，判断
 
-In 2007 there were an **estimated** $700 trillion in financial derivatives.
+##### In 2007 there were an **<u>estimated</u>** $700 trillion in financial derivatives.
 
 ---
 
@@ -63,7 +63,7 @@ In 2007 there were an **estimated** $700 trillion in financial derivatives.
 > 词根词源：
 > dis-, 不，非，使相反。close, 关闭。即打开，揭露。
 
-a few publishers **criticized** Rich Dad Poor Dad for **disclosing** how and why the rich pay less in taxes.
+##### a few publishers **<u>criticized</u>** Rich Dad Poor Dad for **<u>disclosing</u>** how and why the rich pay less in taxes.
 
 ---
 
@@ -73,7 +73,7 @@ a few publishers **criticized** Rich Dad Poor Dad for **disclosing** how and why
 >
 > 文中指 **指出说明** 的意思
 
-One **stated** that that lesson was illegal
+##### One **<u>stated</u>** that that lesson was illegal
 
 ---
 
@@ -96,7 +96,7 @@ One **stated** that that lesson was illegal
 >
 > pron.（两者中的）前者
 
-`President Barack Obama` was running for re-**election** against **former** `Governor Mitt Romney(人名)`.
+##### `President Barack Obama` was running for <u>re-**election**</u> against **<u>former</u>** `Governor Mitt Romney(人名)`.
 
 ---
 

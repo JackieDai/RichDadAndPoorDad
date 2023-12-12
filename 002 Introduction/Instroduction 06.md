@@ -8,7 +8,7 @@
 >
 > adj.奢侈的，豪华的
 
-Being a product of two strong dads allowed me the **luxury** of observing the effects different thoughts have on one’s life.
+##### Being a product of two strong dads allowed me the **<u>luxury</u>** of observing the effects different thoughts have on one’s life.
 
 > 1. "Being a product of" - 表示成为某种影响或条件的结果。在这里，它指的是成为两位坚强父亲的孩子，作为他们的子女的结果。
 > 2. "allowed me the luxury of" - 表示给予了我奢侈或特权。
@@ -26,7 +26,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 >
 > vt.形成，影响；使成形，**塑造**；计划，思考出；产生（声音，词）；使适合，使符合；（运动员）摆姿势，做动作
 
- I noticed that people really do **shape** their lives through their thoughts.
+##### I noticed that people really do **<u>shape</u>** their lives through their thoughts.
 
 ---
 
@@ -40,7 +40,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 >
 > 词根词缀： pro-前 + -phe-说 + -cy名词词尾 → 提前说出来
 
-“For example, my poor dad always said, “I’ll never be rich.” And that **prophecy** became reality.”
+##### “For example, my poor dad always said, “I’ll never be rich.” And that **<u>prophecy</u>** became reality.”
 
 ----
 
@@ -48,7 +48,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 
 > 在 文中 指  **称呼** 的意思
 
-“My rich dad, on the other hand, always **referred to** himself as rich. ”
+##### “My rich dad, on the other hand, always **<u>referred to</u>** himself as rich. ”
 
 ---
 
@@ -66,7 +66,7 @@ Being a product of two strong dads allowed me the **luxury** of observing the ef
 >
 > 词根词缀： set安置 + back向后
 
-Even when he was **flat broke** after a major financial **setback**, he continued to **refer to** himself as a rich man.
+##### Even when he was **<u>flat broke</u>** after a major financial **<u>setback</u>**, he continued to **<u>refer to</u>** himself as a rich man.
 
 ---
 
@@ -92,7 +92,7 @@ Even when he was **flat broke** after a major financial **setback**, he continue
 >
 > 在某些情境中，"eternal" 和 "forever" 可以互换使用，但有时它们的用法可能略有不同。"Eternal" 更常用于描述抽象的、更深层次的永恒，而 "forever" 更常用于强调具体的时间跨度，如持续的爱情、友谊等。在语境中选择使用哪个词可能取决于表达者的语气和强调点。
 
-Poor is eternal.
+##### Poor is **<u>eternal</u>**.
 
 ---
 
@@ -118,7 +118,7 @@ Poor is eternal.
 >
 > v.适应；调整，使适合；改编；改造，改装
 
-As a young boy having two fathers, I became **acutely** aware of being careful about which thoughts I chose to **adopt** as my own.
+##### As a young boy having two fathers, I became **<u>acutely</u>** aware of being careful about which thoughts I chose to **<u>adopt</u>** as my own.
 
 ---
 
@@ -151,7 +151,7 @@ As a young boy having two fathers, I became **acutely** aware of being careful a
 >
 > 词根词缀：re-,再，-spect,看 --》 反复看
 
-Although both men had **tremendous** **respect** for education and learning, they disagreed about what they thought was important to learn.
+##### Although both men had <u>**tremendous** **respect**</u> for education and learning, they disagreed about what they thought was important to learn.
 
 ---
 

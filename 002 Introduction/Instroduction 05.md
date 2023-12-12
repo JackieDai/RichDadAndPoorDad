@@ -6,7 +6,7 @@
 > · I know I can count on you to keep our secret.
 > 我知道我可以依赖你保守我们的秘密。
 
-Not only does it not put money in your pocket, but we cannot **count on** the fact that it will go up in value
+##### Not only does it not put money in your pocket, but we cannot <u>**count on**</u> the fact that it will go up in value
 
 > 这是个倒装句，部分倒装使用条件如下：
 >
@@ -33,7 +33,7 @@ Not only does it not put money in your pocket, but we cannot **count on** the fa
 
 > 津贴
 
-other perks [其他的津贴]
+##### other <u>perks</u> [其他的津贴]
 
 ---
 
@@ -53,7 +53,7 @@ other perks [其他的津贴]
 >
 > 他渴望参加积极服役，为国家而战。
 
-He was impressed with two of his uncles who joined the military and earned a retirement-and-**entitlement** package for life after 20 years of **active service.**
+##### He was impressed with two of his uncles who joined the military and earned a retirement-and-**<u>entitlement</u>** package for life after 20 years of **<u>active service</u>.**
 
 ---
 
@@ -69,7 +69,7 @@ He was impressed with two of his uncles who joined the military and earned a ret
 >
 > 词根**priv**表“私人的”，(**leg** == legal)为词根“法律” 从字面上来理解，所谓“特权”就是法律赋予的特殊的私人权利。
 
-**privileges** that the military provided its retirees
+##### **<u>privileges</u>** that the military provided its retirees
 
 ---
 
@@ -83,7 +83,7 @@ He was impressed with two of his uncles who joined the military and earned a ret
 >
 > v.授予……终身职位（尤指教师、讲师职位）,**终身聘用**
 
-He also loved the **tenure** system available through the university；他也喜欢大学提供的终身聘用制度。
+##### He also loved the **<u>tenure</u>** system available through the university；他也喜欢大学提供的终身聘用制度。
 
 ---
 
@@ -97,7 +97,7 @@ He also loved the **tenure** system available through the university；他也喜
 >
 > 来自 rely,依靠，信赖。
 
-The other believed in total financial **self-reliance.**
+##### The other believed in total financial **<u>self-reliance.</u>**
 
 ---
 
@@ -133,7 +133,7 @@ The other believed in total financial **self-reliance.**
 >
 > *competent 和 competition  关系不大*
 
-He was **emphatic** about being financially **competent**. 他非常强调自己在财务方面的能力。
+##### He was **<u>emphatic</u>** about being financially **<u>competent</u>**. 他非常强调自己在财务方面的能力。
 
 ---
 

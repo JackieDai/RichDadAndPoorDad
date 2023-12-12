@@ -8,7 +8,7 @@
 >
 > 联想词 demostrate vt. 证明；展示；论证
 
-The chart on the next page **illustrates** these three crashes.
+##### The chart on the next page **<u>illustrates</u>** these three crashes.
 
 ---
 
@@ -22,7 +22,7 @@ The chart on the next page **illustrates** these three crashes.
 > estate **/ɪˈsteɪt/**
 > n.财产，遗产；大片私有土地，庄园；<英>住宅区，工业区；<旧>社会阶层；（生活）状况，条件
 
-The second and third crashes were **the real estate** crash of 2007, followed by the banking crash of 2008.
+##### The second and third crashes were <u>**the real estate**</u> crash of 2007, followed by the banking crash of 2008.
 
 ---
 
@@ -46,7 +46,7 @@ The second and third crashes were **the real estate** crash of 2007, followed by
 >
 > 词根词缀： per-完全,贯穿 + -spect-看 + -ive名词词尾
 
-When you compare the first three crashes of the 21st century to the **giant** crash of 1929, you gain a **perspective** of how truly “**giant**” the first three crashes of this century were.
+##### When you compare the first three crashes of the 21st century to the **<u>giant</u>** crash of 1929, you gain a **<u>perspective</u>** of how truly “**giant**” the first three crashes of this century were.
 
 ---
 
@@ -121,5 +121,5 @@ When you compare the first three crashes of the 21st century to the **giant** cr
 >
 > 词根词源: 为拟声词 【气泡破裂的声音】
 
-Ten years later, in 2007 when **subprime** **borrowers** **began** to default on their subprime **mortgages**, the world’s real estate **bubble** burst and millions of homeowners found out the truth in that lesson the hard way. Their house was not “an asset.
+##### Ten years later, in 2007 when <u>**subprime** **borrowers**</u> **began** to <u>default</u> on their subprime **<u>mortgages</u>**, the world’s real estate **<u>bubble</u>** burst and millions of homeowners found out the truth in that lesson the hard way.
 

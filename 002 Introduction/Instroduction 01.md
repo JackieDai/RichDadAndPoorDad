@@ -21,7 +21,7 @@
 > contrasting points of view
 > 截然不同的观点
 
-Having two dads offered me the choice of **contrasting** points of view: one of a rich man and one of a poor man.
+##### Having two dads offered me the choice of **<u>contrasting</u>** points of view: one of a rich man and one of a poor man.
 
 ---
 
@@ -41,7 +41,7 @@ Having two dads offered me the choice of **contrasting** points of view: one of 
 >
 >   **under-,未达到**，graduate,毕业生。
 
-He had a **Ph.D**(博士). and completed four years of **undergraduate** work in less than two years. 
+##### He had a <u>**Ph.D**(博士)</u>. and completed four years of **<u>undergraduate</u>** work in less than two years. 
 
 ---
 
@@ -51,7 +51,7 @@ He had a **Ph.D**(博士). and completed four years of **undergraduate** work in
 >
 > n.奖学金；学问，学术
 
- all on full financial **scholarships** [都是全额奖学金]
+#####  all on full financial **<u>scholarships</u>** [都是全额奖学金]
 
 ---
 
@@ -63,7 +63,7 @@ He had a **Ph.D**(博士). and completed four years of **undergraduate** work in
 >
 > n.重要材料
 
-Both earned **substantial** incomes.
+##### Both earned **<u>substantial</u>** incomes.
 
 ---
 
@@ -73,7 +73,7 @@ Both earned **substantial** incomes.
 >
 > n.慈善组织，慈善机构；慈善事业；仁慈，宽厚；赈济，施舍
 
-One died leaving tens of millions of dollars to his family, **charities**, and his church.
+##### One died leaving tens of millions of dollars to his family, **<u>charities</u>**, and his church.
 
 ---
 
@@ -107,7 +107,7 @@ One died leaving tens of millions of dollars to his family, **charities**, and h
 >
 > v.影响，对……起作用
 
-Both men were strong, **charismatic**, and **influential**.
+##### Both men were strong, **<u>charismatic</u>**, and **<u>influential</u>**.
 
 ---
 
@@ -119,7 +119,7 @@ Both men were strong, **charismatic**, and **influential**.
 >
 > n.有害（或不受欢迎）的事；邪恶，罪恶；坏事，恶行
 
-The love of money is the root of all **evil**.
+##### The love of money is the root of all **<u>evil</u>**.
 
 ---
 
@@ -157,7 +157,7 @@ The love of money is the root of all **evil**.
 >
 > 总之，"intrigue" 这个词通常用于描述引起好奇心、兴趣或神秘感的情境，可以用作动词、名词或形容词，具体用法取决于句子的上下文。
 
-The contrast in their points of view, particularly about money, was so **extreme** that I grew curious and **intrigued**.
+##### The contrast in their points of view, particularly about money, was so **<u>extreme</u>** that I grew curious and **<u>intrigued</u>**.
 
 > 在这个句子中， "that" 在语法上是一个连词，引导了一个名词性从句，这个从句解释或说明了前面的句子。具体来说，它引导了一个结果从句，说明了为什么作者变得好奇和着迷。在这种情况下， "that" 引导的从句是 "I grew curious and intrigued"，它回答了为什么作者变得好奇和着迷的问题。所以，句子的结构可以解释为：
 >

@@ -39,7 +39,7 @@
 >
 > down+hill ==> 向下 + 山坡 （从山坡上下来）
 
-When it was disclosed that President Obama paid **approximately** 30% of his income in taxes and Governor Romney paid less than 13% in taxes, Mitt Romney began the **downhill** slide that would **cost** him the election.
+##### When it was disclosed that President Obama paid **<u>approximately</u>** 30% of his income in taxes and Governor Romney paid less than 13% in taxes, Mitt Romney began the **<u>downhill</u>** slide that would **<u>cost</u>** him the election.
 
 ---
 
@@ -51,7 +51,7 @@ When it was disclosed that President Obama paid **approximately** 30% of his inc
 >
 > focal --- >> focus, 焦点。
 
-Taxes, again, were a **focal** point in the 2016 U.S. Presidential election.
+##### Taxes, again, were a **<u>focal</u>** point in the 2016 U.S. Presidential election.
 
 ---
 
@@ -61,7 +61,7 @@ Taxes, again, were a **focal** point in the 2016 U.S. Presidential election.
 >
 >adv.按照法律，法律上；合法地
 
-Rather than find out how people like Mitt Romney and President Donald Trump pay less in taxes **legally**, the poor and middle class get angry.
+##### Rather than find out how people like Mitt Romney and President Donald Trump pay less in taxes **<u>legally</u>**, the poor and middle class get angry.
 
 ---
 
@@ -77,7 +77,7 @@ Rather than find out how people like Mitt Romney and President Donald Trump pay 
 >
 > n.候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者
 
-Presidential candidate； 总统候选人
+##### Presidential candidate； 总统候选人
 
 ---
 
@@ -85,4 +85,4 @@ Presidential candidate； 总统候选人
 
 > 文中不是 拷贝的意思，而是  指 书本 发行的 **册，本** 的意思
 
-Rich Dad Poor Dad has become the number one personal finance book in history, with sales of the Rich Dad series of books estimated at nearly 40 million **copies** worldwide.
+##### Rich Dad Poor Dad has become the number one personal finance book in history, with sales of the Rich Dad series of books estimated at nearly 40 million **<u>copies</u>** worldwide.

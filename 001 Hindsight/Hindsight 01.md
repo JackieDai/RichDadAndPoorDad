@@ -48,7 +48,7 @@
 >
 > v.绘制；记录，跟踪；制定（行动计划）；进榜，上榜
 
-It was an immediate **commerical** and **critical** success, **spending** 27 weeks at the top of the **albums** **chart** in the UK and 15 weeks at number one in the USA.
+##### It was an immediate **commerical** and **critical** success, **spending** 27 weeks at the top of the **albums** **chart** in the UK and 15 weeks at number one in the USA.
 
 ---
 
@@ -61,7 +61,7 @@ It was an immediate **commerical** and **critical** success, **spending** 27 wee
 > She is good at singing as well as dancing.
 > 她不仅擅长唱歌，还擅长跳舞。
 
-It won four Grammy Awards in 1968 **as well as** Album of the Year -- the first rock album ever to receive that honor.
+##### It won four Grammy Awards in 1968 **as well as** Album of the Year -- the first rock album ever to receive that honor.
 
 ---
 
@@ -78,7 +78,7 @@ It won four Grammy Awards in 1968 **as well as** Album of the Year -- the first 
 >
 >文中指 **便条 纸条**的 意思
 
-A few rejection **slips** offered comments like "You do not know what you are talking about".
+##### A few rejection **slips** offered comments like "You do not know what you are talking about".
 
 ---
 
@@ -108,8 +108,8 @@ A few rejection **slips** offered comments like "You do not know what you are ta
 >
 > 来自 predict  v.预言，预计，预卜。【pre: 前，预先； dict表示说】
 
-Twenty years later, millions of people around the world are more **aware of** my rich dad’s warnings and his lessons about the future. With 20/20 hindsight, many have said that his lessons were **prophetic**… **predictions** come true. 
+##### Twenty years later, millions of people around the world are more **aware of** my rich dad’s warnings and his lessons about the future. With 20/20 hindsight, many have said that his lessons were **prophetic**… **predictions** come true. 
 
 ---
 
-## 
+#
