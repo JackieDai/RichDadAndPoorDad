@@ -1,7 +1,11 @@
 [TOC]
 
-## backfire
+## backfire on
 
+> **事与愿违； 对...产生事与愿违的后果**
+>
+> ---
+>
 > **/ˌbækˈfaɪər/**
 >
 > > NOTE: back + fire == 回 + 火 ==》 反噬
@@ -12,7 +16,7 @@
 >
 > n.（车辆或发动机的）回火；<北美>（为形成防火隔离带而有意点燃的）迎面火
 
-##### “That is why I believe that the idea of “take-from-the-rich” **<u>backfired</u>** on the very people who voted it in.”
+##### That is why I believe that the idea of “take-from-the-rich” **<u>backfired</u>** on the very people who voted it in.
 
 ## comply
 
@@ -46,7 +50,7 @@
 >
 > v.说服，劝服；使相信，使信服；（情形，事件）驱使，敦促
 >
-> persuade sb to do sth 劝说劝说某人做某事说服某人干某事说服某人做某事
+> **persuade sb to do sth** 劝说劝说某人做某事说服某人干某事说服某人做某事
 
 ## loophole
 
@@ -84,9 +88,9 @@
 >
 > v.刺激，（尤指）不断地数落；用针穿刺（某物），像针一样地刺（某物）；用针缝；缝纫，做针线
 
-##### “let <u>the government’s **needles**</u> enter their arm and allow the blood donation to begin.”
+##### “let <u>the government’s **needles**</u> enter their arm and allow <u>the blood donation</u> to begin.”
 
-“让政府的注射针进入他们的手臂，允许献血活动开始。”
+“让政府的注射针进入他们的手臂，允许献血开始。”
 
 ## intimidation🚩
 
@@ -102,7 +106,7 @@
 >
 > adj.令人紧张不安的， 令人胆怯的
 
-<u>“But the price of working from January to May is a high price to pay for that **intimidation**.”</u>
+##### “But the price of working from January to May is a high price to pay for that **intimidation**.”
 
 ## fight back
 
@@ -112,7 +116,7 @@
 
 ## as opposed to...🚩
 
-> 与……相对比：用于表示与某事物相对立或相对比的另一事物。
+> **与……相对比**：用于表示与某事物相对立或相对比的另一事物。
 >
 > ---
 >
@@ -122,5 +126,5 @@
 >
 > 词根词缀： op-对面 + -pos-放置 + -e → 置于相反位置或立场
 
-##### “The first lesson of having money work for you, <u>**as opposed to** you working for money</u>, is all about power. ”
+##### The first lesson of having money work for you, <u>**as opposed to** you working for money</u>, is all about power.
 

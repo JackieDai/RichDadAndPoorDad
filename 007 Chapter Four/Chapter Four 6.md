@@ -48,13 +48,13 @@
 >
 > v.（裤袜等）抽丝
 
-##### “He **<u>spoke of</u>** the **<u>virtues</u>** of “**<u>working your way up</u>** the corporate **ladder**.”  
+##### “He **<u>spoke of</u>** the **<u>virtues</u>** of <u>“working your way up the corporate **ladder**.”</u> 
 
 "他谈论了『通过职业阶梯逐步晋升』的优点。"
 
 > working your way up
 >
-> 提升职位地位：在所在的组织中努力提升自己的职位地位。
+>  "不断努力提升"、"逐步晋升" 或 "一步步进取"
 
 ## docile
 
@@ -106,9 +106,11 @@
 
 > 保持... 的存在
 
-##### “It was **<u>merely</u>** the occasional reminder of my rich dad that **<u>kept</u>** the idea of owning my own corporation **<u>alive</u>** and kept me on a different path.”
+##### “It was **<u>merely</u>** <u>the occasional reminder of</u> my rich dad that **<u>kept</u>** the idea of owning my own corporation **<u>alive</u>** and kept me on a different path.”
 
 > It was **merely** the occasional reminder of my rich dad  [仅仅是偶尔想起我的富爸爸]
+>
+> the occasional reminder of ...	 偶然想起...
 
 
 

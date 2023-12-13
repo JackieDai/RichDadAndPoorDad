@@ -55,7 +55,8 @@
 ##### It seemed to me that the socialists ultimately <u>**penalized** themselves</u> due to their lack of financial education.
 
 > - It seems to me ...; 在我看来...
-> - 
+
+---
 
 ## outsmart
 
@@ -104,9 +105,9 @@
 
 ##### If you fail to spend <u>your **allotted** funds</u>, you **risk** losing it in the next budget.
 
-> **fail to ...**未能做到或未能实现某事。
+> - **fail to ...**未能做到或未能实现某事。
 >
-> 句子中的**risk** 作为动词，表示 **承担... 风险，冒...风险**
+> - 句子中的**risk** 作为动词，表示 **承担... 风险，冒...风险**
 
 ## recognize
 
