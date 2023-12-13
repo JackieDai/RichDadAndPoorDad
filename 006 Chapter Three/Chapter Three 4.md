@@ -171,7 +171,7 @@
 >
 > 总体而言，"distinction" 常常强调在某一方面的卓越差异，而 "difference" 更一般，可以用来描述各种程度和类型的差异。选择使用哪个词通常取决于你想要强调的差异的程度和性质。
 
-##### “An important **distinction** is that rich people buy luxuries last, while the poor and middle class tend to buy luxuries first.”
+##### “<u>An important **distinction**</u> is that rich people buy luxuries last, while the poor and middle class <u>tend to buy luxuries first</u>.”
 
 ---
 

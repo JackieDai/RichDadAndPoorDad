@@ -55,6 +55,8 @@
 
 ##### It took approximately 50 years in both England and the United States to <u>**sell** the idea of</u> <u>a regular income tax</u>(定期所得税).
 
+> It takes sb sometimes to do sth
+
 ---
 
 ## initially
@@ -76,6 +78,10 @@
 > “这些历史日期没有揭示的是，这两种税最初都是针对富人征收的。”
 >
 > 句子中，"against" 的意思是“对付”、“对抗”、**<u>“针对”或“施加在……上”</u>**。具体到这个句子，它表示两项税收最初只对富人征收。
+>
+> > **fail to**
+> >
+> > ​	未能做到或未能实现某事。通常用于描述某人或某事物未能达到预期的目标或标准
 
 ## constitutionally
 
@@ -101,7 +107,7 @@
 >
 > v.蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
 
-##### “in reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
+##### “In reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
 
 > 句子中 the very people, 中的 very 表示 形容词 ，意思是  "正是"、"恰恰是" 或者 "正是那些"。
 

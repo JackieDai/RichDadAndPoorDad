@@ -72,11 +72,23 @@
 >
 > n.舟蛾（=prominent moth）
 >
-> pro-,向前，-min,伸出，词源同eminent,mountain.即突出来的，引申词义显著的，突出的。
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/88c1c574a3a067c9d1c6f3ab04660227.jpg?)
 
-##### “ It was difficult to go to work for one of the biggest capitalists in town and come home to a father who was <u>a **prominent** government leader.</u> ”
+##### “ It was difficult to go to work for one of the biggest capitalists in town and <u>come home to</u> a father who was <u>a **prominent** government leader.</u> ”
+
+> "Come home to" 是一个英语短语，通常用来描述某人结束一天的活动后返回家中，并在那里经历或面对某种情境、状态或人物。这个短语通常用于表达感受、体验或对家庭环境的描述。以下是一些例子：
+>
+> 1. **情感体验：**
+>    - *After a long day at work, it was comforting to come home to a warm and welcoming atmosphere.*
+>
+> 2. **发现或面对某人或某事：**
+>    - *She came home to find a surprise birthday party waiting for her.*
+>    - *He came home to discover that his children had made a mess in the living room.*
+>
+> 3. **面对家庭中的特定情境或成员：**
+>    - *Every evening, he comes home to the joyous chaos of his energetic children.*
+>    - *She came home to a quiet and empty house, as her family was away for the weekend.*
+>
+> 总的来说，"come home to" 强调了某人结束一天的活动后回到家中，并与家庭、环境或特定情境相遇的经历。这个短语常用于描述家庭生活、个人体验或日常情景。
 
 ---
 
@@ -98,7 +110,7 @@
 >
 > n.（企业、组织的）收入，收益；（政府的）税收；税务局，税务署（the revenue）
 
-##### “So the only place for the government to <u>drive tax **revenue**（增加税收）</u> is from the middle class.”
+##### The only place for the government to <u>drive tax **revenue**（增加税收）</u> is from the middle class.
 
 ## emerge
 
@@ -161,7 +173,7 @@
 >
 > 这些例子展示了"passage" 这个词在不同语境中的灵活应用，涵盖了物理空间、文字、时间、运输等多个方面。在理解和使用这个词时，需要根据具体的语境来确定其确切的含义。
 
-##### “<u>**the passage of** taxes</u> was only possible because the masses believed in the Robin Hood theory of economics”
+##### “<u>**the passage of** taxes</u> was <u>only possible</u> because the masses believed in the Robin Hood theory of economics”
 
 ## trickle🚩
 
@@ -175,7 +187,9 @@
 >
 > trickle down 向下渗透
 
-##### “ it kept <u>**trickling down**</u>.”  他持续渗透
+##### “ it kept <u>**trickling down**</u>.” 
+
+他持续渗透
 
 
 
