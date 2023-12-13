@@ -4,7 +4,7 @@
 
 > 文中 作为 动词，表示  **朝某特定方向行进；**
 
-##### “ I was determined not to <u>**head** in the direction</u> (which) most of my classmates were **heading**.”
+##### I was determined not to <u>**head** in the direction</u> (which) most of my classmates were **heading**.
 
 ## not until
 
@@ -34,6 +34,8 @@
 
 > **/ˈflætərɪŋ/**
 >
+> > 文中是指  “受宠若惊”
+>
 > 这个词通常用于描述表扬、赞美或令人感到荣幸的情境。
 >
 > "Flattering" 是一个褒义词，通常用来表示赞美或让人感到荣幸的。当描述某事或某人令人感到受宠若惊、令人愉快时，"flattering" 通常被视为积极的表达。
@@ -46,7 +48,9 @@
 >
 > 词根词缀：flat, 平的。-er, 表反复。引申词义俯伏在地，拜倒，奉承等。
 
-##### “ <u>It was **flattering**</u>, but I could hear my rich dad asking in my ear: “Who are you working for? Who are you making rich?”
+##### <u>It was **flattering**</u>, but I could hear my rich dad asking in my ear: “Who are you working for? Who are you making rich?
+
+这让人感到受宠若惊，但我能听到我富有的父亲在我耳边问道...
 
 ## form🚩
 
@@ -133,5 +137,5 @@
 >
 > v.委托撰写，委托制作；委任，任命……为军官；（使军舰）正式使用，服现役
 
-##### “<u>My **fellow**</u> Xerox salespeople thought I was spending my **commissions**. I wasn’t.”
+##### “<u>My **fellow**</u> Xerox salespeople thought I was spending my **commissions**.”
 

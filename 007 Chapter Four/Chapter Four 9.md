@@ -12,7 +12,9 @@
 >
 > v.登上（火车、轮船或飞机）；让乘客登机（或上船等）；寄宿；（在学校）住校；将（宠物）暂时寄养在他处；用木板覆盖
 
-“By owning your own corporation, your vacations can be **board meetings** in Hawaii.”[“拥有自己的公司，你的假期可以是在夏威夷开董事会会议。”]
+##### By owning your own corporation, your vacations can be **board meetings** in Hawaii.
+
+拥有自己的公司，你的假期可以是在夏威夷开董事会会议。
 
 ## repair
 
@@ -22,7 +24,7 @@
 >
 > n.修理，补救；修补过的地方；维修状态，保养情况；<古> 常去；常去的场所
 
-“Car payments, insurance, **repairs**, and health-club memberships are company expenses.”
+##### Car payments, insurance, **repairs**, and health-club memberships are company expenses.
 
 ## litigious🚩
 
@@ -32,7 +34,11 @@
 >
 > adj.好诉讼的；好争论的
 
-“We live in a **litigious** society”“我们生活在一个爱打官司的社会”
+##### We live in a **litigious** society
+
+“我们生活在一个爱打官司的社会”
+
+---
 
 ## creditor🚩
 
@@ -40,7 +46,7 @@
 >
 > n.债权人，贷方
 
-“the rich **trusts** to **protect** their assets **from** **creditors**”
+##### the rich **trusts** to **protect** their assets **from** **creditors**
 
 >  trust 在句子中表示动词"设立信托" 的意思
 >
@@ -72,7 +78,7 @@
 
 > ... 的层面， 或  ... 的层次
 
-“When someone **sues** a wealthy individual, they are often met with **layers of** legal protection and often find that the wealthy person actually owns nothing. ”
+##### When someone **sues** a wealthy individual, they are often met with **layers of** legal protection and often find that the wealthy person actually owns nothing.
 
 ## legitimate🚩
 
@@ -88,7 +94,7 @@
 >
 > 词源来自 legal
 
-“ you own any kind of legitimate assets”
+##### You own any kind of <u>**legitimate**</u> assets
 
 ## synergy🚩
 
@@ -98,7 +104,7 @@
 >
 > syn-,一起，-erg,工作，做工，词源同 work,allergy.引申词义协同作用。
 
-“Financial IQ is actually the **synergy** of many skills and talents.”
+##### Financial IQ is actually the **synergy** of many skills and talents.
 
 ## aspire🚩
 
@@ -122,5 +128,5 @@
 >
 > adv.充足地；广大地
 
-“If you **aspire** to great wealth, it is the combination of these skills that will greatly **amplify** your financial intelligence.”
+##### If you **aspire** to great wealth, it is the combination of these skills that will greatly **amplify** your financial intelligence.
 

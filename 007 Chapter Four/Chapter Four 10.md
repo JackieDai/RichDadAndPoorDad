@@ -22,7 +22,7 @@
 >
 > n.实体，独立存在体
 
-“As part of your **overall** financial strategy, I recommend that you learn about the protection that legal **entities** can provide for businesses and assets.”
+##### As part of your **overall** financial strategy, I recommend that you learn about the protection that legal **entities** can provide for businesses and assets.
 
 ## sentiment🚩
 
@@ -34,7 +34,7 @@
 >
 > 词根词缀： -sent-感觉 + -i- + -ment名词词尾
 
-“Though the popular **sentiment** is that the rich should pay more in taxes and give to the poor”
+##### Though the popular **sentiment** is that the rich should pay more in taxes and give to the poor.
 
 ## protest🚩
 
@@ -48,7 +48,7 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/ba4fe5a3be2e35afa2ba81131faacafe.jpg?)
 
-“In America—the land where a tax on tea led to the Boston Tea Party **protest**”
+##### In America—the land where a tax on tea <u>led to the Boston Tea Party **protest**</u>
 
 ## seek
 
@@ -58,7 +58,7 @@
 >
 > v.寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）
 
-“They were always **seeking** more grants and budget increases so they could hire more people.”
+##### They were always **seeking** more grants and budget increases so they could hire more people.
 
 ## steep🚩
 
@@ -72,7 +72,7 @@
 >
 > n.<文>悬崖，陡坡；用于浸泡的溶液
 
-“Understanding the legal corporate structure gave the rich a **steep** advantage”
+##### Understanding the legal corporate structure gave the rich a **steep** advantage.
 
 ## consultant🚩
 
@@ -84,7 +84,7 @@
 >
 > 词根词缀： con-共同 + sult走 + -ant名词词尾
 
-“Smart tax **consultants** and attorneys are worth their cost”
+##### Smart tax **consultants** and attorneys are worth their cost.
 
 ## urge
 
@@ -96,7 +96,7 @@
 >
 > > "urge" 强调一种强烈的要求、欲望或劝告，无论是作为动词还是名词，都与强烈的动力或需求有关。
 
-“Robert **urges** those who own legitimate assets to find out more about corporations’ benefits and protections.”
+##### Robert **urges** those who own legitimate assets to find out more about corporations’ benefits and protections.
 
 ## assessment🚩
 
@@ -119,5 +119,5 @@
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/b2fa700f5e605e7d0c6ad6cb1e1261b9.jpg?)
 
-“Do you agree with rich dad’s **assessment** of Robin Hood”
+##### Do you agree with rich dad’s **assessment** of Robin Hood
 

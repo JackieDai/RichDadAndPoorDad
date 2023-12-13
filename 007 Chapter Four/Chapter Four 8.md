@@ -14,7 +14,7 @@
 >
 > v.保护……免受影响（或损害）；印……的校样；校对；<美>加水使（酵母）活化；<美>揉（面团）；<美>（面团）发酵
 
-“The plan was working, and my Porsche was the **proof**.”
+##### The plan was working, and my Porsche was the **proof**.
 
 ## proverbial🚩
 
@@ -30,7 +30,7 @@
 >
 > pro-,向前，-verb,说，词源同verbal.引申词义谚语，格言等。
 
-“By using the lessons I learned from my rich dad, I was able to get out of the **proverbial** Rat Race at an early age. ”
+##### By using the lessons I learned from my rich dad, I was able to get out of the **proverbial** Rat Race at an early age.
 
 ## accuracy
 
@@ -58,7 +58,7 @@
 >
 > n.跌倒，滚落；（数量、价值）暴跌；混乱，杂乱；翻跟头；<非正式>性交；<美，非正式>（表认可、感激或感兴趣的）示好
 
-“The more money you are responsible for, the more **accuracy** is required,  or(否则) the house comes(发生) **tumbling down.** 
+##### The more money you are responsible for, the more **accuracy** is required,  or(否则) the house comes(发生) **tumbling down.** 
 
 > 这里的 or 表示 “否则，不然” 的意思。
 >
@@ -76,7 +76,7 @@
 >
 > 来自 strong,强壮的，有力的，-th,名词后缀。引申诸相关词义。
 
-“Financial literacy is the ability to read and understand financial statements which allows you to identify the **strengths** and weaknesses of any business.”
+##### Financial literacy is the ability to read and understand financial statements which allows you to identify the **strengths** and weaknesses of any business.
 
 ## science
 
@@ -86,7 +86,7 @@
 >
 > 词根词缀： -sci-知 + -ence名词词尾
 
-“Investing is the **science** of “money making money.”
+##### Investing is the **science** of “money making money.
 
 ## wrap around🚩
 
@@ -100,7 +100,7 @@
 >
 > wrap **/ræp/**
 >
-> > "wrap" 的用法非常灵活，根据上下文可以表示包装、结束、环绕、总结等不同的概念
+> > "wrap" 的用法非常灵活，根据上下文可以表示**包装、结束、环绕、总结**等不同的概念
 >
 > v.包，裹，包装；用（手臂、指头或腿）围紧，用……绕住；绕……走；完成拍摄，杀青 ；<非正式>使（车辆）撞上（固定物体）；（使文字）换行
 >
@@ -116,7 +116,6 @@
 >
 > v.捐赠，捐助；（为……）做贡献；促成，是……的原因之一；撰稿，投稿；发表意见，提议
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/52a1175f720e28fb59726181044008ac.jpg?)
 
 ## explosive growth
 
@@ -132,7 +131,7 @@
 >
 > n.炸药，爆炸物
 
-“A corporation <u>(that) **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
+##### “A corporation <u>(that) **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
 
 ## sole🚩
 
@@ -152,7 +151,9 @@
 >
 > n.业主；所有者；经营者
 
-“a small-business **sole** **proprietor**.”["小企业的独资经营者。"]
+##### a small-business **sole** **proprietor**.
+
+小企业的独资经营者。
 
 
 
