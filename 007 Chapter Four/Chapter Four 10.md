@@ -83,6 +83,12 @@
 > ![](https://ydlunacommon-cdn.nosdn.127.net/22dd3d00675613076c2dd701ff3a6304.jpg?)
 >
 > 词根词缀： con-共同 + sult走 + -ant名词词尾
+>
+> ---
+>
+> consult 	**/kənˈsʌlt/**
+>
+> v.咨询，请教；商量，商讨；查询，查阅；当顾问
 
 ##### Smart tax **consultants** and attorneys are worth their cost.
 
@@ -94,7 +100,7 @@
 >
 > n.强烈的欲望，冲动；推动力
 >
-> > "urge" 强调一种强烈的要求、欲望或劝告，无论是作为动词还是名词，都与强烈的动力或需求有关。
+> > "urge" 强调一种	强烈的要求、欲望或劝告，无论是作为动词还是名词，都与强烈的动力或需求有关。
 
 ##### Robert **urges** those who own legitimate assets to find out more about corporations’ benefits and protections.
 

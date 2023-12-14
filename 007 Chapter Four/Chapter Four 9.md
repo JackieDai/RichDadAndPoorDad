@@ -31,6 +31,8 @@
 > **/lɪˈtɪdʒəs/**
 >
 > > "litigious" 这个词强调了与法律有关的争端、纠纷或诉讼的倾向。
+> >
+> > 用来描述某人或某事容易涉及法律纠纷、诉讼的。这个词通常用于负面的语境，表示倾向于通过法律程序解决争端、提起诉讼的性质。
 >
 > adj.好诉讼的；好争论的
 
@@ -48,7 +50,7 @@
 
 ##### the rich **trusts** to **protect** their assets **from** **creditors**
 
->  trust 在句子中表示动词"设立信托" 的意思
+>  trust 在句子中表示"信托" 的意思
 >
 > ---
 >
@@ -79,6 +81,10 @@
 > ... 的层面， 或  ... 的层次
 
 ##### When someone **sues** a wealthy individual, they are often met with **layers of** legal protection and often find that the wealthy person actually owns nothing.
+
+> meet with ...  遇到/ 碰到....
+>
+> layers of legal protection	... 多层次的法律保护
 
 ## legitimate🚩
 

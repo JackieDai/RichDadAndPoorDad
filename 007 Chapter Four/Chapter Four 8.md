@@ -131,7 +131,7 @@
 >
 > n.炸药，爆炸物
 
-##### “A corporation <u>(that) **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
+##### “A corporation <u> **wrapped around** the technical skills of accounting, investing, and markets</u> can **contribute to** **explosive growth**.”
 
 ## sole🚩
 
