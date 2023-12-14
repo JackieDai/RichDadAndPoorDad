@@ -10,7 +10,7 @@
 >
 > n.麻烦，不便；讨厌的人（或事）
 
-“ “Why should I **bother** developing my financial IQ?”
+##### Why should I **bother** developing my financial IQ?
 
 ## bankruptcy
 
@@ -30,11 +30,11 @@
 >
 > n.解雇，下岗；休养，停工期
 
-“ there also will be many more **bankruptcies**, **layoffs**, and downsizings.”
+##### There also will be many more **bankruptcies**, **layoffs**, and downsizings.
 
 ## dreading
 
-> */ˈdredɪŋ/**
+> **/ˈdredɪŋ/**
 >
 > n.装载杂货选择权
 >
@@ -50,7 +50,7 @@
 >
 > adj.令人生畏的，可怕的；恼火的，生气的
 
-“I’d rather be welcoming change than **dreading** change.”
+##### I’d rather be welcoming change than **dreading** change.
 
 ## unprecedent
 
@@ -72,7 +72,7 @@
 >
 > 词根词缀： pre-前,先 + -ced-行走 + -ent名词词尾
 
-“This period we are in now is a most exciting time, **unprecedented** in our world’s history.”
+##### This period we are in now is a most exciting time, **unprecedented** in our world’s history.
 
 ## remark
 
@@ -88,7 +88,9 @@
 >
 > n.时代，年代，纪元
 
-<u>Generations from now(数代之后)</u>, people will look back at this period of time and **remark** at what an exciting **era** it must have been.
+Generations from now, people will look back at this period of time and **remark** at what an exciting **era** it must have been.
+
+> Generations from now  : 数代之后
 
 ## prosper
 
@@ -96,14 +98,16 @@
 >
 > v.繁荣，成功；蓬勃发展，健康成长；<古>使成功，使兴旺
 >
+> pro-,向前，-sper,希望，兴旺，
+>
 > > "prosper" 常用于描述事物的繁荣和成功，可以涵盖个人、企业、国家等范围。
 
-“Because if you do, you will **prosper** greatly. ”
+##### Because if you do, you will **prosper** greatly.
 
 ## worn-out
 
 > adj.磨破的；穿旧的；不能再用的
 
-“It will be a time of watching some people move boldly forward while others cling to worn-out <u>life preservers.(救生圈)</u>”
+##### It will be a time of watching some people move boldly forward while others cling to worn-out <u>life preservers.(救生圈)</u>
 
-> "这将是一个有些人勇往直前的时刻，而另一些人则紧紧抓住破旧的救生圈不放。"
+> 这将是一个有些人勇往直前的时刻，而另一些人则紧紧抓住破旧的救生圈不放

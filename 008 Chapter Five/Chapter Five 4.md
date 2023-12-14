@@ -20,7 +20,7 @@
 > >
 > > n.显性（性状），显性基因
 
-“America rose to dominance.”
+##### America **rose to dominance**.
 
 > 这里的 rose 是 “rise” 的过去式
 
@@ -32,7 +32,7 @@ China rise to **dominance**
 >
 > adj.巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
 
-“The changes will be faster and more **dramatic**. ”
+##### The changes will be faster and more **dramatic**.
 
 ## divorce
 
@@ -62,7 +62,7 @@ China rise to **dominance**
 >
 > n.（解决争端的）协议，和解；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷；（按照协议规定收到的）金额；定居行动；结算，清账；解决，处理；<美>部落，村落
 
-“This friend of a friend was recently **divorced**, had been badly **burned** in the divorce **settlement**, and was now searching for some answers. ”
+##### This friend of a friend was recently **divorced**, had been badly **burned** in the divorce **settlement**, and was now searching for some answers.
 
 ## strive to
 
@@ -78,9 +78,11 @@ China rise to **dominance**
 
 > **/ɪkˈsiːd/**
 >
-> v.超过，超出；超越（限制）；优于，胜过
+> v.**超过**，**超出**；超越（限制）；优于，胜过
 
-“They learn how cash flows between the two and how the road to wealth is through **striving to** increase your monthly cash flow from the asset column to the point that it **exceed**s your monthly expenses. ”
+How the road to wealth is through **striving to** increase your monthly cash flow from the asset column <u>to the point</u> that it **exceeds** your monthly expenses. 
+
+> "to the point" 表示达到某个程度或水平
 
 ## track
 
@@ -128,7 +130,9 @@ China rise to **dominance**
 
 ---
 
-the Fast Track 【快速通道】
+##### the Fast **<u>Track</u>** 
+
+【快速通道】
 
 ## draw
 
@@ -144,6 +148,8 @@ the Fast Track 【快速通道】
 >
 > > "Doodad" 是一个口语化的词汇，通常用来指代不知名或不确定的物品、小装饰品、或零碎物件。这个词通常用于非正式的对话中，用来描述那些不具体或难以命名的东西。
 
-“In the opening round, she **drew** a “**doodad**” card with the boat on it. ”[在开局回合，她抽到了一张印有小玩意儿和船的卡片。]
+##### In the opening round, she **drew** a “**doodad**” card with the boat on it.
+
+[在开局回合，她抽到了一张印有小玩意儿和船的卡片。]
 
 > round: 在这里 表示 回合

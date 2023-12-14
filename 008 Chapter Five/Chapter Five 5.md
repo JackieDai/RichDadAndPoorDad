@@ -8,7 +8,9 @@
 >
 > n.坚决的要求；需求，需求量；（困难的）要求
 
-“With that suggestion, the woman **demanded** her money back.”有了那个建议，这位女士要求退还她的钱。
+##### With that suggestion, the woman **demanded** her money back.
+
+有了那个建议，这位女士要求退还她的钱。
 
 ## promptly
 
@@ -36,7 +38,7 @@
 >
 > v.退还（钱款）；退款给，还钱给（某人）
 
-“Her money was **promptly** **refunded**, and she left.”
+##### Her money was **promptly** **refunded**, and she left.
 
 ## drift
 
@@ -46,7 +48,9 @@
 >
 > n.流动，趋势；吹积物，雪堆；主旨，大意；偏航；不作为，优柔寡断；丛生的植物；冰碛；水平巷道
 
-“my mind would drift.” 【我的思绪会漂移】
+##### my mind would **<u>drift</u>**.
+
+【我的思绪会漂移】
 
 ---
 
@@ -58,7 +62,7 @@
 >
 > prep.经由，经过（某一地方）；通过，借助于（某种手段或人）
 
-“ I began teaching **via** games and simulations”
+##### I began teaching **via** games and simulations.
 
 ## cooling-off
 
@@ -76,7 +80,9 @@
 >
 > n.冒犯，冷落
 
-“ In her **cooling-off** period, she could see some **slight** relationship between the game and her life”[“在她冷静下来的时候，她看到了游戏和她的生活之间的一些微妙的联系。”]
+##### <u>In her **cooling-off** period</u>, she could see some **slight** relationship between the game and her life
+
+[“在她冷静下来的时候，她看到了游戏和她的生活之间的一些微妙的联系。”]
 
 ## run off with 
 
@@ -90,7 +96,7 @@
 >
 > 总的来说，"run off with" 表示离开某地并带走了某人或某物。
 
-“She was angry after their divorce, both because he had **run off with** a younger woman”
+##### She was angry after their divorce, both because he had <u>**run off with** a younger woman.</u>
 
 ---
 
@@ -98,7 +104,7 @@
 
 > 妨碍，**关于...的方面**
 
-“they had accumulated little **in the way of** assets. ”
+##### They had accumulated little **in the way of** assets.
 
 “他们在资产方面积累得很少。”
 
@@ -110,4 +116,4 @@
 >
 > adj.不可思议的，难以置信的；惊人的，极大的，极多的；了不起的，极好的
 
-“Their 20 years of married life had been **incredible** fun”
+##### Their 20 years of married life had been **incredible** fun

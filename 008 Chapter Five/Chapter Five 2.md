@@ -18,13 +18,13 @@
 >
 > 这种结构有助于在表达中突出一个因素，使读者或听众更加关注或理解说话者的重点。
 
-“ **It is not so much** the lack of technical information that holds us back, **but** more the lack of self-confidence. ”
+“ **<u>It is not so much</u>** the lack of technical information that <u>holds us back</u>, **<u>but</u>** more the lack of self-confidence. ”
 
 ## more than just
 
 > 不仅仅是：表示某事物不只具有某种特点或功能，还具有其他特点或功能。
 
-“In the real world outside of academics, something more than just grades is required. ”
+##### In the real world outside of academics, something **more than just** grades is required.
 
 ## daring
 
@@ -44,7 +44,9 @@
 >
 > n.挑战，激将
 
-“Inside each of us is one of these brave, brilliant, and **daring** characters.”
+##### Inside each of us is one of these brave, brilliant, and **daring** characters.
+
+> daring characters 冒险的性格
 
 ## flip side
 
@@ -66,7 +68,7 @@
 >
 > int.<非正式>讨厌（表示轻微厌恶）
 
-“There is also the **flip** **side** of that character”
+##### There is also <u>the **flip** **side** of</u> that character.
 
 ## pilot
 
@@ -94,13 +96,19 @@
 >
 > n.密友，知己
 
-“After a year in Vietnam(越南) as a <u>Marine Corps(海军陆战队)</u> **pilot**, I got to know both of those characters inside of me **intimately**.”
+After a year in Vietnam(越南) as a <u>Marine Corps(海军陆战队)</u> **pilot**, I got to know both of those characters inside of me **intimately**.
+
+> 在越南作为一名海军陆战队飞行员度过一年之后，我更加深刻地了解了我内心的这两个角色。
+>
+> > 文中 **intimately** 是指 <u>深入、密切地了解</u>
 
 ## detractor
 
 > **/dɪˈtræktər/**
 >
 > n.贬低者；诽谤者
+>
+> "Detractor" 的主要意思是指一个表示<u>负面意见或反对态度的人</u>，通常指的是对某人、某事物或某观点持批评态度的人
 >
 > ---
 >
@@ -112,7 +120,9 @@
 >
 > de-, 向下。-tract,拉，词源同attract, contract. 即向下拉，贬低。
 
-“ I recognized that it was excessive fear and self-doubt that were the greatest **detractors** of personal genius.”
+I recognized that it was excessive fear and self-doubt that were the greatest **detractors** of personal genius.
+
+> 我意识到，过度的恐惧和怀疑，是个人天赋最大的负面因素
 
 ## bold
 
@@ -122,7 +132,7 @@
 >
 > n.黑体，粗体
 
-“Often in the real world, it’s not the smart who get ahead, but the **bold**.”
+##### Often in the real world, <u>it’s not</u> the smart who get ahead, <u>but</u> the **bold**.
 
 ## suppress
 
@@ -134,7 +144,7 @@
 >
 > 词根词缀： sup-下 + -press-压 → 压在下面
 
-“If fear is too strong, the genius is **suppressed**.”
+##### If fear is too strong, the genius is **suppressed**.
 
 ## convert ... into...
 
@@ -152,5 +162,5 @@
 >
 > n.皈依宗教者，改变信仰者；刚迷上……的人，最近开始热衷于……的人
 
-“In my classes, I strongly urge students to learn to take risks, to be bold, and to let their genius **convert** that fear into power and brilliance. ”
+##### In my classes, I strongly urge students to learn to take risks, to be bold, and to let their genius <u>**convert** that fear **into** power and brilliance</u>.
 

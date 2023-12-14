@@ -8,7 +8,7 @@
 >
 > 我需要停下工作，去散步放松一下。
 
-“Last night, I **took a break from** writing”
+##### “Last night, I **took a break from** writing”
 
 ## patent
 
@@ -22,7 +22,7 @@
 >
 > v.获得……的专利权；授予专利
 
-“Bell had just **patented** his telephone”
+##### “Bell had just **patented** his telephone”
 
 ## scoff at
 
@@ -36,7 +36,7 @@
 >
 > n.嘲笑，嘲笑的话；笑料，笑柄；食物，口粮
 
-“ The president of Western Union **scoffed at** him and turned him down, saying the price was ridiculous.”
+##### The president of Western Union **scoffed at** him and turned him down, saying the price was ridiculous.
 
 ---
 
@@ -48,7 +48,7 @@
 >
 > 我完成工作后会立刻给你打电话。
 
-“The evening news came on **right after** the story of Alexander Graham Bell.”
+##### The evening news came on **right after** the story of Alexander Graham Bell.
 
 ---
 
@@ -66,7 +66,7 @@
 >
 > 在这些例句中，"have" 表示持有、携带或包含某物的意义。这种用法强调拥有或携带的状态。
 
-“A terminated manager of about 45 years of age **had(携带)** his wife and two babies at the plant and was begging the guards to let him talk to the owners to ask if they would reconsider his termination.”
+A terminated manager of about 45 years of age **had(携带)** his wife and two babies at the plant and was begging the guards to let him talk to the owners to ask if they would reconsider his termination.
 
 ## rewarding
 
@@ -74,7 +74,7 @@
 >
 > v.酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得（reward 的现在分词形式）
 
-“ It has been a great experience and a **rewarding** one. ”
+##### It has been a great experience and a **rewarding** one.
 
 这是一次很好且有意义的经历
 
@@ -94,7 +94,7 @@
 >
 > 词根词缀： dis-加强意义 + -turb-混乱,骚扰
 
-“It is also a **disturbing** profession”
+##### It is also a **disturbing** profession.
 
 ## potential
 
@@ -130,7 +130,7 @@
 >
 > v.赠送；（无意中）让（对手）获得
 
-“We all have tremendous **potential**, and we all **are blessed** with **gifts**.”
+##### We all have tremendous **potential**, and we all **are blessed** with **gifts**.
 
 ## hold back
 
@@ -148,5 +148,5 @@
 >
 > n.度，度数（温度单位）；（角的）度，度数；学位课程，学位；程度；音级；次，次数；（形容词或副词的）级；共济会职务；<旧>社会地位，官衔
 
-“Yet the one thing that **holds** all of us **back** is **some degree of** self-doubt.”
+##### Yet the one thing that <u>**holds** all of us **back**</u> is **some degree of** self-doubt.
 

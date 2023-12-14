@@ -16,13 +16,13 @@
 >
 > n.娱乐，娱乐表演；招待，款待
 
-“ She maintained the house and did the **entertaining** ”
+##### She maintained the house and did the **entertaining**
 
 ---
 
 ## tune in
 
-> "tune in" 是一个习惯用语，意思是“专注”"收听"或“留意”。
+> "tune in" 是一个习惯用语，意思是**“专注”"收听"或“留意”**。
 >
 > ---
 >
@@ -32,7 +32,7 @@
 >
 > v.（给乐器）调音，校音；（给收音机、电视等）调谐，调频道；调整，调节（发动机）；调整，使适合；<非正式>告诉
 
-“We could learn a lot if we **tuned in** more. ”
+##### We could learn a lot if we **tuned in** more.
 
 ---
 
@@ -62,7 +62,7 @@
 >
 > v.气喘，喘息；喘着气说；渴望（pant 的第三人称单数形式）
 
-“the cleaners must have **shrunk** my **pants**. ”
+##### The cleaners must have **shrunk** my **pants**.
 
 ---
 
@@ -104,7 +104,7 @@
 >
 > v.忍受，承受；吃得下
 
-“My wife gently smiled and **poked** me in the **stomach** to inform me that the pants had not shrunk. Something else had expanded—me!”
+##### My wife gently smiled and **poked** me in the **stomach** to inform me that the pants had not shrunk. Something else had expanded—me!
 
 ---
 
@@ -118,7 +118,9 @@
 >
 > > "Throughout" 通常用于强调在整个范围或时间内的连续性、一致性或持续性。
 
-“Thousands of people throughout the world have played this game. ” 【"世界各地数以千计的人玩过这个游戏。"】
+##### “Thousands of people **throughout** the world have played this game. ” 
+
+【"世界各地数以千计的人玩过这个游戏。"】
 
 ---
 
@@ -148,5 +150,6 @@
 >
 > > senior,年长的，高级的，-ity,表性质。
 
-“The problem was that he couldn’t find an **equivalent** job that <u>**recognized** his **seniority**（认可他的资历）</u> from the old company.”
+##### The problem was that he couldn’t find an **equivalent** job that <u>**recognized** his **seniority**（认可他的资历）</u> from the old company.
 
+##### 
