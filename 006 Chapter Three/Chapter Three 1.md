@@ -113,27 +113,29 @@
 
 >**/spɑːt/**
 >
+>> 文中是指  **“排名位置”** 的意思
+>
 >1. **地点或位置：**
->  - *What's your favorite vacation spot?*（你最喜欢的度假地点是哪里？）
->  - *I found a nice picnic spot in the park.*（我在公园找到了一个不错的野餐地点。）
+> - *What's your favorite vacation spot?*（你最喜欢的度假地点是哪里？）
+> - *I found a nice picnic spot in the park.*（我在公园找到了一个不错的野餐地点。）
 >
 >2. **斑点或污点：**
->  - *There's a spot on your shirt; you might want to wash it.*（你衬衫上有一个污点，你可能要洗一下。）
->  - *The dog has a white spot on its tail.*（狗尾巴上有一个白斑。）
+> - *There's a spot on your shirt; you might want to wash it.*（你衬衫上有一个污点，你可能要洗一下。）
+> - *The dog has a white spot on its tail.*（狗尾巴上有一个白斑。）
 >
 >3. **机会或时机：**
->  - *This is the perfect spot to ask for a raise.*（这是请求加薪的绝佳时机。）
->  - *I saw a spot for a part-time job at the community center.*（我在社区中心看到了一个兼职工作的机会。）
+> - *This is the perfect spot to ask for a raise.*（这是请求加薪的绝佳时机。）
+> - *I saw a spot for a part-time job at the community center.*（我在社区中心看到了一个兼职工作的机会。）
 >
 >4. **注意到或发现：**
->  - *Did you spot the mistake in the document?*（你发现文件中的错误了吗？）
->  - *I spotted her in the crowd.*（我在人群中发现了她。）
+> - *Did you spot the mistake in the document?*（你发现文件中的错误了吗？）
+> - *I spotted her in the crowd.*（我在人群中发现了她。）
 >
 >5. **电视广告：**
->  - *They aired a new spot for their upcoming product.*（他们播放了一则关于即将推出的产品的新电视广告。）
+> - *They aired a new spot for their upcoming product.*（他们播放了一则关于即将推出的产品的新电视广告。）
 >
 >6. **光斑或光点：**
->  - *The sun created spots of light on the water.*（太阳在水面上形成了光斑。）
+> - *The sun created spots of light on the water.*（太阳在水面上形成了光斑。）
 >
 >这些只是 "spot" 的一些用法，具体用法会根据语境而有所变化。
 >
@@ -142,13 +144,13 @@
 >在表示地点或场所的意义上，"spot" 和 "site" 可以有一定的重叠，但它们在语境中的使用略有不同。
 >
 >1. **Spot:**
->   - "Spot" 可以用来指代任何地方，通常强调的是一个相对较小或特定的区域。例如："Let's meet at our usual spot."（让我们在我们惯常的地方见面。）
+>  - "Spot" 可以用来指代任何地方，通常强调的是一个相对较小或特定的区域。例如："Let's meet at our usual spot."（让我们在我们惯常的地方见面。）
 >
 >2. **Site:**
->   - "Site" 通常更正式，用于指代一个特定的、有组织的地点，可能是一个工地、考古现场、建筑工程现场或网站等。例如："The construction site is where the new building will be erected."（建筑工地是新建筑将被建造的地方。）
+>  - "Site" 通常更正式，用于指代一个特定的、有组织的地点，可能是一个工地、考古现场、建筑工程现场或网站等。例如："The construction site is where the new building will be erected."（建筑工地是新建筑将被建造的地方。）
 >
 >虽然在某些情况下它们可以互换，但通常 "site" 更倾向于描述一个相对较大、有组织的地点，而 "spot" 可以指代更随意或不那么正式的地方。在特定的语境中，选择使用哪个词可能会更符合语境的要求。
 
-##### “McDonald’s, 7-Eleven, and KFC <u>retain their **spots**(场所)</u> as the three largest franchised brands.”
+##### “McDonald’s, 7-Eleven, and KFC <u>retain their **spots**(排名位置)</u> as the three largest franchised brands.”
 
 ---

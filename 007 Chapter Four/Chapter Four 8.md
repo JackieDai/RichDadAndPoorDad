@@ -30,7 +30,7 @@
 >
 > pro-,向前，-verb,说，词源同verbal.引申词义谚语，格言等。
 
-##### By using the lessons I learned from my rich dad, I was able to get out of the **proverbial** Rat Race at an early age.
+##### I was able to get out of the **proverbial** Rat Race at an early age.
 
 ## accuracy
 
