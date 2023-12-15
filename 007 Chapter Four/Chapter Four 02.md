@@ -41,7 +41,7 @@
 >
 > n.革命者，革命家
 
-##### “ It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **<u>incident</u>** that helped <u>**ignite** the **Revolutionary** War.</u> ”
+##### It had been the tax on tea that led to the famous Tea Party in Boston Harbor, an **<u>incident</u>** that helped <u>**ignite** the **Revolutionary** War.</u>
 
 > Tea Party in Boston Harbor : 波士顿港的茶党事件.
 >
@@ -53,7 +53,7 @@
 
 > 文中是 **推销，推广**的意思
 
-##### It took approximately 50 years in both England and the United States to <u>**sell** the idea of</u> <u>a regular income tax</u>(定期所得税).
+##### <u>It took</u> approximately 50 years in both England and the United States to <u>**sell** the idea of</u> <u>a regular income tax</u>(定期所得税).
 
 > It takes sb sometimes to do sth
 
@@ -73,7 +73,7 @@
 >
 > 政府决定对该公司未缴纳的税款进行征收。
 
-##### “What these historical dates <u>fail to **reveal**</u> is that both of these taxes were <u>**initially** **levied against** only the rich.</u> ”
+##### What these historical dates <u>fail to **reveal**</u> is that both of these taxes were <u>**initially** **levied against** only the rich.</u>
 
 > “这些历史日期没有揭示的是，这两种税最初都是针对富人征收的。”
 >
@@ -107,9 +107,9 @@
 >
 > v.蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
 
-##### “In reality it **wound up** punishing the very people who voted for it, the poor and middle class.”
+##### In reality it **wound up** punishing the very people who voted for it, the poor and middle class.
 
-> 句子中 the very people, 中的 very 表示 形容词 ，意思是  "正是"、"恰恰是" 或者 "正是那些"。
+> 句子中 the very people, 中的 **very 表示 形容词** ，意思是  **"正是"、"恰恰是" 或者 "正是那些"**。
 
 ---
 
@@ -121,7 +121,7 @@
 >
 > 通常用来指食欲，但它也可以在其他方面表示对某种事物的渴望或欲望。
 
-##### “Once government got a taste of money, <u>its **appetite** grew</u>”
+##### Once government got a taste of money, <u>its **appetite** grew</u>
 
 ## bureaucrat🚩
 
@@ -129,5 +129,5 @@
 >
 > n.官僚，官僚主义者, 官职，当官的人
 
-##### “ He’s <u>a government **bureaucrat**</u>, and I am a capitalist.”
+##### He’s <u>a government **bureaucrat**</u>, and I am a capitalist.
 

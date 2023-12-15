@@ -22,7 +22,7 @@
 >
 > robbed
 
-##### “My teacher thought it was a wonderful story of a romantic hero who <u>**robbed** from the rich and gave to the poor.</u>”
+##### My teacher thought it was a wonderful story of a romantic hero who <u>**robbed** from the rich and gave to the poor.</u>
 
 ---
 
@@ -38,7 +38,7 @@
 >
 > "Fantasy" 这个词通常与想象力、虚构、奇幻故事等相关，可以用来描述包括文学、艺术、电影等多种领域中的非现实或虚构的元素。
 
-##### “<u>It is this Robin Hood **fantasy**</u>, or taking from the rich to give to the poor, that has caused the most pain for the poor and the middle class. ”
+##### <u>It is this Robin Hood **fantasy**</u>, or taking from the rich to give to the poor, that has caused the most pain for the poor and the middle class.
 
 ---
 
@@ -50,7 +50,7 @@
 >
 > v.（尤指用手工）制作，使成形；塑造
 
-##### “Although my highly educated dad was an expert on the history of education, my <u>rich dad **fashioned** himself as an expert</u> on the history of taxes.”
+##### Although my highly educated dad was an expert on the history of education, my <u>rich dad **fashioned** himself as an expert</u> on the history of taxes.
 
 ---
 
@@ -66,7 +66,7 @@
 >
 > "levy" 作为动词通常表示征收或提出，而作为名词表示征税、费用、军队的征兵人数等。
 
-##### “Occasionally, <u>there were temporary taxes **levied**</u> in order to pay for wars. ”
+##### Occasionally, <u>there were temporary taxes **levied**</u> in order to pay for wars.
 
 ---
 
@@ -165,6 +165,6 @@
 >
 > 词根词缀： con-共同 + -stitut-创建,建立 + -ion名词词尾
 
-##### “In 1913, <u>an income tax became permanent</u> in the United States with **<u>the adoption of</u>** the 16th **Amendment** to the U.S. **Constitution**.”
+##### In 1913, <u>an income tax became permanent</u> in the United States with **<u>the adoption of</u>** the 16th **Amendment** to the U.S. **Constitution**.
 
 "1913年，随着美国通过第16条宪法修正案，**所得税变得永久化**。"

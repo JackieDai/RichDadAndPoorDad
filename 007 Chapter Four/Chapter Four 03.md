@@ -28,7 +28,7 @@
 >
 > adj.衷心的，诚挚的；（人）真诚的，诚恳的
 
-##### “My educated dad <u>**sincerely** believed</u> that government should help people.”
+##### My educated dad <u>**sincerely** believed</u> that government should help people.
 
 ---
 
@@ -54,7 +54,7 @@
 >
 > n.补助金，拨款；（政府给予的）土地；<正式>给予，授予；合法转让
 
-##### “He always **<u>strived for</u>** <u>additional **grants**</u> and <u>budget increases</u>”
+##### He always **<u>strived for</u>** <u>additional **grants**</u> and <u>budget increases</u>
 
 > additional grants --- 额外的资助，拨款
 >
@@ -73,7 +73,7 @@
 > n.舟蛾（=prominent moth）
 >
 
-##### “ It was difficult to go to work for one of the biggest capitalists in town and <u>come home to</u> a father who was <u>a **prominent** government leader.</u> ”
+##### It was difficult to go to work for one of the biggest capitalists in town and <u>come home to</u> a father who was <u>a **prominent** government leader.</u>
 
 > "Come home to" 是一个英语短语，通常用来描述某人结束一天的活动后返回家中，并在那里经历或面对某种情境、状态或人物。这个短语通常用于表达感受、体验或对家庭环境的描述。以下是一些例子：
 >
@@ -98,7 +98,7 @@
 >
 > n.激励，刺激
 
-##### “More and more often we see governments <u>use the tax laws to provide **incentives**</u> to <u>business owners and investors</u> to create jobs and housing.”
+##### <u>More and more often</u> we see governments <u>use the tax laws to provide **incentives**</u> to <u>business owners and investors</u> to create jobs and housing.
 
 > more and more often : 越来越频繁
 
