@@ -14,7 +14,7 @@
 >
 > n.法院；（美）县政府所在地
 
- the **courthouse** steps
+#####  the **courthouse** steps
 
 法院台阶
 
@@ -46,6 +46,8 @@
 
 ##### It was a feeding **frenzy**.
 
+> 这是一个“捕食狂潮”（feeding frenzy）
+>
 > "feeding" 是动词 "feed" 的现在分词形式，表示喂食或供应食物。整个短语 **"feeding frenzy"** 意指一场饥饿动物或人群争相觅食、争抢食物的激烈局面。这个表达常常用于比喻，<u>描述人们或动物在某种资源（不一定是食物）上的极度争夺或竞争</u>。
 
 ## hand over
@@ -100,7 +102,7 @@
 >
 > v.提供庇护，提供保护；躲避，避难；使（某人）免遭（困难，讨厌的事）；**使免交税**
 
-That comes to approximately $19,000 a year in income, much of it **sheltered** through our private corporation.
+##### That comes to approximately $19,000 a year in income, much of it **sheltered** through our private corporation.
 
 这大约相当于每年19,000美元的收入，其中很大一部分通过我们的私人公司避税。
 

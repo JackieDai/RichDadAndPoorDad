@@ -34,7 +34,7 @@
 >
 > 词根词缀： -sent-感觉 + -i- + -ment名词词尾
 
-##### Though the popular **sentiment** is that the rich should pay more in taxes and give to the poor.
+##### Though <u>the popular **sentiment**</u> is that the rich should pay more in taxes and give to the poor.
 
 ## protest🚩
 
@@ -64,7 +64,7 @@
 
 > **/stiːp/**
 >
-> > 文中是指  **大幅度的** ， **"显著的"、"巨大的"**
+> > 文中是指  **大幅度的** 
 >
 > adj.（路、山等）陡峭的；（价格，需求）难以接受的，过高的；（增加或减少）急剧的，**大幅度**的
 >

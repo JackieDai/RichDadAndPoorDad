@@ -30,6 +30,8 @@ China rise to **dominance**
 
 > **/drəˈmætɪk/**
 >
+> > 常用来描述与戏剧性、引人注目、显著或突出相关的事物
+>
 > adj.巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
 
 ##### The changes will be faster and more **dramatic**.
@@ -60,7 +62,7 @@ China rise to **dominance**
 > >
 > > 在文中指的是 **“协议”** 的意思
 >
-> n.（解决争端的）协议，和解；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷；（按照协议规定收到的）金额；定居行动；结算，清账；解决，处理；<美>部落，村落
+> n.（**解决争端的）协议，和解**；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷；（按照协议规定收到的）金额；定居行动；结算，清账；解决，处理；<美>部落，村落
 
 ##### This friend of a friend was recently **divorced**, had been badly **burned** in the divorce **settlement**, and was now searching for some answers.
 
@@ -80,7 +82,7 @@ China rise to **dominance**
 >
 > v.**超过**，**超出**；超越（限制）；优于，胜过
 
-How the road to wealth is through **striving to** increase your monthly cash flow from the asset column <u>to the point</u> that it **exceeds** your monthly expenses. 
+##### How the road to wealth is through **striving to** increase your monthly cash flow from the asset column <u>to the point</u> that it **exceeds** your monthly expenses. 
 
 > "to the point" 表示达到某个程度或水平
 
