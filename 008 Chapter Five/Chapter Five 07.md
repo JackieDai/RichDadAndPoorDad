@@ -38,6 +38,8 @@
 
 ##### What else can you do to get the opportunity to work **in your favor**? 
 
+你还能做什么来让机会更有利于你呢？
+
 ## hunch
 
 > **/hʌntʃ/**
@@ -46,7 +48,7 @@
 >
 > v.弓身，弓背
 
-If your **hunch** is wrong, and <u>what you’ve been counting on</u> doesn’t happen, how can you turn a **lemon** into millions?
+##### If your **hunch** is wrong, and <u>what you’ve been counting on</u> doesn’t happen, how can you turn a **lemon** into millions?
 
 如果你的直觉是错误的，你一直指望的事情没有发生，你如何将一次挫折转变成百万收益？
 
@@ -70,9 +72,11 @@ If your **hunch** is wrong, and <u>what you’ve been counting on</u> doesn’t 
 
 > **/ɪˈnɔːrməs/**
 >
+> > "enormous" 通常用来表示事物的巨大程度，可以用于形容实际的物体、数量、程度或影响。
+>
 > adj.巨大的，极大的；<古>凶暴的，极恶的
 >
-> 词根词缀： e-出,向外 + -norm-正规,常规 + -ous形容词词尾 → 超出常规的
+> 词根词缀： **e-出,向外 + -norm-正规,常规 + -ous形容词词尾** → 超出常规的
 
 ## instantaneously
 
@@ -92,7 +96,7 @@ If your **hunch** is wrong, and <u>what you’ve been counting on</u> doesn’t 
 >
 > 词源	来自instant,立即的。
 
-##### The single most powerful asset we all have is our mind. If it is trained well, it can create <u>**enormous** wealth</u> seemingly **instantaneously**.
+##### The single most powerful asset we all have is our mind. If it is trained well, <u>it can create **enormous** wealth seemingly **instantaneously**.</u>
 
 “我们所有人最强大的资产就是我们的思维。如果经过良好训练，它能够似乎瞬间创造巨额财富。”
 
@@ -110,7 +114,7 @@ If your **hunch** is wrong, and <u>what you’ve been counting on</u> doesn’t 
 >
 > n.指数
 
-In the Information Age, money is increasing **exponentially**.
+##### In the Information Age, money is increasing **exponentially**.
 
 ## a trading pit
 
@@ -134,7 +138,7 @@ In the Information Age, money is increasing **exponentially**.
 >
 > v.（电子装置）发出哔哔声；短暂地打开（机动车的油门）
 
-“It is done via agreement: a hand signal <u>in a trading **pit**</u>, <u>a **blip**</u> on a trader’s screen
+##### It is done via agreement: a hand signal <u>in a trading **pit**</u>, <u>a **blip**</u> on a trader’s screen.
 
 这是通过协议完成的：在交易所中的交易信号，在交易员的屏幕上的信号光点。
 

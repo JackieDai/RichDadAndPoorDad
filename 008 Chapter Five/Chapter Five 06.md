@@ -150,6 +150,4 @@
 >
 > > senior,年长的，高级的，-ity,表性质。
 
-##### The problem was that he couldn’t find an **equivalent** job that <u>**recognized** his **seniority**（认可他的资历）</u> from the old company.
-
-##### 
+##### He couldn’t find an **equivalent** job that <u>**recognized** his **seniority**（认可他的资历）</u> from the old company.

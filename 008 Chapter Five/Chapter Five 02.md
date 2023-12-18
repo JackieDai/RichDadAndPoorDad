@@ -88,15 +88,19 @@
 >
 > ---
 >
-> intimate	**/ˈɪntɪmət/**	
+> 词源是 	<u>intimate</u>	**/ˈɪntɪmət/**	
 >
 > adj.亲密的；个人的，隐私的；温馨的，幽静舒适的；详尽的，精通的；密切的，紧密的；有性关系的，暧昧的
 >
 > v.透露，暗示；宣布，通告
 >
 > n.密友，知己
+>
+> ---
+>
+> 词义重点在于开头的in（在...里），亲密就是你的心里有我，我的心里有你；<u>-tim是最高级后缀，在ultimate（终极的）、optimal（最佳的）等词中都有出现</u>；所以字面义是“在最里面的，在最深处的”。
 
-After a year in Vietnam(越南) as a <u>Marine Corps(海军陆战队)</u> **pilot**, I got to know both of those characters inside of me **intimately**.
+As a **pilot**, I got to know both of those characters inside of me **intimately**.
 
 > 在越南作为一名海军陆战队飞行员度过一年之后，我更加深刻地了解了我内心的这两个角色。
 >
@@ -108,7 +112,7 @@ After a year in Vietnam(越南) as a <u>Marine Corps(海军陆战队)</u> **pilo
 >
 > n.贬低者；诽谤者
 >
-> "Detractor" 的主要意思是指一个表示<u>负面意见或反对态度的人</u>，通常指的是对某人、某事物或某观点持批评态度的人
+> "Detractor" 的主要意思是指一个表示<u>**负面意见或反对态度**的人</u>，通常指的是对某人、某事物或某观点持批评态度的人
 >
 > ---
 >
@@ -120,7 +124,7 @@ After a year in Vietnam(越南) as a <u>Marine Corps(海军陆战队)</u> **pilo
 >
 > de-, 向下。-tract,拉，词源同attract, contract. 即向下拉，贬低。
 
-I recognized that it was excessive fear and self-doubt that were the greatest **detractors** of personal genius.
+It was excessive fear and self-doubt that were the greatest **detractors** of personal genius.
 
 > 我意识到，过度的恐惧和怀疑，是个人天赋最大的负面因素
 
@@ -162,5 +166,5 @@ I recognized that it was excessive fear and self-doubt that were the greatest **
 >
 > n.皈依宗教者，改变信仰者；刚迷上……的人，最近开始热衷于……的人
 
-##### In my classes, I strongly urge students to learn to take risks, to be bold, and to let their genius <u>**convert** that fear **into** power and brilliance</u>.
+##### let their genius <u>**convert** that fear **into** power and brilliance</u>.
 

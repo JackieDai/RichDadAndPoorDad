@@ -64,7 +64,9 @@ China rise to **dominance**
 >
 > n.（**解决争端的）协议，和解**；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷；（按照协议规定收到的）金额；定居行动；结算，清账；解决，处理；<美>部落，村落
 
-##### This friend of a friend was recently **divorced**, had been badly **burned** in the divorce **settlement**, and was now searching for some answers.
+##### A friend was recently **divorced** had been badly **burned** in the divorce **settlement**.
+
+> 在这个句子中，"burn" 的用法是隐喻性的，表示在离婚协议中经历了严重的损害或伤害。这里的 "burn" 指的是在离婚协议中经济、情感或其他方面遭受的严重损害，而不是直接的物理烧伤。这种用法强调了离婚对这位朋友的负面影响。
 
 ## strive to
 
@@ -81,6 +83,8 @@ China rise to **dominance**
 > **/ɪkˈsiːd/**
 >
 > v.**超过**，**超出**；超越（限制）；优于，胜过
+>
+> 词根词缀： ex-出 + -ceed-行走,退让
 
 ##### How the road to wealth is through **striving to** increase your monthly cash flow from the asset column <u>to the point</u> that it **exceeds** your monthly expenses. 
 

@@ -12,6 +12,8 @@
 
 ## patent
 
+> **/ˈpæt(ə)nt/**
+>
 > 前文中，是 名词 表示“专利”的意思
 >
 > 此处 作为 动词 **“获得……的专利权”**
@@ -36,7 +38,7 @@
 >
 > n.嘲笑，嘲笑的话；笑料，笑柄；食物，口粮
 
-##### The president of Western Union **scoffed at** him and turned him down, saying the price was ridiculous.
+##### The president **scoffed at** him and turned him down, saying the price was ridiculous.
 
 ---
 
@@ -48,7 +50,7 @@
 >
 > 我完成工作后会立刻给你打电话。
 
-##### The evening news came on **right after** the story of Alexander Graham Bell.
+##### The evening news came on **<u>right after</u>** the story of Bell.
 
 ---
 
@@ -66,7 +68,7 @@
 >
 > 在这些例句中，"have" 表示持有、携带或包含某物的意义。这种用法强调拥有或携带的状态。
 
-A terminated manager of about 45 years of age **had(携带)** his wife and two babies at the plant and was begging the guards to let him talk to the owners to ask if they would reconsider his termination.
+##### A terminated manager of about 45 years of age **had(携带)** his wife and two babies at the plant.
 
 ## rewarding
 

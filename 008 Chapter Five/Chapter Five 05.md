@@ -7,6 +7,10 @@
 > v.强烈要求；需要，需求
 >
 > n.坚决的要求；需求，需求量；（困难的）要求
+>
+> ---
+>
+> de-, 向下，强调。-mand ,要求，命令，词源同command ,mandate. 即强烈要求。
 
 ##### With that suggestion, the woman **demanded** her money back.
 
@@ -38,7 +42,7 @@
 >
 > v.退还（钱款）；退款给，还钱给（某人）
 
-##### Her money was **promptly** **refunded**, and she left.
+##### Her money was **promptly** **refunded**.
 
 ## drift
 
@@ -86,7 +90,7 @@
 
 ## run off with 
 
-> > 文中是指**“私奔，鞋带某人离开”**的意思
+> > 文中是指**“私奔，偷...东西”**的意思
 >
 > 通常用于描述某人携带或带走某物，尤其是指携带某人离开。这个短语通常用于一些负面或不寻常的情境，例如：
 >
@@ -96,7 +100,7 @@
 >
 > 总的来说，"run off with" 表示离开某地并带走了某人或某物。
 
-##### She was angry after their divorce, both because he had <u>**run off with** a younger woman.</u>
+##### She was angry after their divorce, because he had <u>**run off with** a younger woman.</u>
 
 ---
 
