@@ -7,8 +7,16 @@
 > n.柱子，**支柱**；主心骨，栋梁；（组织、制度、信仰等的）核心，基础；柱状物；纪念柱；煤柱，矿柱
 >
 > v.用柱支撑
+>
+> ---
+>
+> pillar industry 支柱产业；主要工业
 
 ##### The more familiar you become with the four **pillars** of financial intelligence, the easier it becomes.
+
+你对财商的四大支柱越熟悉，就越容易做到。
+
+> be/become familiar with  熟悉
 
 ## spurt
 
@@ -18,7 +26,7 @@
 >
 > n.涌出的液体，喷出的火舌；**短时激增**，迸发
 
-##### <u>Day in and day out</u>, my properties provide cash flow and occasional **spurts** of growth in value.
+##### <u>Day in and day out</u>, my properties provide cash flow and <u>occasional **spurts** of growth in value.</u>
 
 <u>日复一日</u>，我的房产提供现金流，并偶尔出现短时激增的增长。
 
@@ -26,9 +34,29 @@
 
 > **/ˈdʒɪndʒərbred/**
 >
+> > 文中是指 装饰，精致的装饰
+>
 > n.姜饼(一种食物，糖果)；华而不实的装饰
 >
 > adj.（装饰）华而不实的
+>
+> ---
+>
+> ginger + bread
+>
+> ginger	**/ˈdʒɪndʒər/**
+>
+> > n.生姜；姜（产于东南亚，外表似竹）；姜黄色；长着姜黄色头发的人；姜味汽水（ginger ale 的简称）；精神，活力
+> >
+> > v.用姜给……调味；激励，使有生气（ginger sb./sth. up）
+> >
+> > adj.（主要指毛发或动物毛皮）姜黄色的；姜味的
+>
+> bread	**/bred/**
+>
+> n.面包；（通过工作等挣得的）钱财
+>
+> v.在……上撒面包屑
 
 ##### It was a suburb that had little **gingerbread** houses.
 
@@ -49,6 +77,8 @@ The **timber** market was terrible.
 > **/trɪm/**
 >
 > > 文中表示**装饰，点缀**的意思
+> >
+> > trim 可以表示修剪、削减、整理或某物的装饰部分
 >
 > v.修剪，修整；削减，减少；修饰，**点缀（尤指某物的边缘）**；切除，剪掉（不规则或不需要的部分）；调整（船帆）利用风力；使（飞机）配平；调整负载以保持（船，飞机）的平衡；使（身体某一部分）变结实，变瘦；（为个人升迁而在政治上）随大流，见风使舵
 >
@@ -102,6 +132,8 @@ My first **tenant** moved in.
 >
 > sanitize	**/ˈsænɪtaɪz/**
 >
+> > 常用于表示清理、消毒或使某物变得无害。
+>
 > vt.使……无害；给……消毒；对……采取卫生措施
 
 ##### The problem with “secure” investments is that they are often **sanitized**.
@@ -114,7 +146,7 @@ My first **tenant** moved in.
 
 > **/flʌʃ/**
 >
-> > 拟声词，模仿冲洗奔流的声音
+> > 拟声词，模仿冲洗奔流的声音.  文中是指 **富有的，充足的**
 >
 > "Flush" 是一个多义词，可以用作名词、形容词和动词。以下是其主要用法：
 >
@@ -130,11 +162,9 @@ My first **tenant** moved in.
 >    - **冲洗，冲掉：** Flush the toilet after use.（使用后请冲洗马桶。）
 >    - **脸红，激动：** His face flushed with anger.（他愤怒得脸红。）
 >
-> 句子中，**“flush with money**” 使用了 "flush" 的形容词形式，表示手头有大量资金。这是一个常见的表达，表示财务上非常充裕。
+> 句子中，**“flush with money**” 使用了 "flush" 的形容词形式，表示<u>手头有大量资金</u>。这是一个常见的表达，表示财务上非常充裕。
 
-California investors, <u>**flush** with money</u> from their still booming real estate market, were moving north and buying up Oregon and Washington.
-
-身在依然繁荣的加利福尼亚房地产市场中的投资者，纷纷向北移动，购买了俄勒冈和华盛顿的房产。
+##### California investors, <u>**flush** with money</u> from their still booming real estate market, were moving north and buying up Oregon and Washington.
 
 ## tax-deferred
 

@@ -2,7 +2,7 @@
 
 ## in pursuit of
 
-> 寻求，追求
+> **寻求，追求**
 >
 > ---
 >
@@ -64,11 +64,39 @@
 >
 > ---
 >
->  `hesitant`
+> 词根词缀： -hesit-犹豫 + -ate动词词尾
+>
+> ---
+>
+> **hesitant	/ˈhezɪtənt/**
+>
+> adj.犹豫的，不愿的
 
-## comes across as
+##### I **hesitate** using many more examples of personal investments.
+
+我犹豫是否使用更多个人投资的例子
+
+## come across as
 
 > 给人的印象是……；看上去好像是……
+>
+> He comes across as very confident. （他给人的印象是非常自信的。）
+>
+> ---
+>
+> 拓展
+>
+> **come across with**	用于表示提供或交付某物，通常是信息、钱或其他资源
+>
+> He promised to <u>come across with</u> the money by the end of the week. （他承诺在本周末前提供那笔钱。）
+>
+> ---
+>
+> **come across**
+>
+> 1. 提供或提供所需的东西，特别是支付钱款
+> 2. 给人留下印象，表现出某种特质或品质
+> 3. 成功地完成某事
 
 ## bragging
 
@@ -90,7 +118,7 @@
 >
 > adj.<美，非正式>卓越的，一流的
 
-## toot
+## tooting
 
 > **/ˈtuːtɪŋ/**
 >
@@ -114,9 +142,9 @@
 >
 > v.（动物）用角抵撞（或顶撞）；对（丈夫或妻子）不忠诚；装角于
 
-I **hesitate** using many more examples of personal investments because I am afraid it **comes across** as **bragging** or <u>**tooting** my own horn.</u>
+##### I am afraid it **comes across** as **bragging** or <u>**tooting** my own horn.</u>
 
-我犹豫是否使用更多个人投资的例子，因为我担心它留下的印象是炫耀或吹嘘自己。
+我担心它留下的印象是炫耀或吹嘘自己。
 
 > **toot my own horn**	自吹自擂
 
@@ -141,6 +169,12 @@ I **hesitate** using many more examples of personal investments because I am afr
 > adj.按发生时间顺序排列的；（年龄）按时间计算的
 >
 > 词根词缀： -chron-时间 + -o- + -logical…学的
+>
+> ---
+>
+> **chron 	/krɑːn/**
+>
+> abbr. 编年史；记事；把……载入编年史（chrono）；按时间顺序的；按先后顺序的；按时间计算的（chronological）
 
 ##### I use the examples only as numerical and <u>**chronological** illustrations</u> of actual and simple cases.
 

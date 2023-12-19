@@ -151,6 +151,10 @@ The **court** system handles that.
 >
 > adj.（使用或穿戴）符合规定的，正规的；<非正式> 公式化的，用俗套话堆砌而成的
 >
+> ---
+>
+> 词根词缀： -reg-统治,规则 + ul(-ular) + -ation名词词尾
+>
 > ![](https://ydlunacommon-cdn.nosdn.127.net/7029ea83286d651e80548d07978413ee.jpg?)
 
 ##### The law is the awareness of accounting corporate, state and **federal regulations.**
