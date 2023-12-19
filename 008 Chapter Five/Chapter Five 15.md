@@ -12,6 +12,8 @@
 
 > **/əˈsemb(ə)l/**
 >
+> > 文中是指 **“组装”** 的意思
+>
 > v.（使）集合，（使）聚集；装配，组装
 
 ##### This investor usually **assembles** a deal in the same way (that)a person who buys components builds a computer.
@@ -28,7 +30,7 @@
 >
 > ---
 >
-> reside in 存在于居住属于居住在
+> reside in 存在于;居住;属于;居住在
 
 ## tide
 
@@ -38,9 +40,13 @@
 >
 > v.<古>顺潮水漂浮
 
+## go against
+
+> 违背，不同意，反对，对抗：
+
 ##### It is important to learn how to put the pieces together, because that is where the huge wins **reside**, and sometimes some huge losses <u>if the **tide** goes against you.</u>
 
-> if the tide goes against
+> **if the tide goes against you.**
 >
 > 如果形势对你不利
 >
@@ -49,6 +55,8 @@
 ## rundown
 
 > **/ˈrʌndaʊn/**
+>
+> > 在文中，rundown 指 **破旧，老化**，
 >
 > "Rundown" 是一个多义词，可以根据上下文有不同的含义。以下是几种常见的用法：
 >
@@ -110,6 +118,10 @@
 > **/ˈɑːbstək(ə)l/**
 >
 > n.障碍，阻碍；障碍物
+>
+> ---
+>
+> 词根词缀： ob-相反;对面 + -st-站立,放置 + -acle名词词尾
 
 ##### if you can avoid that **obstacle**, you will be millions ahead of those who don’t learn those skills.
 
@@ -132,41 +144,3 @@
 > v.系；（用带子）系紧；把……打结；打（结、蝴蝶结）；束缚；连接；（使）有关联；在……之间置系梁；用连接符连接（音符）；连音演奏；打成平局<u>（tie 的现在分词）</u>
 
 ##### I did what is called **'tying it up,'** with a written contract between seller and buyer.
-
-## raise money
-
-> **集资；筹款；募捐**
->
-> ---
->
-> **raise** **/reɪz/**
->
-> 在下面的句子中，不是作为 "提升，加薪" 之意，而是 **“筹集，募集”** 的意思
-
-## deposit
-
-> **/dɪˈpɑːzɪt/**
->
-> > 文中指"定金" 的意思
->
-> v.放下，放置；储蓄；存放，寄存；沉积，沉淀；支付（押金、订金或预缴费用）
->
-> n.沉积物，沉积层；**订金**；押金；存款；竞选保证金
-
-## bought
-
-> 这里 是 buy 的过去式
->
-> buy. 作为动词除了 除了有 购买的意思， 还有 **（付出代价）获得，赢得**
-
-I then **raised** the $100,000 **deposit**, which **bought** me 90 days to **raise** the rest of the money.
-
-然后，我筹集了10万美元的定金，这为我提供了90天的时间来筹集剩下的资金。
-
-## astronomical
-
-> **/ˌæstrəˈnɑːmɪk(ə)l/**
->
-> adj.天文（学）的，天体的；（数量、价格或收费）**天文数字的，极其巨大的**
-
-##### There is a lot to learn, but the rewards can be **astronomical**.

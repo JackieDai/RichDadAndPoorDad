@@ -14,9 +14,23 @@
 
 > **/ˈbɑːrɡən/**
 >
-> n.便宜货，减价品；协议，交易
+> > 文中是指 **交易** 的意思
+>
+> n.便宜货，减价品；协议，**交易**
 >
 > v.讨价还价，谈判
+>
+> > bargain = bar（酒吧）+gain（获得）→在酒吧里边喝酒边谈生意，这样才能达成交易，还有可能买到便宜货 常见搭配：
+> >
+> > 1. bargain for sth（为某物讨价还价）； 
+> > 2. bargain with sb（与某人讨价还价）；
+> > 3. bargain about sth（就某件事讨价还价）；
+> > 4. bargain goods（特价品）；
+> > 5. bargain price（特价）；
+> > 6. get the best of the bargain（占便宜）；
+> > 7. get the worst of the bargain（吃亏）；
+> > 8. bargain away（贱卖；长时间地讨价还价）；
+> > 9. strike a bargain（成交）
 
 ## overlook
 
@@ -25,12 +39,16 @@
 > v.**忽视，忽略**；（工作、职位、提拔等）不考虑（某人）；（对不良现象等）不予理会，视而不见；眺望，俯瞰；<古>监督；<罕>检查；<古>用邪恶的眼睛施魔法于
 >
 > n.<美> 居高临下的位置，从高处能看到的景色；眺望
+>
+> ---
+>
+> 词根词缀： over-在…上 + look看
 
-Even in New York or Tokyo, or just on the **outskirts** of the city, **prime bargains** are **overlooked** by most people.
+##### **Prime bargains** are **overlooked** by most people.
 
-“即使在纽约或东京，甚至只是在城市郊区，大多数人都忽视了一些优质的交易。”
+“大多数人都忽视了一些优质的交易”
 
-> prime bargains
+> **prime bargains**  优质的交易
 >
 > "Prime"：在这里表示优质的、一流的、最佳的。这指的是交易中的优势或优质部分
 >
@@ -59,7 +77,7 @@ Even in New York or Tokyo, or just on the **outskirts** of the city, **prime bar
 >
 > n.网球
 
-I look at money much like my game of **tennis**.
+##### I look at money much like my game of **tennis**.
 
 ## correct
 
@@ -71,7 +89,7 @@ I look at money much like my game of **tennis**.
 >
 > v.改正，纠正；批改；指出错误；（医疗）矫正
 
-I play hard, make mistakes, **correct**, make more mistakes, correct, and get better.
+##### I play hard, make mistakes, **correct**, make more mistakes, correct, and get better.
 
 ## reach across
 
@@ -107,10 +125,16 @@ If I lose the game, I **reach across** the net, shake my **opponent’s** hand, 
 >
 > adj.零售的
 >
+> > 词根词缀： re-再 + tail分割 → 再分割,化整为零,  词源同 detail
+> >
+> > > detail
+> > >
+> > > de-, 向下，强调。-tail, 切，词源同retail, tailor. 即完全切开的，引申义细节。
+>
 > ---
 >
 > **outlet	/ˈaʊtlet/**
 >
 > n.（情绪或精力的）发泄方式，发泄途径；排出口；**商店，分销点**；廉价经销店；从事大众媒体行业的公司；<美>电源插座
 
-They call a **retail outlet**.
+##### They call a **retail outlet**.

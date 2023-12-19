@@ -16,19 +16,70 @@
 >
 > n.佣金；回扣；中间人业务
 >
-> > 文中是指 **代理人，经纪人角色**的意思
+> > 文中是指 **代理人，经纪人角色**，服务机构的意思
+
+## transaction
+
+> **/trænˈzækʃ(ə)n/**
+>
+> n.交易，买卖，业务；（学术团体会议的）议事录，公报；（人与人之间的）交流，相互影响；事务（元），事项
+>
+> ---
+>
+> trans(转移，转变，转换) + action (行为)  ===》 衍生为 交易，买卖。。
 
 ## house
 
 > 在句子中不是指房子， 而是指  **公司，商业机构**
 
-##### <u>Most large **brokerage** **houses**</u> will not touch speculative transactions in order to protect themselves and their clients.
+##### <u>Most large **brokerage** **houses**</u> will not touch speculative **transactions** in order to protect themselves and their clients.
 
 为了保护自身和客户，大多数大型经纪公司不会涉足投机性交易。
 
+> **brokerage house** 
+>
+> 经纪公司：指为他人买卖外汇、公司股票等的机构。
+
 ## spot
 
-> 在下面的句子中  用作 动词  译为 **“看见，注意到；”**
+> 在下面的句子中  用作 动词  译为 **“看见，注意到，发现、认出”**
+>
+> ---
+>
+> "Spot" 是一个多功能的英语单词，可以用作名词、动词或形容词，具体的用法取决于上下文。以下是几种常见的用法：
+>
+> 1. **名词 (Noun):**
+>    - **地点、位置：** "Spot" 可以指一个具体的地点或位置。
+>      - *Let's meet at the usual spot.*
+>        （我们在惯常的地方见面吧。）
+>
+>    - **污点、斑点：** "Spot" 也可以表示表面上的小污点或斑点。
+>      - *There's a spot on your shirt; you might want to clean it.*
+>        （你衬衫上有个污点，你可能要清理一下。）
+>
+>    - **痘痘、斑点（尤指脸上的）：** 在口语中，"spot" 也可以指皮肤上的痘痘或斑点。
+>      - *I woke up with a spot on my forehead.*
+>        （我醒来时额头上有个痘痘。）
+>
+>    - **广告（尤指电视广告）：** 在美国英语中，"spot" 也可以指广告，尤其是电视广告。
+>      - *They will air the new commercial spot during the Super Bowl.*
+>        （他们将在超级碗期间播放新的商业广告。）
+>
+> 2. **动词 (Verb):**
+>    - **发现、认出：** 作为动词时，"spot" 表示迅速发现或认出某物。
+>      - *Can you spot the difference between these two pictures?*
+>        （你能发现这两张图片之间的区别吗？）
+>
+>    - **标记、放置：** "Spot" 也可以表示在某个地方标记或放置某物。
+>      - *She spotted her bag in the corner of the room.*
+>        （她在房间的角落发现了她的包。）
+>
+> 3. **形容词 (Adjective):**
+>    - **即时的、现场的：** 作为形容词，"spot" 可以用来描述即时的、现场的事物。
+>      - *I made a spot decision to go on a road trip.*
+>        （我即兴决定去进行一次公路旅行。）
+>
+> 总的来说，"spot" 是一个非常灵活的词，根据具体的语境，可以表示地点、污点、痘痘、发现、广告等不同的意义。
 
 ##### It’s your intelligence that can **spot** a bad deal, or make a bad deal good.
 
@@ -37,6 +88,10 @@
 > **/ˈfɔːrtʃənət/**
 >
 > adj.幸运的；带来幸运的，吉利的；富足的；侥幸的
+>
+> ---
+>
+> 来自 `fortune`
 
 ##### All of those <u>down payments(首付)</u> were **fortunate** to catch a fast-rising market.
 
@@ -58,7 +113,7 @@
 >
 > gamble away 赌光
 
-It is not **gambling** if you know what you’re doing.
+##### It is not **gambling** if you know what you’re doing.
 
 ## grand
 
@@ -118,7 +173,7 @@ It is not **gambling** if you know what you’re doing.
 >
 > n.（动词的）被动语态形式；被动语态（the passive）
 
-Yet for the average individual, a **passive** income of more than $100,000 a year is nice and not hard to achieve.
+##### Yet for the average individual, a **passive** income of more than $100,000 a year is nice and not hard to achieve.
 
 对于普通人而言，年收入超过100,000美元的被动收入是令人满意且不难实现的。
 
@@ -128,4 +183,4 @@ Yet for the average individual, a **passive** income of more than $100,000 a yea
 >
 > n.郊区，市郊
 
-the **outskirts** of the city
+##### the **outskirts** of the city
