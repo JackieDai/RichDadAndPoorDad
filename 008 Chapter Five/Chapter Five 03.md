@@ -32,7 +32,7 @@
 
 ##### There  will be many more **bankruptcies**, **layoffs**, and downsizings.
 
-## dreading
+## dreading🚩
 
 > **/ˈdredɪŋ/**
 >
@@ -97,13 +97,15 @@
 
 ##### This period we are in now is a most exciting time, **unprecedented** in our world’s history.
 
-## remark
+## remark🚩
 
 > **/rɪˈmɑːrk/**
 >
 > n.言论，评述；（正式演讲时的）言论（remarks）；<正式> 引人注目，显耀
 >
 > v.谈论，说起；注意到
+>
+> re-,表强调，mark,作标记。引申词义评论，谈论。
 
 ## era
 
@@ -111,15 +113,15 @@
 >
 > n.时代，年代，纪元
 
-Generations from now, people will look back at this period of time and **remark** at what an exciting **era** it must have been.
+##### Generations from now, people will look back at this period of time and **remark** at what an exciting **era** it must have been.
 
 > Generations from now  : 数代之后
 
-## prosper
+## prosper🚩
 
 > **/ˈprɑːspər/**
 >
-> v.繁荣，成功；蓬勃发展，健康成长；<古>使成功，使兴旺
+> v.繁荣，**成功**；蓬勃发展，健康成长；<古>使成功，使兴旺
 >
 > pro-,向前，-sper,希望，兴旺，
 >
@@ -133,7 +135,7 @@ Generations from now, people will look back at this period of time and **remark*
 
 ## worn-out
 
-> adj.磨破的；穿旧的；不能再用的
+> adj. 磨破的；穿旧的；不能再用的
 
 ##### It will be a time of watching some people move boldly forward while others cling to worn-out <u>life preservers.(救生圈)</u>
 

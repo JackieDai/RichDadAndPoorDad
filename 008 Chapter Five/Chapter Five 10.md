@@ -4,11 +4,29 @@
 
 > **/ˈprɪnsəp(ə)l/**
 >
-> > 文中作为名词 指 本金
+> > 文中作为名词 指 **本金**
 >
 > adj.最重要的，首要的；本金的，母金的
 >
 > n.<美>（美国公立中小学的）校长；<英>（英国的）大学校长，学院院长；（企业或机构的）负责人；（音乐会、戏剧、芭蕾舞剧、歌剧中的）主角演员；（管弦乐队每一乐器组的）首席演奏者；**（有利息的）本金，资金**；（法律和商业事务中的）当事人，委托人；关键人物；（某些行业）完全合格的开业者；<英>（负责某一部门的）高级公务员；主犯，首犯；<史>决斗者；（支撑檩的）主椽；（管风琴的）主音栓
+>
+> ---
+>
+> 1. **名词用法：**
+>    - <u>*School Principal (校长):*</u> 在学校设置中，"principal" 是指学校的行政负责人，负责学校的管理和领导。
+>      - *The principal announced a new school policy during the assembly.*（校长在集会上宣布了一项新的学校政策。）
+>    - <u>*Loan Principal (本金)</u>:* 在金融领域，"principal" 也表示贷款中的本金部分，即借款人借入或贷款的原始金额。
+>      - *The monthly payment goes toward both interest and principal.*（每月付款既用于支付利息，也用于还本金。）
+>
+> 2. **形容词用法：**
+>    - *<u>Principal amount</u> (主要的，首要的):* 在某些上下文中，"principal" 可以用作形容词，表示主要的或首要的。
+>      - *The principal reason for the decision was cost.*（做出这个决定的主要原因是成本。）
+>
+> 3. **投资用语：**
+>    - <u>*Principal in an investment (投资中的本金):*</u> 在投资领域，"principal" 表示投资的原始金额，而不包括利息和收益。
+>      - *He decided to invest only the principal and keep the returns in a separate account.*（他决定只投资本金，将收益存放在一个独立的账户中。）
+>
+> 总的来说，"principal" 的用法取决于上下文，可以表示学校的行政负责人、金融中的本金、某事物的主要原因，或者在投资领域中的投资本金。
 
 ##### I have to pay a tax if they pay me the **principal**
 
@@ -22,7 +40,7 @@
 >
 > > "foreclosure" 描述了一种法律程序和过程，其中贷款人或抵押人由于未能履行贷款协议而失去了担保物品（通常是房屋）。这通常发生在贷款支付遭到拖欠的情况下。
 
-**Foreclosure** opportunities were still available, but became rare.
+##### **Foreclosure** opportunities were still available, but became rare.
 
 "强制执行的机会仍然存在，但变得越来越少。"
 
@@ -47,6 +65,18 @@
 > > 文中是指 **疏通，清除障碍物**的意思
 >
 > v.拔掉……的电源插头；拔去塞子，除掉障碍物；暂时克制自己不用电子设备；暂时放下日常生活的责任和义务
+>
+> ---
+>
+> un + plug
+>
+> ---
+>
+> **plug	/plʌɡ/**
+>
+> n.（电）插头；（电）插座；（洗涤槽或浴缸的）塞子；堵塞物；棉球，药棉；（塑料制的）螺钉楔子；（车辆引擎的）火花塞；宣传，推荐；（压实的）块，口嚼烟；<美，非正式>（婴儿的）橡皮奶头；岩颈；（供移植的）幼苗，草皮；（渔）鱼饵；<美>消防栓；<美，非正式>疲惫的马
+>
+> v.堵，塞；补足；插入；用插头接通电源；推广，宣传；<美，非正式>射击，射杀；<非正式>艰难地走，埋头于
 
 ##### I have no roofs to fix or <u>toilets to **unplug**</u> because the owners do that.
 
@@ -66,7 +96,7 @@ The **court** system handles that.
 
 ## factor in
 
-> "考虑到"或"计算在内"
+> **"考虑到"或"计算在内"**
 >
 > ---
 >
@@ -82,7 +112,7 @@ The **court** system handles that.
 
 > **/saʊnd/**
 >
-> 这个单词通常 跟**“声音”**有关。 但是在文中  sound 作为 adj 表示 **合理的，明智的，可靠的；** 的意思
+> 这个单词通常 跟**“声音”**有关。 但是在文中  <u>sound 作为 adj</u> 表示 **合理的，明智的，可靠的；** 的意思
 >
 > ---
 >
@@ -98,11 +128,16 @@ The **court** system handles that.
 
 > **/ˌɑːbsəˈliːt/**
 >
+> > **obsolete** 词强调了过时和不再使用的状态
+>
 > adj.淘汰的，废弃的；（生物特征的一部分）退化的
 >
 > vt.<美>淘汰（产品），废弃（想法）
 
 ##### Today much of what used to be <u>**sound** advice</u> has become old, <u>**obsolete** advice.</u>
+
+> - "Advice" 以 "-ice" 结尾，是名词。
+> - "Advise" 以 "-ise" 结尾，是动词。
 
 ## federal regulation
 

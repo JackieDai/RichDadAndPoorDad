@@ -2,7 +2,7 @@
 
 ## pass up
 
-> 拒绝；把……向上递
+> **拒绝**；把……向上递
 
 ##### I just could not **pass up** these small deals.
 
@@ -12,19 +12,29 @@
 
 >  **/ˈkɔːrthaʊs/**
 >
-> n.法院；（美）县政府所在地
+>  n.法院大楼；（美）县政府所在地
+>
+>  ---
+>
+>  **court  + house**
+>
+>  court	**/kɔːrt/**
+>
+>  n.法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；董事（会），理事（会）；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼
+>
+>  v.奉承，讨好；设法取得，追求；招致，引起（不愉快的事）；谈恋爱，求爱
 
 #####  the **courthouse** steps
 
-法院台阶
+法院大楼台阶
 
 ##  a down payment.
 
 > 首付款
 
-##### I gave an attorney a cashier’s check as **a down payment.**
+##### I gave an attorney a <u>cashier’s check</u> as **a down payment.**
 
-> a cashier's check , 收款人支票：【是一种由银行出具，由银行自身担保的支付工具。】
+> cashier's check , 收款人支票：【是一种由银行出具，由银行自身担保的支付工具。】
 
 ## advertise
 
@@ -32,7 +42,11 @@
 >
 > v.为……做广告，登广告；公布，征聘；宣扬；使变得显眼；<古>提醒……注意
 
-##### “I ran an ad **advertising** a \$75,000 house for only $60,000 and no money down.”
+## no money down
+
+> 零首付
+
+##### I <u>ran an ad **advertising**</u> a \$75,000 house for only $60,000 and no money down.
 
 ## frenzy
 
@@ -52,7 +66,7 @@
 
 ## hand over
 
-> 交出，移交：将某物或某人的控制权、所有权、责任等交给另一个人或组织。
+> **交出，移交**：将某物或某人的控制权、所有权、责任等交给另一个人或组织。
 
 ## escrow
 
@@ -81,6 +95,8 @@
 > **/bʌlk/**
 >
 > > 文中指**大部分** 的意思
+> >
+> > "bulk" 可以用作名词表示大部分、大体积、大规模，也可以用作形容词表示大块的、大量的。
 >
 > n.主体，**大部分**；庞大的身躯，肥硕的体形；（巨大的）容积，体积
 >
@@ -88,7 +104,7 @@
 >
 > v.使（产品）数量显得很大；结合（待售的股票或商品）
 
-##### “While the **bulk** of our money was in <u>larger properties</u> and <u>the stock marke</u>t”
+##### “The **bulk** of our money was in <u>larger properties</u> and <u>the stock marke</u>t”
 
 “尽管我们的大部分资金都投资在较大的房产和股市。”
 

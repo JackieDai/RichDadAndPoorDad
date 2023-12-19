@@ -13,6 +13,8 @@
 > fascinate	**/ˈfæsɪneɪt/**
 >
 > v.深深吸引，迷住
+>
+> > 这个单词跟古罗马 的 “屌” 有关，让女性着迷，入迷。
 
 ##### It is a **fascinating** learning process.
 
@@ -38,9 +40,15 @@
 
 > **/ˈpjʊrli/**
 >
-> adv.完全地，仅仅；贞淑地，清洁地
+> adv.**完全地**，仅仅；贞淑地，清洁地
+>
+> ---
+>
+> 来自 pure
+>
+> pure	**/pjʊr/**	adj. 纯洁，纯净。
 
-##### And in my own small way, I would like to be part of this **<u>unprecedented evolution</u>** of humanity, the era where humans work **purely** with their minds and not with their bodies.
+##### In my own small way, I would like to be part of this **<u>unprecedented evolution</u>** of humanity, the era where humans work **purely** with their minds and not with their bodies.
 
 ## hip
 
@@ -62,13 +70,17 @@
 
 ##### It’s **hip**. It’s **scary**.
 
+它时髦， 它令人不安。
+
 ## doom
 
 > **/duːm/**
 >
-> n.厄运，劫数；悲观，沮丧
+> n.厄运，劫数；**悲观**，沮丧
 >
 > v.注定
+>
+> > "doom" 表达了一种不可避免的、令人担忧的命运或结果，通常与灾难、毁灭、劫数等相关。
 
 ## gloom
 
@@ -77,14 +89,24 @@
 > n.忧郁，绝望；昏暗，幽暗
 >
 > v.外观昏暗；显得萧条（或消沉）
+>
+> > "gloom" 描述了一种阴郁、沮丧的气氛或情绪，可以用来描绘环境、天气、情感等多种场景。
 
-##### I was watching a TV show when a <u>financial planner</u> came on and began forecasting **doom** and **gloom**.
+##### I was watching a TV show when a <u>financial planner</u> came on and began forecasting <u>**doom** and **gloom**.</u>
 
 我正在看电视节目时，一位<u>理财规划</u>师登场并开始预测未来的困境和黯淡。
 
-## blind
+> **doom and gloom**	表示悲观、沮丧的情绪或前景。
+>
+> - *The economic forecast is full of doom and gloom.*（经济预测充满了悲观的色彩。）
 
-> **/blaɪnd/**
+## blind to
+
+> 视而不见，无视
+>
+> ---
+>
+> **blind	/blaɪnd/**
 >
 > > 文中作为动词，表示  **“使无辨别能力”**
 >
@@ -96,6 +118,6 @@
 >
 > adv.看不清地；失去理智地；盲目地，无准备地
 
-##### It **blinds** the person to what is really going on.
+##### It **blinds** the person **to** what is really going on.
 
-这使人对真实情况无辨别能力。
+这使人对真实情况视而不见。

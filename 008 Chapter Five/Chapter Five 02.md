@@ -18,7 +18,7 @@
 >
 > 这种结构有助于在表达中突出一个因素，使读者或听众更加关注或理解说话者的重点。
 
-“ **<u>It is not so much</u>** the lack of technical information that <u>holds us back</u>, **<u>but</u>** more the lack of self-confidence. ”
+##### **<u>It is not so much</u>** the lack of technical information that <u>holds us back</u>, **<u>but</u>** more the lack of self-confidence.
 
 ## more than just
 
@@ -80,7 +80,7 @@
 >
 > v.驾驶（飞行器）；领航；试验，试行；使（新法律）顺利通过；<文>带领，指引
 
-## intimately
+## intimately🚩
 
 > **/ˈɪntɪmətli/**
 >
@@ -100,13 +100,13 @@
 >
 > 词义重点在于开头的in（在...里），亲密就是你的心里有我，我的心里有你；<u>-tim是最高级后缀，在ultimate（终极的）、optimal（最佳的）等词中都有出现</u>；所以字面义是“在最里面的，在最深处的”。
 
-As a **pilot**, I got to know both of those characters inside of me **intimately**.
+##### As a **pilot**, I got to know both of those characters inside of me **intimately**.
 
 > 在越南作为一名海军陆战队飞行员度过一年之后，我更加深刻地了解了我内心的这两个角色。
 >
 > > 文中 **intimately** 是指 <u>深入、密切地了解</u>
 
-## detractor
+## detractor🚩
 
 > **/dɪˈtræktər/**
 >
@@ -124,7 +124,7 @@ As a **pilot**, I got to know both of those characters inside of me **intimately
 >
 > de-, 向下。-tract,拉，词源同attract, contract. 即向下拉，贬低。
 
-It was excessive fear and self-doubt that were the greatest **detractors** of personal genius.
+##### It was excessive fear and self-doubt that were the greatest **detractors** of personal genius.
 
 > 我意识到，过度的恐惧和怀疑，是个人天赋最大的负面因素
 
