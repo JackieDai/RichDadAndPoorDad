@@ -5,6 +5,12 @@
 > **/əˈnælədʒi/**
 >
 > n.类比，比拟；用类比方法，进行比照；同功
+>
+> ---
+>
+> 1. by analogy 用类推的方法；同样
+> 2. analogy method 类比法；模拟方法
+> 3. analogy analysis 类比分析
 
 ##### An **analogy** would be a shopper who goes to a computer store and buys a computer <u>right off(立刻, 马上)</u> the shelf.
 
@@ -15,6 +21,10 @@
 > > 文中是指 **“组装”** 的意思
 >
 > v.（使）集合，（使）聚集；装配，组装
+>
+> ---
+>
+> 词根词缀： as-临近 + -sembl-相同 + -e动词词尾 → 到相同(地点)
 
 ##### This investor usually **assembles** a deal in the same way (that)a person who buys components builds a computer.
 

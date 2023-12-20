@@ -63,6 +63,8 @@
 
 > **/ˌoʊvərˈwelm/**
 >
+> > "overwhelm" 被用来描述某种程度上的压力、数量、力量或情感的过多，以至于对其产生的人或事物难以应对。
+>
 > v.（感情上）使受不了，使不知所措；使大吃一惊；压垮，使应接不暇；打败，击垮；<文> （水）漫过，淹没；压倒，制服
 >
 > over-,在上，超过，whelm,淹没。即使淹没，
@@ -127,6 +129,8 @@
 >
 > v.（以重要地位）出现；<美，非正式>认为，估计；**理解，弄懂；计算**；用图画（或图形等）描绘，想象
 >
+> 词根词缀： -fig-制造,塑造 + -ure名词词尾
+>
 > ---
 >
 > 易混淆词语  **finger	/ˈfɪŋɡər/	手指**
@@ -147,9 +151,29 @@
 >
 > v.（翻箱倒柜地）搜寻，寻找；搜出，查获某物；用雪貂猎鼠（猎兔）；不断地烦扰、纠缠；担心
 >
-> n.（Ferret）（法、美、西、英、巴）费里特（人名）
+> ---
+>
+> 表示通过仔细搜索或调查找到、揭露或发现某事。这个短语通常用于描述发现隐藏、困扰或不易察觉的信息、事实或对象。以下是一些例句，说明了这个短语的用法：
+>
+> 1. **查找信息：**
+>    - "The detective was able to ferret out the truth about the mysterious disappearance."
+>      （侦探成功地查找到了有关这个神秘失踪案件的真相。）
+>
+> 2. **发现秘密或隐匿的事物：**
+>    - "She managed to ferret out the confidential documents hidden in the office."
+>      （她设法找到了办公室里隐藏的机密文件。）
+>
+> 3. **揭露真相：**
+>    - "The journalist worked tirelessly to ferret out the corruption within the government."
+>      （记者不懈努力，揭露政府内部的腐败。）
+>
+> 4. **挖掘细节或隐藏的事实：**
+>    - "Researchers are trying to ferret out the causes of the recent surge in health issues."
+>      （研究人员正在努力挖掘最近健康问题激增的原因。）
+>
+> 总体而言，"ferret out" 常用于描述通过仔细的搜寻、调查或努力发现、揭露、查明某事，尤其是那些不易被察觉或隐藏的信息、事实或对象。
 
-A few years later, the Phoenix market strengthened and it wasn’t worth their time to ferret out the deals, so they moved on.
+##### A few years later, the Phoenix market strengthened and it wasn’t worth their time to **<u>ferret out</u>** the deals, so they moved on.
 
 几年后，凤凰市场变得更加强劲，而他们花费时间寻找交易并不值得，因此他们选择继续前进。
 
@@ -161,7 +185,7 @@ A few years later, the Phoenix market strengthened and it wasn’t worth their t
 >
 > adj.机敏的；狡猾的，诡计多端的； 精明的
 
-Small amounts of money can be turned into large amounts with **astute**, well-timed investments.
+##### Small amounts of money can be turned into large amounts with **astute**, well-timed investments.
 
 通过精明、适时的投资，少量资金可以变成大笔财富。
 
@@ -203,7 +227,7 @@ Small amounts of money can be turned into large amounts with **astute**, well-ti
 
 How have you seen fear of failure **play out** in your life, and how did it prevent you from taking advantage of opportunities? 
 
-你在生活中是如何看到对失败的恐惧产生影响的？它是如何阻止你利用机会的？你将如何在未来战胜这种恐惧？
+你在生活中是如何看到对失败的恐惧产生影响的？它是如何阻止你利用机会的？
 
 ## conquer
 

@@ -96,6 +96,20 @@
 > **伸手过去**：用手或手臂伸过去，通常是为了拿到或触摸远处的东西。
 >
 > 跨越障碍：超越障碍或分歧，与他人建立联系或合作。
+>
+> ---
+>
+> "Reach across" 是一个短语，可以有多种不同的用法，具体的意义取决于上下文。以下是一些可能的用法：
+>
+> 1. **跨越、伸展：** "Reach across" 可以表示物体或空间上的跨越。例如： "The bridge reaches across the river"（桥梁跨越河流）。
+>
+> 2. **跨越隔阂、差异：** 这个短语常用于描述在某些方面的沟通或合作，尤其是在人际关系或组织内。例如： "We need to reach across cultural barriers to work effectively together"（我们需要跨越文化障碍，以便更有效地合作）。
+>
+> 3. **延伸援手、帮助：** "Reach across" 也可以表示提供援助或帮助。例如： "In times of need, it's important to reach across and support each other"（在需要的时候，互相支持是很重要的）。
+>
+> 4. **横扫、包容：** 有时，这个短语也用于描述一种广泛的包容或横扫的动作。例如： "Her influence reaches across the entire industry"（她的影响力覆盖整个行业）。
+>
+> 请记住，具体的意义取决于上下文，因此在理解或使用这个短语时，最好根据具体语境来确定其含义。
 
 ## opponent
 
