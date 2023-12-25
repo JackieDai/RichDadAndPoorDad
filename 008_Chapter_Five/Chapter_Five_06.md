@@ -134,7 +134,7 @@ categories: English
 
 ---
 
-## equivalent
+## equivalent🚩
 
 > **/ɪˈkwɪvələnt/**
 >

@@ -42,7 +42,7 @@ categories: English
 
 ## in lieu of🚩
 
-> 代替，取代,  而不是...
+> **代替，取代,  而不是...**
 >
 > · He offered to work on Saturday in lieu of taking a day off during the week.
 >

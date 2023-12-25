@@ -77,7 +77,7 @@ categories: English
 >
 > 来自 shake,摇动，摇晃，-y,形容词后缀。
 >
-> 文中是指**"不牢靠的，脆弱的"**意思。常用来描述不稳定、摇摆或不安定的状态
+> > 文中是指**"不牢靠的，脆弱的"**意思。常用来描述不稳定、摇摆或不安定的状态
 
 ##### “The massive loss of jobs in recent times proves how **shaky** the middle class really is financially.”
 

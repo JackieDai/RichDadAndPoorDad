@@ -123,7 +123,7 @@ categories: English
 
 >**/spɑːt/**
 >
->> 文中是指  **“排名位置”** 的意思
+>> 文中是指  **“排名 位置”** 的意思
 >
 >1. **地点或位置：**
 > - *What's your favorite vacation spot?*（你最喜欢的度假地点是哪里？）

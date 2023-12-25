@@ -18,7 +18,7 @@ categories: English
 >
 > v.流放；使离开
 
-##### “Twenty-five years later, most of their lives had ended tragically, with the men either broke, **exiled**, or in prison.”
+##### Twenty-five years later, most of their lives had ended tragically, with the men either broke, **exiled**, or in prison.
 
 ---
 

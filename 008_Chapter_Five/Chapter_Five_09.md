@@ -74,11 +74,11 @@ categories: English
 >
 > "feeding" 是动词 "feed" 的现在分词形式，表示喂食或供应食物。整个短语 **"feeding frenzy"** 意指一场饥饿动物或人群争相觅食、争抢食物的激烈局面。这个表达常常用于比喻，<u>描述人们或动物在某种资源（不一定是食物）上的极度争夺或竞争</u>。
 
-## hand over
+## hand over🚩
 
 > **交出，移交**：将某物或某人的控制权、所有权、责任等交给另一个人或组织。
 
-## escrow
+## escrow🚩
 
 > **/ˈeskroʊ/**
 >
@@ -88,7 +88,7 @@ categories: English
 
 我要求支付2,500美元的处理费，他们乐意交付了这笔费用，<u>之后</u>由托管公司和产权公司接手处理。
 
-## a promissory note
+## a promissory note🚩
 
 > **期票**
 >
@@ -100,7 +100,7 @@ categories: English
 
 ##### “The $40,000 was created from money in my asset column in the form of <u>a **promissory** note</u> from the buyer.”
 
-## bulk
+## bulk🚩
 
 > **/bʌlk/**
 >
@@ -118,7 +118,7 @@ categories: English
 
 “尽管我们的大部分资金都投资在较大的房产和股市。”
 
-## shelter
+## shelter🚩
 
 > **/ˈʃeltər/**
 >

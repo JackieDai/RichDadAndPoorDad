@@ -98,7 +98,7 @@ categories: English
 
 ---
 
-## virtually
+## virtually🚩
 
 > **/ˈvɜːrtʃuəli/**
 >

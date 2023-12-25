@@ -10,7 +10,7 @@ categories: English
 
 [TOC]
 
-## fascinating
+## fascinating🚩
 
 > **/ˈfæsɪneɪtɪŋ/**
 >
@@ -38,7 +38,7 @@ categories: English
 >
 > un- +‎ precedent +‎ -ed.
 
-## evolution
+## evolution🚩
 
 > **/ˌevəˈluːʃ(ə)n/**
 >
@@ -46,7 +46,7 @@ categories: English
 >
 > n.进化（论）；演变，发展；（气体的）释放，（热量的）散发；队形变换，位置变换；<旧>开方
 
-## purely
+## purely🚩
 
 > **/ˈpjʊrli/**
 >

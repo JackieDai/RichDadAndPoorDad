@@ -71,7 +71,7 @@ categories: English
 >
 > 前缀ac-同ad-. cure, 关心，照料。指用心使精确。
 
-##### “Unlike net worth—which is the <u>difference(差额)</u> between your assets and liabilities, and is often filled with a person’s <u>expensive junk[昂贵无价值的投资品]</u> and <u>opinions of what things are worth(对事物价值的看法)</u>—this definition creates the possibility for developing a truly **accurate** measurement.”
+##### “Unlike net worth—which is the <u>difference(差额)</u> between your assets and liabilities, and is often filled with a person’s <u>expensive **junk**[昂贵无价值的投资品]</u> and <u>opinions of what things are worth(对事物价值的看法)</u>—this definition creates the possibility for developing a truly **accurate** measurement.”
 
 ---
 
