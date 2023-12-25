@@ -80,7 +80,7 @@ categories: English
 >
 > v.用木料支撑或建造
 
-The **timber** market was terrible.
+##### The **timber** market was terrible.
 
 ## trim
 
@@ -88,7 +88,7 @@ The **timber** market was terrible.
 >
 > > 文中表示**装饰，点缀**的意思
 > >
-> > trim 可以表示修剪、削减、整理或某物的装饰部分
+> > trim 可以表示<u>**修剪、削减、整理**或**装饰、点缀**</u>
 >
 > v.修剪，修整；削减，减少；修饰，**点缀（尤指某物的边缘）**；切除，剪掉（不规则或不需要的部分）；调整（船帆）利用风力；使（飞机）配平；调整负载以保持（船，飞机）的平衡；使（身体某一部分）变结实，变瘦；（为个人升迁而在政治上）随大流，见风使舵
 >
@@ -110,7 +110,7 @@ The **timber** market was terrible.
 >
 > v.强调，突出；重读；以重音演奏
 
-It was light blue with gray **accents** and had been built in 1930.
+##### It was light blue with gray **accents** and had been built in 1930.
 
 它是淡蓝色的，带有灰色的点缀，建于1930年。
 
@@ -120,7 +120,7 @@ It was light blue with gray **accents** and had been built in 1930.
 >
 > n.壁炉；（作装饰用的）壁炉架
 
-##### Inside there was a beautiful rock **fireplace**.
+##### There was a beautiful rock **fireplace**.
 
 ## tenant
 
@@ -129,6 +129,10 @@ It was light blue with gray **accents** and had been built in 1930.
 > n.**房客，租户**；<法律>业主
 >
 > v.（作为租赁者）居住，工作
+>
+> ---
+>
+> ten-,持有，握住，-ant,人。引申词义租客，租户。
 
 My first **tenant** moved in.
 

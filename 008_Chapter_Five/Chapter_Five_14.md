@@ -14,11 +14,27 @@ categories: English
 
 > **/praɪm/**
 >
-> adj.主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的
+> > 文中是指**“最佳的，一流的”**
 >
-> v.事先指点，使（某人）做好准备；把（某事物）准备好，使备用；给（表面）涂上底色
+> 1. **形容词（Adjective）:**
+>    - **主要的，首要的：** "Prime" 作为形容词表示最重要、最关键的，常用来形容某物或某人的主要特点。
+>      - 例如："This is a prime example of good teamwork."（这是一个团队协作的典范。）
+>    - **最佳的，一流的：** "Prime" 也可表示质量、水平或状态最佳。
+>      - 例如："The restaurant is known for its prime steaks."（这家餐厅以其一流的牛排而闻名。）
 >
-> n.盛年，壮年时期；质数，素数；上标符号（'），（数字后）分钟（或英尺）符号；（八个防御姿势的）第一姿势；（自行车比赛中设特别奖的）特设行程；<古>起始，原初；晨经，晨祷（传统上于白天中的第一个小时即早晨六点所做的祈祷，现罕用）
+> 2. **名词（Noun）:**
+>    - **质数：** 在数学中，"prime" 通常指质数，即只能被1和自身整除的数。
+>      - 例如："7 is a prime number."（7 是一个质数。）
+>    - **盛年，全盛时期：** "Prime" 还可以表示某物或某人的盛年或全盛时期。
+>      - 例如："He was in the prime of his career."（他正值事业的鼎盛时期。）
+>
+> 3. **动词（Verb）:**
+>    - **事先准备，使准备好：** "Prime" 作为动词时，可以表示在某事发生之前做好准备。
+>      - 例如："Prime the engine before starting it."（在启动之前给引擎做好准备。）
+>    - **激发，预先刺激：** 在一些特定语境下，"prime" 还可以表示在某物上涂覆一层底漆，或者在某人身上进行预先的激励。
+>      - 例如："Prime the canvas before painting."（在绘画前在画布上打底。）
+>
+> 因此，"prime" 的确切含义取决于它在句子中的角色以及上下文。
 
 ## bargain
 
@@ -129,9 +145,9 @@ categories: English
 >
 > adj.对立的，敌对的
 
-If I lose the game, I **reach across** the net, shake my **opponent’s** hand, smile, and say, “See you next Saturday.
+##### I **reach across** the net, shake my **opponent’s** hand.
 
-如果我输了比赛，我会伸手过网，和对手握手，微笑着说：“下周六再见。”
+我会伸手过网，和对手握手”
 
 ## retail outlet
 

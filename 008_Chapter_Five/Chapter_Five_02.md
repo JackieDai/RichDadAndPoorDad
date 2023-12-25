@@ -30,11 +30,17 @@ categories: English
 
 ##### **<u>It is not so much</u>** the lack of technical information that <u>holds us back</u>, **<u>but</u>** more the lack of self-confidence.
 
+## outside of
+
+> **在...之外；** 表示在某个范围，区域或对象的外部
+
 ## more than just
 
 > 不仅仅是：表示某事物不只具有某种特点或功能，还具有其他特点或功能。
 
-##### In the real world outside of academics, something **more than just** grades is required.
+##### In the real world <u>outside of</u> academics, something **more than just** grades is required.
+
+在现实世界中，在学术成绩之外还需要一些其他东西。
 
 ## daring
 
@@ -54,15 +60,15 @@ categories: English
 >
 > n.挑战，激将
 
-##### Inside each of us is one of these brave, brilliant, and **daring** characters.
+##### Inside each of us is one of these brave, brilliant, and <u>**daring** characters.</u>
 
 > daring characters 冒险的性格
 
-## flip side
+## the flip side of
 
-> 反面；相反的一面、方面或结果
+> ... 的反面；相反的一面、方面或结果
 >
-> · The flip side of success is often failure.
+> · <u>The flip side of</u> success is often failure.
 >
 > 成功的反面往往是失败。
 >
@@ -112,7 +118,7 @@ categories: English
 
 ##### As a **pilot**, I got to know both of those characters inside of me **intimately**.
 
-> 在越南作为一名海军陆战队飞行员度过一年之后，我更加深刻地了解了我内心的这两个角色。
+> 作为飞行员，我更加深刻地了解了我内心的这两个角色。
 >
 > > 文中 **intimately** 是指 <u>深入、密切地了解</u>
 

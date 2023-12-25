@@ -81,6 +81,12 @@ categories: English
 > **hesitant	/ˈhezɪtənt/**
 >
 > adj.犹豫的，不愿的
+>
+> ---
+>
+> 1. Don't hesitate 不要犹豫走出迷茫别再犹豫让爱说出来
+> 2. Not hesitate 毫不犹豫不再犹豫不惜不要犹豫
+> 3. hesitate to do sth 犹豫做某事不愿做某事犹疑做某事迟疑做某事
 
 ##### I **hesitate** using many more examples of personal investments.
 
@@ -88,7 +94,7 @@ categories: English
 
 ## come across as
 
-> 给人的印象是……；看上去好像是……
+> **给人的印象是……；看上去好像是……**
 >
 > He comes across as very confident. （他给人的印象是非常自信的。）
 >
@@ -186,6 +192,6 @@ categories: English
 >
 > abbr. 编年史；记事；把……载入编年史（chrono）；按时间顺序的；按先后顺序的；按时间计算的（chronological）
 
-##### I use the examples only as numerical and <u>**chronological** illustrations</u> of actual and simple cases.
+##### I use the examples only as <u>numerical and **chronological** illustrations</u> of actual and simple cases.
 
 我使用这些例子只是作为实际和简单案例的数字和时间顺序说明。

@@ -52,6 +52,8 @@ categories: English
 >
 > reside in 存在于;居住;属于;居住在
 
+##### It is important to learn how to <u>put</u> the pieces <u>together</u>, because that is where the huge wins **reside**.
+
 ## tide
 
 > **/taɪd/**
@@ -64,7 +66,7 @@ categories: English
 
 > 违背，不同意，反对，对抗：
 
-##### It is important to learn how to put the pieces together, because that is where the huge wins **reside**, and sometimes some huge losses <u>if the **tide** goes against you.</u>
+##### Sometimes, some huge losses <u>if the **tide** goes against you.</u>
 
 > **if the tide goes against you.**
 >
@@ -76,7 +78,7 @@ categories: English
 
 > **/ˈrʌndaʊn/**
 >
-> > 在文中，rundown 指 **破旧，老化**，
+> > 在文中，<u>rundown 指 **破旧，老化**，</u>
 >
 > "Rundown" 是一个多义词，可以根据上下文有不同的含义。以下是几种常见的用法：
 >
@@ -95,7 +97,7 @@ categories: English
 >
 > 总的来说，"rundown" 的具体含义取决于上下文，可以表示总结、疲惫、检查等不同的概念。
 
-##### A friend bought this **rundown** old house.
+##### He bought this **rundown** old house.
 
 ## spooky
 

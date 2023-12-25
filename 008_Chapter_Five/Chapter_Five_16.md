@@ -26,8 +26,8 @@ categories: English
 >
 > **raise 和 rise 的区别**
 >
-> - **"Raise /reɪz/"** 是一个及物动词，强调提高、抬高或举起某物，通常需要直接的宾语。
-> - **"Rise /raɪz/"** 是一个不及物动词，强调上升、升起或升高，通常没有直接的宾语。
+> - **"Raise /reɪz/"** 是一个**及物动词**，强调提高、抬高或举起某物，通常需要直接的宾语。
+> - **"Rise /raɪz/"** 是一个**不及物动词**，强调上升、升起或升高，通常没有直接的宾语。
 
 ## deposit
 
@@ -47,7 +47,7 @@ categories: English
 
 > 这里 是 buy 的过去式
 >
-> buy. 作为动词除了 除了有 购买的意思， 还有 **（付出代价）获得，赢得**
+> buy. 作为动词除了 除了有 购买的意思， 还有 **<u>（付出代价）获得，赢得</u>**
 
 ##### I **raised** the $100,000 **deposit**, which **bought** me 90 days to **raise** the rest of the money.
 
@@ -87,7 +87,7 @@ categories: English
 >
 > n.泛滥；溢出；汹涌起伏
 
-##### The story of  Bell being **overwhelmed** by demand for his product and trying to sell his company
+##### The story of  Bell being **overwhelmed** by demand for his product.
 
 ## the lens of
 
@@ -105,9 +105,13 @@ categories: English
 
 ##### Developing your financial IQ allows you to see that future of change through **the lens of** excitement, not dread.
 
-## sideline
+## on the sideline
 
-> **/ˈsaɪdlaɪn/**
+> **在场外**：指某人或某事物不直接参与某个活动或决策，而是在场外观察或等待。
+>
+> ---
+>
+> sideline	**/ˈsaɪdlaɪn/**
 >
 > > 文中是指 **局外人的观点， 无动于衷**
 >
@@ -137,7 +141,7 @@ categories: English
 >
 > n.数字，数目，数值；数字符号，位数；身材，体型；（远处的）人影；（重要的）人物；（绘画或模型中）人像；（书中的）图、表；（数学）图形；价格，金额
 >
-> v.（以重要地位）出现；<美，非正式>认为，估计；**理解，弄懂；计算**；用图画（或图形等）描绘，想象
+> v.（以重要地位）出现；<美，非正式>认为，估计；理解，弄懂；计算；用图画（或图形等）描绘，想象
 >
 > 词根词缀： -fig-制造,塑造 + -ure名词词尾
 >
@@ -145,9 +149,15 @@ categories: English
 >
 > 易混淆词语  **finger	/ˈfɪŋɡər/	手指**
 
-##### Financial intelligence is simply having more options, **figuring out** ways to create opportunities or altering situations to work in your favor.
+## alter 
 
-财务智慧就是拥有更多选择，找出创造机会的方法，或者改变情境以使其对你有利。
+> **/ˈɔːltər/**
+>
+> v.改变，改动；（使）变化；改（服装）；改建（某建筑）
+
+##### Financial intelligence is simply having more options, **figuring out** ways to create opportunities or **<u>altering</u>** situations to work in your favor.
+
+财务智慧就是拥有更多选择，**<u>找出</u>**创造机会的方法，或者<u>**改变**</u>情境以使其对你有利。
 
 ## ferret out
 
@@ -183,9 +193,9 @@ categories: English
 >
 > 总体而言，"ferret out" 常用于描述通过仔细的搜寻、调查或努力发现、揭露、查明某事，尤其是那些不易被察觉或隐藏的信息、事实或对象。
 
-##### A few years later, the Phoenix market strengthened and it wasn’t worth their time to **<u>ferret out</u>** the deals, so they moved on.
+##### It wasn’t worth their time to **<u>ferret out</u>** the deals.
 
-几年后，凤凰市场变得更加强劲，而他们花费时间寻找交易并不值得，因此他们选择继续前进。
+他们花费时间寻找交易并不值得.
 
 > 在这个句子中，"ferret out" 的意思是费力地寻找、搜寻或发现。在这种情况下，表示他们不再觉得值得花费时间去费力地寻找交易机会
 
@@ -194,6 +204,10 @@ categories: English
 > **/əˈstuːt/**
 >
 > adj.机敏的；狡猾的，诡计多端的； 精明的
+
+## well-timed
+
+> adj.正合时宜的, 恰当的时机
 
 ##### Small amounts of money can be turned into large amounts with **astute**, well-timed investments.
 
@@ -247,6 +261,6 @@ How have you seen fear of failure **play out** in your life, and how did it prev
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/21ac6c14a4d94add42e89bb1dab7aff4.jpg?)
 
-What can you do to conquer that fear in the future?
+##### What can you do to **<u>conquer</u>** that fear in the future?
 
 你将如何在未来战胜这种恐惧？

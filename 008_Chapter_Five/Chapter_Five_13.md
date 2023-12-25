@@ -14,7 +14,9 @@ categories: English
 
 > **/vɜːrst/**
 >
-> adj.精通的；熟练的
+> <u>adj.精通的；熟练的</u>  
+>
+> > 这是个形容词，不是某个动词的过去式
 >
 > **be versed in 精通于**
 
@@ -76,7 +78,7 @@ categories: English
 >        （他们将在超级碗期间播放新的商业广告。）
 >
 > 2. **动词 (Verb):**
->    - **发现、认出：** 作为动词时，"spot" 表示迅速发现或认出某物。
+>    - **发现、认出：** 作为动词时，<u>**"spot" 表示迅速发现或认出某物**</u>。
 >      - *Can you spot the difference between these two pictures?*
 >        （你能发现这两张图片之间的区别吗？）
 >
@@ -104,6 +106,8 @@ categories: English
 > 来自 `fortune`
 
 ##### All of those <u>down payments(首付)</u> were **fortunate** to catch a fast-rising market.
+
+所有这些首付都很幸运地抓住了市场的快速上涨。
 
 ## gamble
 
@@ -169,11 +173,13 @@ categories: English
 
 ##### What I do is small potatoes <u>in the grand scheme of things.</u>
 
-在整个大局中，我所做的事情微不足道。
+在宏大的计划中，我的所作所为微不足道。
 
 > **"small potatoes"**：这是一个俚语，意指在某个情境或大局中显得微不足道、不重要或不起眼的事物或活动。
 >
 > **"in the grand scheme of things"**：这个表达意味着在整体、全局或更大的背景中。说话者认为自己的行为或事情相对于整个大局来说并不重要或有影响力。
+>
+> "scheme" 指的是一个大的计划、体系或方案。
 
 ## passive
 
@@ -192,5 +198,8 @@ categories: English
 > **/ˈaʊtˌskɜːrt/**
 >
 > n.郊区，市郊
+>
+> - **Outskirt（边缘，郊区）：** 这个词语更加通用，可以用来描述城市的边缘地带，可能是离市中心较远的地方，也可能是城市边缘的任何地区。
+> - **Suburb（郊区）：** 这通常指的是**城市周围的住宅区**，通常相对于市中心较远。郊区一般是城市扩展的一部分，提供相对较安静的居住环境。
 
 ##### the **outskirts** of the city

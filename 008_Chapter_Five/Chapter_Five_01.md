@@ -108,6 +108,8 @@ categories: English
 
 ##### It is also a **disturbing** profession.
 
+这是一个令人不安的职业
+
 ## potential
 
 > **/pəˈtenʃ(ə)l/**
