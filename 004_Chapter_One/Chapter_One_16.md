@@ -98,14 +98,11 @@ categories: English
 
 > **/ˈliːnɪŋ/**
 >
-> v.
-> 倾斜；倚靠；（使）斜靠；屈身（lean的现在分词）
->
-> n.
-> 倾向，偏向，爱好
->
-> n.
-> （Leaning）（美）利宁（人名）
+> v.倾斜；倚靠；（使）斜靠；屈身（lean的现在分词）
+> 
+>n.倾向，偏向，爱好
+> 
+> n.（Leaning）（美）利宁（人名）
 
 ##### “This,” he said, **<u>leaning</u>** forward in his chair and tapping me gently on the head. “This stuff between your ears.”
 
@@ -115,10 +112,9 @@ categories: English
 
 > **/ˈpɪvət(ə)l/**
 >
-> adj.
-> **中枢的，关键的**；有枢轴的，像枢轴的
->
-> 常用来描述某事或某人在某一过程或情境中起到至关重要的作用，相当于关键的、核心的
+> adj.**中枢的，关键的**；有枢轴的，像枢轴的
+> 
+>常用来描述某事或某人在某一过程或情境中起到至关重要的作用，相当于关键的、核心的
 
 ## eventually
 

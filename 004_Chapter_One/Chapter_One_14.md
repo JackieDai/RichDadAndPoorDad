@@ -121,7 +121,7 @@ categories: English
 >
 > n. **屈服**，**投降**；提交，呈递；提交的文件，呈递材料；<法律>（向法官提出的）看法，意见；<正式> 意见，建议；<古> 谦恭，温顺；（摔跤）制服
 
-#####  you let life **<u>push you into submission</u>**.
+#####  You let life **<u>push you into submission</u>**.
 
 ## deep down
 

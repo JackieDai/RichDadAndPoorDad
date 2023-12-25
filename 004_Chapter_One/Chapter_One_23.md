@@ -147,7 +147,7 @@ categories: English
 > 4. *Winning the championship made the athletes feel ecstatic.*
 >    - 赢得冠军让运动员们感到欣喜若狂。
 >
-> "Ecstatic" 表达了一种非常高涨和积极的情感，通常用于描述因为喜悦、成功、或其他积极事件而感到非常高兴的情境。
+> **"Ecstatic" 表达了一种非常高涨和积极的情感，通常用于描述因为喜悦、成功、或其他积极事件而感到非常高兴的情境。**
 
 ##  fortune
 

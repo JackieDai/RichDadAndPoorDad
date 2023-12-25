@@ -162,10 +162,9 @@ categories: English
 >
 > 描述由于无法达到目标、实现期望或克服困难而引起的沮丧、失望或挫败感。
 >
-> n.
-> 懊恼，沮丧；受阻，挫败；令人懊丧（或懊恼、沮丧）的事物
->
-> <img src="https://ydlunacommon-cdn.nosdn.127.net/cb167e387636c66094b379bbeb30d98f.jpg" width="100">
+> n.懊恼，沮丧；受阻，挫败；令人懊丧（或懊恼、沮丧）的事物
+> 
+><img src="https://ydlunacommon-cdn.nosdn.127.net/cb167e387636c66094b379bbeb30d98f.jpg" width="100">
 
 ##### “What are you laughing at?” I asked with anger and **<u>frustration</u>**.”
 

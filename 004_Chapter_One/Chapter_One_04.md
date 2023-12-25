@@ -94,13 +94,27 @@ categories: English
 >
 > - There is a small village at the base of the mountain.山脚下有一个小村庄
 
+## cautiously
+
+> **/ˈkɔːʃəsli/**
+>
+> adv.慎重地，谨慎地
+>
+> ---
+>
+> 词源	caution	**/ˈkɔːʃ(ə)n/**
+>
+> n.小心，谨慎；提醒，告诫；（警察向犯轻罪的人发出的）警告
+>
+> v.警告，提醒
+
 ## carport
 
 > **/ˈkɑːrpɔːrt/**
 >
 > n.车库；（美）车棚
 
-##### Dad walked up cautiously, having to park the car **<u>at the base of</u>** the driveway since the production line blocked the **<u>carport</u>**. 
+##### Dad walked up **<u>cautiously</u>**, having to park the car **<u>at the base of</u>** the driveway since the production line blocked the **<u>carport</u>**. 
 
 ---
 

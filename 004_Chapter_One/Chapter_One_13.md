@@ -110,7 +110,7 @@ categories: English
 
 ---
 
-## “ life is the best teacher of all”
+## life is the best teacher of all
 
 > "生活是最好的老师"
 >

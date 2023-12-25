@@ -133,7 +133,7 @@ categories: English
 >
 > 具体含义可能取决于上下文，例如在艺术、文学或哲学的语境中，这样的表达可能用于形容某个瞬间或时期的持久性或深远影响。
 
-##### “A final offer of $5 an hour—<u>a **princely** sum</u> at that <u>time—**solidified**</u> for Robert that he wouldn’t be bought.”
+##### A final offer of $5 an hour—<u>a **princely** sum</u> at that <u>time—**solidified**</u> for Robert that he wouldn’t be bought.
 
 
 

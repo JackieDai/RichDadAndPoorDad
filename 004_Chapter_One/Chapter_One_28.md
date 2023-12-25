@@ -49,15 +49,11 @@ categories: English
 >
 > 总体而言，"sophisticate" 用于形容使某人或某物变得更为复杂、精密，或者指称一个经验丰富、老练的个体。这个词语常常带有一种正面的意味，表示对知识、技能或经验的提升。
 
-##### **<u>But all too often</u>** business schools train employees to become **<u>sophisticated</u>** bean-counters. 
-
 ## bean-counters
 
 > 精打细算的人（bean counter的复数）；会计
->
-> ---
->
-> 
+
+##### **<u>But all too often</u>** business schools train employees to become **<u>sophisticated</u>** **bean-counters**. 
 
 ## take over
 
@@ -200,5 +196,5 @@ categories: English
 >
 > ![](https://ydlunacommon-cdn.nosdn.127.net/257609358114c4246bffe64e90f3014e.jpg?)
 
-##### “ I’ll teach you to have a choice of thoughts rather than <u>a **knee-jerk** reaction</u>, like <u>**gulping** down</u> your morning coffee and running out the door.”
+##### I’ll teach you to have a choice of thoughts rather than <u>a **knee-jerk** reaction</u>, like <u>**gulping** down</u> your morning coffee and running out the door.
 

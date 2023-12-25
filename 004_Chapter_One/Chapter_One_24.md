@@ -122,10 +122,9 @@ categories: English
 
 > **/əˈraɪz/**
 >
-> v.
-> 产生，出现；起源（于），由……引出；起床，起立；上升
->
-> ![](https://ydlunacommon-cdn.nosdn.127.net/c6de7df97cbd804a0e6ebc9714d460e1.jpg?)
+> v.产生，出现；起源（于），由……引出；起床，起立；上升
+> 
+>![](https://ydlunacommon-cdn.nosdn.127.net/c6de7df97cbd804a0e6ebc9714d460e1.jpg?)
 
 ##### If the fear of not having enough money  **<u>arises</u>**, instead of immediately running out to get a job, they instead might ask themselves this question: ‘Will a job be the best solution to this fear <u>over the long run(长远看来，长期)</u>?’
 

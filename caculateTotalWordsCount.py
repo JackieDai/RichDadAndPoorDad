@@ -42,7 +42,7 @@ def count_markdown_headings(file_path):
         result.append(info_dict)
     return result
 
-if __name__ == "__main__":
+def caculateWholeFilemdCount():
     # if u want to log ecah detail of secitons, just set the boolen value True
     should_log_detail = False
     # 指定文件夹路径
@@ -58,9 +58,6 @@ if __name__ == "__main__":
         folder_sub_path = folder_path + "/" + subdir
 
         subdir_count = 0
-
-        
-
         if should_log_detail:
             print("==========="*5)
             print(f"{subdir} section detail as follows:")
@@ -86,7 +83,22 @@ if __name__ == "__main__":
             log_str = f"---Total count:{subdir_count} \n"
         print(log_str)
 
-    print(f"RichDadAndPoorDad 总 数 == {total_count}\n")    
+    print(f"RichDadAndPoorDad 总 数 == {total_count}\n")  
 
+
+def caculateSingleFileCount():
+    filename = "2023-12-25Summary"
+    whole_md_address = f"/Users/lingxiao/RichDadAndPoorDad/UnfamiliarWords/{filename}.md"
+    # 计算每一个md文件的标题个数
+    result = count_markdown_headings(whole_md_address)
+
+    for info_dict in result:
+        if info_dict["level"] == 2:
+            word_count = info_dict["headings"]
+            print(f'😁😁😁 {filename} words count == {word_count}')
+
+if __name__ == "__main__":
+    #  caculateWholeFilemdCount()
+    caculateSingleFileCount()
 
 
