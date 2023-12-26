@@ -52,13 +52,13 @@ categories: English
 >
 > 经纪公司：指为他人买卖外汇、公司股票等的机构。
 
-## spot
+## spot🚩
 
 > 在下面的句子中  用作 动词  译为 **“看见，注意到，发现、认出”**
 >
 > ---
 >
-> "Spot" 是一个多功能的英语单词，可以用作名词、动词或形容词，具体的用法取决于上下文。以下是几种常见的用法：
+> "Spot" 常见的用法：
 >
 > 1. **名词 (Noun):**
 >    - **地点、位置：** "Spot" 可以指一个具体的地点或位置。
@@ -154,12 +154,12 @@ categories: English
 >    - 翻译：公司有一个新的营销方案来提高销售额。
 >
 > 2. **阴谋、诡计（Plot or Plan, often with a negative connotation）**：
->    - *Example: The villain hatched a scheme to take over the city.*
->    - 翻译：恶棍策划了一个夺取城市的阴谋。
+>    - *Example: The villain <u>hatch</u>ed a scheme to take over the city.*
+>    - 翻译：恶棍<u>策划</u>了一个夺取城市的阴谋。
 >
 > 3. **体系、体制（Systematic Plan）**：
->    - *Example: The government introduced a new tax scheme to reform the economy.*
->    - 翻译：政府引入了一项新的税收体系来改革经济。
+>    - *Example: The government introduced a new tax scheme to **<u>reform</u>** the economy.*
+>    - 翻译：政府引入了一项新的税收体系来<u>改革</u>经济。
 >
 > 4. **图标、图解（Diagram or Chart）**：
 >    - *Example: The architect presented a scheme of the building's layout.*
@@ -171,7 +171,7 @@ categories: English
 >
 > 总体而言，"scheme"是一个灵活的词汇，其具体含义会受到上下文的影响。它可以表示计划、方案、体系、图标等多种概念。在阅读或使用时，最好根据具体语境来理解其含义。
 
-##### What I do is small potatoes <u>in the grand scheme of things.</u>
+##### What I do is small potatoes <u>in the grand scheme of things.</u>🚩
 
 在宏大的计划中，我的所作所为微不足道。
 

@@ -22,7 +22,7 @@ categories: English
 >
 > pillar industry 支柱产业；主要工业
 
-##### The more familiar you become with the four **pillars** of financial intelligence, the easier it becomes.
+##### The more familiar you become with <u>the four **pillars** of financial intelligence</u>, the easier it becomes.
 
 你对财商的四大支柱越熟悉，就越容易做到。
 
@@ -122,7 +122,7 @@ categories: English
 
 ##### There was a beautiful rock **fireplace**.
 
-## tenant
+## tenant🚩
 
 > **/ˈtenənt/**
 >
@@ -134,7 +134,7 @@ categories: English
 >
 > ten-,持有，握住，-ant,人。引申词义租客，租户。
 
-My first **tenant** moved in.
+##### My first **tenant** moved in.
 
 ## sanitized
 
@@ -156,7 +156,7 @@ My first **tenant** moved in.
 
 > "Sanitized" 的意思是经过处理或被消毒，通常指对信息或事物进行了修改，使其变得更加中性或无害。在这个上下文中，表达的是“安全”投资通常会被过度简化或处理，以致失去了某些方面的真实性或风险性。
 
-## flush
+## flush🚩
 
 > **/flʌʃ/**
 >
