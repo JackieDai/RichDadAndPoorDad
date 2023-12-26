@@ -216,7 +216,7 @@ categories: English
 
 > adj.正合时宜的, 恰当的时机
 
-##### Small amounts of money can be turned into large amounts with **astute**, well-timed investments.
+##### Small amounts of money can be turned into large amounts with **astute**, **well-timed** investments.
 
 通过精明、适时的投资，少量资金可以变成大笔财富。
 
