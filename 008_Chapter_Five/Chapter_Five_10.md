@@ -15,6 +15,8 @@ categories: English
 > **/ˈprɪnsəp(ə)l/**
 >
 > > 文中作为名词 指 **本金**
+> >
+> > 易混淆词语 `principle`
 >
 > adj.最重要的，首要的；本金的，母金的
 >
