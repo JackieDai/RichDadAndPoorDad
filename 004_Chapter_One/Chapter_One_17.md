@@ -104,7 +104,7 @@ Most people become a **slave** to money—and then get angry at their boss.”
 > 
 > ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/c2cfe397942060edcee5e2a1470f4a43.jpg?)
 
-##### “How did you feel waiting in line to see me, once to <u>get **hired**</u> and once to ask for more money?”
+##### How did you feel waiting in line to see me, once to <u>get **hired**</u> and once to ask for more money?
 
 ---
 

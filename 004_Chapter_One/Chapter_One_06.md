@@ -108,7 +108,7 @@ categories: English
 
 ---
 
-## supervisor
+## supervisor🔊
 
 >**/ˈsuːpərvaɪzər/**
 >

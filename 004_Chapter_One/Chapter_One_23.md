@@ -70,7 +70,7 @@ categories: English
 > 
 > ![](https://ydlunacommon-cdn.nosdn.127.net/26d346b5ff6940faffe19ec1882d6b1d.jpg?)
 
-## derelict🚩
+## derelict🚩🔊
 
 > **/ˈderəlɪkt/**
 >

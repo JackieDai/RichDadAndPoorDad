@@ -62,7 +62,7 @@ categories: English
 
 ---
 
-## damned
+## damned🔊
 
 > **/dæmd/**
 >
@@ -169,7 +169,7 @@ categories: English
 >
 > n.小气鬼；吝啬鬼
 
-## exploit🚩
+## exploit🚩🔊
 
 > **/ɪkˈsplɔɪt/**
 >

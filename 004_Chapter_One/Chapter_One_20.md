@@ -100,7 +100,7 @@ categories: English
 
 ---
 
-## motivate
+## motivate🚩🔊
 
 > **/ˈmoʊtɪveɪt/**
 >
