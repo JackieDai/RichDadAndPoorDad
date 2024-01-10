@@ -10,13 +10,13 @@
 >
 > ---
 >
-> devastate	 **/ˈdevəsteɪt/**
+> devastate	 **/ˈdevəsteɪt/** 🔊
 >
 > v.毁坏，破坏；使极度震惊，使伤心欲绝
 
 ##### My educated dad was **devastated**.
 
-## specialty
+## specialty🔊
 
 > **/ˈspeʃəlti/**
 >
@@ -34,7 +34,7 @@
 >
 > n.小儿科, 儿科学，儿科
 
-##### Medical doctors immediately begin to seek a **specialty** such as **orthopedics** or **pediatrics**.
+##### Medical doctors immediately begin to <u>seek a **specialty**</u> such as **orthopedics** or **pediatrics**.
 
 医生们通常会立即寻求专业领域，比如骨科或儿科。
 
@@ -62,7 +62,7 @@
 >
 > n.博士（学位）
 
-##### That is why he was **thrilled** when he eventually achieved his **doctorate**.
+##### He was **thrilled** when he eventually achieved his **doctorate**.
 
 ## study more and more about less and less.
 
@@ -70,7 +70,7 @@
 >
 > 换句话说，这描述了一种专业化的趋势，个体的学术兴趣或专业领域变得越来越狭窄和深入。在上述句子中，表达的观点是学校通常奖励那些在狭窄领域内进行深入研究的人。
 
-## osmosis
+## osmosis🔊
 
 > **/ɑːzˈmoʊsɪs/**
 >
