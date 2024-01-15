@@ -97,3 +97,33 @@
 ##### Their little **furry** legs are **spinning** **furiously**
 
 它们的小毛腿正在疯狂地旋转
+
+## star
+
+> > 文中是指 “主演”  的意思
+
+## one-liners
+
+> n．一句话笑话：简短、幽默的笑话或评论，通常只有一句话。
+
+##### “In the movie *Jerry Maguire* **starring** *Tom Cruise*, there are many great **one-liners**. ” 
+
+>- "Starring" 是一个动词，用于表示某人在电影、戏剧或其他表演作品中担任主演或主角的角色。在这个句子中，它指的是汤姆·克鲁斯在电影《甜心先生》中扮演主角。
+>- "one-liner" 指的是电影中的经典、独特或引人注目的短小幽默或有趣的台词
+
+## firm
+
+> > 文中是指  “公司” 的意思
+>
+> n.公司，商行；（以顾问医师为首的）医务小组；<英，非正式>（敌视敌对球队球迷的）球迷俱乐部，球迷联盟
+>
+> adj.结实的，坚硬的；牢固的，稳固的；坚定的，坚决的；强有力的；牢牢掌控的；坚挺的；确切的，可靠的；严厉的，强硬的
+>
+> v.使强壮，使坚实；坚挺，稳步上涨；敲定
+>
+> adv.坚定地，坚决地
+
+##### It comes from the scene where Tom Cruise is <u>leaving the **firm**.</u>
+
+> 它出自汤姆·克鲁斯离开公司的场景
+
