@@ -7,6 +7,20 @@
 > - 进行某个活动或计划
 >
 >   > "get under way" 强调了从静止或计划阶段到实际行动或进行阶段的转变。
+>
+> ---
+>
+> "Get under way" 和 "start" 都是表示开始或启动某事的表达方式，但它们在使用上有一些区别。
+>
+> 1. **"Get under way":**
+>    - 这是一个更为正式和详细的表达方式，通常用于描述一项复杂或持续性的活动的开始。
+>    - 例句：The project is finally getting under way after months of planning.
+>
+> 2. **"Start":**
+>    - 这是一个更通用和常见的词汇，可用于各种场合，包括正式和非正式的情境。
+>    - 例句：Let's start the meeting.（让我们开始会议。）
+>
+> 总体而言，两者可以互换使用，但如果你想要更加正式或详细的表达，可能会选择使用"get under way"。
 
 ##### the interview **<u>got under way</u>** immediately
 

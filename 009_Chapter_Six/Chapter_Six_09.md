@@ -153,7 +153,7 @@ NEA拥有巨大的政治影响力。
 >
 > v.领导（参加）运动，从事竞选活动
 
-**Campaigning for** further protection and benefits for these highly skilled and educated professionals.
+##### **Campaigning for** further protection and benefits for these highly skilled and educated professionals.
 
 "为这些高技能和受过教育的专业人士**争取**更多的保护和福利。"
 

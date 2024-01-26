@@ -56,6 +56,8 @@
 
 ##### <u>I’ll never **stoop** so low as to learn how to sell.</u>
 
+"我绝不会屈尊低到学习如何销售。"
+
 > "as" 是一个连词，引导一个比较从句，表示程度或方式。句子的意思是说某人绝不会降低自己的程度，以至于去学习如何销售。
 >
 > "Stoop" 在这里是动词，表示屈尊、低头、降低身份或品位的意思
@@ -80,11 +82,13 @@
 >
 > 简单记忆: the humid morning
 
-##### She <u>**put** the rest of her notes **away**</u> and hurried out through the large glass doors into the **<u>humid</u>** Singapore morning.
+##### She <u>**put** the rest of her notes **away**</u> and <u>hurried out</u> through the large glass doors into the **<u>humid</u>** Singapore morning.
 
 她把其余的笔记放好，匆匆走出大玻璃门，来到潮湿的新加坡早晨。
 
-> "Put...away" 是“放好”或“收起”
+> put...away 是“放好”或“收起”
+>
+> hurry out 	匆忙离开：迅速地离开某个地方或场合。
 
 ## favorable
 
@@ -96,7 +100,7 @@
 
 > n.捧场文章；帐面价值的提高
 >
-> > 文中是指赞扬 或者评价的意思
+> > 文中是指**赞扬** 或者评价的意思
 >
 > ---
 >
@@ -135,7 +139,7 @@
 
 他们距离巨大的财富只差一个技能
 
-> "away from" 表示在某个方面的距离或差距。这里指的是缺少一个特定的技能，只要获得这个技能，他们就可以达到巨大的财富。因此，“一技之差”表达了这个差距。
+> "away from" **表示在某个方面的距离或差距**。这里指的是缺少一个特定的技能，只要获得这个技能，他们就可以达到巨大的财富。因此，“一技之差”表达了这个差距。
 
 ## copywriting
 

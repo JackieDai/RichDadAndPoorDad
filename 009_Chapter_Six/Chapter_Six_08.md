@@ -127,7 +127,13 @@
 >
 > n.锻炼，训练；试验
 
-##### After the **workout** is over, I am always glad (that) I talked myself into going.
+## talk sb into doing 
+
+> 说服某人做某事
+>
+> talk into , 说服
+
+##### After the **workout** is over, I am always glad (that) I **talked** myself **into** going.
 
 锻炼结束后，我总是为我劝说自己去的决定感到高兴。
 

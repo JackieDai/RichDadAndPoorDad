@@ -46,7 +46,7 @@ def caculateWholeFilemdCount():
     # if u want to log ecah detail of secitons, just set the boolen value True
     should_log_detail = False
     # 指定文件夹路径
-    folder_path = '/Users/lingxiao/RichDadAndPoorDad'
+    folder_path = '/Users/lingxiao/Desktop/personal/english/RichDadAndPoorDad'
     # 获取子文件夹列表
     subdirectories = list_subdirectories(folder_path)
 
@@ -98,7 +98,7 @@ def caculateSingleFileCount():
             print(f'😁😁😁 {filename} words count == {word_count}')
 
 if __name__ == "__main__":
-    #  caculateWholeFilemdCount()
-    caculateSingleFileCount()
+     caculateWholeFilemdCount()
+    # caculateSingleFileCount()
 
 

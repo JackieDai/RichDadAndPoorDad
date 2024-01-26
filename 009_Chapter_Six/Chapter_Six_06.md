@@ -64,7 +64,7 @@
 
 ##### One lesson from rich dad that has become **crystal clear** over the past 20 years
 
-从富爸爸那里学到的一个教训，在过去的20年里变得非常清晰。
+从富爸爸那里学到的一个经验，在过去的20年里变得非常清晰。
 
 > lesson 在这个句子中 是指  **经验，教训** 的意思
 
@@ -111,6 +111,8 @@
 > **/ˈfjʊriəsli/**
 >
 > adv.猛烈地；狂暴地
+>
+> > 描述行为或活动的强烈、猛烈的程度
 
 ##### Their little **furry** legs are **spinning** **furiously**
 

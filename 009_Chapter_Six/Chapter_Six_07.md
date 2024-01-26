@@ -40,7 +40,7 @@
 >
 > v.喝（酒等液体）
 
-##### I met with a managing director who **specializes in** designing **lush** retirement plans for top management.
+##### I met with a managing director who <u>**specializes in** designing **lush** retirement plans</u> for top management.
 
 我会见了一位专门为高级管理层设计丰厚退休计划的总经理。
 
@@ -125,7 +125,7 @@
 > 2. **一小撮，一点儿：** 在烹饪中，"pinch" 也可以表示一小撮的量，通常是用手指捏取的量。例如：
 >    - "Add a pinch of salt to the soup."（往汤里加一点盐。）
 >
-> 3. **经济压力或困难：** "In a pinch" 是一个常见的表达，表示在经济压力或困难时。例如：
+> 3. **经济压力或困难：** <u>"In a pinch" 是一个常见的表达，表示在经济压力或困难</u>时。例如：
 >    - "We can use this money in a pinch."（我们可以在困难时使用这笔钱。）
 >
 > 作为动词：
@@ -183,3 +183,4 @@
 ##### While the <u>**specifics** and **stats**</u> **vary**, most research points to the fact that a majority of **bankruptcies** in the U.S. are **a result of** out-of-control medical costs.
 
 尽管具体细节和统计数据各有不同，但大多数研究都指出一个事实，即在美国，多数破产是由不受控制的医疗费用引起的。
+

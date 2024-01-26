@@ -16,6 +16,8 @@
 
 ##### navigate large **freighters**
 
+"操纵大型货轮" 或 "驾驶大型货轮"
+
 > navigate 在这里 不是 导航的意思，而是  **驾驶，操纵**之意
 
 ## emerging
