@@ -8,7 +8,7 @@
 >
 > ---
 >
-> ## diligence
+> ## diligence🔊
 >
 > > **/ˈdɪlɪdʒəns/**
 > >
@@ -18,7 +18,7 @@
 
 > **要么采取行动，要么保持沉默**
 
-After he had done all his **<u>due diligence</u>** and it was time to **<u>put up or shut up</u>**, he told us this story.
+##### After he had done all his **<u>due diligence</u>** and it was time to **<u>put up or shut up</u>**, he told us this story.
 
 > 在他完成了所有尽职调查的工作，并且到了要采取行动或保持沉默的时候，他告诉了我们这个故事。
 >
@@ -95,3 +95,15 @@ After he had done all his **<u>due diligence</u>** and it was time to **<u>put u
 ##### a **somber** Japanese **admiral** says to his cheering subordinates
 
 一位忧郁的日本海军上将对欢呼的下属说
+
+## awaken
+
+> **/əˈweɪkən/**
+>
+> vt.唤醒；唤起；使……意识到
+>
+> vi.觉醒；醒来；意识到
+
+##### I am afraid we have **awakened** a sleeping giant.
+
+恐怕我们已经唤醒了一位沉睡的巨人。

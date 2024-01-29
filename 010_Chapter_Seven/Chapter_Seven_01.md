@@ -23,12 +23,16 @@
 > **/ˈsɪnɪsɪzəm/**
 >
 > n.愤世嫉俗；犬儒主义；冷嘲热讽; 玩世不恭
+>
+> > 表示对他人动机和诚实度持怀疑态度，以及对人类行为的悲观看法。这个词通常用来描述对社会、政治、人际关系等方面的负面态度，表现为对他人动机的质疑、对道德标准的怀疑，以及对事物真实性的悲观看法
 
 ## arrogance
 
 > /ˈærəɡəns/
 >
 > n.傲慢，自大
+>
+> > 通常用来描述一种过分自信、不尊重他人、过于自视甚高的态度。
 
 ## coward
 
@@ -58,7 +62,7 @@
 >
 > n.恐惧（症）
 
-##### My rich dad understood **phobias** about money. 
+##### My rich dad understood <u>**phobias** about</u> money. 
 
 ## rhyme
 
@@ -69,6 +73,9 @@
 > v.押韵，成韵；使押韵，使成韵；<文>写韵文，作诗
 
 ##### So his solution to the phobia of losing money was this little **rhyme**: “If you hate risk and worry, start early.
+
+> 这段文字描述了对失去金钱的恐惧的解决方案，其中提到了一首小韵律："If you hate risk and worry, start early.";如果你讨厌风险和担忧，就要尽早开始行动。
+>
 
 ## purchase
 

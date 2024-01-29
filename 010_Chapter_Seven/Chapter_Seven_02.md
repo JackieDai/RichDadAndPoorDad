@@ -30,9 +30,11 @@
 
 然而，如果这24美元以每年8%的利率进行投资
 
-## spectacular
+## spec<u>ta</u>cular
 
 > **/spekˈtækjələr/**
+>
+> > 形容令人印象深刻、壮观或引人入胜的事物。这个词通常用于描述引起注意或惊叹的景象、表演、场面等。
 >
 > adj.壮观的，令人惊叹的；惊人的，突如其来的
 >
@@ -56,7 +58,7 @@
 >
 > n.光亮，光泽；擦亮
 
-##### “someone will **shine** a light on them”
+##### Someone will **shine** a light on them
 
 有人会照亮他们的
 
@@ -99,3 +101,5 @@
 > n.大话，夸耀之词；勃莱格牌戏（简化的扑克牌戏）
 
 ##### They’re proud when they win, and they **brag** when they lose.
+
+他们在赢得时感到自豪，而在输掉时吹嘘。

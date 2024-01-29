@@ -4,11 +4,11 @@
 
 > **/ˈduːpleks/**
 >
-> n.成对物；连栋式的两栋住宅，联式房屋；占两层楼的公寓套房，复式住宅；半独立式房屋；双股多核苷酸分子
+> n.成对物；连栋式的两栋住宅，联式房屋；占两层楼的公寓套房，**复式住宅**；半独立式房屋；双股多核苷酸分子
 >
 > adj.二倍的，双重的；复式的，占两层楼的；双层的；双螺旋的；双面打印的；（信号）双向的
 
-##### Texans have a saying, ‘If you’re going to go broke, go big.’ You don’t want to admit you went broke over a **duplex**.
+##### Texans have a saying, ‘If you’re going to go broke, go big.’ You don’t want to admit <u>you went broke over a **duplex**.</u>
 
 “德克萨斯人有一句谚语，‘如果你要破产，就要破产得猛烈。’ 你可不想承认你因为一座复式公寓而破产。”
 
@@ -56,7 +56,7 @@
 >
 > n.拥抱；接受，信奉
 
-##### “ It’s a **mindset**, a goal to which we can all aspire, and that motivates us to **embrace** our mistakes, learn from them, and keep our sights focused on winning.”
+##### It’s a **mindset**, a goal to which we can all aspire, and that motivates us to **embrace** our mistakes, learn from them, and keep our sights focused on winning.
 
 "这是一种心态，一个我们都可以追求的目标，激励我们接受自己的错误，从中吸取教训，并保持目光聚焦在获胜上。"
 
@@ -80,9 +80,19 @@
 
 ##### They chose to die instead of **surrendering**.
 
-## inspire
+## inspiring
 
-> **/ɪnˈspaɪər/**
+> **/ɪnˈspaɪərɪŋ/**
+>
+> adj.
+> 鼓舞人心的，有激励作用的
+>
+> v.
+> 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）（inspire 的现在分词形式）
+>
+> ---
+>
+> **inspire	/ɪnˈspaɪər/**
 >
 > v.激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）；引起，导致；吸气，吸入
 
@@ -90,11 +100,13 @@
 
 "这是一个值得研究的鼓舞人心的故事。"
 
-## nonetheless
+## <u>none</u>theless🔊
 
 > /ˌnʌnðəˈles/
 >
 > adv.然而，尽管如此
+>
+> none+the+less
 
 ##### **Nonetheless**, it’s still a tragic military defeat.
 
@@ -103,6 +115,14 @@
 ## get one’s butts kicked
 
 > **俚语表达，意味着某人经历了严重的失败、挫折或打击。**
+>
+> ---
+>
+> **butt	/bʌt/**
+>
+> n.烟蒂，烟头；（武器或工具）粗端；笑柄；<美，非正式>屁股；（头的）顶撞；大桶；枪靶，靶场；（尤指接近地面部分的）树干
+>
+> v.用头（或角）顶，撞；（使）毗连，相邻
 
 ##### “They <u>got their butts kicked.</u>” 
 
@@ -112,9 +132,11 @@
 
 > **/ʃaʊt/**
 >
+> > 文中是指 **高喊 大叫** 的意思
+>
 > vi.叫嚷，大声说；呼叫，喊叫；呼唤，呼喊（以引起注意）；大声吼叫使……住口（或讲话被淹没）（shout sb. down）；将嗓子喊哑；<英> 张扬（shout about）；明确无误地指出（或表示）；<澳新，非正式>（在酒吧、餐厅等）请人喝饮料（或吃东西）；使用大写字母（写电子邮件，表示生气）
 >
 > n.（愤怒、害怕、激动等的）呼喊，喊叫声；<英，非正式> 请客的酒，轮到买酒请客；<英，非正式> 紧急召集消防队（或警察）的叫喊声
 
-##### “They still **shout**, ‘Remember the Hero!’”
+##### They still **shout**, ‘Remember the Hero!’
 
