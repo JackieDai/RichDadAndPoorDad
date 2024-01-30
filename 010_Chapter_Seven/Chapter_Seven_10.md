@@ -19,6 +19,8 @@
 > **/ˈfaɪnər/**
 >
 > adj.更出色的；更好的；更健康的；更优质的；更纤细的；更锋利的
+>
+> > "Finer" 是 "fine" 的比较级形式，表示比较高级、更精致或更出色。
 
 ##### While they desire to have the **finer** things that life offers, most have been conditioned subconsciously to say, “I can’t have that,” or “I’ll never be able to afford that.
 
@@ -56,11 +58,33 @@
 
 内疚比贪婪更糟糕，因为内疚剥夺了身体的灵魂。
 
-## puny
+## puny🔊
 
 > **/ˈpjuːni/**
 >
 > adj.弱小的；微不足道的；微小的
+>
+> ---
+>
+> "Puny" 是一个形容词，用来描述某物或某人相对较小、微弱、无力或不重要。这个词通常带有一种轻蔑或贬低的语气。以下是一些 "puny" 的用法：
+>
+> 1. **体积小或力量弱**:
+>    - The wrestler easily defeated his puny opponent.
+>      （这位摔跤手轻松地击败了他瘦弱的对手。）
+>
+> 2. **微弱的声音、力量或影响**:
+>    - His puny attempts at negotiation were quickly dismissed.
+>      （他微弱的谈判尝试很快被拒绝了。）
+>
+> 3. **不重要或微不足道**:
+>    - Don't waste your time on such puny matters.
+>      （不要在这种微不足道的事情上浪费时间。）
+>
+> 4. **体型小而显得弱小**:
+>    - The bird looked puny compared to the other birds in the forest.
+>      （与森林里的其他鸟相比，这只鸟看起来很瘦小。）
+>
+> "Puny" 这个词常用于形容对比中的相对弱小或微弱一方，也可用来表示对某事物的轻视或贬低。
 
 ## skinny
 
@@ -86,78 +110,3 @@
 
 他并没有直接回答我，而是想让我像往常一样通过示范来学习。
 
-## owe
-
-> **/oʊ/**
->
-> v.欠（钱），负账；应该做，应给予；欠（人情），应该感激；归因于，归功于
-
-##### So it is the fear of the government or other people you **owe** money to that motivates you?
-
-那么是对政府或其他债权人的恐惧驱使着你吗？
-
-## weakling
-
-> **/ˈwiːklɪŋ/**
->
-> n.虚弱的人；懦怯者
->
-> adj.虚弱的；懦弱的
-
-##### You know the story of the 98-pound **weakling** who gets sand kicked in his face?
-
-你知道那个98磅的体弱者被人在脸上扔沙的故事吗？
-
-## landlord
-
-> **/ˈlændlɔːrd/**
->
-> n.房东，地主；<英>（客栈、酒吧或出租公寓的）店主，老板
-
-##### **Landlords** push me around all my life
-
-房东一直在我生活中欺负我。
-
-## bluster
-
-> **/ˈblʌstər/**
->
-> 咄咄逼人
->
-> v.咆哮，气势汹汹地说（但效果不大）；（风暴）呼啸；（雨）倾泻
->
-> n.气势汹汹的话
-
-##### They try to **bluster** their way through the discussion. 
-
-他们试图通过咄咄逼人的方式进行讨论。
-
-## spout off
-
-> 夸夸其谈：以自夸或傲慢的方式说话。
->
-> 冗长乏味地说话：以冗长乏味或令人恼火的方式说话。
->
-> 冒失地说话：以冒失、不受欢迎或令人不快的方式说话。
->
-> ---
->
-> **spout	/spaʊt/**
->
-> n.管口，容器嘴；（急速喷出的）水流，水柱；（鲸喷出的）水气柱；出水管，排水沟；（由高向低的）运货斜槽，滑道；<史>（当铺中将抵押品传送到存放处的）升降车
->
-> v.喷涌；滔滔不绝地说，喋喋不休地说；（鲸鱼，海豚）从呼吸孔中喷出水柱
-
-## pitch
-
-> **/pɪtʃ/**
->
-> > 文中是指  **推销用语**  的意思
->
-> n.<英>体育场地，球场；程度，强度；音准，音高；推销用语；投球；沥青，柏油；（船或飞机的）颠簸；倾斜度，高度；<英>摊位，（街头艺人的）表演场所；（高尔夫）下旋高球；<英>露营地；（技）螺距，节距
->
-> v.扔，抛，掷；（棒球中）投（球）；击地，（使球）定点落地；重跌，坠落；（船或飞机）颠簸；把……定于某水平；使（产品）针对，面向；推销；为……定音高；向下倾斜；扎，搭建；（高尔夫）击下旋高球；用石头铺（路）；（酿酒用语）给（麦芽汁）加酵母；<古或西印度>盖上沥青，涂上沥青
-
-##### Most people in the money industry are just <u>**spouting off**</u> sales **pitches** like used-car salesmen.
-
-金融行业中的大多数人只是喋喋不休地宣传销售词汇，就像二手车销售员一样。

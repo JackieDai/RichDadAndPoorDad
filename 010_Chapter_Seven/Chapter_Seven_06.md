@@ -20,7 +20,7 @@
 
 ##### who will remind us of our **shortcomings**.
 
-## immobilize
+## immobilized
 
 > **/ɪˈmoʊbəlaɪzd/**
 >
@@ -44,7 +44,7 @@
 
 ##### We watch life passing by as we sit <u>**immobilized** with a cold **knot** in our body.</u>
 
-我们坐在那里，身体仿佛被冰冷的结所束缚，眼看着生活悄然流逝。
+我们坐在那里，身体仿佛 被冰冷的结 所束缚，眼看着生活悄然流逝。
 
 ## condition
 
@@ -90,6 +90,6 @@
 >
 > n.（核爆炸后的）放射性坠尘；（工业事故或生产过程中产生的）空气悬浮物；后果，余波
 
-##### Lyne **recalls** the time during the 1950s when <u>the **threat** of</u> nuclear war was so **prevalent** in the news that people began building **fallout** shelters and storing food and water. 
+##### Lyne **recalls** the time during the 1950s when <u>the **threat** of</u> nuclear war was so **prevalent** in the news that people began building <u>**fallout** shelters</u> and storing food and water. 
 
 莱恩回忆起20世纪50年代，当时核战争的威胁在新闻中非常普遍，以至于人们开始建造防核避难所，储备食物和水。

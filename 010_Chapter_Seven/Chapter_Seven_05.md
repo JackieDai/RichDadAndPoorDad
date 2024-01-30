@@ -8,13 +8,11 @@
 >
 > v.保持平衡；权衡，斟酌；使收支平衡；均衡，抵消
 
-##### But playing it safe and balanced on your investment portfolio is not the way successful investors play the game.
+##### But playing it <u>safe and **balanced**</u> on your investment portfolio is not the way successful investors play the game.
 
 但是在投资组合上保守和平衡并不是成功投资者玩这场游戏的方式。
 
 ## temper
-
-
 
 > **/ˈtempər/**
 >
@@ -158,7 +156,7 @@
 >
 > n.云，云朵；云状物，一团；阴影，令人忧虑的事；皱眉，沮丧的表情
 >
-> v.把……搞糊涂，使难以理解；破坏，给……蒙上阴影，弥漫；（使）显得阴沉；模糊不清，（使）起雾；布满云；使（房间、天空等）烟雾缭绕，使尘土飞扬
+> v.把……搞糊涂，使难以理解；<u>破坏，给……蒙上阴影，弥漫</u>；（使）显得阴沉；模糊不清，（使）起雾；布满云；使（房间、天空等）烟雾缭绕，使尘土飞扬
 
 ##### We all <u>get a little **chicken**</u> when fear and doubt <u>**cloud** our thoughts.</u>
 

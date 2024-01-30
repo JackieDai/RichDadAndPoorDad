@@ -70,8 +70,26 @@
 > - "often" 是一个副词，表示频繁或经常性。
 > - "parents find ways" 表示动作的执行，即父母找到方法。
 > - "of suppressing that desire with guilt" 这一部分是一个介词短语，其中 "of" 引导介词短语，"suppressing" 是动词的现在分词，表示一种方法或手段。整个短语说明了父母是通过让孩子感到内疚的方式来压抑那种欲望。
+>
+> ---
+>
+> 解释 often parents , 为啥不是parents often?
+>
+> 两种表达方式都是可以接受的，但它们可能会强调句子中不同的成分，或者在语气上有一些微妙的区别。
+>
+> 1. **"Often parents"**:
+>    - 这种结构强调频率，即父母经常采取某种行为。这可能表明这是一种常见的现象，父母经常采用这种方式来抑制欲望。
+>
+>      例句：Often parents find ways of suppressing that desire with guilt.
+>
+> 2. **"Parents often"**:
+>    - 这种结构强调父母作为行为主体，即父母是采取某种行为的主体。这可能表明在这个情境中，父母是主动的，而不仅仅是频繁发生这种行为。
+>
+>      例句：Parents often find ways of suppressing that desire with guilt.
+>
+> 两者之间的选择通常取决于强调句子中哪个成分更为重要，或者说话者想传达的信息。在许多情况下，这种差异并不会对句子的整体理解产生显著影响。
 
-## sacrificing
+## <u>sa</u>crificing
 
 > **/ˈsækrɪfaɪsɪŋ/**
 >
@@ -93,7 +111,7 @@
 
 > 搁置；
 >
-> **留出**：将某物放在一边以备将来使用；将时间、金钱等留出来以备将来使用。
+> **留出**：<u>将某物放在一边以备将来使用；将时间、金钱等留出来以备将来使用。</u>
 >
 > ---
 >

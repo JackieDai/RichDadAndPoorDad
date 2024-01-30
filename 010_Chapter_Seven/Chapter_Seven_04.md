@@ -62,6 +62,8 @@
 
 ##### losing a ball or a **tournament** provides the inspiration to be better
 
+失去一个球或一场比赛为我们提供了成为更好的灵感。
+
 ## somber
 
 > **/ˈsɑːmbər/**
@@ -92,7 +94,7 @@
 >
 > v.授某人以圣职；命令（ordain 的另一不常用形式）
 
-##### a **somber** Japanese **admiral** says to his cheering subordinates
+##### a **somber** Japanese **admiral** says to his cheering **subordinates**
 
 一位忧郁的日本海军上将对欢呼的下属说
 

@@ -49,7 +49,7 @@
 >
 > v.诉诸，求助于；<正式>常去，（成群结队地）去
 
-##### After identifying a unit in a **resort** community, we called an agent who sold it to him that afternoon.
+##### After identifying a unit <u>in a **resort** community</u>, we called an agent who sold it to him that afternoon.
 
 在确认了度假社区的一个单元后，我们打电话给一位下午就卖给他这个单元的经纪人。
 
@@ -115,6 +115,7 @@
 >
 > v.实施，执行（法律、规章）；强迫，迫使；<旧>竭力使人接受（要求，论点）
 
-##### The certificates are **secured** by real estate and **enforced** by state law, which is also better than most banks.
+##### <u>The certificates are **secured** by real estate</u> and <u>**enforced** by state law</u>, which is also better than most banks.
 
 这些证书由房地产担保，并受州法律执行，这也比大多数银行更可靠。
+
