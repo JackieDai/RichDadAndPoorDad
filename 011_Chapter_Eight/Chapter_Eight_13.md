@@ -72,3 +72,75 @@
 ##### I want **contacts**, and I help someone else get **contacts**
 
 我想要建立联系，而我帮助别人建立联系。
+
+## pot-bellied stove
+
+> 圆肚取暖炉
+>
+> ---
+>
+> **bellied	/ˈbelɪd/**
+>
+> adj.大肚子的；有腹的；腹部……形的
+>
+> v.隆起；（腹部着地）爬行（belly 的过去式和过去分词）
+>
+> ---
+>
+> **belly	/ˈbeli/**
+>
+> n.（人或动物的）腹部，肚子；胃，胃口；（物体的）腹状部分；腹部猪肉切；（弦乐器的）面板
+>
+> v.鼓起，张满
+>
+> ---
+>
+> **stove	/stoʊv/**
+>
+> n.（取暖或烹饪用的）炉子，火炉；厨灶，炉头；窑；<英>温室
+>
+> v.（为了喷涂表层而）在炉中对（物体）进行热处理；（用硫磺等烟雾）烟熏，消毒（房屋）；<英>在温室中加速（植物）生长，培植（植物）
+>
+> v.击穿；挡开，延缓（stave 的过去式和过去分词）
+
+##### He is yelling at <u>**the pot-bellied stove**</u>, “When you give me some heat, then I’ll put some wood in you!
+
+他对着那个火炉大声喊道：“等你给我点热量，我就给你加点柴！”
+
+## break free
+
+> 暗示了一种**突破、解脱**的状态
+
+## torrent
+
+> **/ˈtɔːrənt/**
+>
+> n.（尤指似乎无法控制的）狂潮，迸发；洪流，激流；（Torrent）（西、法、美）托伦特（人名）
+>
+> v.在急流中移动；通过比特流下载或上传文件
+>
+> adj.像急流的
+
+## bounty
+
+> **/ˈbaʊnti/**
+>
+> n.慷慨；丰富；奖励金；赠款
+>
+> vt.发给……奖金等；为……而发给赏金
+>
+> vi.以赏金等形式发放
+
+##### Often just the process of thinking of what I want, and how I could give that to someone else, breaks free a **torrent** of **bounty**.
+
+"往往只是思考我想要什么，以及我如何能将那份心意传递给别人的过程，就会释放出一股丰富的慷慨。"
+
+> "break free" 表达了一种解放、释放的意味。具体来说，这里指的是通过思考自己的需求以及如何将这些需求分享给他人的过程，能够激发出丰富的慷慨或好处。"Break free" 这个短语暗示了一种突破、解脱的状态，就像思考的过程能够解放一种慷慨的能量或丰盛的回报。
+
+## retrospect
+
+> **/ˈretrəspekt/**
+>
+> n.回顾，回想
+>
+> v.回顾，追溯
