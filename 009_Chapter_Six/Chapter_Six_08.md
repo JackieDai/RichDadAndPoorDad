@@ -4,7 +4,7 @@
 
 > **/ˈhæs(ə)l/**
 >
-> > "hassle" 描述了一种令人不快或令人烦恼的经历、事情或状态。
+> > "hassle" 描述了一种令人不快或令人烦恼的经历、事情或状态。；强调的是一种烦扰或不便的感觉，常用于描述需要花费额外精力或时间，使事情变得更加复杂或让人感到困扰的情况
 >
 > n.<非正式>麻烦，困难；<非正式>争论，争吵；<非正式>起哄，骚扰
 >
@@ -65,7 +65,7 @@
 >
 > v.（用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫
 
-##### But for those of you who might be **on the fence** when it comes to the idea of working to learn something new
+##### <u>But for those of you</u> who might be **on the fence** when it comes to the idea of working to learn something new
 
 对于那些在考虑学习新事物的想法时可能犹豫不决的人，
 
@@ -104,6 +104,20 @@
 >    - "The unknown is always a source of dread."（未知总是一种恐惧的根源。）
 >
 > 总体而言，"dread" 表达了一种强烈的害怕或对某事物的不安全感。它通常用于描述心理上的负面情绪。
+>
+> ---
+>
+> "Dread" 和 "afraid" 都是与害怕、恐惧相关的词汇，但它们在使用上有一些区别。
+>
+> 1. **Dread (害怕，畏惧)：**
+>    - "Dread" 表示一种深深的、强烈的害怕或恐惧感，通常伴随着对某事可能发生的可怕或不愉快的事情的预期。
+>    - 例如："I dread going to the dentist because of the pain."（我害怕去看牙医，因为害怕疼痛。）
+>
+> 2. **Afraid (害怕)：**
+>    - "Afraid" 是一个更普遍的词，用于表示一般的害怕或恐惧感。它可能不如"dread"那么强烈，更可能是对一般或具体的威胁感到不安。
+>    - 例如："I'm afraid of spiders."（我害怕蜘蛛。）
+>
+> 总体而言，"dread" 更强调对未来可能发生的令人不快事件的深刻恐惧，而"afraid"则是表示一般性的害怕感。"Dread" 常常与对未来的担忧和预期相关，而"afraid" 可以描述更广泛的害怕情感。
 
 ## in motion 
 
@@ -126,6 +140,26 @@
 > **/ˈwɜːrkaʊt/**
 >
 > n.锻炼，训练；试验
+>
+> ---
+>
+> "Workout" 是一个名词，用来指代锻炼或运动的活动。这个词通常用于描述身体锻炼的过程，包括各种形式的体育锻炼、健身运动或锻炼计划。
+>
+> **一些常见的 "workout" 用法示例：**
+>
+> 1. "I go to the gym three times a week for a workout."
+>    （我每周去健身房三次进行锻炼。）
+>
+> 2. "She has a strict workout routine that includes cardio and strength training."
+>    （她有一个严格的锻炼计划，包括有氧运动和力量训练。）
+>
+> 3. "After a long day at work, I like to do a quick home workout to stay active."
+>    （在工作了一整天后，我喜欢做一些简单的家庭锻炼来保持活力。）
+>
+> 4. "Yoga is a great workout for both the body and the mind."
+>    （瑜伽是对身体和心灵都很好的锻炼。）
+>
+> "Workout" 作为名词，可以用于表示一段时间内的身体锻炼活动，涵盖了多种不同形式的运动。可以根据具体语境使用，描述个人的运动习惯、健身计划或日常锻炼。
 
 ## talk sb into doing 
 
@@ -160,6 +194,27 @@
 > n.优美，优雅；文雅，高雅；风度，体面；恩宠，恩典；饭前感恩祷告；宽限期，延缓期；大人（用于对公爵、公爵夫人或大主教的尊称）
 >
 > v.为增色，装饰；使增光，使荣耀
+>
+> ---
+>
+> "Grace" 是一个多义的词，可以用作名词、动词或形容词，具体用法取决于上下文。以下是 "grace" 的一些常见用法：
+>
+> 1. **名词用法：**
+>    - "Grace" 作为名词表示优雅、风度、宽恕或神圣的恩典。
+>      - 例如："She moved with grace and elegance."（她行动得体，优雅大方。）
+>      - 例如："The dancer performed with grace and precision."（舞者表演得优雅而精准。）
+>      - 例如："May we say grace before our meal?"（我们可以在用餐前说恩典吗？）
+>
+> 2. **动词用法：**
+>    - "Grace" 作为动词意味着赋予优雅、为...增色，或表示给予某人宽恕。
+>      - 例如："Her presence graced the event."（她的出现为这个活动增色。）
+>      - 例如："He graciously forgave her for the mistake."（他慷慨地原谅了她的错误。）
+>
+> 3. **形容词用法：**
+>    - "Graceful" 是 "grace" 的形容词形式，表示优雅的、得体的。
+>      - 例如："The swan glided across the water with a graceful motion."（天鹅以一种优雅的动作滑过水面。）
+>
+> 总的来说，"grace" 是一个有着多重含义的词汇，可用于描述美、宽恕、庄重、神圣等不同的概念。在具体语境中，可以根据需要选择合适的用法。
 
 ## governor
 

@@ -9,6 +9,28 @@
 > v.理解，懂
 >
 > adj.<非正式>聪慧的，有经验的
+>
+> ---
+>
+> "Savvy" 是一个形容词，通常用来形容对某事有经验、了解、精明或懂行的人。它也可以用作名词，表示智慧、机智或实际的见识。
+>
+> ### 作为形容词：
+>
+> 1. **精明的、有见识的：** "She is a savvy investor who knows how to navigate the stock market."
+>    （她是一位精明的投资者，懂得如何在股市中操盘。）
+>
+> 2. **有经验的、熟知的：** "The savvy entrepreneur quickly adapted to the changing market trends."
+>    （有经验的企业家迅速适应了不断变化的市场趋势。）
+>
+> ### 作为名词：
+>
+> 1. **机智或实际的见识：** "His business savvy helped him make wise decisions in challenging situations."
+>    （他在商业上的机智帮助他在困境中做出明智的决策。）
+>
+> 2. **理解或洞察力：** "She has a savvy for understanding customer needs and preferences."
+>    （她对理解客户需求和偏好具有洞察力。）
+>
+> "**Savvy**" 这个词强调对于某领域的深刻理解和实际经验，通常与智慧、机智、熟知相关。
 
 ##### But a **savvy** investor knows that the seemingly worst of times is actually the best of times to make money.
 

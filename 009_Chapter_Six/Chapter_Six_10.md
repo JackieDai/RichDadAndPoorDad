@@ -21,12 +21,33 @@
 > n.配偶
 >
 > v.和……结婚
+>
+> ---
+>
+> "Spouse" 是一个名词，用于指代一个人的配偶，即丈夫或妻子。这个词通常用于正式或文学性的语境中，以更为尊重或庄重的方式表示对夫妻关系的称呼
 
 ##### The ability to sell—to communicate to another human being, <u>be it</u> a customer, employee, boss, **spouse**, <u>or</u> child—is the base skill of personal success.
 
 销售的能力——与另一个人沟通，无论是客户、员工、老板、配偶还是子女——是个人成功的基本技能。
 
-> **Be it..., or...** 无论是,,,还是,,, [固定搭配]
+> **be it..., or...** 无论是,,,还是,,, [固定搭配]
+>
+> ---
+>
+> "Be it ... or ..." 是一个表达方式，用来引导一个条件、选择或例子，强调无论是哪种情况，都是适用的。这个结构通常用于正式或文学性的语境，以表示一种广泛的可能性或选择。
+>
+> 例子：
+>
+> 1. "Be it rain or shine, the event will take place as scheduled."
+>    （无论是下雨还是晴天，活动都将按计划进行。）
+>
+> 2. "Be it success or failure, we will face the outcome together."
+>    （无论是成功还是失败，我们将共同面对结果。）
+>
+> 3. "Be it a small gesture or a grand celebration, your presence is what matters."
+>    （无论是小小的表示还是盛大的庆祝，你的出席才是最重要的。）
+>
+> 这个结构强调了无论给定的两种情况如何，都会采取相同的行动或面对相同的态度。这是一种在表达中提供选择或强调条件时常用的形式。
 
 ## negotiate
 
@@ -65,6 +86,12 @@
 > adj.（身体或精神）脆弱的，易受伤的；（事物、人或地方）易受攻击的，易受伤害的；易患病的；（桥牌）有局方的，有身价的
 >
 > > "vulnerable" 描述了一种容易受到伤害或影响的状态，可以涉及身体、情感、系统或其他方面。
+>
+> ---
+>
+> **vulnus	/ˈvʌlnəs/**
+>
+> n.创伤；伤口
 
 ##### Soon after he was **<u>locked out of</u>** government work, he found out <u>how **vulnerable** he really was professionally.</u>
 
@@ -97,6 +124,32 @@
 > adj.可怜的，令人同情的
 >
 > > "pitiful" 是一个形容词，用于描述令人感到同情或惋惜的事物，通常指引起怜悯、悲伤或遗憾的情况
+>
+> ---
+>
+> 来自pity,可怜，同情。
+>
+> ---
+>
+> "Pitiful" 是一个形容词，用来描述令人怜悯、可怜、悲惨或令人遗憾的情境、状态或个体。以下是一些关于 "pitiful" 的用法示例：
+>
+> 1. **描述个体或动物的状态：**
+>    - *The abandoned puppy looked so pitiful, shivering in the cold rain.*
+>      （被遗弃的小狗在寒冷的雨中颤抖，看起来十分可怜。）
+>
+> 2. **用于表示对某事的遗憾或同情：**
+>    - *It's pitiful that some people still don't have access to basic healthcare.*
+>      （一些人仍然无法获得基本医疗保健，这是令人遗憾的。）
+>
+> 3. **用于形容某事的状况或状态：**
+>    - *The condition of the old house was pitiful, with broken windows and a leaky roof.*
+>      （这座老房子的状况很糟糕，窗户破裂，屋顶漏水，令人心生怜悯。）
+>
+> 4. **用于表示对某人行为或表现的不满：**
+>    - *His excuses for not completing the project were pitiful and lacked credibility.*
+>      （他对于未完成项目的借口令人生厌，缺乏可信度。）
+>
+> 请注意，"pitiful" 这个词有时可能带有一些贬义，因此在使用时要注意语境，以免冒犯他人。
 
 ##### Their earnings are **pitiful**. 
 
@@ -106,7 +159,7 @@
 
 > **/ˈɡlerɪŋ/**
 >
-> adj.耀眼的；瞪视的；炯炯的; 显眼的、引人注目的
+> adj.耀眼的；瞪视的；炯炯的; **显眼的、引人注目的**
 >
 > ---
 >
@@ -182,7 +235,7 @@
 >      （请为我把门保持开着。）
 >
 > 2. **举办、进行：**
->    - *例句：The company will hold a meeting next week.*
+>    - *例句：The company will **hold** a meeting next week.*
 >      （公司将于下周举行一次会议。）
 >
 > 3. **拥有、占有：**
@@ -223,50 +276,49 @@
 
 ## over the course of
 
-> 	**在...期间**
+> 在...期间
 >
->
-> 	---
->
-> 	"course" 意指一段时间，一系列事件或活动的发展过程或者进程。
->
-> 	---
->
-> 	"Course" 是一个多义词，具有多种用法。以下是一些常见的用法：
->
-> 	1. **课程、学科：**
-> 	   - *例句：I am taking a biology course this semester.*
-> 	     （我这学期正在修一门生物学课程。）
->
-> 	2. **进程、过程：**
-> 	   - *例句：The construction of the building is on course and expected to finish on time.*
-> 	     （建筑物的施工正在进行中，预计将按时完成。）
->
-> 	3. **路径、路线：**
-> 	   - *例句：The ship altered its course to avoid the storm.*
-> 	     （船只改变了航线以避开风暴。）
->
-> 	4. **一餐的一道菜：**
-> 	   - *例句：For the main course, I ordered the grilled salmon.*
-> 	     （作为主菜，我点了烤鲑鱼。）
->
-> 	5. **一系列事件或行为：**
-> 	   - *例句：The meeting took its course as planned.*
-> 	     （会议按照计划进行。）
->
-> 	6. **流程、流动：**
-> 	   - *例句：The river follows a winding course through the valley.*
-> 	     （河流通过山谷蜿蜒流动。）
->
-> 	7. **方向、趋势：**
-> 	   - *例句：The economy seems to be on a positive course.*
-> 	     （经济似乎呈现出积极的趋势。）
->
-> 	8. **一套餐饮：**
-> 	   - *例句：The chef prepared a seven-course meal for the special occasion.*
-> 	     （厨师为这个特殊场合准备了一顿七道菜的餐点。）
->
-> 	"Course" 的确切含义取决于上下文，因此在理解时需要考虑周围的语境。
+>---
+> 
+>"course" 意指一段时间，一系列事件或活动的发展过程或者进程。
+> 
+>---
+> 
+>"Course" 是一个多义词，具有多种用法。以下是一些常见的用法：
+> 
+>1. **课程、学科：**
+>    - *例句：I am taking a biology course this semester.*
+>      （我这学期正在修一门生物学课程。）
+> 
+>2. **进程、过程：**
+>    - *例句：The construction of the building is <u>**on course**</u> and expected to finish on time.*
+>      （建筑物的施工正在进行中，预计将按时完成。）
+> 
+>3. **路径、路线：**
+>    - *例句：The ship altered its course to avoid the storm.*
+>      （船只改变了航线以避开风暴。）
+> 
+>4. **一餐的一道菜：**
+>    - *例句：For the main course, I ordered the grilled salmon.*
+>      （作为主菜，我点了烤鲑鱼。）
+> 
+>5. **一系列事件或行为：**
+>    - *例句：The meeting took its course as planned.*
+>      （会议按照计划进行。）
+> 
+>6. **流程、流动：**
+>    - *例句：The river follows a winding course through the valley.*
+>      （河流通过山谷蜿蜒流动。）
+> 
+>7. **方向、趋势：**
+>    - *例句：The economy seems to be on a positive course.*
+>      （经济似乎呈现出积极的趋势。）
+> 
+>8. **一套餐饮：**
+>    - *例句：The chef prepared a seven-course meal for the special occasion.*
+>      （厨师为这个特殊场合准备了一顿七道菜的餐点。）
+> 
+>"Course" 的确切含义取决于上下文，因此在理解时需要考虑周围的语境。
 
 ##### **over the course of** their conversation
 
@@ -276,7 +328,7 @@
 >
 > n.核心成员；铁杆分子
 
-##### both a hard-core capitalist who loves the game of making money
+##### both a <u>**hard-core**</u> capitalist who loves the game of making money
 
 > 他们都是热衷赚钱游戏的铁杆资本家
 

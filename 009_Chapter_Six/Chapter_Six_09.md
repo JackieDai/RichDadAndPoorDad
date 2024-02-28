@@ -17,6 +17,10 @@
 > v.致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼
 >
 > <u>dedicate to</u> 献致力于奉献
+>
+> ---
+>
+> 词根词缀： de-加强意义 + -dic-说,讲 + -ate动词词尾
 
 ##### Because my life would <u>be **dedicated** to</u> learning a skill that was valuable in only one industry.
 
@@ -24,8 +28,34 @@
 
 ## push out
 
-> 1. 强迫离开
-> 2. 挤出
+> 文中是 赶出，解雇之意
+>
+> ---
+>
+> "Push out" 是一个短语，可以有多种用法，具体取决于上下文。以下是一些常见的用法：
+>
+> 1. **推迟或推后：**
+>    - "The project deadline was pushed out by a week due to unforeseen circumstances."
+>      （由于意外情况，项目的截止日期被推迟了一周。）
+>
+> 2. **排斥或赶走：**
+>    - "The company decided to **<u>push out</u>** employees who were not performing well."
+>      （公司决定赶走表现不佳的员工。）
+>
+> 3. **推出产品或服务：**
+>    - "The tech company plans to push out a new software update next month."
+>      （这家科技公司计划在下个月推出一次新的软件更新。）
+>
+> 4. **用力推动或挤出：**
+>    - "He pushed out the heavy door with all his strength."
+>      （他用尽全力推开那扇沉重的门。）
+>
+> 5. **产生或形成：**
+>    - "The factory is expected to push out thousands of units per day."
+>      （预计该工厂每天将生产出数千个单位。）
+>
+> 这些例子展示了 "push out" 在不同语境下的多种用法。根据具体语境，这个短语可以表示推迟、排斥、推出产品、用力推动等不同的意义。
+
 
 ##### If I were **pushed out** of that industry, my life’s skills would not be as valuable to another industry.
 
@@ -50,6 +80,32 @@
 > n.破布；敲打；影响力；势力
 >
 > vt.给……打补钉；猛击
+>
+> ---
+>
+> "Clout" 是一个多义的词，具有多种用法，主要取决于上下文。以下是一些常见的用法：
+>
+> 1. **权力或影响力：**
+>    - "She has a lot of clout in the business world, and her opinion is highly valued."
+>      （她在商界有很大的影响力，她的意见受到高度重视。）
+>
+> 2. **力量或打击：**
+>    - "The boxer delivered a powerful punch with all his clout."
+>      （拳击手用尽全力给出了一记有力的拳击。）
+>
+> 3. **威胁或打击：**
+>    - "The scandal had the potential to clout his political career."
+>      （这个丑闻有可能对他的政治生涯造成威胁。）
+>
+> 4. **突然的打击或冲击：**
+>    - "The storm clouted the coastal areas, causing significant damage."
+>      （暴风雨给沿海地区带来了突如其来的打击，造成了重大损害。）
+>
+> 5. **瞄准或打击：**
+>    - "The archer clouted the target right in the center."
+>      （射箭手瞄准目标正中心进行了射击。）
+>
+> 这些例子显示了 "clout" 在不同语境下的多种用法。通常，这个词可以表示权力、影响力、打击、力量等概念。选择正确的含义通常取决于上下文以及表达者的意图。
 
 ##### “The NEA has tremendous political **clout**.”
 
@@ -129,7 +185,7 @@ NEA拥有巨大的政治影响力。
 >
 > 1. 原因，起因：导致某事发生的事物、事件或情况。
 >
-> 2. 事业，目标：为之奋斗、支持或捍卫的原则、目标或事业。
+> 2. **事业，目标：为之奋斗、支持或捍卫的原则、目标或事业。**
 >
 > v．导致，引起：使某事发生或产生某种结果。
 
@@ -152,8 +208,12 @@ NEA拥有巨大的政治影响力。
 > n.（有计划的）活动，运动；战役，战斗
 >
 > v.领导（参加）运动，从事竞选活动
+>
+> ---
+>
+> 来自camp, 平地，战场。原指两军交战。
 
-##### **Campaigning for** further protection and benefits for these highly skilled and educated professionals.
+##### **Campaigning for** <u>further protection and benefits</u> for these highly skilled and educated professionals.
 
 "为这些高技能和受过教育的专业人士**争取**更多的保护和福利。"
 

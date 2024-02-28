@@ -20,9 +20,30 @@
 >
 > v.将（组织的）总部设在某地；设立总部
 
-##### I visited the **headquarters** of a major national pension consulting firm
+##### I visited the **headquarters** of a major national pension consulting firm.
 
-我拜访了 一家全国性的养老金咨询公司 总部
+我拜访了 一家大型的全国性养老金咨询公司总部
+
+> "Major" 是一个多功能的词，可以用作名词、形容词和动词。以下是一些常见的用法：
+>
+> 在这个句子中作为adj 使用，表示大型的
+>
+> 1. **名词用法：**
+>    - **专业/主修科目：** "I am studying computer science as my major."
+>    - **主要的事物：** "The major of the painting is the beautiful landscape."
+>
+> 2. **形容词用法：**
+>    - **主要的/重要的：** "There was a major breakthrough in medical research."
+>    - **较大的：** "He suffered a major injury in the accident."
+>
+> 3. **动词用法：**
+>    - **主修（某专业）：** "She decided to major in economics."
+>    - **集中注意力：** "Let's major on the most critical issues."
+>
+> 4. **军事用法：**
+>    - 在军事上，"major" 可以表示军衔中的少校。
+>
+> 总体而言，"major" 的用法广泛，根据上下文可以有不同的含义。
 
 ## specialize in
 
@@ -84,8 +105,22 @@
 >    - "The promotion was given to him on merit."（晋升是基于他的业绩给予的。）
 >
 > 请根据具体的语境来理解 "merit" 的意义。如果有特定的上下文，我可以提供更详细的解释。
+>
+> ---
+>
+> "Merit" 和 "advantage" 都是与优点、好处相关的词汇，但它们在使用上有一些区别。
+>
+> 1. **Merit (优点)：**
+>    - "Merit" 指的是某物或某事的固有优势或优越之处。这个词通常用于讨论某事物本身的特点、品质或价值。
+>    - 例如："The merit of this proposal lies in its cost-effectiveness and practicality."（这个提案的优点在于其成本效益和实用性。）
+>
+> 2. **Advantage (优势)：**
+>    - "Advantage" 强调相对于其他事物而言的优越性。它可能是一种地位、条件或特权，使得一个人、团体或事物在比较中更为有利。
+>    - 例如："Our company has a competitive advantage in the market due to our innovative products."（由于我们创新的产品，我们公司在市场上具有竞争优势。）
+>
+> 在很多情况下，这两个词是可以互换使用的，但具体语境可能会影响使用的合适性。选择使用哪个词更取决于强调的方面，是<u>关注某物本身的特点（merit）还是相对于其他事物的优越性（advantage）</u>。
 
-##### This **merits** repeating
+##### This **merits** repeating.
 
 这值得重复
 
@@ -100,6 +135,24 @@
 > v.（数量、价值、水平、规模等）急升，猛涨；高飞，翱翔；升空，升腾；（精神或希望）高涨；(树木、建筑等）高耸，屹立；升至（很高的高度），高达；（音乐）升高，增强
 >
 > n.高飞；高涨
+>
+> ----
+>
+> "Soar" 是一个动词，指的是急速上升、飞翔或迅速增加。以下是一些关于 "soar" 的常见用法：
+>
+> 1. **飞翔或急速上升：**
+>    - "The eagle soared high in the sky."（鹰在天空中高高飞翔。）
+>    - "The plane soared into the clouds."（飞机冲入云层中。）
+>
+> 2. **价格、温度或数量的急剧增加：**
+>    - "The temperature soared to 100 degrees Fahrenheit."（温度飙升到华氏100度。）
+>    - "Stock prices soared after the positive earnings report."（股价在正面的盈利报告后急速上涨。）
+>
+> 3. **情感或声音的激增：**
+>    - "Her spirits soared when she received the good news."（她收到好消息时情绪高涨。）
+>    - "The crowd's cheers soared as the team scored the winning goal."（球队进了制胜一球，人群的欢呼声高涨。）
+>
+> "Soar" 通常用于描述快速、迅猛的上升，可以涵盖多个领域，包括物理高度、数量、温度、价格，甚至情感或声音的强度。
 
 ##### Medical costs **soar**.
 
@@ -144,7 +197,7 @@
 
 几乎每个人都感到了经济的紧缩。
 
-> "<u>feeling the pinch</u>" 是一个习语，意指人们普遍感受到了经济上的紧张、拮据或压力。"Pinch" 在这里的作用是指经济上的困境或困难，使得人们感到紧张和担忧。
+> "<u>feeling the pinch</u>" 是一个习语，意指人们普遍感受到了经济上的紧张、拮据或压力,手头紧张。"Pinch" 在这里的作用是指经济上的困境或困难，使得人们感到紧张和担忧。
 
 ## specific
 
@@ -167,12 +220,28 @@
 > **/ˈveri/**
 >
 > v.（使）不同，（使）呈现差异；（根据情况而）变化，改变；改变，使……变化；变奏
+>
+> ---
+>
+> 1. vary with 随...而变化
+> 2. vary from 不同
+> 3. vary in 在...方面变化
+>
+> ---
+>
+> various	/ˈveriəs/
+>
+> adj.各种各样的；迥异的，千差万别的
+>
+> det.不止一个的，各别的
+>
+> pron.不止一个的，各别的
 
 ## bankruptcy
 
 > **/ˈbæŋkrʌptsi/**
 >
-> n.道德的沦丧；破产，倒闭
+> n.道德的沦丧；破产，倒闭,祸根
 
 ## a result of
 

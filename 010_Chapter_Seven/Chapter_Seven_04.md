@@ -36,6 +36,8 @@
 
 ##### It gave him the courage to <u>**cross the line**</u> when others **<u>backed out</u>**
 
+这给了他勇气越过那条线，而其他人都退缩了。
+
 ## rally cry
 
 > 集结口号：一种<u>鼓舞士气的口号或口号短语</u>，通常用于激励人们为了共同的目标而团结一致。
@@ -69,6 +71,8 @@
 > **/ˈsɑːmbər/**
 >
 > adj.忧郁的；昏暗的；严峻的；阴天的
+>
+> > "somber" 描述的是一种不轻松、庄重、甚至有点忧伤的气氛或情感状态
 
 ## admiral
 
@@ -85,6 +89,28 @@
 > v.使从属于，使处于次要地位；使隶属，使服从
 >
 > adj.从属的，下级的；次要的
+>
+> ---
+>
+> "Subordinate" 是一个形容词和名词，用于描述在等级或地位上处于较低级别的人、事物或组织。以下是 "subordinate" 的一些常见用法：
+>
+> ### 形容词用法：
+>
+> 1. **从属的、次要的：** "Subordinate" 作为形容词，表示在等级、地位或重要性上较低的。
+>    - "He was given a subordinate role in the project."（他在项目中被分配了一个次要的角色。）
+>
+> 2. **服从的、顺从的：** 形容某人在地位上处于较低层次，通常表示服从上级或上级的指示。
+>    - "The subordinate staff followed the instructions of their supervisor."（下属员工遵循他们主管的指示。）
+>
+> ### 名词用法：
+>
+> 1. **下属、部属：** "Subordinate" 作为名词，指的是在等级上较高的人的下属。
+>    - "He has several subordinates reporting to him."（有几个下属向他报告。）
+>
+> 2. **从属物、下级元素：** 指在体系或结构中处于较低级别的事物或元素。
+>    - "In this hierarchy, the lower-level tasks are considered subordinates."（在这个层次结构中，较低级别的任务被认为是从属的。）
+>
+> 总体而言，"subordinate" 强调在等级、地位或权力上处于较低层次的特征。
 >
 > ---
 >

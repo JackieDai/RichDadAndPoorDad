@@ -36,6 +36,8 @@
 
 ##### We sat in <u>the **lobby** of</u> a luxurious hotel
 
+我们坐在一家豪华酒店的大堂。
+
 ## tough
 
 > **/tʌf/**
@@ -97,6 +99,8 @@
 > **offend	/əˈfend/**
 >
 > v.得罪，冒犯；令人不悦，令人不舒服；<正式> 犯罪，违法；<正式> 违犯，违反
+>
+> > of-,向前，朝向，-fend,攻击，击退，抵挡
 
 ##### She was **offended** by something.
 
@@ -105,6 +109,8 @@
 > **/dɪˈfend/**
 >
 > v.保卫，防御；捍卫，维护；（在比赛中）防守，防卫；参加卫冕赛，蝉联；做……的辩护律师，**为……辩解**
+>
+> > defend 在句子中表示 **为...辩解**的意思
 
 ##### <u>In my attempt to be helpful</u>, I found myself <u>**defending** my suggestion.</u>
 

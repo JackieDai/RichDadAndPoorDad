@@ -20,6 +20,20 @@
 > **/pʌbˈlɪsəti/**
 >
 > n.（媒体的）关注，<u>报道</u>；<u>宣传</u>， 推广；宣传业，广告行业；宣传品，广告；<u>引起公众关注的事物</u>
+>
+> > "Publicity" 是一个名词，指的是通过媒体或其他手段散布信息、宣传或推广某个事物、活动、产品或个人的过程。以下是一些 "publicity" 这个词的常见用法：
+> >
+> > 1. **得到宣传：** "The event gained a lot of publicity through social media and news coverage."（这个活动通过社交媒体和新闻报道得到了很多宣传。）
+> >
+> > 2. **提高知名度：** "The company hired a PR firm to increase their publicity and brand awareness."（这家公司雇佣了一家公关公司，以提高他们的宣传和品牌知名度。）
+> >
+> > 3. **媒体报道：** "The artist's new album received extensive publicity in the entertainment news."（艺术家的新专辑在娱乐新闻中得到了广泛的报道。）
+> >
+> > 4. **公共形象塑造：** "The politician is working on building positive publicity to enhance their public image."（政治家正在努力制造正面宣传，以提升他们的公共形象。）
+> >
+> > 5. **广告宣传：** "The product launch was accompanied by a massive publicity campaign."（产品发布伴随着一场庞大的宣传活动。）
+> >
+> > 总体而言，"publicity" 强调通过公开渠道传播信息，以引起关注、产生影响或达到特定目标。
 
 ##### She would learn how to get millions in free **publicity**.
 
@@ -41,17 +55,25 @@
 
  "讨厌的标题" 
 
-## antiquate
+## antiquate🚩
 
 > **/ˈæntɪˌkweɪt/**
 >
 > v.废弃，使……过时；使……具有古旧形式或风格
 >
 > > "**antiquate**" 通常用于描述**技术、观点、设备或想法**等在时间推移中变得**过时或陈旧**
+>
+> ---
+>
+> **antiquated	/ˈæntɪkweɪtɪd/**
+>
+> adj.过时的；陈旧的；年老的
+>
+> (文中是作为形容词)
 
-##### If I were not pro-education, why would I continue to press for changing <u>our **antiquated** educational system</u>?
+##### If I were not pro-education, why would I continue to <u>press for</u> changing <u>our **antiquated** educational system</u>?
 
-如果我不是支持教育的，为什么我还会继续努力推动改变我们陈旧的教育系统呢？
+如果我不是支持教育的，为什么我还会继续<u>努力推动</u>改变我们陈旧的教育系统呢？
 
 > "pro-education" 是一个复合形容词，其中 "pro-" 表示支持、赞成、有利于的意思。因此，"pro-education" 意味着支持教育、赞成教育、有利于教育的。
 >
@@ -136,6 +158,8 @@
 > ---
 >
 > subsidy,帮助，辅助，-ary,名词后缀。
+>
+> sub-,在下，-sid,坐下，安排，词源同 sit,settle.引申比喻义帮助，援助，后用于指补贴，津贴， 资助费等
 
 ##### a **subsidiary** shipping company
 
