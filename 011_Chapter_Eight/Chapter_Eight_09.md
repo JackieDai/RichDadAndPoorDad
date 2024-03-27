@@ -5,6 +5,30 @@
 > **/ˈɪnəsntli/**
 >
 > adv.纯洁地；无罪地
+>
+> ---
+>
+> "innocent" 是一个常见的英语词汇，具有多种用法，通常表示"无辜"、"清白"或"无罪"。以下是一些常见的用法：
+>
+> 1. **形容词用法**：
+>    - **指人**：表示某人没有犯罪、没有错误或没有不当行为。
+>      - "He was found innocent of the crime."
+>      - "The child's innocent smile melted everyone's heart."
+>    - **指物**：表示某物没有危险、邪恶或不良目的。
+>      - "It was just an innocent mistake."
+>      - "The innocent-looking package turned out to be a bomb."
+>
+> 2. **名词用法**：
+>    - "An innocent" 指一个无辜的人，通常用于指被错误地指控、被牵涉进某事的人。
+>      - "The trial aimed to prove the innocence of the accused."
+>      - "He's an innocent caught up in the middle of this mess."
+>
+> 3. **其他用法**：
+>    - "Innocent" 也可以指某人或某物的状态，表示他们处于无辜的状态。
+>      - "She maintained her innocence throughout the investigation."
+>      - "The village remained innocent of the corruption happening in the city."
+>
+> 总的来说，"innocent" 是一个用于描述人、事物或状态的词汇，表示他们没有犯罪、没有错误或没有不当行为，或者指他们处于无辜的状态。
 
 ##### A common bad habit is **innocently** called “dipping into savings.
 

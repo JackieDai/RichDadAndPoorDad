@@ -11,6 +11,21 @@
 > **irritate**	**/ˈɪrɪteɪt/**
 >
 > v.使不耐烦，激怒；刺激（身体某部位），使疼痛；使（生物体、细胞或器官）兴奋；引起不愉快
+>
+> > 词根词缀： irrit激怒 + -ate
+>
+> "Irritate" 是一个动词，表示使人感到烦躁、恼怒或生气。以下是一些常见的用法：
+>
+> 1. **激怒、生气：** "The constant noise from the construction site irritated the residents."
+>    （来自建筑工地的持续噪音让居民感到很生气。）
+>
+> 2. **刺激、引起不适：** "Some fabrics can irritate sensitive skin."
+>    （有些织物可能刺激敏感的皮肤。）
+>
+> 3. **引起不快、厌烦：** "His repetitive comments began to irritate his colleagues."
+>    （他反复的评论开始让他的同事感到不快。）
+>
+> 在这些例子中，"irritate" 描述了一种引起不快或恼怒的状态，可以涉及噪音、刺激物、言论等引起不愉快感觉的情境。
 
 ##### If you remind them, they often respond with anger or **irritation**.
 
@@ -43,6 +58,8 @@
 > **yearn	/jɜːrn/**
 >
 > v.怀念，渴望
+>
+> > 表示渴望 或者 怀念 某事物
 
 ##### Yet we all have inside of us this **yearning** to have nice, new, or exciting things.
 
@@ -53,6 +70,10 @@
 > **/səˈpres/**
 >
 > v.（尤指用武力）镇压，压制；阻止（进程或活动）；封锁，隐瞒（消息）；抑制（生理过程）；克制（感情或反应），忍住；部分（或完全）消除（电干扰）；（心理分析）自觉抑制（不愉快的想法，记忆）
+>
+> ---
+>
+> 词根词缀： sup-下 + -press-压 → 压在下面
 
 ## guilt
 
@@ -158,3 +179,5 @@
 > n.抑郁，沮丧；萧条（期），不景气；低气压；凹陷，浅坑；俯角，俯视角
 
 ##### “I can’t afford it” also causes sadness, a helplessness that leads to **despondency** and often **depression**. ”
+
+‘我买不起’也会让人感到悲伤，一种无助感，这种无助感会导致‘沮丧’和‘抑郁’”

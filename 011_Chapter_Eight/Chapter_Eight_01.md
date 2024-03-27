@@ -1,10 +1,31 @@
-
+[TOC]
 
 ## wobbling
 
 > **/ˈwɑːblɪŋ/**
 >
 > v.（使）晃动，摇晃；蹒跚；踌躇（wobble 的现在分词）
+>
+> > "Wobble" 是一个动词，通常指摇晃、摇摆或不稳定地移动。这个词也可用作名词，表示摇晃的动作或状态。以下是一些 "wobble" 的用法例句：
+> >
+> > 1. **作为动词的用法：**
+> >    - *The table wobbled because one of its legs was shorter.*
+> >      桌子摇晃是因为其中一条腿较短。
+> >
+> >    - *The toddler wobbled as he tried to walk on his own.*
+> >      小孩试图自己走路时摇摆不稳。
+> >
+> >    - *The bicycle wobbled as it went down the bumpy road.*
+> >      自行车在颠簸的路上摇摆不定。
+> >
+> > 2. **作为名词的用法：**
+> >    - *The sudden wobble of the chair startled him.*
+> >      椅子突然的摇摆把他吓了一跳。
+> >
+> >    - *The car's wobble indicated a problem with the tires.*
+> >      汽车的摇晃表明轮胎可能有问题。
+> >
+> > "Wobble" 描述了一种摇晃、摆动或不稳定的运动，可以用来形容物体、人或车辆在移动时的不稳定状态。
 
 ##### After a little **wobbling**, it’s a piece of cake.
 
@@ -24,7 +45,7 @@
 >
 > n.方向，位置；谎言，谎话；（动物的）穴，（鸟的）巢
 
-##### The problem is that our financial genius **lies** asleep, waiting to be called upon.  
+##### The problem is that <u>our financial genius **lies** asleep, waiting to be called upon</u>.  
 
 ## end up
 
@@ -101,7 +122,23 @@
 > n.障碍，难关；（供人或马在赛跑中跨越的）栏架，跨栏；跨栏赛跑，障碍赛跑；（把背叛者送往刑场的）囚笼
 >
 > v.（奔跑中）跳越（某物）；参加跨栏赛跑；克服（障碍或困难），渡过难关；用临时围栏隔开（或围住）
+>
+> ---
+>
+> "Hurdle" 是一个名词和动词，具有不同的用法：
+>
+> 1. **作为名词：**
+>    - *障碍物或障碍：* 指代物理或抽象的障碍，阻碍前进或完成某事。
+>      - *The team faced several hurdles in the project, but they overcame them successfully.*（团队在项目中遇到了几个障碍，但他们成功地克服了。）
+>      - *Passing the exams is just one of the hurdles on the way to graduation.*（通过考试只是通向毕业的道路上的一个障碍。）
+>
+> 2. **作为动词：**
+>    - *跨越障碍：* 表示跳过或克服困难，特别是在运动比赛中。
+>      - *The athlete hurdled over the barrier with grace and speed.*（这位运动员以优雅和速度跨越了障碍物。）
+>      - *She had to hurdle several obstacles to reach her career goals.*（她必须克服一些障碍才能达到她的职业目标。）
+>
+> 在运动领域，尤其是在田径比赛中，"hurdle" 还用作指代比赛中的跨栏障碍物。这些栏的高度和距离通常在比赛前确定，运动员必须迅速跨越它们以完成比赛。
 
-##### When I asked her what **fueled** her super-human **ambition** and sacrifice, she simply said, “I do it for myself and the people I love. It’s love that gets me <u>over the **hurdles**</u> and sacrifices.
+##### When I asked her <u>what **fueled** her super-human **ambition** and sacrifice</u>, she simply said, “I do it for myself and the people I love. It’s love that gets me <u>over the **hurdles**</u> and sacrifices.
 
 当我问她是什么激发了她超人般的雄心和牺牲时，她简单地说：“我为自己和我爱的人而做。是爱让我克服困难和做出牺牲。”

@@ -12,15 +12,17 @@
 
 ## phenomenon
 
-> **/fəˈnɑːmɪnən/**
+> **/fəˈnɑːmɪnən/**	<u>phe</u>-nome-<u>non</u>
 >
 > n.现象；杰出的人，非凡的人（或事物）；（哲学）现象
 
-##### The three of them report the same **phenomenon**
+##### The three of them report the same **phenomenon**.
 
 ## flock
 
 > **/flɑːk/**
+>
+> > 描述 群体，群  集体的概念
 >
 > n.（鸟或羊等动物）群；一大群人；（某个教堂的）会众，全体教徒；（填充垫子的）絮屑，毛棉填料；（植绒用的）短绒，绒屑
 >
@@ -29,6 +31,8 @@
 ##### Birds of a feather **flock** together.
 
 物以类聚，人以群分。
+
+> 字面意思是. 一种羽毛的鸟，聚集在一起
 
 ## panel
 
@@ -42,7 +46,7 @@
 
 > adj.（表示不认同）所谓的；叫做……的，号称……的
 
-##### If you watch business channels on TV, they often have a **panel** of **so-called** experts. 
+##### If you watch business channels on TV, <u>they often have a **panel** of **so-called** experts.</u> 
 
 如果你看电视上的商业频道，它们经常有一组所谓的专家小组。
 

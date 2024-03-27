@@ -5,6 +5,17 @@
 > **/ˈwɪmpi/**
 >
 > adj.懦弱的；无用的
+>
+> > "Wimpy"是一个英语俚语，通常用来形容一个人或事物软弱、胆小、懦弱或缺乏勇气。这个词源于英语单词"wimp"，意思是弱小的人或胆小鬼。
+> >
+> > 以下是一些常见的用法：
+> >
+> > 1. **形容一个人**： "He's too wimpy to stand up for himself."（他太懦弱了，无法为自己辩护。）
+> >
+> > 2. **形容行为**： "I can't believe you're being so wimpy about going on that roller coaster."（我不敢相信你对于去坐那个过山车如此胆怯。）
+> >
+> > 3. **形容事物**： "The new security system is pretty wimpy; it doesn't really protect against anything."（新的安全系统相当脆弱；它实际上并不能防范任何事情。）
+> >
 
 ##### You may not be weak, but when it comes to money, many people get **wimpy**.
 
@@ -15,6 +26,18 @@
 > **/ˈduːdæd/**
 >
 > n.便宜货；新出品；小玩意儿
+>
+> > "Doodad"是一个非正式的英语词汇，通常用来指代一个不知名的或不具体的物体，或者是一个名字不确定的小装置或小件物品。这个词在口语中经常被用来填补对某个物体名称的不确定或者记不起来的情况。
+> >
+> > 以下是一些常见的用法：
+> >
+> > 1. **代替物体名称**： "Hand me that doodad over there."（把那边的小东西递给我。）
+> >
+> > 2. **描述不确定的物体**： "I found this doodad in the garage, but I'm not sure what it's for."（我在车库里找到了这个小东西，但我不确定它是做什么用的。）
+> >
+> > 3. **用于填充语境**： "She was wearing all sorts of doodads in her hair."（她的头发上插满了各种小装饰品。）
+> >
+> > 总的来说，"doodad"是一个用于指代不确定或不知名物体的非正式术语，可以用来填补对某个物体名称的不确定或者记不起来的情况。
 
 ##### The reason I don’t have high credit-card debt, and <u>**doodad** debt</u>, is because I pay myself first.
 
@@ -36,10 +59,35 @@
 > 2. due care 应有关注,安全关注,应尽的责任心,应有的谨慎
 > 3. due for 应该得到
 > 4. due out 待发；待退；应离店但还未离店
+>
+> ---
+>
+> "Due" 是一个多功能的英语单词，具有多种用法。以下是一些常见的用法：
+>
+> 1. **形容词**：
+>    - 表示应该支付、归还或完成的；预期的或预定的。
+>      - Example: The rent is due on the first of each month.
+>        （房租每月一号到期）
+>    - 表示某人特有的权利或职责。
+>      - Example: You have a due diligence to research thoroughly before making a decision.
+>        （你有义务在做决定之前进行彻底的研究）
+>
+> 2. **介词**：
+>    - 表示在某个时间点之前或之后，用于表示时间或期限。
+>      - Example: The assignment is due by Friday.
+>        （作业在周五之前要交）
+>
+> 3. **副词**：
+>    - 表示按照正常的或适当的时间或程度。
+>      - Example: We will pay the invoice promptly when it is due.
+>        （发票到期时我们会及时支付）
+>
 
 ##### Although I pay my bills last, I set it up to have only small unimportant bills that are **due**.
 
 ““虽然我最后才付账单，但我把它设定为只有小额的不重要的到期账单。””
+
+> "due"表示某些账单需要在特定的日期之前支付或处理。这个词表明了账单的到期时间或截止日期。
 
 ## cave in
 
@@ -100,8 +148,28 @@
 > **/ˈstɔːntʃli/**
 >
 > adv.坚定地；忠实地
+>
+> > "Staunchly" 是 "staunch" 的副词形式，表示坚定地、坚决地、忠诚地等。"Staunch" 通常用来形容人或其行为，表示他们对某种信仰、原则或立场的坚定支持或忠诚。以下是一些常见的用法示例：
+> >
+> > 1. **政治立场**： 
+> >    - "She staunchly supports her party's policies."
+> >    - "He remained staunchly loyal to his beliefs."
+> >
+> > 2. **友谊或关系**：
+> >    - "They have been friends for years and have staunchly supported each other through thick and thin."
+> >    - "Despite the challenges, they remained staunchly committed to their marriage."
+> >
+> > 3. **信仰或宗教**：
+> >    - "The community is known for its staunchly religious population."
+> >    - "He was raised in a staunchly Catholic household."
+> >
+> > 4. **意见或立场**：
+> >    - "She staunchly opposes any form of discrimination."
+> >    - "The organization is staunchly against any compromise on environmental issues."
+> >
+> > 在这些例句中，"staunchly" 表示一种坚定、忠诚、不动摇的态度或行为，强调了对某种信仰、立场或原则的深深承诺和支持。
 
-##### So many times I have gotten into financial hot water and used my brain to create more income while **staunchly** defending the assets in my asset column.
+##### So many times I have gotten into financial <u>hot water</u> and used my brain to create more income while **staunchly** defending the assets in my asset column.
 
 很多次我都陷入了财务困境，我用我的大脑来创造更多的收入，同时坚定地保护我的资产项中的资产。
 

@@ -44,14 +44,31 @@
 >
 > **appreciation	/əˌpriːʃiˈeɪʃ(ə)n/**
 >
-> n.
-> 欣赏，鉴赏；感激，感谢；理解，领会；**升值，增值**；（赞赏性的）演讲，文字
+> n.欣赏，鉴赏；感激，感谢；理解，领会；**升值，增值**；（赞赏性的）演讲，文字
 
 ## strictly
 
 > **/ˈstrɪktli/**
 >
 > adv.严格地，严厉地；**完全地，确切地，纯粹地**；绝对地，没有例外地；只，仅限于
+>
+> ---
+>
+> "Strictly" 是一个副词，常用于表示强烈的、严格的、只限于某种程度或方式的含义。以下是一些常见的用法：
+>
+> 1. **强调严格的标准或规定：** "The company strictly enforces its dress code."
+>    （公司严格执行其着装规定。）
+>
+> 2. **仅仅、纯粹：** "This is strictly a business transaction."
+>    （这纯粹是一次商业交易。）
+>
+> 3. **仅限于某种方式：** "I strictly adhere to a vegetarian diet."
+>    （我严格遵循素食主义饮食。）
+>
+> 4. **绝对不：** "I strictly told him not to be late again."
+>    （我严令他绝对不能再迟到。）
+>
+> 总的来说，"strictly" 常常用于强调遵循规定、坚持原则或限定于某种方式。
 >
 > ---
 >
@@ -70,16 +87,82 @@
 > n.旅游胜地，度假胜地；求助的方法，采用的手段；采用，诉诸，求助
 >
 > v.诉诸，求助于；<正式>常去，（成群结队地）去
+>
+> ---
+>
+> "Resort" 可以是名词或动词，具体用法取决于上下文。
+>
+> ### 名词用法：
+>
+> 1. **度假胜地：** "We stayed at a beautiful resort by the beach."
+>    （我们住在海滩边的一个美丽度假胜地。）
+>
+> 2. **手段、方法：** "Using violence as a resort is never justified."
+>    （诉诸暴力从来都不是正当手段。）
+>
+> 3. **最后的手段、退路：** "Going to court should be the last resort to resolve the dispute."
+>    （诉诸法庭应该是解决争端的最后手段。）
+>
+> ### 动词用法：
+>
+> 1. **求助、诉诸：** "If diplomacy fails, they may resort to military action."
+>    （如果外交失败，他们可能会诉诸军事行动。）
+>
+> 2. **常去、常常使用：** "When stressed, some people may resort to unhealthy coping mechanisms."
+>    （在压力下，有些人可能会常常使用不健康的应对机制。）
+>
+> 总的来说，"resort" 可以表示度假胜地、手段、方法，或者作为动词表示求助、诉诸某种手段。
 
 ##### After identifying a unit <u>in a **resort** community</u>, we called an agent who sold it to him that afternoon.
 
 在确认了度假社区的一个单元后，我们打电话给一位下午就卖给他这个单元的经纪人。
 
+> "Identify" 是一个动词，表示辨认、确认或识别某物或某人。以下是一些常见的用法：
+>
+> 1. **辨认，认出：**
+>    - *Can you identify the person in the photograph?*（你能辨认照片中的人吗？）
+>
+> 2. **确定，确认：**
+>    - *They are trying to identify the cause of the problem.*（他们正在努力确认问题的原因。）
+>
+> 3. **标识，鉴别：**
+>    - *The police were able to identify the stolen car by its license plate.*（警方通过车牌号成功标识出被盗车辆。）
+>
+> 4. **识别，辨别：**
+>    - *It can be difficult to identify different species of birds.*（识别不同种类的鸟类可能会很困难。）
+>
+> 5. **认同，了解：**
+>    - *He couldn't identify with the values of the organization.*（他无法认同这个组织的价值观。）
+>
+> 6. **在计算机科学中，用于检测或确认：**
+>    - *The system can identify potential security threats.*（该系统能够识别潜在的安全威胁。）
+>
+> 总的来说，"identify" 的用法涵盖了从人类认知到科技检测的多个方面。
+
 ## back out
 
 > 退出，撤出；收回；食言，违约
+>
+> ---
+>
+> "Back out" 是一个短语，通常用作动词，表示退出、撤回或放弃之前的承诺、协议或计划。这个短语有时也可以用作名词，表示退出的行为。
+>
+> ### 作为动词：
+>
+> 1. **退出承诺或协议：** "He agreed to help with the project, but later backed out."
+>    （他同意帮助这个项目，但后来退出了。）
+>
+> 2. **取消参与计划：** "She was supposed to attend the event, but she backed out at the last minute."
+>    （她原本计划参加这个活动，但她在最后一刻退出了。）
+>
+> ### 作为名词：
+>
+> 1. **退出的行为：** "His sudden back out from the deal surprised everyone."
+>    （他突然退出这笔交易让所有人都感到惊讶。）
+>
+> 总的来说，"back out" 描述了在之前表达的意愿或承诺之后，突然决定不再履行，退出或取消。
 
-##### Two weeks later, the agent called to say that our friend had **backed out**. 
+##### Two weeks later, the agent called to say that <u>our friend had **backed out**.</u> 
 
 ## defensive
 
@@ -97,6 +180,8 @@
 
 ##### When I asked why he listened to him, Richard <u>got **defensive**</u> and simply said he wanted to keep looking.
 
+当我问他为什么听从他的意见时，理查德变得防守，并简单地说他想继续寻找。
+
 ## peak
 
 > **/piːk/**
@@ -106,16 +191,61 @@
 > v.达到高峰，达到最大值；<古>消瘦，衰弱，精神萎靡
 >
 > adj.巅峰状态的，最高的；高峰时期的
+>
+> ---
+>
+> "Peak" 作为名词和动词有不同的用法：
+>
+> ### 作为名词：
+>
+> 1. **山峰：** "The climbers reached the peak of the mountain."
+>    （攀登者们到达了山的顶峰。）
+>
+> 2. **最高点：** "The stock market reached its peak last year."
+>    （股市在去年达到了最高点。）
+>
+> 3. **顶峰时期：** "He was at the peak of his career in the 1990s."
+>    （他在1990年代是事业的巅峰时期。）
+>
+> ### 作为动词：
+>
+> 1. **达到最高点：** "The athlete trained hard to peak at the right time for the competition."
+>    （这位运动员努力训练，以在比赛的时候达到最佳状态。）
+>
+> 2. **突然增加：** "The demand for the product peaked during the holiday season."
+>    （在假期季节，对该产品的需求达到了高峰。）
+>
+> 3. **达到顶峰：** "Her performance peaked when she received the prestigious award."
+>    （她的表现在她获得这个重要奖项时达到了巅峰。）
+>
+> 总的来说，<u>"peak" 可以表示自然界的山峰，也可以表示其他事物的最高点或顶峰时期。作为动词，它表示达到最高点或顶峰</u>。
 
 ##### The little unit was renting for \$1,000 a month—\$2,500 <u>in the **peak**</u> winter months.
 
-这个小单元的租金是每月1,000美元，在冬季高峰月份为2,500美元。
+这个小单元的租金是每月1,000美元，在冬季**高峰**月份为2,500美元。
 
 ## remorse
 
 > **/rɪˈmɔːrs/**
 >
 > **n.懊悔，自责**
+>
+> ---
+>
+> "Remorse" 是一个名词，指的是对于自己的错误、过失或伤害他人而感到的懊悔、悔恨或内疚的情感。这是一种强烈的自责感，通常涉及到对过去行为的深刻反省。
+>
+> ### 例句：
+>
+> 1. "He felt deep remorse for the hurtful words he had said during the argument."
+>    （他对在争论中说过的伤人的言辞感到深深的懊悔。）
+>
+> 2. "After realizing the consequences of his actions, a sense of remorse overwhelmed him."
+>    （在意识到自己行为的后果后，一种悔恨的情感涌上心头。）
+>
+> 3. "She showed genuine remorse and apologized for her mistake."
+>    （她表现出真诚的懊悔，并为她的错误道歉。）
+>
+> "Remorse" 表达了一种对于造成伤害或错误的内心痛苦和懊悔，通常伴随着对自己行为的深刻认识。
 
 ##### It’s called buyer’s **remorse**, and it affects all of us.
 
@@ -134,6 +264,8 @@
 ## enforce
 
 > **/ɪnˈfɔːrs/**
+>
+> > 有强制的意思
 >
 > v.实施，执行（法律、规章）；强迫，迫使；<旧>竭力使人接受（要求，论点）
 
