@@ -25,8 +25,8 @@
 > 1. **捉住或抓住：** She tried to catch the ball.
 >    - 她试图抓住那个球。
 >
-> 2. **陷阱、问题或条件：** What's the catch?
->    - 有什么条件或问题吗？
+> 2. **陷阱、问题或条件：** <u>What's the catch?</u>
+>    - <u>有什么条件或问题吗？</u>
 >
 > 3. **理解：** I didn't quite catch what he said.
 >    - 我没完全听懂他说的话。
@@ -61,8 +61,8 @@
 
 作为一种习惯，我利用对**消费**的渴望来激发和推动我的财务天赋进行投资。
 
-> “Remember, the easy road often becomes hard, and the hard road often becomes easy.”
->
+> - “Remember, the easy road often becomes hard, and the hard road often becomes easy.”
+>- desire to do sth	渴望做某事：强烈的愿望或欲望去做某件事情。
 
 ## obey
 
@@ -118,11 +118,11 @@
 >
 > emulate	/ˈemjuleɪt/
 >
-> v.
-> 仿效，模仿；仿真；努力赶上
->
-> adj.
-> <古>争强好胜的
+> v.仿效，模仿；仿真；努力赶上
+> 
+>adj.<古>争强好胜的
+> 
+> > "emulate" 表示通过模仿、效仿或努力超越来学习、取得成就或达到相同水平的动作或行为。
 
 ##### Copying or **emulating** heroes is true power learning.
 
@@ -131,6 +131,8 @@
 ## bravado
 
 > **/brəˈvɑːdoʊ/**
+>
+> > "bravado" 指的是一种表面上的勇敢或自信，但实际上是为了掩饰内心的恐惧或不安，或者是出于自负或傲慢的态度。
 >
 > n.虚张声势；冒险; 好卖
 

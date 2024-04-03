@@ -3,6 +3,20 @@
 ## arise out of
 
 > **由...引起**；（由某种情况、事件或行为引起。）
+>
+> ---
+>
+> "Arise out of" 是一个短语，通常用来表示某事物的起源、来源或产生。这个短语可以用于各种语境中，表示某种结果或情况的起因。
+>
+> 例如：
+> 1. "The conflict arose out of a misunderstanding between the two parties."
+>    （这场冲突源于双方之间的误解。）
+> 2. "The new policy arose out of the need for greater efficiency."
+>    （新政策是基于对更高效率的需求产生的。）
+> 3. "Her success in the business world arose out of years of hard work and dedication."
+>    （她在商界的成功是源于多年的努力和奉献。）
+>
+> 总之，"arise out of" 表示某种情况、结果或行动的起源或产生。
 
 ##### The term “Indian giver” **<u>arose out of</u>** a cultural misunderstanding when the first European settlers came to the New World.
 

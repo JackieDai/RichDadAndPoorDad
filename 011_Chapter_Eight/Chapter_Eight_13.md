@@ -36,6 +36,30 @@
 > **/kənˈvɪns/**
 >
 > v.使确信，使信服；说服，劝服
+>
+> ---
+>
+> "Convince" 是一个动词，常用于表示说服某人接受或相信某种观点、理念或想法。以下是 "convince" 的几种常见用法：
+>
+> 1. **说服某人相信某事**：例如：
+>    - "I tried to convince him that it was a good idea."
+>      （我试图说服他认为这是个好主意。）
+>    - "She finally convinced me to go on the trip."
+>      （她最终说服我去旅行。）
+>
+> 2. **使某人确信或信服**：例如：
+>    - "The evidence convinced the jury of his guilt."
+>      （证据使陪审团确信他的罪行。）
+>    - "Her arguments were so persuasive that she convinced everyone in the room."
+>      （她的论点非常有说服力，她说服了房间里的每个人。）
+>
+> 3. **说服自己**：有时候也可以用来表示说服自己相信某件事情。例如：
+>    - "I had to convince myself that everything would be okay."
+>      （我不得不说服自己一切都会好起来的。）
+>    - "He convinced himself that he could do it, despite the odds."
+>      （尽管面临困难，他还是说服自己能做到。）
+>
+> 总的来说，"convince" 表示通过论证、证据或言辞等手段使某人相信或确信某种观点、想法或决定。
 
 ##### Making it look easy **convinces** us to want to be just like them.
 
@@ -115,6 +139,8 @@
 
 > **/ˈtɔːrənt/**
 >
+> > "torrent" 是一个多义词，可以指洪水、激流，也可以指大量涌入的事物或信息，同时在计算机领域也指种子文件。
+>
 > n.（尤指似乎无法控制的）狂潮，迸发；洪流，激流；（Torrent）（西、法、美）托伦特（人名）
 >
 > v.在急流中移动；通过比特流下载或上传文件
@@ -130,6 +156,8 @@
 > vt.发给……奖金等；为……而发给赏金
 >
 > vi.以赏金等形式发放
+>
+> > "bounty" 可以指赏金、悬赏，也可以表示丰盛、丰富的事物，还可以表示给予的恩惠或恩赐。
 
 ##### Often just the process of thinking of what I want, and how I could give that to someone else, breaks free a **torrent** of **bounty**.
 
