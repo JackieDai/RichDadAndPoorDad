@@ -18,6 +18,8 @@
 
 ##### A friend of mine was **griping** one day about how hard it was to save money for his four children’s college educations.
 
+我的一个朋友有一天抱怨起为他四个孩子的大学教育存钱有多么困难。
+
 ## assure
 
 > **/əˈʃʊr/**
@@ -42,9 +44,9 @@
 
 > **/kraɪˈtɪriə/**
 >
-> n.（评判或做决定的）标准，准则，尺度 （criterion 的复数）
+> n.（评判或做决定的）**标准，准则，尺度** （criterion 的复数）
 
-##### We looked for a house for two weeks, a house that would fit all our **criteria**.
+##### We looked for a house for two weeks, a house that would <u>fit all our **criteria**.</u>
 
 我们花了两周的时间寻找一所房子，一座符合我们所有标准的房子。
 
@@ -76,7 +78,7 @@
 >
 > 1. **推迟；延期：** I had to defer my vacation until next month.（我不得不将我的假期推迟到下个月。）
 >
-> 2. **顺从；听从：** She chose to defer to her colleague's expertise on the matter.（她选择听从同事在这个问题上的专业意见。）
+> 2. **顺从；听从：** She chose to <u>**defer to**</u>(听从,顺从) her colleague's expertise on the matter.（她选择听从同事在这个问题上的专业意见。）
 >
 > 3. **推辞；让步：** The team decided to defer the decision to a later meeting.（团队决定将决定推迟到以后的会议。）
 >
@@ -127,6 +129,10 @@
 > **derive	/dɪˈraɪv/**
 >
 > v.获得，取得；起源于，来自；提取，衍生（化学物质）
+>
+> ---
+>
+> derivative	/dɪˈrɪvətɪv/	（金融）衍生工具（产品）
 
 ##### Passive income, <u>in most cases</u>, is income **derived from** real estate investments.
 

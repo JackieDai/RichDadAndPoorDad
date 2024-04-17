@@ -34,7 +34,7 @@
 
 ## channel
 
-> > 文中是作为 动词，**“引导”** 
+> > 文中是作为 动词，**“扮演”** 
 >
 > n.频道，电视频道；管道，通道，航道；渠道，手段；沟渠，沟槽；河床；海峡；信道；电子沟道；输液道
 >
@@ -45,6 +45,22 @@
 他在谈判交易时展现出特朗普的豪气，或者在观察趋势时表现出沃伦·巴菲特的分析技巧。
 
 > 在这个句子中，"channel" 被用作动词，表示通过模仿或采用某人的特质、风格或技能来表现自己。这里的 "channel" 强调了通过引导、表达或展现他人特质来达到某种效果或表现。
+>
+> ---
+>
+> 作为动词，"channel" 的意思是引导、导向或传达。以下是几种常见的用法：
+>
+> 1. **引导或导向**：指导某物或某人朝着特定方向行动或流动。例如："She channeled her energy into her studies."（她把她的精力投入到了学习中。）
+>
+> 2. **传达或表达**：表达某种情感、思想或能量。例如："The artist channeled her emotions into her paintings."（那位艺术家把她的情感表达在了她的画作中。）
+>
+> 3. **利用**：利用某种渠道或手段传输或实现某种目的。例如："The company channeled its resources into research and development."（公司将资源投入到研发中。）
+>
+> 4. **代表或扮演**：作为媒介或中介，代表某个实体或角色。例如："The actor channeled the spirit of a historical figure in his performance."（那位演员在表演中扮演了一个历史人物的精神。）
+>
+> 总的来说，作为动词，"channel" 指引导、传达或利用某种方式或渠道达成某种目的或表达某种意义。
+>
+> ---
 
 ## weather
 

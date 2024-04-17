@@ -11,6 +11,20 @@
 > n.约会
 >
 > v.约会，与（某人）谈恋爱；注明日期；确定年代；过时，不流行；使……显老（date 的现在分词）
+>
+> ---
+>
+> "Dating" 是一个动词和名词，通常用于描述人们在一起相处、约会或建立浪漫关系的行为。以下是 "dating" 的一些常见用法：
+>
+> 1. **动词用法**：
+>    - **与某人约会**：She's dating her coworker.（她正在和她的同事约会。）
+>    - **与某人见面**：They've been dating for six months now.（他们已经约会了六个月了。）
+>
+> 2. **名词用法**：
+>    - **约会活动**：We went out for dinner on our first dating.（我们第一次约会时去了吃晚饭。）
+>    - **约会时期**：Their dating lasted for over a year before they got engaged.（他们的约会持续了一年多，然后订婚了。）
+>
+> "Dating" 这个词通常与浪漫关系和约会相关，但也可以用于非浪漫关系的社交活动，比如友谊约会或非正式的聚会。
 
 ##### Finding a good deal, the right business, the right people, the right investors, or whatever is just like **dating**.
 
@@ -21,6 +35,8 @@
 > n.买方还价；还价
 >
 > counter +‎ offer
+>
+> > counter 作为动词，有反对，反驳，反 的意思
 
 ## repetition
 
