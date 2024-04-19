@@ -53,7 +53,7 @@ categories: English
 
 ---
 
-## focal
+## focal🚩
 
 > **/ˈfoʊk(ə)l/**
 >

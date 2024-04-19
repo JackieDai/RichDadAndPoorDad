@@ -64,8 +64,6 @@ categories: English
 
 ##### This explains why smart bankers, doctors, and **<u>accountants</u>** who earned excellent grades may struggle financially all of their lives.
 
----
-
 ## medical
 
 > **/ˈmedɪk(ə)l/**

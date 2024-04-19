@@ -73,8 +73,38 @@ categories: English
 > v.养育，饲养；栽种，培植；（动物）用后腿直立；（建筑、山等）高耸；（人）发火，暴跳（rear up）
 >
 > adv.向后，在后面
+>
+> > "Rear" 是一个多义词，可以作为名词、形容词或动词使用，具体用法取决于上下文。以下是几种常见用法：
+> >
+> > 1. **作为名词：**
+> >    - **后部或背面：** 表示物体或事物的后部或背面部分。
+> >      - 例句：The car was hit from the rear in the accident.
+> >        （车子在事故中被从后面撞击。）
+> >    - **后方或背后：** 表示一个位置或方向的后方或背后。
+> >      - 例句：He watched the parade from the rear of the crowd.
+> >        （他从人群的后方观看游行。）
+> >
+> > 2. **作为形容词：**
+> >    - **后部的或背面的：** 表示物体或事物的后部或背面的特性。
+> >      - 例句：The rear door of the house was locked.
+> >        （房子的后门被锁上了。）
+> >    - **后方的或背后的：** 表示一个位置或方向的后方或背后的特性。
+> >      - 例句：We sat in the rear seats of the theater.
+> >        （我们坐在剧院的后排座位上。）
+> >
+> > 3. **作为动词：**
+> >    - **抚养或养育：** 表示抚养、培养或养育幼儿或动物。
+> >      - 例句：She reared five children on her own.
+> >        （她独自抚养了五个孩子。）
+> >    - **竖起或高耸：** 表示竖立、高耸或使垂直。
+> >      - 例句：The horse reared up on its hind legs.
+> >        （那匹马竖立起来，用后腿支撑。）
+> >
+> > 总的来说，"rear" 可以作为名词表示物体或事物的后部或背面，也可以表示位置或方向的后方或背后；作为形容词表示后部的或背面的特性，也可以表示位置或方向的后方或背后的特性；作为动词表示抚养、培养、竖立或高耸。
 
-##### “Oh,” I said, rocking my chair back **<u>against</u>** the wall. I sat there **<u>perched</u>** on two **<u>rear</u>** legs of the chair.(我坐在那里，倚在椅子的两条后腿上)”
+##### “Oh,” I said, rocking my chair back **<u>against</u>** the wall. I sat there **<u>perched</u>** on two **<u>rear</u>** legs of the chair.
+
+(我坐在那里，倚在椅子的两条后腿上)”
 
 ---
 
@@ -94,9 +124,8 @@ categories: English
 >
 > adj.摇晃的；虚弱的；患佝偻病的
 
-##### “Suddenly, Mike’s dad **<u>burst</u>** through the **<u>rickety</u>** screen(屏风,隔断物) door and onto the porch”
-
-##### （"突然间，迈克的爸爸猛地冲破摇摇欲坠的纱门，踏上了门廊。"）
+##### Suddenly, Mike’s dad **<u>burst</u>** through the **<u>rickety</u>** screen(屏风,隔断物) door and onto the porch.
+（"突然间，迈克的爸爸猛地冲破摇摇欲坠的纱门，踏上了门廊。"）
 
 ---
 

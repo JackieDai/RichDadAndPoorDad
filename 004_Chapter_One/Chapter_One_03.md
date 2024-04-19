@@ -39,13 +39,25 @@ categories: English
 >
 > mess **/mes/**
 >
-> n.
-> 肮脏，杂乱；不整洁或邋遢的人（或物）；掉落的东西，溅出的东西；（动物的）粪便；困境，混乱局面；处于困境的人；（军队的）食堂，交谊厅；<美，非正式> 大量；（尤指引不起食欲的）半干半稀的一份食物
+> n.肮脏，杂乱；不整洁或邋遢的人（或物）；掉落的东西，溅出的东西；（动物的）粪便；困境，混乱局面；处于困境的人；（军队的）食堂，交谊厅；<美，非正式> 大量；（尤指引不起食欲的）半干半稀的一份食物
 >
-> v.
-> 弄脏，弄乱；玩弄；随地便溺；在军人食堂就餐
+> v.弄脏，弄乱；玩弄；随地便溺；在军人食堂就餐
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/a3102911005627fb62dd6c1646558929.jpg?)
+> ---
+>
+> "messy" 是一个形容词，通常用来描述混乱、凌乱或杂乱的状态。具体用法如下：
+>
+> 1. **定义：** 混乱的，凌乱的，杂乱的。
+>
+>    - 例句：她的办公桌总是那么凌乱，找东西都要花好长时间。 (Her desk is always so messy; it takes ages to find anything.)
+>    - 例句：孩子们玩得太开心，把整个房间弄得一团糟。 (The kids had so much fun that they made the whole room messy.)
+>
+> 2. **定义：** 不整洁的，不干净的。
+>
+>    - 例句：这间厨房看起来很脏，一团糟。 (This kitchen looks very dirty and messy.)
+>    - 例句：他的衣服又脏又凌乱，显然很长时间没有洗了。 (His clothes are dirty and messy, obviously haven't been washed for a long time.)
+>
+> **用法总结：** "messy" 描述了一个混乱、凌乱或不整洁的状态，常用于形容房间、办公桌、衣物或其他物品。
 
 ## crumpled🚩
 
@@ -54,6 +66,22 @@ categories: English
 > v.弄皱，起皱（crumple 的过去分词）
 >
 > adj.摺皱的，弄皱的；（人倒地后）身体扭曲的
+>
+> ---
+>
+> "crumple" 是一个动词，通常用来描述把某物弄皱、变皱或使变形的行为。具体用法如下：
+>
+> 1. **定义：** 弄皱，折皱，使变形。
+>
+>    - 例句：他把那张纸球成一团扔进垃圾桶。 (He crumpled the paper into a ball and threw it into the trash can.)
+>    - 例句：在这场车祸中，汽车的前部完全被压扁了。 (In the car accident, the front of the car was completely crumpled.)
+>
+> 2. **定义：** 比喻性地，使某人精神或情绪受挫或崩溃。
+>
+>    - 例句：听到这个坏消息后，他心情立刻崩溃了。 (He crumpled emotionally upon hearing the bad news.)
+>    - 例句：在面对挫折时，她不会轻易崩溃。 (She doesn't crumple easily in the face of adversity.)
+>
+> **用法总结：** "crumple" 描述了把某物弄皱、折皱或使变形的行为，也可以比喻地表示使某人精神或情绪受挫或崩溃。
 
 ## had gotten to someone
 
@@ -184,6 +212,32 @@ categories: English
 > We need to move up the meeting to tomorrow morning.
 >
 > 我们需要将会议提前到明天上午。
+>
+> ---
+>
+> "move up" 是一个短语动词，通常有以下几种用法：
+>
+> 1. **向上移动：** 表示物体或人向上移动。
+>
+>    - 例句：请你们向前移动一点，给其他人些空间。 (Please move up a bit to give others some space.)
+>    - 例句：他们在等待队伍中往前移动，直到到达窗口。 (They moved up in the waiting line until they reached the window.)
+>
+> 2. **提前或加速：** 表示在时间表或计划中提前或加速某事的发生。
+>
+>    - 例句：由于突发状况，我们不得不提前举行了会议。 (Due to unforeseen circumstances, we had to move up the meeting.)
+>    - 例句：为了尽早完成项目，我们需要把截止日期提前。 (To finish the project earlier, we need to move up the deadline.)
+>
+> 3. **晋升或升级：** 表示提升到更高的位置、地位或级别。
+>
+>    - 例句：他在公司的表现很好，所以他被晋升到了高级管理层。 (He performed well in the company, so he was moved up to the senior management.)
+>    - 例句：他的才华使他能够在职场中迅速升职。 (His talent allowed him to move up quickly in his career.)
+>
+> 4. **提高优先级：** 表示将某事提升到更高的优先级或重要性。
+>
+>    - 例句：考虑到最新的发展，我们需要把这个项目的优先级提高。 (Given the latest developments, we need to move up the priority of this project.)
+>    - 例句：这个问题非常紧急，所以我们需要立即把它提升到更高的级别。 (This issue is very urgent, so we need to move it up to a higher level.)
+>
+> **用法总结：** "move up" 作为短语动词，表示向上移动、提前或加速、晋升或升级、提高优先级等意思。具体含义取决于上下文。
 
 ##### The date to begin production was **<u>moved up</u>**
 

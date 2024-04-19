@@ -20,6 +20,10 @@ categories: English
 >
 > 词根词源:
 > 来自engine, 机械装置，引擎，即设计机械的人。
+>
+> ---
+>
+> **financial-engineered**  adj．金融工程化的：通过金融工程手段设计或改进的，通常涉及复杂的金融工具和策略。
 
 ## derivative
 
@@ -62,7 +66,6 @@ categories: English
 >
 > v.批评，指责；评论
 >
-> ![](https://ydlunacommon-cdn.nosdn.127.net/12fc12e84db49c8ae0b737bffe49ff58.jpg?)
 
 ## disclose
 

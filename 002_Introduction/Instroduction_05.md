@@ -65,6 +65,8 @@ categories: English
 
 ##### He was impressed with two of his uncles who joined the military and earned a retirement-and-**<u>entitlement</u>** package for life after 20 years of **<u>active service</u>.**
 
+他对他的两个叔叔印象深刻，他们参加了军队，在20年的现役服役后获得了终身退休和福利待遇。
+
 ---
 
 ## privilege
@@ -93,7 +95,7 @@ categories: English
 >
 > v.授予……终身职位（尤指教师、讲师职位）,**终身聘用**
 
-##### He also loved the **<u>tenure</u>** system available through the university；他也喜欢大学提供的终身聘用制度。
+##### He also loved <u>the **tenure** system</u> available through the university；他也喜欢大学提供的终身聘用制度。
 
 ---
 
@@ -123,11 +125,8 @@ categories: English
 >
 > "Emphatic" 通常用来表示强烈、坚决或强调的特质，强调一种决心或确信的态度。
 >
-> ---
->
-> TODO: @lingxiao 总结 所有 强调 意思 的 英语单词
 
-## competent
+## competent🚩
 
 > **/ˈkɑːmpɪtənt/**
 >

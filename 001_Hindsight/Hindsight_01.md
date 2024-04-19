@@ -120,6 +120,3 @@ categories: English
 
 ##### Twenty years later, millions of people around the world are more **aware of** my rich dad’s warnings and his lessons about the future. With 20/20 hindsight, many have said that his lessons were **prophetic**… **predictions** come true. 
 
----
-
-#

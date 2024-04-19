@@ -91,6 +91,23 @@ categories: English
 > v.呼喊，惊叫，大声说
 >
 > 词根词源： ex- 出 + -claim- 叫喊
+>
+> ---
+>
+> > "Exclaim" 是一个动词，表示突然或激烈地说出或发出（通常是由于情感的强烈）某种话语或声音。它通常用于描述愤怒、惊讶、兴奋等强烈情绪的表达。
+> >
+> > 这个词也可以用作名词 "exclamation"，表示突然或激烈的表达。"Exclaim" 的名词形式通常用于指代强烈的感情表达或表示强调的句子或短语。
+> >
+> > 以下是 "exclaim" 的一些例句：
+> >
+> > - She exclaimed in surprise when she saw the unexpected guest.
+> >   （当她看到意外的客人时，她惊讶地叫了出来。）
+> > - He exclaimed angrily at the unfairness of the situation.
+> >   （他愤怒地抗议这种不公平的情况。）
+> > - "Oh no!" she exclaimed, realizing she had forgotten her keys.
+> >   （“哦，不！”她意识到自己忘记了钥匙，惊叫起来。）
+> >
+> > 在这些例句中，"exclaim" 表示因为强烈的情感而突然或激烈地说出某种话语或声音。
 
 ##### Oh, no!” my dad **<u>exclaimed</u>**. “You’re casting nickels out of lead!
 
@@ -163,6 +180,39 @@ categories: English
 > v.猛冲，急奔；猛撞，撞击；**使（希望或期望）破灭**；迅速写或画
 >
 > n.猛冲，飞奔；少量，少许（添加物）；破折号；<旧>冲劲，锐气；<美>短跑；<非正式>（汽车的）仪表盘；（莫尔斯电码中的）长划；（Dash）达世币（一种网络加密货币）
+>
+> ---
+>
+> "Dash" 是一个多义词，可以作为动词、名词或者形容词使用，具体用法取决于上下文。以下是几种常见用法：
+>
+> 1. **作为动词：**
+>    - **快速移动或行走：** 表示迅速地移动或行走，通常是短距离快速移动。
+>      - 例句：He dashed across the street to catch the bus.
+>        （他飞奔过马路去赶公共汽车。）
+>    - **猛烈撞击或抛掷：** 表示用力撞击或抛掷，通常是突然且有力的动作。
+>      - 例句：She dashed the cup against the wall in anger.
+>        （她愤怒地将杯子猛地撞向墙壁。）
+>    - **急忙离开或逃跑：** 表示匆忙地离开或逃跑。
+>      - 例句：The thief dashed from the scene before anyone could stop him.
+>        （小偷在任何人阻止他之前就从现场逃走了。）
+>
+> 2. **作为名词：**
+>    - **短距离的快速移动：** 表示迅速的移动或行动。
+>      - 例句：She made a dash for the exit before the crowd could block her path.
+>        （在人群能够挡住她的道路之前，她向出口冲去。）
+>    - **短线或破折号：** 在书写或排版中，用来表示连接词组、间断或范围。
+>      - 例句：The word "super-friendly" contains a dash between "super" and "friendly."
+>        （单词 "super-friendly" 在 "super" 和 "friendly" 之间有一个破折号。）
+>
+> 3. **作为形容词：**
+>    - **突然的、仓促的：** 表示突然的、仓促的行动或状态。
+>      - 例句：He made a dash decision to quit his job and travel the world.
+>        （他做出了一个仓促的决定，辞去了工作去环游世界。）
+>    - **快速的、猛烈的：** 表示快速或有力的动作。
+>      - 例句：The storm brought a dash wind and heavy rain.
+>        （风暴带来了猛烈的风和大雨。）
+>
+> 总的来说，"dash" 可以表示快速移动、猛烈撞击、急忙离开，也可以表示短线、破折号等书写符号。作为形容词时，表示突然的、仓促的动作或状态。
 
 ##### Our dreams were **<u>dashed</u>**.
 

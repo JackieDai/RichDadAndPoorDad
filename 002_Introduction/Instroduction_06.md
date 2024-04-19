@@ -56,7 +56,28 @@ categories: English
 
 ## refer to
 
-> 在 文中 指  **称呼** 的意思
+> 在 文中 指  **称呼,提及,谈到** 的意思
+>
+> ---
+>
+> "refer to" 是一个常见的短语动词，用于表示提及或谈论某人或某事。具体用法如下：
+>
+> 1. **定义：** 提到，谈及，涉及到某人或某事。
+>
+>    - 例句：在演讲中，他多次提到了他的家庭背景和成长经历。 (In his speech, he referred to his family background and upbringing multiple times.)
+>    - 例句：这篇文章中有一段引用，是在谈论关于环境保护的重要性。 (There is a quote in this article referring to the importance of environmental conservation.)
+>
+> 2. **定义：** 用作参考，查询或查找信息。
+>
+>    - 例句：如果你需要更多信息，请参考这本书的附录部分。 (If you need more information, please refer to the appendix section of this book.)
+>    - 例句：你可以参考公司网站上的常见问题解答页面。 (You can refer to the FAQ page on the company's website.)
+>
+> 3. **定义：** 把某人或某事交给其他人处理，寻求帮助或建议。
+>
+>    - 例句：我不确定这个问题，所以我会把它们引荐给专家。 (I'm not sure about this issue, so I'll refer them to an expert.)
+>    - 例句：如果你有任何疑问，请向我们的客服人员咨询。 (If you have any questions, please refer to our customer service staff.)
+>
+> **用法总结：** "refer to" 表示提到、谈及，也可表示用作参考、查询信息，以及把某人或某事交给其他人处理。
 
 ##### “My rich dad, on the other hand, always **<u>referred to</u>** himself as rich. ”
 
@@ -75,6 +96,10 @@ categories: English
 > n.挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
 >
 > 词根词缀： set安置 + back向后
+>
+> ---
+>
+> >  "setback" 强调在计划或进程中遇到的挫折或倒退，而 "obstacle" 强调达成目标或完成任务时遇到的具体障碍或阻碍。
 
 ##### Even when he was **<u>flat broke</u>** after a major financial **<u>setback</u>**, he continued to **<u>refer to</u>** himself as a rich man.
 
@@ -115,9 +140,17 @@ categories: English
 > 文中指**敏锐的**意思
 >
 > 词根词缀： -acu-尖,刺 + te
+>
+> ---
+>
+> **acute	/əˈkjuːt/**
+>
+> adj.严重的，危险的；急性的，剧烈的；灵敏的；敏锐的，有洞察力的；锐角的；带尖音符的；（声音）高的，尖的
 
 ## adopt🚩
 
+> **/əˈdɑːpt/**
+>
 > v.收养；采取，**采纳**，接受；正式通过；选定（名字），承袭（风俗）；移居，定居；提名（某人）为候选人；保持（姿势）；<英>（地方当局）承担（道路）维修保养责任
 >
 > 词根词缀： ad-加强意义 + -opt-选择

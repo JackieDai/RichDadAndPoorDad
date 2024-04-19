@@ -170,6 +170,8 @@ categories: English
 > **/ˈrezɪdəns/**
 >
 > n.住宅，住所；居住，定居；（在某国的）居住权，居留许可；（大学的）学生宿舍楼
+>
+> >  residence 用来描述一个人居住的地方，可以指正式的住所或居住期间。
 
 ##### The 2008 housing market crash was a clear message that your personal **<u>residence</u>** is not an asset.
 

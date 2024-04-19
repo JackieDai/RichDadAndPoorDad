@@ -103,6 +103,36 @@ categories: English
 > ---
 >
 > 词根词缀： con-共同 + -sent-感觉 → 同感
+>
+> ---
+>
+> "Consent" 是一个名词和动词，用法如下：
+>
+> **作为名词：**
+>
+> 1. **定义：** 同意，许可，批准。
+>
+>    - 例句：在进行手术之前，患者必须签署手术同意书。 (Before surgery, the patient must sign a consent form.)
+>    - 例句：我们必须得到所有参与者的书面同意。 (We need written consent from all participants.)
+>
+> 2. **定义：** 赞成，接受，默许。
+>
+>    - 例句：她在没有我的同意下进入了我的房间。 (She entered my room without my consent.)
+>    - 例句：在法律上，未成年人无法自行同意接受医疗治疗。 (Legally, minors cannot consent to medical treatment on their own.)
+>
+> **作为动词：**
+>
+> 1. **定义：** 同意，赞成，接受。
+>
+>    - 例句：她同意了我提出的建议。 (She consented to my suggestion.)
+>    - 例句：我们必须确保每个人都同意这项决定。 (We must ensure that everyone consents to the decision.)
+>
+> 2. **定义：** 准予，许可，允许。
+>
+>    - 例句：只有在得到许可的情况下，才能进入这个私人领地。 (Entry into this private estate is permitted only with consent.)
+>    - 例句：你可以使用这份材料，但必须先得到版权所有者的许可。 (You can use this material, but you must first obtain consent from the copyright owner.)
+>
+> **用法总结：** "Consent" 作为名词表示同意、许可，作为动词表示同意、赞成或准予。在法律、医疗、个人关系等方面，都经常涉及到同意的概念。
 
 ##### most adults **<u>consented</u>** with a smile.
 
@@ -203,9 +233,9 @@ categories: English
 
 > **/ˈkɑːrdbɔːrd/**
 >
-> n.硬纸板，**纸板箱**
+> n.	 硬纸板，**纸板箱**
 >
-> adj.不真实的，做作的；硬纸板制的
+> adj. 不真实的，做作的；硬纸板制的
 
 ## catsup
 

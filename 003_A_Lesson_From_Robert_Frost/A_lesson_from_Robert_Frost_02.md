@@ -75,5 +75,4 @@ categories: English
 >
 > adv.厚地，浓密地；大量地
 
-##### “ He stopped once he realized that I knew and fully understood what he had been trying to **<u>drum into</u>** my <u>**often-thick**(经常迟钝) **skull**</u>.”
-
+##### He stopped once he realized that I knew and fully understood what he had been trying to **<u>drum into</u>** my <u>**often-thick**(经常迟钝) **skull**</u>.

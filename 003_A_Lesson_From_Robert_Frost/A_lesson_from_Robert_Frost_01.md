@@ -90,7 +90,7 @@ categories: English
 > 句子中 though as for that the passing there had worn them really about the same 中的 "worn" 是动词 "wear" 的过去分词形式。这里的意思是，尽管对于那里的经过（行走、穿越）已经使它们变得几乎相同。这里的"worn"表示由于使用、行走或经过的影响而导致的**磨损、变旧**。整个句子的意思是尽管经过的路径使它们变得几乎相同，即两条道路在状况上几乎没有太大的差异。
 
 
-## trodden
+## trodden🚩
 
 > **/ˈtrɑːdn/**
 >
@@ -100,7 +100,7 @@ categories: English
 >
 > > "tread" 是一个通用的词汇，用于描述脚步、行走、鞋底、痕迹等与步行和接触地面相关的动作和事物
 
-“Then took the other, **as just as fair**, and having perhaps the better **claim**, because it was **grassy** and wanted **wear** (踩出路/踏出路径) though as for that the passing there had **worn** them really about the same, and both that morning equally lay in leaves no step had **trodden** black.”
+##### “Then took the other, **as just as fair**, and having perhaps the better **claim**, because it was **grassy** and wanted **wear** (踩出路/踏出路径) though as for that the passing there had **worn** them really about the same, and both that morning equally lay in leaves no step had **trodden** black.”
 
 然后选择了另一条，同样美丽，也许它更有理由，因为它是长满青草的，渴望被踏出路径。尽管对于那里的经过已经使它们变得几乎相同，那个早晨，它们俩同样躺在那片被踩过的叶子中，没有一步留下黑色的痕迹。
 
@@ -120,5 +120,5 @@ categories: English
 >
 > adv.因此；之后
 
-“I shall be telling this with a **sigh** somewhere ages and ages **hence**;” 多年以后，我将在某个地方叹息着讲述这一切
+##### “I shall be telling this with a **sigh** somewhere ages and ages **hence**;” 多年以后，我将在某个地方叹息着讲述这一切
 

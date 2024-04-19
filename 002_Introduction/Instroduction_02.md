@@ -129,7 +129,3 @@ categories: English
 > 词根词源： mind,思想，思维，挂念，set,设定。比喻用法。
 
 ##### The child may graduate with **<u>excellent grades</u>**, but with a poor person’s **<u>financial programming</u>** and **<u>mindset</u>**.
-
----
-
-## 

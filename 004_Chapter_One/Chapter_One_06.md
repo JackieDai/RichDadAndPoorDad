@@ -59,6 +59,30 @@ categories: English
 > ---
 >
 > de-, 夺去，损毁。funct-, 功能，词源同function.
+>
+> > "Defunct" 是一个形容词，通常用来描述已经不存在或不再运作的事物，尤其是指机构、组织、公司或制度等已经停止运作或失效的情况。这个词的使用通常带有一种庄严、正式或冷漠的语气。
+> >
+> > 以下是一些 "defunct" 的常见用法：
+> >
+> > 1. **指已停止运作的公司、组织或机构：**
+> >    - 例句：The factory is now defunct, leaving many workers unemployed.
+> >      （这家工厂现在已经停止运作，导致许多工人失业。）
+> >    - 例句：The defunct organization was once a leading force in the industry.
+> >      （这个已经停止运作的组织曾经是该行业的领军力量。）
+> >
+> > 2. **指已废弃或不再使用的产品、技术或制度：**
+> >    - 例句：The defunct technology was replaced by more advanced systems.
+> >      （这种已经废弃的技术被更先进的系统所取代。）
+> >    - 例句：The law was based on defunct principles and needed to be updated.
+> >      （这项法律基于已经过时的原则，需要更新。）
+> >
+> > 3. **指已停止运作的社交、文化或娱乐活动：**
+> >    - 例句：The defunct tradition was revived by a new generation of enthusiasts.
+> >      （这个已经停止的传统被新一代的爱好者重新振兴了起来。）
+> >    - 例句：The defunct club used to be a popular spot for live music performances.
+> >      （这家已经停止运作的俱乐部曾经是现场音乐表演的热门场所。）
+> >
+> > 总的来说，"defunct" 用于描述已经停止运作、失效或废弃的事物，是一个正式、严肃的用词。
 
 ##### “With new **<u>vigor</u>**, we began cleaning up the mess caused by our **<u>now-defunct</u>** first business.”
 
@@ -128,6 +152,8 @@ categories: English
 
 ##### “His construction **<u>supervisor</u>** was just leaving in his <u>**pickup** truck</u> as I walked up to his simple, small, and tidy home.”
 
+> walk up 走上；沿……走
+
 ---
 
 ## porch
@@ -193,6 +219,28 @@ categories: English
 > **/ˈmʌsti/**
 >
 > adj.发霉的；落伍的；冷淡的
+>
+> > "Musty" 是一个形容词，用于描述物品或环境中散发出的潮湿、发霉的气味或味道。这个词通常带有负面的意义，暗示着缺乏通风或长时间储存导致的陈旧或不洁的气味。
+> >
+> > 以下是 "musty" 的常见用法：
+> >
+> > 1. **形容物品或物质：**
+> >    - **散发潮湿或发霉的气味：** 表示物品或物质散发出潮湿、发霉或陈旧的气味。
+> >      - 例句：The old books in the attic had a musty odor.
+> >        （阁楼里的旧书散发出一股发霉的气味。）
+> >    - **陈旧或不新鲜的：** 表示物品或物质因长时间存放而变得陈旧、不新鲜或不洁。
+> >      - 例句：The basement had a musty smell due to the damp conditions.
+> >        （地下室因为潮湿的条件而有一股陈旧的味道。）
+> >
+> > 2. **形容环境或地方：**
+> >    - **潮湿、阴暗的环境：** 表示环境或地方潮湿、阴暗，导致散发出潮湿、发霉的气味。
+> >      - 例句：The abandoned house had a musty atmosphere that made it feel eerie.
+> >        （废弃的房子有一种发霉的气氛，让人感到诡异。）
+> >    - **长时间没有通风的房间或区域：** 表示因长时间没有通风而导致的陈旧、不洁的气味。
+> >      - 例句：The closet smelled musty because it hadn't been opened in years.
+> >        （橱柜里有一股发霉的气味，因为多年来从未打开过。）
+> >
+> > 总的来说，"musty" 用于形容物品或环境中散发出的潮湿、发霉的气味或味道，暗示着陈旧、不洁或长时间储存导致的问题。
 
 ## overstuff
 
@@ -201,6 +249,8 @@ categories: English
 > vt.装填过度；给（软椅、沙发等）加厚软垫， 塞满，填满 等
 
 ##### “I felt **<u>claustrophobic</u>** as I entered the narrow living room that was filled with <u>old **musty(过时的)** **overstuffed** furniture</u> that today would be collectors’ items. ”
+
+我走进了狭窄的客厅，里面摆满了古旧、发霉、塞得满满的家具，让我感到有些幽闭恐惧。这些家具如今可能已经成为收藏家的珍品。
 
 ---
 

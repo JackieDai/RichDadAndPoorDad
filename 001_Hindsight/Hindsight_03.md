@@ -131,5 +131,13 @@ categories: English
 >
 > 词根词源: 为拟声词 【气泡破裂的声音】
 
-##### Ten years later, in 2007 when <u>**subprime** **borrowers**</u> **began** to <u>default</u> on their subprime **<u>mortgages</u>**, the world’s real estate **<u>bubble</u>** burst and millions of homeowners found out the truth in that lesson the hard way.
+## burst
+
+> /bɜːrst/
+>
+> v.爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀（be bursting with）；决堤；突然活跃起来；突然发生，突然发作；分页，断纸
+>
+> n.突发，迸发；爆裂，裂口；一阵短促的射击
+
+##### Ten years later, in 2007 when <u>**subprime** **borrowers**</u> **began** to <u>default</u> on their subprime **<u>mortgages</u>**, the world’s real estate **<u>bubble</u>** <u>**burst**</u> and millions of homeowners found out the truth in that lesson the hard way.
 

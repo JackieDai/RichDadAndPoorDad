@@ -113,6 +113,10 @@ categories: English
 > **/ˈkɑːrpɔːrt/**
 >
 > n.车库；（美）车棚
+>
+> ---
+>
+>  Garage 是一个封闭的结构，提供完全的保护和隐私，而 "carport" 是一个半开放的结构，提供基本的保护但通风，适用于临时的车辆存放。
 
 ##### Dad walked up **<u>cautiously</u>**, having to park the car **<u>at the base of</u>** the driveway since the production line blocked the **<u>carport</u>**. 
 
@@ -178,7 +182,23 @@ categories: English
 >
 > v.<古>赶紧，匆忙；<古>催促
 
-##### “**<u>In my haste</u>**, I had knocked the bag over, and the entire area looked like it had been hit by a snowstorm. ”
+## knock over
+
+> "Knock over" 是一个动词短语，通常指的是意外或故意地使物体倒下或倾倒。具体用法如下：
+>
+> 1. **意外地使物体倒下：** 意外地使物体倒下或倾倒。
+>
+>    - 例句：他不小心碰到了桌子，把杯子都给打翻了。 (He accidentally knocked over the table and spilled all the cups.)
+>    - 例句：风太大了，把我的花盆都给刮倒了。 (The wind was so strong that it knocked over all my flower pots.)
+>
+> 2. **故意地使物体倒下：** 故意地使物体倒下或倾倒，通常用于描述破坏性行为。
+>
+>    - 例句：一群青少年在街上捣乱，把路边的垃圾箱都给推倒了。 (A group of teenagers were causing trouble on the street, knocking over the trash cans on the roadside.)
+>    - 例句：她在愤怒中把书架都给推倒了。 (In her anger, she knocked over the bookshelf.)
+>
+> **用法总结：** "Knock over" 是一个动词短语，表示意外或故意地使物体倒下或倾倒。
+
+##### “**<u>In my haste</u>**, I had **knocked** the bag **over**, and the entire area looked like it had been hit by a snowstorm. ”
 
 **Haste 和 Hurry 的联系和区别?**
 

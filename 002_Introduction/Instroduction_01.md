@@ -168,17 +168,3 @@ categories: English
 > 总之，"intrigue" 这个词通常用于描述引起好奇心、兴趣或神秘感的情境，可以用作动词、名词或形容词，具体用法取决于句子的上下文。
 
 ##### The contrast in their points of view, particularly about money, was so **<u>extreme</u>** that I grew curious and **<u>intrigued</u>**.
-
-> 在这个句子中， "that" 在语法上是一个连词，引导了一个名词性从句，这个从句解释或说明了前面的句子。具体来说，它引导了一个结果从句，说明了为什么作者变得好奇和着迷。在这种情况下， "that" 引导的从句是 "I grew curious and intrigued"，它回答了为什么作者变得好奇和着迷的问题。所以，句子的结构可以解释为：
->
-> 主句：The contrast in their points of view was so extreme. 
->
-> 从句：I grew curious and intrigued. 
->
-> 结果从句（由 "that" 引导）：that I grew curious and intrigued。
->
-> "that" 在这里的作用是将两个句子连接起来，使它们在语法上和意义上相关联。
-
----
-
-## 
