@@ -15,7 +15,7 @@ categories: English
 
 > "On top of that" 可以翻译成中文为 "而且"、"除此之外"、"更甚的是" 等，视上下文而定。
 
-##### “ I had agreed to work only because I wanted to learn to make money from Mike’s dad, and now I was a slave for 10 cents an hour. **<u>On top of that</u>**, I had not seen Mike’s dad since that first Saturday.”
+##### I had agreed to work only because I wanted to learn to make money from Mike’s dad, and now I was a slave for 10 cents an hour. **<u>On top of that</u>**, I had not seen Mike’s dad since that first Saturday.
 
 ---
 

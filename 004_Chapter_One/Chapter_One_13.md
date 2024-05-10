@@ -24,10 +24,8 @@ categories: English
 
 > /ˈɡriːdi/
 >
-> adj.
-> 贪婪的，贪心的；贪吃的，嘴馋的；渴望的
->
-> <img src="https://ydlunacommon-cdn.nosdn.127.net/117e74a40714aa6afee99b2bec5944ae.jpg?">
+> adj.贪婪的，贪心的；贪吃的，嘴馋的；渴望的
+> 
 
 ##### “You are a **<u>crook</u>** like everyone in town thinks you are. You’re **<u>greedy</u>**.”
 
@@ -35,13 +33,10 @@ categories: English
 
 ## chin
 
-> n.
-> 颏，下巴
->
-> v.
-> <非正式>击打下巴；引体向上
->
-> <img src="https://ydlunacommon-cdn.nosdn.127.net/45015f3672a692c8c06093155875b8d5.jpg">
+> n.颏，下巴
+> 
+>v.<非正式>击打下巴；引体向上
+> 
 
 ##### “Rich dad rocked back in his swivel chair, hands up to his **<u>chin</u>**, and stared at me.”
 
@@ -104,7 +99,6 @@ categories: English
 > 
 > > 通常用于形容表达不满、生气、撒娇或不高兴的情绪
 >
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/f9b0ab63609d7860a3608390211fed82.jpg?)
 
 ##### “Well, you’ve never talked to me. I’ve worked for three weeks and you have not taught me anything,” I said with a **<u>pout</u>**.”
 
@@ -126,7 +120,6 @@ categories: English
 > 
 >v.<英>用锥形交通路标分隔（或标明）道路（cone sth. off）；使成锥形
 > 
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/6c1c58773fcea7af1ecea15fbbd24d79.jpg?)
 
 ##### the **<u>cone</u>** of learing
 
@@ -140,11 +133,27 @@ categories: English
 >
 > > 文中是指 **赞扬，信誉，声望** 的意思
 >
-> n.
-> 信用，信贷，赊购；**赞扬，信誉，声望**；存款金额，余额；补助；退税，抵免；学分；带来荣耀的人（或事）；作品（指影片、电视节目、戏剧等）；信任，相信
+> "Credit" 可以是一个名词或动词，具有多种含义和用法。
 >
-> v.
-> 把（钱）记入总账，把钱存入（账户）；相信，信任；认为是……的功劳，给予承认；认为……有特定品质（或效果）
+> 作为名词，"credit" 可以指以下几种含义：
+>
+> 1. **信用：** 指个人或实体在金融交易中可信赖的能力或信誉。
+>    - 例句：She has good credit, so she was approved for the loan easily.（她信用良好，所以很容易获得了贷款的批准。）
+>
+> 2. **赊购：** 指购买商品或服务时的延期支付或分期付款的方式。
+>    - 例句：He bought the TV on credit and pays it off monthly.（他赊购了电视，每月付款还清。）
+>
+> 3. **学分：** 指在学校或大学获得的成绩或学业单元。
+>    - 例句：He earned enough credits to graduate early.（他获得了足够的学分提前毕业。）
+>
+> 4. **荣誉或表扬：** <u>指对某人的表扬或认可</u>。
+>    - 例句：She deserves credit for her hard work on the project.（她应该因为在项目中的努力工作而受到表扬。）
+>
+> 作为动词，"credit" 意味着认可、归功于或给予信用。
+>
+> - 例句：The team credited their success to effective teamwork.（团队把成功归功于有效的团队合作。）
+>
+> 在金融领域，"credit" 还可以指代信贷、贷款或借贷的行为，例如信用卡公司向持卡人提供的信用额度。
 
 ##### Edgar Dale <u>gets **credit** for</u> helping us to understand that we learn best through action.
 

@@ -51,12 +51,10 @@ categories: English
 
 > **/ˈɡroʊsəri/**
 >
-> n.
-> 食品杂货店，食品杂货业；食品杂货（groceries）
->
-> <img src = "https://img1.baidu.com/it/u=2640691513,1623807120&fm=253&fmt=auto&app=138&f=JPEG?w=719&h=500" width = "100px">
+> n.食品杂货店，食品杂货业；食品杂货（groceries）
+> 
 
-##### “They were the early version of the 7-Eleven convenience stores, little neighborhood <u>**grocery** stores</u> where people bought items such as milk, bread, butter, and cigarettes. ”
+##### They were the early version of the 7-Eleven convenience stores, little neighborhood <u>**grocery** stores</u> where people bought items such as milk, bread, butter, and cigarettes.
 
 ---
 
@@ -142,7 +140,6 @@ categories: English
 > 
 >v.苦干，拼命干；使（装置）从属于（另一装置）
 > 
-> <img src="https://ydlunacommon-cdn.nosdn.127.net/4ddd7f65659b5f98cf52395f8fe94b1c.jpg" width = "100px">
 
 #####  I was a **<u>slave</u>** for 10 cents an hour.
 
@@ -164,7 +161,6 @@ categories: English
 >
 > n.懊恼，沮丧；受阻，挫败；令人懊丧（或懊恼、沮丧）的事物
 > 
-><img src="https://ydlunacommon-cdn.nosdn.127.net/cb167e387636c66094b379bbeb30d98f.jpg" width="100">
 
 ##### “What are you laughing at?” I asked with anger and **<u>frustration</u>**.”
 
@@ -204,13 +200,11 @@ categories: English
 
 > **/ˈlektʃər/**
 >
-> n.
-> 讲座，讲课，演讲；训斥，告诫
->
-> v.
-> （尤指在大学里）开讲座，讲课；训斥，告诫
->
->  词根词缀： -lect-诵读 + -ure
+> n.讲座，讲课，演讲；训斥，告诫
+> 
+>v.（尤指在大学里）开讲座，讲课；训斥，告诫
+> 
+> 词根词缀： -lect-诵读 + -ure
 
 ##### “Dad’s kind of different. He doesn’t teach like your dad. Your mom and dad **<u>lecture</u>** a lot.”
 

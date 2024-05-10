@@ -18,10 +18,28 @@ categories: English
 
 > **/əbˈzɔːrb/**
 >
-> v.
-> 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费
+> v.吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费
 >
-> ![词条图片](https://ydlunacommon-cdn.nosdn.127.net/ac8017712834d3163bbd2e06a56d2db9.jpg?)
+> > "Absorb" 是一个动词，常用来描述吸收、理解、接受或吸引某种物质或信息。
+> >
+> > 以下是 "absorb" 的几种常见用法：
+> >
+> > 1. **吸收：** 指吸取或吸收某种物质。
+> >    - 例句：Plants absorb water and nutrients from the soil.（植物从土壤中吸收水分和营养。）
+> >    - 例句：The sponge quickly absorbed the spilled liquid.（海绵很快吸收了洒出的液体。）
+> >
+> > 2. **理解或接受：** 指理解或接受某种信息或观念。
+> >    - 例句：She absorbed the lesson quickly and easily.（她很快、很容易地理解了这节课。）
+> >    - 例句：He absorbed all the criticism without complaint.（他毫无怨言地接受了所有的批评。）
+> >
+> > 3. **吸引：** 指吸引或吸引某人或某事的注意力。
+> >    - 例句：The colorful display absorbed the children's attention.（色彩缤纷的陈列吸引了孩子们的注意力。）
+> >
+> > 4. **吸收能量或影响：** 指吸收、承受或经历某种能量、情感或影响。
+> >    - 例句：The building absorbed the impact of the earthquake.（建筑物吸收了地震的冲击。）
+> >    - 例句：She found it difficult to absorb the news of her friend's death.（她发现很难接受她朋友去世的消息。）
+> >
+> > 总的来说，"absorb" 涵盖了吸收物质、理解信息、接受观念以及吸引注意力等意义，常用于描述各种物理、认知或情感过程。
 
 ##### “ I **<u>looked away</u>** once I had **<u>absorbed</u>** his message.”
 
@@ -44,10 +62,35 @@ categories: English
 > > 文中是 试验，实践的意思
 >
 > n.审判，审理；**试验**，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演
-> 
->v.测试，试验；（马、狗等动物）参加比赛
-> 
+>
+> v.测试，试验；（马、狗等动物）参加比赛
+>
 > adj.试验性的
+>
+> ---
+>
+> > "Trial" 可以是名词，也可以是动词。
+> >
+> > - **名词**：
+> >   1. **审判**：指在法庭上进行的审判过程。
+> >      - The trial lasted for several weeks.
+> >        （审判持续了几周。）
+> >   2. **试验**：指测试或实验的过程。
+> >      - They conducted a trial of the new drug.
+> >        （他们对新药进行了试验。）
+> >   3. **考验**：指经历困难或挑战的过程。
+> >      - This experience will be a trial for her.
+> >        （这次经历对她来说将是一次考验。）
+> >
+> > - **动词**：
+> >   1. **试用**：指试用某物或进行试验。
+> >      - They will trial the new software before releasing it to the public.
+> >        （他们将在向公众发布之前试用新软件。）
+> >   2. **审判**：指在法庭上对某人进行审判。
+> >      - The court will trial the suspect next month.
+> >        （法庭将在下个月审判嫌疑人。）
+> >
+> > 在不同的语境下，"trial" 可以表示不同的含义，包括审判、试验、考验或试用。
 
 ##### Learning by making mistakes through **<u>trial</u>** and error is more and more important. 
 
@@ -70,6 +113,28 @@ categories: English
 >
 > v.
 > 取出……的内脏（以便烹饪）；毁坏（建筑物）的内部（gut 的第三人称单数）
+>
+> ---
+>
+> > "Guts" 是一个名词，有几种不同的用法：
+> >
+> > 1. **内脏**：指人或动物体内的消化系统，特别是胃、肠等器官。
+> >    - The dog's guts were upset after eating something it shouldn't have.
+> >      （狗吃了一些不该吃的东西后，它的胃不舒服了。）
+> >
+> > 2. **勇气**：指面对困难或危险时表现出的勇气或决心。
+> >    - It takes guts to stand up to a bully.
+> >      （面对恶霸需要勇气。）
+> >
+> > 3. **内部部分**：通常用于描述复杂系统或机器内部的部分。
+> >    - He knows the guts of this machine like the back of his hand.
+> >      （他对这台机器的内部构造了如指掌。）
+> >
+> > 4. **核心部分**：也可以用于表示事物的最重要、最核心的部分。
+> >    - The guts of the proposal were discussed in the meeting.
+> >      （会议上讨论了提案的核心部分。）
+> >
+> > 在这些用法中，"guts" 可以指身体内的器官、勇气、复杂系统的内部部分或事物的核心部分。
 
 ## push
 

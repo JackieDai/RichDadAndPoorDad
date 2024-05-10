@@ -57,8 +57,7 @@ categories: English
 
 > **/ˌsʊpərˈet/**
 >
-> n.
-> 规模较小的超级商场；[贸易] 小型自动售货店
+> n.规模较小的超级商场；[贸易] 小型自动售货店
 
 ##### After I’m through with her, you’ll ride with her to my **<u>superette</u>** and you can begin working.
 
